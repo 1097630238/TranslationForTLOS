@@ -92,7 +92,7 @@
     <string id="strOnEntityHitPostfix006" text="2 камня" />
     <string id="strOnEntityHitPostfix007" text="1 камень" />
     <string id="strOnEntityHitPostfix008" text="1 камень" />
-    <string id="strOnEntityHitPostfix009" text="Вы получаете" />
+    <string id="strOnEntityHitPostfix009" text="Вы получаете " />
     <string id="strOnEntityHitPostfix010" text="!" />
     <string id="strOnEntityHitPostfix011" text="Вы не можете добывать ресурсы голыми руками." />
     <string id="strOnEntityHitPostfix012" text="Камни были добыты, и вы получили 5 камней!" />

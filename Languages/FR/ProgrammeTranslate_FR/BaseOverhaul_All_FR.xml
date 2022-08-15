@@ -92,7 +92,7 @@
     <string id="strOnEntityHitPostfix006" text="2 pierres"/>
     <string id="strOnEntityHitPostfix007" text="1 pierre"/>
     <string id="strOnEntityHitPostfix008" text="1 pierre"/>
-    <string id="strOnEntityHitPostfix009" text="You acquire"/>
+    <string id="strOnEntityHitPostfix009" text="You acquire "/>
     <string id="strOnEntityHitPostfix010" text="!"/>
     <string id="strOnEntityHitPostfix011" text="Vous ne pouvez pas acquérir des ressources à mains nues !"/>
     <string id="strOnEntityHitPostfix012" text="Tu extrais toutes les pierres ! Tu obtiens 5 pierres !"/>

@@ -1,150 +1,150 @@
-﻿<?xml version="1.0" encoding="utf-16"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
   </tags>
   <strings>
-    <string id="adSikaTwoHandedStick" text="Sika TwoHanded Stick" />
-	<string id="adSikaTwoHandedSword" text="Sika TwoHanded Sword" />
-	<string id="adSikaOneHandedSwordFour" text="Sika OneHanded Sword Four" />
-	<string id="adSikaOneHandedSwordThree" text="Sika OneHanded Sword Three" />
-	<string id="adSikaSwingPolearm" text="Sika Swing Polearm" />
-	<string id="adSikaOneHandedMace" text="Sika OneHanded Mace" />
-	<string id="adSikaTwoHandedMace" text="Sika TwoHanded Mace" />
-	<string id="adSikaSpearPikePolearm" text="Sika Spear Pike Polearm" />
-	<string id="adqinglongyanyuedao_grip" text="Qinglong Yanyue knife handle" />
-	<string id="adqinglongyanyuedao_pommel" text="Qinglong Yanyue Knife Knives" />
-	<string id="adqinglongyanyuedao_blade" text="Blue Dragon Yanyue Blade" />
-	<string id="adqinglongyanyuedao_guard" text="Qinglong Yanyue Sword Guard" />
-	<string id="addadao_blade" text="big blade" />
-	<string id="addadao_guard" text="Big knife guard" />
-	<string id="addadao_grip" text="big knife handle" />
-	<string id="addadao_pommel" text="big knife ring" />
-	<string id="adfangtianhuaji_grip" text="Fangtianhuaji handle" />
-	<string id="adfangtianhuaji_pommel" text="Fangtianhuaji" />
-	<string id="adfangtianhuaji_blade" text="Fangtianhuaji blade" />
-	<string id="adfangtianhuaji_guard" text="Fangtianhuaji guard" />
-	<string id="adtaijijian_blade" text="Tai Chi Sword Blade" />
-	<string id="adtaijijian_guard" text="Taiji sword sword grid" />
-	<string id="adtaijijian_grip" text="Taiji sword hilt" />
-	<string id="adtaijijian_pommel" text="Taiji sword head" />
+    <string id="adSikaTwoHandedStick" text="Двуручная палка Сики" />
+	<string id="adSikaTwoHandedSword" text="Двуручный меч Сики" />
+	<string id="adSikaOneHandedSwordFour" text="Одноручный меч Сики" />
+	<string id="adSikaOneHandedSwordThree" text="Одноручный меч Сики" />
+	<string id="adSikaSwingPolearm" text="Посох Сики" />
+	<string id="adSikaOneHandedMace" text="Одноручная булава Сики" />
+	<string id="adSikaTwoHandedMace" text="Двуручная булава Сики" />
+	<string id="adSikaSpearPikePolearm" text="Пика Сики" />
+	<string id="adqinglongyanyuedao_grip" text="Нож Лазурного Дракона" />
+	<string id="adqinglongyanyuedao_pommel" text="Нож Лазурного Дракона (Метательное)" />
+	<string id="adqinglongyanyuedao_blade" text="Клинок Лазурного Дракона" />
+	<string id="adqinglongyanyuedao_guard" text="Меч Лазурного Дракона" />
+	<string id="addadao_blade" text="Большой клинок" />
+	<string id="addadao_guard" text="Большой клинок стражи" />
+	<string id="addadao_grip" text="Большой нож с рукоятью" />
+	<string id="addadao_pommel" text="Большой кольцевой нож" />
+	<string id="adfangtianhuaji_grip" text="Алебарда с рукоятью" />
+	<string id="adfangtianhuaji_pommel" text="Алебарда с навершием" />
+	<string id="adfangtianhuaji_blade" text="Алебарда-клинок" />
+	<string id="adfangtianhuaji_guard" text="Алебарда стражи" />
+	<string id="adtaijijian_blade" text="Меч Тайчи" />
+	<string id="adtaijijian_guard" text="Меч стражи Тайчи" />
+	<string id="adtaijijian_grip" text="Меч Тайчи с рукоятью" />
+	<string id="adtaijijian_pommel" text="Меч Тайчи с навершием" />
 	<string id="adjingubang_grip" text="Gold Hoop Grip" />
 	<string id="adjingu" text="Golden Hoop" />
 	<string id="adjingu2" text="Golden Hoop 2" />
-	<string id="adqinglongyanyuedao" text="Qinglong Yanyuedao" />
+	<string id="adqinglongyanyuedao" text="Гуаньдао Лазурного Дракона" />
 	<string id="adbang" text="Gold Hoop" />
-	<string id="adfangtianhuaji" text="Fangtian Huaji" />
-	<string id="addadao" text="big knife" />
-	<string id="adtaijijian" text="Tai Chi Sword" />
-	<string id="adpodao" text="Park knife" />
-	<string id="adpodao_grip" text="Park knife handle" />
-	<string id="adpodao_pommel" text="Park knife knife grip" />
-	<string id="adpodao_blade" text="Park knife blade" />
-	<string id="adpodao_guard" text="Park knife guard" />
-	<string id="admodao" text="Modao" />
-	<string id="admodao_grip" text="Modao handle" />
-	<string id="admodao_pommel" text="Modao knife grip" />
-	<string id="admodao_blade" text="Modao Blade" />
-	<string id="admodao_guard" text="Modao guard" />
-	<string id="admashuo" text="horse" />
-	<string id="admashuo_grip" text="horse handle" />
-	<string id="admashuo_pommel" text="Ma Sister Yang" />
-	<string id="admashuo_blade" text="horse blade" />
-	<string id="admashuo_guard" text="horse guard" />
-	<string id="admiaodao" text="Miao Dao" />
-	<string id="admiaodao_blade" text="Miao Dao Blade" />
-	<string id="admiaodao_guard" text="Miaodao knife guard" />
-	<string id="admiaodao_grip" text="Miaodao handle" />
-	<string id="admiaodao_pommel" text="Miaodao knife ring" />
-	<string id="adyidao" text="Yi Dao" />
-	<string id="adyidao_blade" text="Yi Dao Blade" />
-	<string id="adyidao_guard" text="Yi Dao guard" />
-	<string id="adyidao_grip" text="Yidao handle" />
-	<string id="adyidao_pommel" text="Yi Dao Knife Ring" />
-	<string id="adyanlingdao_blade" text="Yanling Dao Blade" />
-	<string id="adyanlingdao_guard" text="Yanlingdao guard" />
-	<string id="adyanlingdao_grip" text="Yanling knife grip" />
-	<string id="adyanlingdao_pommel" text="Yanling knife head" />
-	<string id="adyanlingdao" text="Yanling Dao" />
-	<string id="adhengdao_blade" text="cross blade" />
-	<string id="adhengdao_guard" text="Horizontal sword guard" />
-	<string id="adhengdao_grip" text="Horizontal knife grip" />
-	<string id="adhengdao" text="horizontal knife" />
-	<string id="adjianyihengdao" text="Simple horizontal knife" />
-	<string id="adjianyihengdao_blade" text="Simple cross blade" />
-	<string id="adjianyihengdao_guard" text="Simple horizontal knife guard" />
-	<string id="adjianyihengdao_grip" text="Simple horizontal knife grip" />
-	<string id="adjianyihengdao_pommel" text="Simple horizontal knife grip" />
-	<string id="adjingua_blade" text="gourd head" />
-	<string id="adjingua_guard" text="gourd handle" />
-	<string id="adjingua_grip" text="gourd grip" />
-	<string id="adjingua_pommel" text="Gourd tail" />
-	<string id="adjingua" text="gourd" />
-	<string id="adgangbian_blade" text="steel blade" />
-	<string id="adgangbian_guard" text="steel whip guard" />
-	<string id="adgangbian_grip" text="steel whip grip" />
-	<string id="adgangbian_pommel" text="steel whip tail" />
-	<string id="adgangbian" text="steel whip" />
-	<string id="adzhongxinggangbian" text="Heavy two-handed steel whip" />
-	<string id="adzhongxinggangbian_blade" text="Heavy steel whip" />
-	<string id="adzhongxinggangbian_guard" text="Heavy Steel Whip Gauntlets" />
-	<string id="adzhongxinggangbian_grip" text="Heavy Steel Whip Grip" />
-	<string id="adzhongxinggangbian_pommel" text="Heavy Steel Whip Tail" />
-	<string id="adcubuyi" text="Chinese coarse cloth" />
-	<string id="adfaji" text="bun" />
-	<string id="adcubukuzi" text="Chinese coarse cloth pants" />
-	<string id="adjianyipijia" text="Simple Leather Armor" />
-	<string id="adtangdaitoujin" text="Tang Dynasty headscarf" />
-	<string id="adjianyipiku" text="Simple Leather Pants" />
-	<string id="adjianyipizhihuwan" text="Simple Leather Bracers" />
-	<string id="addatangfubingxiongjia" text="Simple black scale armor" />
-	<string id="addatangfubingjianjia" text="Simple Black Zhajia" />
-	<string id="addatangfubinghuwan" text="Simple Black Scaled Bracers" />
-	<string id="addatangfubingtoukui" text="Black Helmet" />
-	<string id="addatangfubingxie" text="Datang leather riding boots" />
-	<string id="adbianjunzhongbubingxiongjia" text="Heavy body armor" />
-	<string id="adbianjunzhongbubingtoukui" text="Heavy Helmet" />
-	<string id="adbianjunhuwan" text="Datang Zhajia Bracers" />
-	<string id="adbianjunzhongbubingjianjia" text="Heavy Armor Shoulders" />
-	<string id="adbianjunjianjia" text="Datang Zhajia Shoulders" />
-	<string id="adbianjunxiongjia" text="Datang Zhajia breastplate" />
-	<string id="adbianjuntoukui" text="Datang Zhajia helmet" />
-	<string id="adbianjunxie" text="Datang Infantry Boots" />
-	<string id="admodaoduixiongjia" text="Golden Lacquer Mountain Wenjia" />
-	<string id="adfengchidoumou" text="Phoenix wing pockets" />
-	<string id="admodaoduijianjia" text="Golden paint beast head swallows shoulder" />
-	<string id="admodaoduixie" text="Gold lacquer studded Greaves" />
-	<string id="admodaoduihuwan" text="Gold Lacquer Studded Bracers" />
-	<string id="adqianniuweidoumou" text="Heavy Dragon Head Zhajia Pocket Sun" />
-	<string id="adqianniuweixiongjia" text="Golden Lacquer Mingguang Heavy Armor" />
-    <string id="adlongwujunxiongjia" text="Mingguang Chain Armor" />
-	<string id="adlongwujunjianjia" text="Beast mouth scale armor swallow shoulder" />
-	<string id="adlongwujunxie" text="Golden Lacquer Plate Boots" />
-	<string id="adlongwujunhuwan" text="Golden Lacquer Plate Bracers" />
-	<string id="adxuanjiajunxiongjia" text="Mingguang Xuanjinjia" />
-    <string id="adxuanjiajunjianjia" text="Beast mouth mountain Wenjia swallow shoulder" />
-	<string id="adxuanjiajunxie" text="Mysterious gold plate armor boots" />
-	<string id="adxuanjiajunhuwan" text="Golden Plate Armguards" />
-	<string id="adxuanjiajundoumou" text="Xuanjin Plate Armor" />
-	<string id="adyingwujunxiongjia" text="Light Bright Light Scale Armor" />
-	<string id="adyingwujundoumou" text="Light archer doudoudou" />
-	<string id="adyingwujunxie" text="Black light riding boots" />
-	<string id="admupai" text="wooden sign" />
-	<string id="adsanchenchangpai" text="Wubiansanchenchangpai" />
-	<string id="adtangdainongmin" text="Xiang Yong" />
-	<string id="adtangdaiminbing" text="Regiment training" />
-	<string id="adfubingweishi" text="fubing guard" />
-	<string id="adfubinggongshou" text="fubing archers" />
-    <string id="adbianjunchangqiangshou" text="Frontier Heavy Pikemen" />
-	<string id="adbianjundaopai" text="Frontier Heavy Swordsman" />
-	<string id="adshuofangjun" text="Shuofangjun Turkic followers" />
-	<string id="adbianjungongshou" text="frontier shooter" />
-	<string id="admodaodui" text="Anxi Army Modao Pioneer" />
-	<string id="adqianniuwei" text="Qianniuwei Imperial Swordsman Suwei" />
-	<string id="adlongwujun" text="Dragon Wujun Flying Knight Guard" />
-	<string id="adyingwujun" text="Yingwujun front archer" />
-	<string id="adxuanjiajun" text="Xuanjiajun" />
-	<string id="adtongyongjian" text="Infantry arrows" />
-	<string id="adxuanjiamaju" text="Xuanjia horse armor" />
+	<string id="adfangtianhuaji" text="Алебарда" />
+	<string id="addadao" text="Гуань Дао" />
+	<string id="adtaijijian" text="Меч Тайчи" />
+	<string id="adpodao" text="Подао" />
+	<string id="adpodao_grip" text="Подао с рукоятью" />
+	<string id="adpodao_pommel" text="Подао с навершием" />
+	<string id="adpodao_blade" text="Лезвие Подао" />
+	<string id="adpodao_guard" text="Подао стражи" />
+	<string id="admodao" text="Модао" />
+	<string id="admodao_grip" text="Модао с рукоятью" />
+	<string id="admodao_pommel" text="Модао с навершием" />
+	<string id="admodao_blade" text="Лезвие Модао" />
+	<string id="admodao_guard" text="Модао стражи" />
+	<string id="admashuo" text="Конское копье" />
+	<string id="admashuo_grip" text="Конское копье с рукоятью" />
+	<string id="admashuo_pommel" text="Конское копье с навершием" />
+	<string id="admashuo_blade" text="Конское лезвие-копье" />
+	<string id="admashuo_guard" text="Конское копье стражи" />
+	<string id="admiaodao" text="Мяодао" />
+	<string id="admiaodao_blade" text="Лезвие Мяодао" />
+	<string id="admiaodao_guard" text="Мяодао стражи" />
+	<string id="admiaodao_grip" text="Мяодао с рукоятью" />
+	<string id="admiaodao_pommel" text="Кольцевое лезвие Мяодао" />
+	<string id="adyidao" text="Йи Дао" />
+	<string id="adyidao_blade" text="Лезвие Йи Дао" />
+	<string id="adyidao_guard" text="Йи Дао стражи" />
+	<string id="adyidao_grip" text="Йи Дао с рукоятью" />
+	<string id="adyidao_pommel" text="Кольцевое лезвие Йи Дао" />
+	<string id="adyanlingdao_blade" text="Лезвие Яньлиндао" />
+	<string id="adyanlingdao_guard" text="Яньлиндао стражи" />
+	<string id="adyanlingdao_grip" text="Яньлиндао с рукоятью" />
+	<string id="adyanlingdao_pommel" text="Яньлиндао с навершием" />
+	<string id="adyanlingdao" text="Яньлиндао" />
+	<string id="adhengdao_blade" text="Лезвие Хэнгдао" />
+	<string id="adhengdao_guard" text="Хэнгдао стражи" />
+	<string id="adhengdao_grip" text="Хэнгдао с рукоятью" />
+	<string id="adhengdao" text="Хэнгдао" />
+	<string id="adjianyihengdao" text="Простое Хэнгдао" />
+	<string id="adjianyihengdao_blade" text="Простое лезвие Хэнгдао" />
+	<string id="adjianyihengdao_guard" text="Простое Хэнгдао стражи" />
+	<string id="adjianyihengdao_grip" text="Простое Хэнгдао с рукоятью" />
+	<string id="adjianyihengdao_pommel" text="Простое кольцевое Хэнгдао" />
+	<string id="adjingua_blade" text="Лезвие Цзиньгуа" />
+	<string id="adjingua_guard" text="Цзиньгуа стражи" />
+	<string id="adjingua_grip" text="Цзиньгуа с рукоятью" />
+	<string id="adjingua_pommel" text="Кольцевая Цзиньгуа" />
+	<string id="adjingua" text="Цзиньгуа" />
+	<string id="adgangbian_blade" text="Стальной кнут (Лезвие)" />
+	<string id="adgangbian_guard" text="Стальной кнут стражи" />
+	<string id="adgangbian_grip" text="Стальной кнут с рукоятью" />
+	<string id="adgangbian_pommel" text="Стальной кнут с навершием" />
+	<string id="adgangbian" text="Стальной кнут" />
+	<string id="adzhongxinggangbian" text="Тяжелый стальной кнут" />
+	<string id="adzhongxinggangbian_blade" text="Тяжелый стальной кнут (Лезвие)" />
+	<string id="adzhongxinggangbian_guard" text="Тяжелый стальной кнут стражи" />
+	<string id="adzhongxinggangbian_grip" text="Тяжелый стальной кнут с рукоятью" />
+	<string id="adzhongxinggangbian_pommel" text="Тяжелый стальной кнут с навершием" />
+	<string id="adcubuyi" text="Китайская грубая одежда" />
+	<string id="adfaji" text="Пучок" />
+	<string id="adcubukuzi" text="Китайские грубые штаны" />
+	<string id="adjianyipijia" text="Простая кожаная броня" />
+	<string id="adtangdaitoujin" text="Платок династии Тан" />
+	<string id="adjianyipiku" text="Простые кожаные штаны" />
+	<string id="adjianyipizhihuwan" text="Простые кожаные наручи" />
+	<string id="addatangfubingxiongjia" text="Простая черная чешуйчатая броня" />
+	<string id="addatangfubingjianjia" text="Простые черные наплечники" />
+	<string id="addatangfubinghuwan" text="Простые черные чешуйчатые наручи" />
+	<string id="addatangfubingtoukui" text="Черный шлем" />
+	<string id="addatangfubingxie" text="Кожаные сапоги всадника Датан" />
+	<string id="adbianjunzhongbubingxiongjia" text="Тяжелая полная броня" />
+	<string id="adbianjunzhongbubingtoukui" text="Тяжелый шлем" />
+	<string id="adbianjunhuwan" text="Наручи Датан Чжацзя" />
+	<string id="adbianjunzhongbubingjianjia" text="Тяжелые наплечники" />
+	<string id="adbianjunjianjia" text="Наплечники Датан Чжацзя" />
+	<string id="adbianjunxiongjia" text="Броня Датан Чжацзя" />
+	<string id="adbianjuntoukui" text="Шлем Датан Чжацзя" />
+	<string id="adbianjunxie" text="Сапоги пехоты Датан" />
+	<string id="admodaoduixiongjia" text="Золотой горный доспех" />
+	<string id="adfengchidoumou" text="Шлем Крылья Феникса" />
+	<string id="admodaoduijianjia" text="Золотые наплечники зверя" />
+	<string id="admodaoduixie" text="Золотые поножи" />
+	<string id="admodaoduihuwan" text="Золотые шипованные наручи" />
+	<string id="adqianniuweidoumou" text="Тяжелый шлем из драконьей головы" />
+	<string id="adqianniuweixiongjia" text="Золотой тяжелый доспех Мингуан" />
+    <string id="adlongwujunxiongjia" text="Цепная броня Мингуан" />
+	<string id="adlongwujunjianjia" text="Наплечники из звериной пасти" />
+	<string id="adlongwujunxie" text="Золотые поножи" />
+	<string id="adlongwujunhuwan" text="Золотые латные наручи" />
+	<string id="adxuanjiajunxiongjia" text="Золотой доспех Мингуан" />
+    <string id="adxuanjiajunjianjia" text="Горные наплечники из звериной пасти" />
+	<string id="adxuanjiajunxie" text="Пластинчатые сапоги из черного золота" />
+	<string id="adxuanjiajunhuwan" text="Латные наручи из черного золота" />
+	<string id="adxuanjiajundoumou" text="Шлем из черного золота" />
+	<string id="adyingwujunxiongjia" text="Легкая чешуйчатая броня" />
+	<string id="adyingwujundoumou" text="Легкий шлем лучника" />
+	<string id="adyingwujunxie" text="Черные легкие сапоги всадника" />
+	<string id="admupai" text="Деревянный знак" />
+	<string id="adsanchenchangpai" text="Пятисторонняя длинная карта Санчен" />
+	<string id="adtangdainongmin" text="Сян Юн" />
+	<string id="adtangdaiminbing" text="Полковая армия" />
+	<string id="adfubingweishi" text="Фубин страж" />
+	<string id="adfubinggongshou" text="Фубин стрелок" />
+    <string id="adbianjunchangqiangshou" text="Пограничные тяжелые копейщики" />
+	<string id="adbianjundaopai" text="Пограничные тяжелые мечники" />
+	<string id="adshuofangjun" text="Тюркский слуга армии Шуофан" />
+	<string id="adbianjungongshou" text="Пограничный стрелок" />
+	<string id="admodaodui" text="Пионер Модао армии Анси" />
+	<string id="adqianniuwei" text="Гвардия мечников армии Цяньню" />
+	<string id="adlongwujun" text="Небесный рыцарь-страж Дракона" />
+	<string id="adyingwujun" text="Лучник армии Инву" />
+	<string id="adxuanjiajun" text="Армия Сюаньцзя" />
+	<string id="adtongyongjian" text="Пехотные стрелы" />
+	<string id="adxuanjiamaju" text="Конская броня Сюаньцзя" />
   </strings>
 </base>

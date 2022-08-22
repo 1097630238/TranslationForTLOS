@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="한국어"/>
+ </tags>
+ <strings>
+  <string id="STRFRJDY" text="황제"/>
+  <string id="STRFRJDYF" text="여제"/>
+  <string id="STRFRPRU" text="왕"/>
+  <string id="STRFRPRUF" text="여왕"/>
+  <string id="STRFRRBL" text="술탄"/>
+  <string id="STRFRRBLF" text="술탄"/>
+  <string id="STRFRWLT" text="대원수"/>
+  <string id="STRFRWLTF" text="대원수"/>
+  <string id="STRFRMGR" text="칸"/>
+  <string id="STRFRMGRF" text="카툰"/>
+  <string id="STRFRNKN" text="국왕"/>
+  <string id="STRFRNKNF" text="여왕"/>
+  <string id="STRFRYRN" text="마황"/>
+  <string id="STRFRYRNF" text="마황"/>
+  <string id="STRFRLMC" text="덴노"/>
+  <string id="STRFRLMCF" text="덴노"/>
+
+  <string id="STRFOJDY" text="장군"/>
+  <string id="STRFOJDYF" text="장군"/>
+  <string id="STRFOPRU" text="영주"/>
+  <string id="STRFOPRUF" text="영주"/>
+  <string id="STRFORBL" text="에미르"/>
+  <string id="STRFORBLF" text="에미르"/>
+  <string id="STRFOWLT" text="수장"/>
+  <string id="STRFOWLTF" text="수장"/>
+  <string id="STRFOMGR" text="족장"/>
+  <string id="STRFOMGRF" text="족장"/>
+  <string id="STRFONKN" text="야를"/>
+  <string id="STRFONKNF" text="야를"/>
+  <string id="STRFOYRN" text="장로"/>
+  <string id="STRFOYRNF" text="장로"/>
+  <string id="STRFOLMC" text="쇼군"/>
+  <string id="STRFOLMCF" text="쇼군"/>
+
+  <string id="STRFRNWTJDY" text="{?RULER.GENDER}여제{?}황제{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTPRU" text="{?RULER.GENDER}여왕{?}왕{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTRBL" text="{?RULER.GENDER}술탄{?}술탄{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTWLT" text="{?RULER.GENDER}대원수{?}대원수{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTMGR" text="{RULER.NAME} {?RULER.GENDER}카툰{?}칸{\?}"/>
+  <string id="STRFRNWTNKN" text="{?RULER.GENDER}여왕{?}국왕{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTYRN" text="{?RULER.GENDER}마황{?}마황{\?} {RULER.NAME}"/>
+  <string id="STRFRNWTLMC" text="{?RULER.GENDER}덴노{?}덴노{\?} {RULER.NAME}"/>
+
+  <string id="STRFNNWTJDY" text="{?RULER.GENDER}장군{?}장군{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTPRU" text="{?RULER.GENDER}영주{?}영주{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTRBL" text="{?RULER.GENDER}에미르{?}에미르{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTWLT" text="{?RULER.GENDER}수장{?}수장{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTMGR" text="{RULER.NAME} {?RULER.GENDER}족장{?}족장{\?}"/>
+  <string id="STRFNNWTNKN" text="{?RULER.GENDER}야를{?}야를{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTYRN" text="{?RULER.GENDER}장로{?}장로{\?} {RULER.NAME}"/>
+  <string id="STRFNNWTLMC" text="{?RULER.GENDER}쇼군{?}쇼군{\?} {RULER.NAME}"/>
+
+  <string id="STRSTFFJDY" text="염나라"/>
+  <string id="STRSTFFPRU" text="프로옌"/>
+  <string id="STRSTFFRBL" text="라블람"/>
+  <string id="STRSTFFWLT" text="월러스"/>
+  <string id="STRSTFFMGR" text="모그리안"/>
+  <string id="STRSTFFNKN" text="네케니아"/>
+  <string id="STRSTFFYRN" text="야리안"/>
+  <string id="STRSTFFLMC" text="로모카"/>
+
+  <string id="STRNTFCJDY" text="염나라"/>
+  <string id="STRNTFCPRU" text="프로옌"/>
+  <string id="STRNTFCRBL" text="라블람"/>
+  <string id="STRNTFCWLT" text="월러스"/>
+  <string id="STRNTFCMGR" text="모그리안"/>
+  <string id="STRNTFCNKN" text="네케니아"/>
+  <string id="STRNTFCYRN" text="야리안"/>
+  <string id="STRNTFCLMC" text="로모카"/>
+  <string id="STRNTFCNET" text="미상"/>
+
+  <string id="STRFINFCJDY" text="염나라 사람"/>
+  <string id="STRFINFCPRU" text="프로옌인"/>
+  <string id="STRFINFCRBL" text="라블람인"/>
+  <string id="STRFINFCWLT" text="월러스인"/>
+  <string id="STRFINFCMGR" text="모그리안인"/>
+  <string id="STRFINFCNKN" text="네케니아인"/>
+  <string id="STRFINFCYRN" text="야리안인"/>
+  <string id="STRFINFCLMC" text="로모카인"/>
+
+  <string id="STRLTJDY" text="염나라의 적법한 황제"/>
+  <string id="STRLTJDYF" text="염나라의 적법한 여제"/>
+  <string id="STRLTPRU" text="프로옌의 왕"/>
+  <string id="STRLTPRUF" text="프로옌의 여왕"/>
+  <string id="STRLTRBL" text="라블람의 술탄"/>
+  <string id="STRLTRBLF" text="라블람의 술탄"/>
+  <string id="STRLTWLT" text="월러스의 대원수"/>
+  <string id="STRLTWLTF" text="월러스의 대원수"/>
+  <string id="STRLTMGR" text="모그리안의 칸"/>
+  <string id="STRLTMGRF" text="모그리안의 카툰"/>
+  <string id="STRLTNKN" text="네케니아의 국왕"/>
+  <string id="STRLTNKNF" text="네케니아의 여왕"/>
+  <string id="STRLTYRN" text="야리안의 마황"/>
+  <string id="STRLTYRNF" text="야리안의 마황"/>
+  <string id="STRLTLMC" text="로모카의 덴노"/>
+  <string id="STRLTLMCF" text="로모카의 덴노"/>
+
+  <string id="STRPFNJDY" text="엄부"/>
+  <string id="STRPMNJDY" text="자모"/>
+  <string id="STRPFNYRN" text="코와"/>
+  <string id="STRPMNYRN" text="부바"/>
+  <string id="STRPFNLMC" text="히로아키"/>
+  <string id="STRPMNLMC" text="테루코"/>
+
+  <string id="STRFRTISJDY" text="{RULER.NAME} {?RULER.GENDER}여제{?}황제{\?} "/>
+  <string id="STRFRTISPRU" text="{RULER.NAME} {?RULER.GENDER}여왕{?}왕{\?} "/>
+  <string id="STRFRTISRBL" text="{RULER.NAME} {?RULER.GENDER}술탄{?}술탄{\?} "/>
+  <string id="STRFRTISWLT" text="{RULER.NAME} {?RULER.GENDER}대원수{?}대원수{\?} "/>
+  <string id="STRFRTISMGR" text="{RULER.NAME} {?RULER.GENDER}카툰{?}칸{\?}"/>
+  <string id="STRFRTISNKN" text="{RULER.NAME} {?RULER.GENDER}여왕{?}국왕{\?} "/>
+  <string id="STRFRTISYRN" text="{RULER.NAME} {?RULER.GENDER}마황{?}마황{\?} "/>
+  <string id="STRFRTISLMC" text="{RULER.NAME} {?RULER.GENDER}덴노{?}덴노{\?} "/>
+
+  <string id="STRAFFJDY" text="염"/>
+  <string id="STRAFFPRU" text="프로옌"/>
+  <string id="STRAFFRBL" text="라블람"/>
+  <string id="STRAFFWLT" text="월러스"/>
+  <string id="STRAFFMGR" text="모그리안"/>
+  <string id="STRAFFNKN" text="네케니아"/>
+  <string id="STRAFFYRN" text="야리안"/>
+  <string id="STRAFFLMC" text="로모카"/>
+
+  <string id="STRFFNFCJDY" text="염 왕조"/>
+  <string id="STRFFNFCPRU" text="프로옌 연방"/>
+  <string id="STRFFNFCRBL" text="라블람 공국"/>
+  <string id="STRFFNFCWLT" text="월러스 군단"/>
+  <string id="STRFFNFCMGR" text="모그리안 칸국"/>
+  <string id="STRFFNFCNKN" text="네케니아 왕국"/>
+  <string id="STRFFNFCYRN" text="야리안 마국"/>
+  <string id="STRFFNFCLMC" text="로모카 막부"/>
+
+  <string id="STRIDTC" text="베기"/>
+  <string id="STRIDTP" text="찌르기"/>
+  <string id="STRIDTB" text="둔기"/>
+
+  <string id="STRTDMG" text="찌르기 데미지: "/>
+  <string id="STRTSPD" text="찌르기 속도: "/>
+  <string id="STRSDMG" text="휘두르기 데미지: "/>
+  <string id="STRSSPD" text="휘두르기 속도: "/>
+
+  <string id="STRGT001" text="The Land Of Sika 에서, 배너 캐리어를 쓰러뜨리면 적에게 더 많은 사기 피해를 줄 수 있습니다."/>
+  <string id="STRGT002" text="The Land Of Sika 에서, 우리는 말의 충돌 피해를 복구했습니다. 말을 사용하여 더 많은 피해를 줄 수 있습니다."/>
+  <string id="STRGT003" text="The Land Of Sika 에서, 대단한 전투는 희귀한 전리품을 얻을 수 있습니다."/>
+  <string id="STRGT004" text="The Land Of Sika 에서, 각 병사와 인물들은 각기 다른 체력을 갖습니다."/>
+  <string id="STRGT005" text="The Land Of Sika 에서, 더 높은 등급의 방패를 사용하려면 더 높은 한손 무기 스킬이 필요합니다."/>
+  <string id="STRGT006" text="The Land Of Sika 에서, 전투 기술의 이점을 두 배로 늘려 더욱 유용하게 만들었습니다."/>
+  <string id="STRGT007" text="The Land Of Sika 에서, 군대를 업그레이드하려면 더 많은 경험치가 필요하며 높은 티어 병사는 더 강력해졌습니다."/>
+  <string id="STRGT008" text="ModDB 와 Nexusmods 에서 The Land Of Sika 를 계속 찾아주세요! 업데이트를 올릴 것입니다. 더 많은 새로운 이야기와 컨텐츠가 당신을 기다립니다!"/>
+  <string id="STRGT009" text="The Land Of Sika 에서, 우리는 방패의 저항 시스템을 되살렸습니다. 저항이 높다는 것은 공격을 받았을 때 데미지가 감소한다는 것을 의미합니다."/>
+  <string id="STRGT010" text="The Land Of Sika 에서, 데미지는 유동적입니다."/>
+  <string id="STRGT011" text="The Land Of Sika 에서, U 버튼을 눌러 캠프 메뉴로 들어갈 수 있습니다. 여기에서 여러 가지를 조정할 수 있습니다."/>
+  <string id="STRGT012" text="장면에서 특정 인물을 찾으려면 Alt 키를 누른 상태에서 아이콘을 불러온 다음, 화면 중앙에 캐릭터 아이콘을 배치하면 게임에 해당 캐릭터의 이름과 거리가 표시됩니다."/>
+  <string id="STRGT013" text="커스텀 병종 팁: 옵션 장비가 비쌀수록 커스텀 병종의 급여가 높아집니다."/>
+  <string id="STRGT014" text="반려동물 시스템 팁: 반려동물을 업그레이드하면 최대 병력 수를 늘리고 부대 유지비를 낮출 수 있습니다."/>
+  <string id="STRGT015" text="정착지 관리 팁: 건축 자재는 다양한 방법으로 얻을 수 있습니다. 개인의 힘이 충분히 강하다면 카피 속 보스에게 도전하여 빠르게 건축 자재를 획득할 수 있습니다."/>
+  <string id="STRGT016" text="The Land Of Sika 에는, 안장이나 말 갑옷에는 돌진 피해 보너스가 있습니다. 그에 따라 높은 방어력과 높은 충격 피해를 지닌 말 갑옷은 말의 속도를 감소시킵니다."/>
+
+
+  <string id="STRWDESTYGEN01" text="안녕하시오. {?PLAYER.GENDER}님{?}나으리{\?}."/>
+  <string id="STRWDESTYGEN02" text="보시다시피, 방랑자요."/>
+  <string id="STRWDESTYGEN03" text="오른팔이 필요하다면, 그게 바로 나요."/>
+  <string id="STRWDESTYGEN04" text="하지만 돈을 지불해야 하오..."/>
+  <string id="STRWDESTYGEN05" text="좋소, 우리에게도 사람이 필요하니."/>
+  <string id="STRWDESTYGEN06" text="그만 얘기합시다."/>
+  <string id="STRWDESTYGEN07" text="어떻소? 생각해 보시겠소?"/>
+  <string id="STRWDESTYGEN08" text="좋소."/>
+
+  <string id="STRWPNUPOS" text="폴암 휘두르기 사용법"/>
+  <string id="STRWPNUPON" text="폴암 사용법"/>
+  <string id="STRWPNUPOC" text="랜스 차징"/>
+  <string id="STRWPNUPOB" text="창대 버티기"/>
+  <string id="STRWPNUTHN" text="양손검 사용법"/>
+  <string id="STRWPNUOHN" text="한손검 사용법"/>
+  <string id="STRWPNUSWC" text="전환 사용법"/>
+
+
+ </strings>
+</base>

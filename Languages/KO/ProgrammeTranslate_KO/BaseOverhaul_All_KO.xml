@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+    <!-- BaseOverhaul_All_CNs是BaseOverhaul这个模块的翻译文件-->
+    
+    <!-- 文件夹BehaviorBases.cs开始 -->
+    <string id="strAddBaseDialogs001" text="안녕하시오, 재밌는 얘기라도 들었소?" />
+    <string id="strAddBaseDialogs002" text="사람들은 거대한 삼각형 건물을 남부 사막에서 봤다고 하오." />
+    <string id="strAddBaseDialogs003" text="북부의 숲에서 전설의 동물을 봤다는 사람들이 있소." />
+    <string id="strAddBaseDialogs004" text="최근 염 왕조에 부패한 사건이 있었다 하오." />
+    <string id="strAddBaseDialogs005" text="늑대인간을 본 적 있소? 한번은, 세계여행 중에 한 놈을 본 적이 있지!" />
+    <string id="strAddBaseDialogs006" text="이 땅 너머를 여행하는 동안, 바다 위 어느 섬에서 엘프 같은 사람들을 만난 적 있지." />
+    <string id="strAddBaseDialogs007" text="조심하게 여행자여. 어둠 속에서 지켜보는 자들이 있다네!" />
+    <string id="strAddBaseDialogs008" text="재밌는 이야기는 없어, 그저 지루한 나날들 뿐이지." />
+    <string id="strAddBaseDialogs009" text="어떤 영주가 자신의 영혼을 악마에게 팔았다더군." />
+    <string id="strAddBaseDialogs010" text="군벌들이 다시 전쟁을 시작하고 있소. 우리 같은 사람들만 고통 받지..." />
+    <string id="strAddBaseDialogs011" text="운이 좋다면 보물을 찾을 수 있을게요." />
+    <string id="strAddBaseDialogs012" text="다시 전쟁이 시작됐소. 역사로부터 아무 것도 배우지 못한게지." />
+    <string id="strAddBaseDialogs013" text="오래된 상처가 다시금 아파 오고 발목이 쑤시오." />
+    <string id="strAddBaseDialogs014" text="이야기해서 즐거웠소. 다시 만나기를." />
+    <string id="strAddBaseDialogs015" text="인간의 운명은 몰락하는 중이오. 운명의 바퀴가 다시금 돌아가고 있소." />
+    <string id="strAddBaseDialogs016" text="최근 인근에 누가 늑대에게 습격 당해 양떼가 다 죽었다 하오." />
+    <string id="strAddBaseDialogs017" text="서쪽 하늘이 흐리군. 출정에 영향을 주지 않아야 할텐데." />
+    <string id="strAddBaseDialogs018" text="*나쁜 말*, 내 새 장갑이 어디 갔지? 쓰던 건 이제 다 해어졌다고!" />
+    <string id="strAddBaseDialogs019" text="며칠 안에 고향으로 돌아가야겠어. 친척들이 아직 살고 있는지 궁금하군. 돌아가서 좀 봐야겠어." />
+    <string id="strAddBaseDialogs020" text="수문에 어떤 광인이 근처 검은 숲에서 헤매고 있다 하오. 많은 사람들은 그가 과거의 괴물이었다고 말하더이다." />
+    <string id="strAddBaseDialogs021" text="도적들이 창궐하고 있소. 경계를 늦춰선 아니 되오." />
+    <string id="strAddBaseDialogs022" text="나도 한 때는 당신과 같은 모험가였소. 뚝배기가 깨지기 전까진. 이 상처를 좀 보라구." />
+    <string id="strAddBaseDialogs023" text="이 선술집의 로스트비프는 기가 막히다오. 내 동생은 저번에 왔을 때 두 그릇이나 먹었지." />
+    <string id="strAddBaseDialogs024" text="북부의 침략자들이 북쪽 만을 유린하고 있소. 교통이 끊기고 사람들은 그 지역을 떠나고 있소." />
+    <string id="strAddBaseDialogs025" text="오크스 호수에 또 가보고 싶소. 그 호수는 사람 마음을 씻어준다고 하오." />
+    <string id="strAddBaseDialogs026" text="남부의 이름 없는 가문이 또 영지를 먹었군. 거지 같은 놈들. 나야말로 그 영지를 받아야 할 사람인데." />
+    <string id="strAddBaseDialogs027" text="도시에 몇 사람들이 말하길 근처의 도적떼가 다시 출몰한다 하오. 여러 개의 작은 무리들이 도시의 가장자리에서 순찰대를 급습한다지. 다행히 마을사람들에겐 피해를 주지 않고 있소." />
+    <string id="strAddBaseDialogs028" text="우리 큰 아들이 퇴학을 당했소. 학교에 따르면 학폭에 연루됐다는데... 틀림없이 귀족 자식들이 괴롭힌 걸거요. 등록금이 얼만데... 이제 할 수 있는 거라곤 기술이나 배워야지 어쩌겠소." />
+    <string id="strAddBaseDialogs029" text="전에 술 마시러 갔다가, 웬 젊은이가 술이 떡이 됐더라고. 그래서 값 나가는 건 다 챙겼지. 왜? 뭐? 어차피 시간 문제였어. 그냥 주정뱅이인데 뭐." />
+    <string id="strAddBaseDialogs030" text="예상한 대로, 병사 중 하나가 탈영했소. 늘 불평만 하던 놈이지. 차라리 이게 나을 지도 모르오. 어차피 그런 놈은 전투에서 살아남을 수 없으니 말이오." />
+    <string id="strAddBaseDialogs031" text="최근 웬 신참내기가 투기장에서 다섯 번이나 우승했소. 사람들이 말하길 바다 저편에서 왔다고 하오. 어떤 이는 전쟁 영웅이라고도 하고." />
+    <string id="strAddBaseDialogs032" text="6년 동안이나 함께 싸운 내 부관이 죽었소. 나를 위해 대신 화살을 맞았지. 그는 아무 말도 없이 쓰러져 버렸소. 나 또한 무슨 말을 하겠소..." />
+    <string id="strAddBaseDialogs033" text="지난 번에 사냥을 나갔을 때, 웬 강도들이 마을을 약탈하는 걸 봤소. 하! 우리는 그놈들을 쫓아냈지만, 모든 마을 사람들이 죽었소. 그저 농민들이라도 가치있는 걸 가졌다오. 그렇지 않소?" />
+    <string id="strAddBaseDialogs034" text="이 마을 선술집에 가보았소? 그래, 서쪽에 있는 거. 그 뒷골목의 여자들 못 잊을 겁니다." />
+    <string id="strAddBaseDialogs035" text="선술집에서 어떤 여행자의 안내 책자를 봤소. 그건 완전... 만약에 대량 제작이 가능하면, 무조건 대박날거요!" />
+    <string id="strAddBaseDialogs036" text="아 날씨 좋네. 새들은 노래하고, 꽃들은 활짝 피고." />
+    <string id="strAddBaseDialogs037" text="그 얘기 들었소? 북부 숲에 사는 어떤 부족은 절대 숲을 떠나지 않는다 하오. 바깥 세상에 나오는 건 오직 주위 마을과 교역할 때 뿐이지." />
+    <string id="strAddBaseDialogs038" text="제국의 귀족들에게 납품하는 고급 모피를 취급하는 프로우언 상단이 도적들에게 당했다 하오." />
+    <string id="strAddBaseDialogs039" text="서둘러, 시간이 없어! 우리는 온 세상을 구해야 해!" />
+    <string id="strAddBaseDialogs040" text="지난 번에 도시에 갔을 때, 웬 놈이 양동이를 들고 오다가 내 장화에 물을 쏟았소. 라떼는 말이오, 그런 새끼는 목을 매달았는데. 하지만 지금은, '축축한' 감방에서 썩고 있지." />
+    <string id="strAddBaseDialogs041" text="소문에, 어떤 마을 사람들이 마녀를 잡아 죽였다 하오. 그리고는... 이상한 역병이 마을 전체에 퍼졌지." />
+    <string id="strAddBaseDialogs042" text="최근 상황은 그다지 평온하지 않소. 동쪽에서 온 외부인들에게 몇몇 마을이 불타 버렸소." />
+
+    <string id="strAddBaseTownMenu001" text="도시 병영" />
+    <string id="strAddBaseTownMenu002" text="영향력을 소모하여 도시 병영에 병력을 충원할 수 있습니다." />
+    <string id="strAddBaseTownMenu003" text="도시 발전" />
+    <string id="strAddBaseTownMenu004" text="도시 발전" />
+    <string id="strAddBaseTownMenu005" text="신병 모병" />
+    <string id="strAddBaseTownMenu006" text="신병 모병을 위한 영향력 소모" />
+    <string id="strAddBaseTownMenu007" text="신병 모병을 위해 영향력 2 를 소모합니다." />
+    <string id="strAddBaseTownMenu008" text="모병 확인" />
+    <string id="strAddBaseTownMenu009" text="모병 취소" />
+    <string id="strAddBaseTownMenu010" text="영향력 부족" />
+    <string id="strAddBaseTownMenu011" text="신병 모병을 위한 영향력이 충분하지 않습니다." />
+    <string id="strAddBaseTownMenu012" text="모병 취소" />
+    <string id="strAddBaseTownMenu013" text="모병 취소" />
+    <string id="strAddBaseTownMenu014" text="고참 모병" />
+    <string id="strAddBaseTownMenu015" text="고참 모병을 위한 영향력 소모" />
+    <string id="strAddBaseTownMenu016" text="고참 모병을 위해 영향력 20 을 소모합니다." />
+    <string id="strAddBaseTownMenu017" text="모병 확인" />
+    <string id="strAddBaseTownMenu018" text="모병 취소" />
+    <string id="strAddBaseTownMenu019" text="영향력 부족" />
+    <string id="strAddBaseTownMenu020" text="고참 모병을 위한 영향력이 충분하지 않습니다." />
+    <string id="strAddBaseTownMenu021" text="모병 취소" />
+    <string id="strAddBaseTownMenu022" text="모병 취소" />
+    <string id="strAddBaseTownMenu023" text="떠나기" />
+
+    <string id="strSommonNewSoilder001" text="영향력 2를 소모하여 " />
+    <string id="strSommonNewSoilder0002" text="부대에 합류했습니다." />
+    <string id="strSommonOldSoilder001" text="영향력 20을 소모하여 " />
+    <string id="strSommonOldSoilder0002" text="부대에 합류했습니다." />
+
+    <!-- 文件GameSelfSettlementData.cs开始 -->
+    <string id="strPlayerSettlementCurrentProjectName" text="없음" />
+
+    <!-- 文件HarmonyEntityHit.cs开始 -->
+    <string id="strOnEntityHitPostfix001" text="목재 3" />
+    <string id="strOnEntityHitPostfix002" text="목재 2" />
+    <string id="strOnEntityHitPostfix003" text="목재 1" />
+    <string id="strOnEntityHitPostfix004" text="목재 1" />
+    <string id="strOnEntityHitPostfix005" text="석재 3" />
+    <string id="strOnEntityHitPostfix006" text="석재 2" />
+    <string id="strOnEntityHitPostfix007" text="석재 1" />
+    <string id="strOnEntityHitPostfix008" text="석재 1" />
+    <string id="strOnEntityHitPostfix009" text="획득: " />
+    <string id="strOnEntityHitPostfix010" text="!" />
+    <string id="strOnEntityHitPostfix011" text="맨손으로는 자원을 획득할 수 없습니다!" />
+    <string id="strOnEntityHitPostfix012" text="모든 석재를 채굴했습니다! 석재 5 획득!" />
+    <string id="strOnEntityHitPostfix013" text="나무를 베었습니다! 목재 5 획득!" />
+
+    <!-- 文件CustomDefaultFeats.cs开始 -->
+    <string id="strSikaCultureFeat001" text="노예 제국: 부대 내 포로 식량 소비 50% 감소, 포로 거래시 수익 10% 증가" />
+    <string id="strSikaCultureFeat002" text="사막 방랑자: 사막에서 속도 페널티 없음, 사막에서 시야 거리 +1." />
+    <string id="strSikaCultureFeat003" text="금권정치: 부대 규모 +10." />
+    <string id="strSikaCultureFeat004" text="자유의 외침: 부대 사기 -2." />
+    <string id="strSikaCultureFeat005" text="거대한 사막: 일일 가문 영향력 -0.5." />
+
+    <string id="strSikaCultureFeat006" text="부족 동맹: 일일 가문 영향력 -0.5." />
+    <string id="strSikaCultureFeat007" text="야생의 전문가: 치유 속도 +2." />
+    <string id="strSikaCultureFeat008" text="난공불락 군대: 부대 사기 +3, 속도 +0.1." />
+    <string id="strSikaCultureFeat009" text="야만적인: 도시 번영 발전도 -5%." />
+    <string id="strSikaCultureFeat010" text="멈추지 않는 돌격: 시야 거리 -1." />
+
+    <string id="strSikaCultureFeat011" text="비옥한 토지: 마을 번영도 증가 +1, 모병 10% 증가." />
+    <string id="strSikaCultureFeat012" text="농업 전문가: 마을의 식량 생산보너스 10%." />
+    <string id="strSikaCultureFeat013" text="수성의 의지: 부대 유지비 5% 감소." />
+    <string id="strSikaCultureFeat014" text="부패: 세금 수입 -5%." />
+    <string id="strSikaCultureFeat015" text="파벌 나누기: 군대 결속력 증가 비용 -10%." />
+
+    <string id="strSikaCultureFeat016" text="유목민 정신: 기병의 모집과 업그레이드 비용 10% 감소." />
+    <string id="strSikaCultureFeat017" text="말의 속삭임: 부대 속도 +0.15." />
+    <string id="strSikaCultureFeat018" text="숙련된 전사: 부대 일일 경험치 +2." />
+    <string id="strSikaCultureFeat019" text="허술한 요새: 일일 도시 안보 -1." />
+    <string id="strSikaCultureFeat020" text="침략자: 도시 건설 속도 20% 감소, 세금 수입 10% 감소." />
+
+    <string id="strSikaCultureFeat021" text="서리의 땅: 겨울에 부대 사기 +2, 발견 거리 +1, heal rate +0.5. 눈에서 부대 속도 +0.05." />
+    <string id="strSikaCultureFeat022" text="타이가 사냥꾼: 궁수 모집과 업그레이드 비용 -10%." />
+    <string id="strSikaCultureFeat023" text="약탈자: 전리품 획득과 마을 약탈 시 약탈 5% 증가." />
+    <string id="strSikaCultureFeat024" text="느슨한 동맹: 군대에 모집시 영향력 소모 10% 증가, 군대 속도 -0.05, 사기 -1." />
+    <string id="strSikaCultureFeat025" text="탐욕: 부대 유지비 +5%." />
+
+    <string id="strSikaCultureFeat026" text="전쟁의 명예: 전투 후 획득하는 영향력과 명성 5% 증가" />
+    <string id="strSikaCultureFeat027" text="상업 전문가: 거래 물품 판매 페널티 -10%, 장비 판매 페널티 -5%." />
+    <string id="strSikaCultureFeat028" text="엘리트 지도자: 일일 도시 충성도 +0.5, 번영도 증가 +5%, 프로젝트 건설 속도 +5%." />
+    <string id="strSikaCultureFeat029" text="호화로운: 도시 식량 소비 +10% , 모병 비용+5%." />
+    <string id="strSikaCultureFeat030" text="혼돈의 통치: 마을 일일 생산 -5%, 통치자 수입 -5%." />
+
+    <string id="strSikaCultureFeat031" text="개혁자: 도시 프로젝트 건설 속도 +10%, 부대 사기 +2." />
+    <string id="strSikaCultureFeat032" text="단일 문화 사회: 지배 가문과 같은 문화의 도시 안보 +1, 충성도 +0.2." />
+    <string id="strSikaCultureFeat033" text="막부: 영주 부대 속도 +0.1, 영주 모병 비용 -5%." />
+    <string id="strSikaCultureFeat034" text="잔인함: 지배 가문과 같은 문화의 도시 안보 -1, 충성도 +0.5." />
+    <string id="strSikaCultureFeat035" text="무인지경: 마을 식량 생산 페널티 10%." />
+
+    <string id="strSikaCultureFeat036" text="신앙의 지배: 준비 중!" />
+    <string id="strSikaCultureFeat037" text="정글 거주자: 정글에서 속도 +0.5, 궁수 업그레이드 비용 -10%." />
+    <string id="strSikaCultureFeat038" text="태고의 전사: 부대 치유 속도 +5, 군대 속도 +0.2." />
+    <string id="strSikaCultureFeat039" text="원시적 공예: 도시 번영도 -5%, 프로젝트 건설 속도 -5%." />
+    <string id="strSikaCultureFeat040" text="전략적 수동성: 준비 중!" />
+
+  <!-- 文件CustomDefaultFeats.cs结束 -->
+
+  <!-- 文件FirstSceneNotificationData.cs开始 -->
+   <!-- FirstSceneNotificationData过场动画文本开始 -->
+    <string id="strSikaInformationScene1001" text="시카 기사단의 편지를 얻었습니다." />
+   <!-- FirstSceneNotificationData过场动画文本结束 -->
+  <!-- 文件FirstSceneNotificationData.cs结束 -->
+
+  </strings>
+</base>

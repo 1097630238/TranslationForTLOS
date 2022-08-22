@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+ <tags>
+  <tag language="한국어"/>
+ </tags>
+ <strings>
+  <!-- 流浪者的的简体中文文本 -->
+  <!-- 炎 -->
+  <string id="WDEJDY00" text="마을 사람 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY01" text="시인 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY02" text="요리사 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY03" text="기사도 정신의 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY04" text="버려진 소녀 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY05" text="바보 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY06" text="전사 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY07" text="풍수사 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY08" text="고참 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY09" text="행상인 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY10" text="거지 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY11" text="무기 제작자 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY12" text="맹호 {HERO.FIRSTNAME}"/>
+  <string id="WDEJDY13" text="은둔자 {HERO.FIRSTNAME}"/>
+
+  <!-- 普若尤恩 -->
+  <string id="WDEPRU00" text="해머스미스 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU01" text="사생아 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU02" text="도시민 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU03" text="탈영병 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU04" text="강도 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU05" text="물약 제작자 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU06" text="독수리눈 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU07" text="피난민 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU08" text="기수 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU09" text="부잣집 소녀 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU10" text="생존자 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU11" text="나이팅게일 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU12" text="건달 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU13" text="침묵의 창 {HERO.FIRSTNAME}"/>
+  <string id="WDEPRU14" text="군의관 {HERO.FIRSTNAME}"/>
+
+  <!-- 埃布拉蒙 -->
+  <string id="WDERBL00" text="상인 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL01" text="중노동자 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL02" text="인도자 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL03" text="자스민 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL04" text="가면의 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL05" text="용병 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL06" text="여자 노예 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL07" text="심부름꾼 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL08" text="모험가 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL09" text="재봉사 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL10" text="하녀 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL11" text="킬러 {HERO.FIRSTNAME}"/>
+  <string id="WDERBL12" text="자주빛 전갈 {HERO.FIRSTNAME}"/>
+
+  <!-- 乌拉索维 -->
+  <string id="WDEWLT00" text="사냥꾼 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT01" text="벌목꾼 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT02" text="작가 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT03" text="와인 양조자 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT04" text="숲지기 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT05" text="무두장이 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT06" text="철인 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT07" text="절도범 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT08" text="야인 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT09" text="곱슬머리 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT10" text="설록 {HERO.FIRSTNAME}"/>
+  <string id="WDEWLT11" text="단단한 나무 {HERO.FIRSTNAME}"/>
+
+  <!-- 蒙戈黎安 -->
+  <string id="WDEMGR00" text="목동 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR01" text="활 제작자 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR02" text="간수 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR03" text="강제추방자 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR04" text="말 상인 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR05" text="정찰꾼 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR06" text="전령 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR07" text="레인저 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR08" text="과부 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR09" text="교살자 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR10" text="약초꾼 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR11" text="날다람쥐 {HERO.FIRSTNAME}"/>
+  <string id="WDEMGR12" text="들쥐 {HERO.FIRSTNAME}"/>
+
+  <!-- 纳堪维亚 -->
+  <string id="WDENKN00" text="어부 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN01" text="목수 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN02" text="철의 손 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN03" text="재빠른 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN04" text="방직공 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN05" text="얼음조각가 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN06" text="떠돌이 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN07" text="기록자 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN08" text="실드메이든 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN09" text="마을 여자 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN10" text="거인 팔 {HERO.FIRSTNAME}"/>
+  <string id="WDENKN11" text="괴물 늑대 {HERO.FIRSTNAME}"/>
+
+  <!-- 雅瑞安 -->
+  <string id="WDEYRN00" text="전령 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN01" text="약사 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN02" text="물병나무 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN03" text="마법 전령 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN04" text="직공 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN05" text="도시민 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN06" text="붉은 사마귀 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN07" text="숲 비단뱀 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN08" text="견습생 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN09" text="화산 {HERO.FIRSTNAME}"/>
+  <string id="WDEYRN10" text="갈라파고스 거북 {HERO.FIRSTNAME}"/>
+
+  <!-- 落月 -->
+  <string id="WDELMC00" text="행상 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC01" text="건설노동자 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC02" text="백면서생 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC03" text="로닌 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC04" text="강도 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC05" text="월호 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC06" text="여행자 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC07" text="밤의 닌자{HERO.FIRSTNAME}"/>
+  <string id="WDELMC08" text="농부 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC09" text="반짝이는 {HERO.FIRSTNAME}"/>
+  <string id="WDELMC10" text="카타나 제작자 {HERO.FIRSTNAME}"/>
+
+  <!-- 炎文化随机人名 -->
+  <string id="CMJDYname001" text="우경"/>
+  <string id="CMJDYname002" text="예하"/>
+  <string id="CMJDYname003" text="안평"/>
+  <string id="CMJDYname004" text="정계"/>
+  <string id="CMJDYname005" text="봉투"/>
+  <string id="CMJDYname006" text="동성"/>
+  <string id="CMJDYname007" text="위곤"/>
+  <string id="CMJDYname008" text="표비"/>
+  <string id="CMJDYname009" text="유도"/>
+  <string id="CMJDYname010" text="단충"/>
+  <string id="CMJDYname011" text="흥황"/>
+  <string id="CMJDYname012" text="지조"/>
+  <string id="CMJDYname013" text="택용"/>
+  <string id="CMJDYname014" text="방륭"/>
+  <string id="CMJDYname015" text="문모"/>
+  <string id="CMJDYname016" text="유성"/>
+  <string id="CMJDYname017" text="전탁"/>
+  <string id="CMJDYname018" text="여전"/>
+  <string id="CMJDYname019" text="자광"/>
+  <string id="CMJDYname020" text="서역"/>
+  <string id="CMJDYname021" text="시현"/>
+  <string id="CMJDYname022" text="엄승"/>
+  <string id="CMJDYname023" text="경준"/>
+  <string id="CMJDYname024" text="서명"/>
+  <string id="CMJDYname025" text="계지"/>
+  <string id="CMJDYname026" text="미야"/>
+  <string id="CMJDYname027" text="홍주"/>
+  <string id="CMJDYname028" text="방범"/>
+  <string id="CMJDYname029" text="번승"/>
+  <string id="CMJDYname030" text="함명"/>
+  <string id="CMJDYname031" text="사언"/>
+  <string id="CMJDYname032" text="공인"/>
+  <string id="CMJDYname033" text="정정"/>
+  <string id="CMJDYname034" text="승연"/>
+  <string id="CMJDYname035" text="문영"/>
+  <string id="CMJDYname036" text="소망"/>
+  <string id="CMJDYname037" text="형만"/>
+  <string id="CMJDYname038" text="치빈"/>
+  <string id="CMJDYname039" text="중유"/>
+  <string id="CMJDYname040" text="양획"/>
+  <string id="CMJDYname041" text="구직"/>
+  <string id="CMJDYname042" text="비엄"/>
+  <string id="CMJDYname043" text="송수"/>
+  <string id="CMJDYname044" text="공준"/>
+  <string id="CMJDYname045" text="윤충"/>
+  <string id="CMJDYname046" text="희경"/>
+  <string id="CMJDYname047" text="종직"/>
+  <string id="CMJDYname048" text="주상"/>
+  <string id="CMJDYname049" text="관업"/>
+  <string id="CMJDYname050" text="대윤"/>
+  <string id="CMJDYname051" text="의전"/>
+  <string id="CMJDYname052" text="숭화"/>
+  <string id="CMJDYname053" text="인정"/>
+  <string id="CMJDYname054" text="종예"/>
+  <string id="CMJDYname055" text="범책"/>
+  <string id="CMJDYname056" text="옹림"/>
+  <string id="CMJDYname057" text="산현"/>
+  <string id="CMJDYname058" text="고성"/>
+  <string id="CMJDYname059" text="근조"/>
+  <string id="CMJDYname060" text="합보"/>
+  <string id="CMJDYname061" text="백범"/>
+  <string id="CMJDYname062" text="동전"/>
+  <string id="CMJDYname063" text="고치"/>
+  <string id="CMJDYname064" text="하창"/>
+  <string id="CMJDYname065" text="원충"/>
+  <string id="CMJDYname066" text="문강"/>
+  <string id="CMJDYname067" text="홍휘"/>
+  <string id="CMJDYname068" text="호활"/>
+  <string id="CMJDYname069" text="비괴"/>
+  <string id="CMJDYname070" text="송탁"/>
+  <string id="CMJDYname071" text="비쌍"/>
+  <string id="CMJDYname072" text="조위"/>
+  <string id="CMJDYname073" text="공여"/>
+  <string id="CMJDYname074" text="지문"/>
+  <string id="CMJDYname075" text="무재"/>
+  <string id="CMJDYname076" text="쇄긍"/>
+  <string id="CMJDYname077" text="박한"/>
+  <string id="CMJDYname078" text="길흔"/>
+  <string id="CMJDYname079" text="중화"/>
+  <string id="CMJDYname080" text="누오"/>
+  <string id="CMJDYname081" text="호천"/>
+  <string id="CMJDYname082" text="속죽"/>
+  <string id="CMJDYname083" text="함파"/>
+  <string id="CMJDYname084" text="사동"/>
+  <string id="CMJDYname085" text="노영"/>
+  <string id="CMJDYname086" text="고풍"/>
+  <string id="CMJDYname087" text="붕희"/>
+  <string id="CMJDYname088" text="천역"/>
+  <string id="CMJDYname089" text="붕희"/>
+  <string id="CMJDYname090" text="건의"/>
+  <string id="CMJDYname091" text="기량"/>
+  <string id="CMJDYname092" text="진허"/>
+  <string id="CMJDYname093" text="맹양"/>
+  <string id="CMJDYname094" text="해기"/>
+  <string id="CMJDYname095" text="부수"/>
+  <string id="CMJDYname096" text="예랑"/>
+  <string id="CMJDYname097" text="지수"/>
+  <string id="CMJDYname098" text="안방"/>
+  <string id="CMJDYname099" text="석곡"/>
+  <string id="CMJDYname100" text="취산"/>
+  <string id="CMJDYname101" text="운일"/>
+  <string id="CMJDYname102" text="괴걸"/>
+  <string id="CMJDYname103" text="낙영"/>
+  <string id="CMJDYname104" text="신능"/>
+  <string id="CMJDYname105" text="빙계"/>
+  <string id="CMJDYname106" text="소명"/>
+  <string id="CMJDYname107" text="곤봉"/>
+  <string id="CMJDYname108" text="원호"/>
+  <string id="CMJDYname109" text="우령"/>
+  <string id="CMJDYname110" text="견야"/>
+  <string id="CMJDYname111" text="엉령"/>
+  <string id="CMJDYname112" text="어기"/>
+  <string id="CMJDYname113" text="영망"/>
+  <string id="CMJDYname114" text="명휘"/>
+  <string id="CMJDYname115" text="뇌안"/>
+  <string id="CMJDYname116" text="덕요"/>
+  <string id="CMJDYname117" text="미정"/>
+  <string id="CMJDYname118" text="금문"/>
+  <string id="CMJDYname119" text="유풍"/>
+  <string id="CMJDYname120" text="비주"/>
+  <string id="CMJDYname121" text="국화"/>
+  <string id="CMJDYname122" text="명희"/>
+  <string id="CMJDYname123" text="청굉"/>
+  <string id="CMJDYname124" text="염려"/>
+  <string id="CMJDYname125" text="영진"/>
+  <string id="CMJDYname126" text="박섬"/>
+  <string id="CMJDYname127" text="구선"/>
+  <string id="CMJDYname128" text="학림"/>
+  <string id="CMJDYname129" text="정사"/>
+  <string id="CMJDYname130" text="관지"/>
+  <string id="CMJDYname131" text="고창"/>
+  <string id="CMJDYname132" text="박용"/>
+  <string id="CMJDYname133" text="급고"/>
+  <string id="CMJDYname134" text="학덕"/>
+  <string id="CMJDYname135" text="간장"/>
+  <string id="CMJDYname136" text="기파"/>
+  <string id="CMJDYname137" text="염역"/>
+  <string id="CMJDYname138" text="통태"/>
+  <string id="CMJDYname139" text="호준"/>
+  <string id="CMJDYname140" text="혁효"/>
+  <string id="CMJDYname141" text="변순"/>
+  <string id="CMJDYname142" text="우동"/>
+  <string id="CMJDYname143" text="지전"/>
+  <string id="CMJDYname144" text="고기"/>
+  <string id="CMJDYname145" text="수사"/>
+  <string id="CMJDYname146" text="입군"/>
+  <string id="CMJDYname147" text="강간"/>
+  <string id="CMJDYname148" text="사반"/>
+  <string id="CMJDYname149" text="염목"/>
+  <string id="CMJDYname150" text="시망"/>
+  <string id="CMJDYname151" text="목정"/>
+  <string id="CMJDYname152" text="태파"/>
+  <string id="CMJDYname153" text="본일"/>
+  <string id="CMJDYname154" text="사정"/>
+  <string id="CMJDYname155" text="위장"/>
+  <string id="CMJDYname156" text="정무"/>
+  <string id="CMJDYname157" text="주간"/>
+  <string id="CMJDYname158" text="귀침"/>
+  <string id="CMJDYname159" text="향량"/>
+  <string id="CMJDYname160" text="장성"/>
+  <string id="CMJDYname161" text="옥용"/>
+  <string id="CMJDYname162" text="연신"/>
+  <string id="CMJDYname163" text="진명"/>
+  <string id="CMJDYname164" text="게부"/>
+  <string id="CMJDYname165" text="낭도"/>
+  <string id="CMJDYname166" text="홍문"/>
+  <string id="CMJDYname167" text="주무"/>
+  <string id="CMJDYname168" text="침예"/>
+  <string id="CMJDYname169" text="번공"/>
+  <string id="CMJDYname170" text="뇌영"/>
+  <string id="CMJDYname171" text="양신"/>
+  <string id="CFJDYname001" text="약수"/>
+  <string id="CFJDYname002" text="소시"/>
+  <string id="CFJDYname003" text="산란"/>
+  <string id="CFJDYname004" text="함도"/>
+  <string id="CFJDYname005" text="영안"/>
+  <string id="CFJDYname006" text="빙범"/>
+  <string id="CFJDYname007" text="청분"/>
+  <string id="CFJDYname008" text="모안"/>
+  <string id="CFJDYname009" text="정백"/>
+  <string id="CFJDYname010" text="곡예"/>
+  <string id="CFJDYname011" text="의미"/>
+  <string id="CFJDYname012" text="무시"/>
+  <string id="CFJDYname013" text="육의"/>
+  <string id="CFJDYname014" text="영추"/>
+  <string id="CFJDYname015" text="춘해"/>
+  <string id="CFJDYname016" text="염경"/>
+  <string id="CFJDYname017" text="탁연"/>
+  <string id="CFJDYname018" text="교풍"/>
+  <string id="CFJDYname019" text="아청"/>
+  <string id="CFJDYname020" text="함매"/>
+  <string id="CFJDYname021" text="문민"/>
+  <string id="CFJDYname022" text="남련"/>
+  <string id="CFJDYname023" text="방동"/>
+  <string id="CFJDYname024" text="성화"/>
+  <string id="CFJDYname025" text="구우"/>
+  <string id="CFJDYname026" text="자부"/>
+  <string id="CFJDYname027" text="멱진"/>
+  <string id="CFJDYname028" text="호연"/>
+  <string id="CFJDYname029" text="절영"/>
+  <string id="CFJDYname030" text="심릉"/>
+  <string id="CFJDYname031" text="온람"/>
+  <string id="CFJDYname032" text="여란"/>
+  <string id="CFJDYname033" text="곡응"/>
+  <string id="CFJDYname034" text="적교"/>
+  <string id="CFJDYname035" text="홍영"/>
+  <string id="CFJDYname036" text="야유"/>
+  <string id="CFJDYname037" text="혁가"/>
+  <string id="CFJDYname038" text="거곡"/>
+  <string id="CFJDYname039" text="한향"/>
+  <string id="CFJDYname040" text="장가"/>
+  <string id="CFJDYname041" text="교서"/>
+  <string id="CFJDYname042" text="총운"/>
+  <string id="CFJDYname043" text="가시"/>
+  <string id="CFJDYname044" text="억령"/>
+  <string id="CFJDYname045" text="간원"/>
+  <string id="CFJDYname046" text="종균"/>
+  <string id="CFJDYname047" text="영훈"/>
+  <string id="CFJDYname048" text="맥령"/>
+  <string id="CFJDYname049" text="권곤"/>
+  <string id="CFJDYname050" text="내정"/>
+  <string id="CFJDYname051" text="원도"/>
+  <string id="CFJDYname052" text="엄염"/>
+  <string id="CFJDYname053" text="노세"/>
+  <string id="CFJDYname054" text="능과"/>
+  <string id="CFJDYname055" text="미휘"/>
+  <string id="CFJDYname056" text="징서"/>
+  <string id="CFJDYname057" text="묵동"/>
+  <string id="CFJDYname058" text="유여"/>
+  <string id="CFJDYname059" text="장애"/>
+  <string id="CFJDYname060" text="소택"/>
+  <string id="CFJDYname061" text="성치"/>
+  <string id="CFJDYname062" text="악동"/>
+  <string id="CFJDYname063" text="소응"/>
+  <string id="CFJDYname064" text="희화"/>
+  <string id="CFJDYname065" text="신연"/>
+  <string id="CFJDYname066" text="계단"/>
+  <string id="CFJDYname067" text="경사"/>
+  <string id="CFJDYname068" text="조어"/>
+  <string id="CFJDYname069" text="양주"/>
+  <string id="CFJDYname070" text="오의"/>
+  <string id="CFJDYname071" text="역옥"/>
+  <string id="CFJDYname072" text="영초"/>
+  <string id="CFJDYname073" text="윤천"/>
+  <string id="CFJDYname074" text="배북"/>
+  <string id="CFJDYname075" text="작력"/>
+  <string id="CFJDYname076" text="우유"/>
+  <string id="CFJDYname077" text="탕심"/>
+  <string id="CFJDYname078" text="함량"/>
+  <string id="CFJDYname079" text="반연"/>
+  <string id="CFJDYname080" text="윤운"/>
+  <string id="CFJDYname081" text="울울"/>
+  <string id="CFJDYname082" text="하비"/>
+  <string id="CFJDYname083" text="영연"/>
+  <string id="CFJDYname084" text="영일"/>
+  <string id="CFJDYname085" text="오남"/>
+  <string id="CFJDYname086" text="앵어"/>
+  <string id="CFJDYname087" text="순희"/>
+  <string id="CFJDYname088" text="육소"/>
+  <string id="CFJDYname089" text="고청"/>
+  <string id="CFJDYname090" text="대훼"/>
+  <string id="CFJDYname091" text="여석"/>
+  <string id="CFJDYname092" text="당용"/>
+  <string id="CFJDYname093" text="수염"/>
+  <string id="CFJDYname094" text="과호"/>
+  <string id="CFJDYname095" text="주헌"/>
+  <string id="CFJDYname096" text="염성"/>
+  <string id="CFJDYname097" text="수정"/>
+  <string id="CFJDYname098" text="등욱"/>
+  <string id="CFJDYname099" text="사인"/>
+  <string id="CFJDYname100" text="선백"/>
+  <string id="CFJDYname101" text="농빙"/>
+  <string id="CFJDYname102" text="촉지"/>
+  <string id="CFJDYname103" text="운서"/>
+  <string id="CFJDYname104" text="문이"/>
+  <string id="CFJDYname105" text="은상"/>
+  <string id="CFJDYname106" text="묘진"/>
+  <string id="CFJDYname107" text="육욕"/>
+  <string id="CFJDYname108" text="강심"/>
+  <string id="CFJDYname109" text="구미"/>
+  <string id="CFJDYname110" text="상우"/>
+  <string id="CFJDYname111" text="여동"/>
+  <string id="CFJDYname112" text="귤언"/>
+  <string id="CFJDYname113" text="교강"/>
+  <string id="CFJDYname114" text="미반"/>
+  <string id="CFJDYname115" text="목결"/>
+  <string id="CFJDYname116" text="지연"/>
+  <string id="CFJDYname117" text="상공"/>
+  <string id="CFJDYname118" text="송흔"/>
+  <string id="CFJDYname119" text="현영"/>
+  <string id="CFJDYname120" text="곡형"/>
+  <string id="CFJDYname121" text="청절"/>
+  <string id="CFJDYname122" text="지억"/>
+  <string id="CFJDYname123" text="생락"/>
+  <string id="CFJDYname124" text="안령"/>
+  <string id="CFJDYname125" text="진이"/>
+  <string id="CFJDYname126" text="석영"/>
+  <string id="CFJDYname127" text="환미"/>
+  <string id="CFJDYname128" text="김새"/>
+  <string id="CFJDYname129" text="세남"/>
+  <string id="CFJDYname130" text="강우"/>
+  <string id="CFJDYname131" text="묘천"/>
+  <string id="CFJDYname132" text="운방"/>
+  <string id="CFJDYname133" text="막토"/>
+  <string id="CFJDYname134" text="충가"/>
+  <string id="CFJDYname135" text="영소"/>
+  <string id="CFJDYname136" text="인영"/>
+  <string id="CFJDYname137" text="약조"/>
+  <string id="CFJDYname138" text="주상"/>
+  <string id="CFJDYname139" text="정휘"/>
+  <string id="CFJDYname140" text="해낙"/>
+  <string id="CFJDYname141" text="함평"/>
+  <string id="CFJDYname142" text="탕악"/>
+  <string id="CFJDYname143" text="소의"/>
+  <string id="CFJDYname144" text="유귀"/>
+  <string id="CFJDYname145" text="목화"/>
+  <string id="CFJDYname146" text="모일"/>
+  <string id="CFJDYname147" text="패영"/>
+  <string id="CFJDYname148" text="정장"/>
+  <string id="CFJDYname149" text="여범"/>
+  <string id="CFJDYname150" text="수자"/>
+  <string id="CFJDYname151" text="가미"/>
+  <string id="CFJDYname152" text="소명"/>
+  <string id="CFJDYname153" text="호연"/>
+  <string id="CFJDYname154" text="건천"/>
+  <string id="CFJDYname155" text="담영"/>
+  <string id="CFJDYname156" text="치훤"/>
+  <string id="CFJDYname157" text="가빙"/>
+  <string id="CFJDYname158" text="장옥"/>
+  <string id="CFJDYname159" text="패문"/>
+  <string id="CFJDYname160" text="설우"/>
+  <string id="CFJDYname161" text="수락"/>
+  <string id="CFJDYname162" text="율접"/>
+  <string id="CFJDYname163" text="심상"/>
+  <string id="CFJDYname164" text="우부"/>
+  <string id="CFJDYname165" text="채문"/>
+  <string id="CFJDYname166" text="인법"/>
+  <string id="CFJDYname167" text="점순"/>
+
+  <!-- 修改原版居民村民人名 -->
+  <string id="TownsfolkName01" text="라블람 여성 시민"/>
+  <string id="TownsfolkName02" text="프로옌 여성 시민"/>
+  <string id="TownsfolkName03" text="여성 시민"/>
+  <string id="TownsfolkName04" text="네케니아 여성 시민"/>
+  <string id="TownsfolkName05" text="모그리안 여성 시민"/>
+  <string id="TownsfolkName06" text="여성 시민"/>
+  <string id="TownsfolkName07" text="라블람 농민"/>
+  <string id="TownsfolkName08" text="농민"/>
+  <string id="TownsfolkName09" text="농민"/>
+  <string id="TownsfolkName10" text="모그리안 농민"/>
+  <string id="TownsfolkName11" text="네케니아 농민"/>
+  <string id="TownsfolkName12" text="프로옌 농민"/>
+ </strings>
+</base>

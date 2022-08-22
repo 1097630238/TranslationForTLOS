@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 希绝大陆兵种文件夹下“Ambition_OriginLords”文件里的所有领主名称的英文 -->
+  <!-- 新ID的新领主们开始 -->
+   <!-- 炎朝新领主开始 염나라 -->
+    <string id="SikaLordNameJDYN01" text="소명악" />
+    <string id="SikaLordNameJDYN02" text="소근방" />
+    <string id="SikaLordNameJDYN03" text="소청남" />
+    <string id="SikaLordNameJDYN04" text="능락" />
+    <string id="SikaLordNameJDYN05" text="능일신" />
+    <string id="SikaLordNameJDYN06" text="능성천" />
+    <string id="SikaLordNameJDYN07" text="묵량" />
+    <string id="SikaLordNameJDYN08" text="묵우석" />
+    <string id="SikaLordNameJDYN09" text="묵열능" />
+    <string id="SikaLordNameJDYN10" text="엽헌" />
+    <string id="SikaLordNameJDYN11" text="엽좌" />
+    <string id="SikaLordNameJDYN12" text="임문영" />
+    <string id="SikaLordNameJDYN13" text="임호" />
+    <string id="SikaLordNameJDYN14" text="남궁영" />
+    <string id="SikaLordNameJDYN15" text="남궁령" />
+    <string id="SikaLordNameJDYN16" text="상관문헌" />
+    <string id="SikaLordNameJDYN17" text="상관호" />
+    <string id="SikaLordNameJDYN18" text="독고원희" />
+    <string id="SikaLordNameJDYN19" text="독고덕" />
+    <string id="SikaLordNameJDYN20" text="구양석" />
+    <string id="SikaLordNameJDYN21" text="구양박" />
+   <!-- 炎朝新领主结束 -->
+
+   <!-- 普若尤恩新领主开始 프로옌 -->
+    <string id="SikaLordNamePRUN01" text="오웬데크" />
+    <string id="SikaLordNamePRUN02" text="에반스" />
+    <string id="SikaLordNamePRUN03" text="딘센" />
+    <string id="SikaLordNamePRUN04" text="리오네스" />
+    <string id="SikaLordNamePRUN05" text="알렌" />
+    <string id="SikaLordNamePRUN06" text="윌크스" />
+    <string id="SikaLordNamePRUN07" text="신모라" />
+    <string id="SikaLordNamePRUN08" text="소피아" />
+    <string id="SikaLordNamePRUN09" text="가르시아" />
+    <string id="SikaLordNamePRUN10" text="헤라클레스" />
+    <string id="SikaLordNamePRUN11" text="줄리어스" />
+    <string id="SikaLordNamePRUN12" text="월커" />
+   <!-- 普若尤恩新领主结束 -->
+
+   <!-- 埃布拉蒙新领主开始 라블람 -->
+    <string id="SikaLordNameRBLN01" text="아드마드" />
+    <string id="SikaLordNameRBLN02" text="자와드" />
+    <string id="SikaLordNameRBLN03" text="바난" />
+    <string id="SikaLordNameRBLN04" text="유만" />
+    <string id="SikaLordNameRBLN05" text="야지드" />
+    <string id="SikaLordNameRBLN06" text="마히르" />
+    <string id="SikaLordNameRBLN07" text="파드와" />
+    <string id="SikaLordNameRBLN08" text="카이리" />
+    <string id="SikaLordNameRBLN09" text="안바르" />
+   <!-- 埃布拉蒙新领主结束 -->
+
+   <!-- 乌拉索维新领主开始 월러스 -->
+    <string id="SikaLordNameWLTN01" text="베로보그" />
+    <string id="SikaLordNameWLTN02" text="다이보그" />
+    <string id="SikaLordNameWLTN03" text="포다가" />
+    <string id="SikaLordNameWLTN04" text="호르스" />
+    <string id="SikaLordNameWLTN05" text="야릴로" />
+    <string id="SikaLordNameWLTN06" text="플린스" />
+    <string id="SikaLordNameWLTN07" text="마로위트" />
+    <string id="SikaLordNameWLTN08" text="포레위트" />
+    <string id="SikaLordNameWLTN09" text="스바로그" />
+   <!-- 乌拉索维新领主结束 -->
+
+   <!-- 纳堪维亚新领主开始 네케니아 -->
+    <string id="SikaLordNameNKNN01" text="프리구스" />
+    <string id="SikaLordNameNKNN02" text="시슬리" />
+    <string id="SikaLordNameNKNN03" text="카버" />
+    <string id="SikaLordNameNKNN04" text="와시안" />
+    <string id="SikaLordNameNKNN05" text="쿨란" />
+   <!-- 纳堪维亚新领主结束 -->
+
+   <!-- 蒙戈黎安新领主开始 모그리안 -->
+    <string id="SikaLordNameMGRN01" text="수루니" />
+    <string id="SikaLordNameMGRN02" text="치그치" />
+    <string id="SikaLordNameMGRN03" text="실데그" />
+    <string id="SikaLordNameMGRN04" text="아부르드" />
+    <string id="SikaLordNameMGRN05" text="메르그다이" />
+    <string id="SikaLordNameMGRN06" text="달란테" />
+    <string id="SikaLordNameMGRN07" text="드루" />
+    <string id="SikaLordNameMGRN08" text="지브할리그" />
+    <string id="SikaLordNameMGRN09" text="아구진" />
+   <!-- 蒙戈黎安新领主结束 -->
+
+   <!-- 雅瑞安新领主开始 -->
+   <!-- 雅瑞安新领主结束 -->
+
+   <!-- 落月新领主开始 -->
+    <string id="SikaLordNameLMCN01" text="타치바나 료코" />
+   <!-- 落月新领主结束 -->
+   
+   <!-- 小家族领主开始 -->
+    <string id="SikaLordNameMNR001" text="노예단 대장" />
+    <string id="SikaLordNameMNR002" text="소피아" />
+    <string id="SikaLordNameMNR003" text="케이트" />
+    <string id="SikaLordNameMNR004" text="켈시" />
+    <string id="SikaLordNameMNR005" text="울리나" />
+    <string id="SikaLordNameMNR006" text="상단 대장" />
+    <string id="SikaLordNameMNR007" text="안다페르니" />
+    <string id="SikaLordNameMNR008" text="디나모르" />
+    <string id="SikaLordNameMNR009" text="아란 소피만" />
+    <string id="SikaLordNameMNR010" text="우르 뱅크스" />
+    <string id="SikaLordNameMNR011" text="불꽃" />
+    <string id="SikaLordNameMNR012" text="소울 로즈" />
+   <!-- 小家族领主结束 -->
+
+  <!-- 新ID的新领主们结束 -->
+
+  <!-- 最终补齐老领主开始 -->
+   <!-- 炎的最终补齐老领主开始 염나라 -->
+    <string id="SikaLordNameJDYX01" text="소향신" />
+    <string id="SikaLordNameJDYX02" text="묵준오" />
+    <string id="SikaLordNameJDYX03" text="능곡지" />
+    <string id="SikaLordNameJDYX04" text="엽장일" />
+    <string id="SikaLordNameJDYX05" text="임호람" />
+    <string id="SikaLordNameJDYX06" text="남궁가" />
+    <string id="SikaLordNameJDYX07" text="상관검" />
+    <string id="SikaLordNameJDYX08" text="독고문우" />
+    <string id="SikaLordNameJDYX09" text="구양문창" />
+    <string id="SikaLordNameJDYX10" text="묵임갑" />
+    <string id="SikaLordNameJDYX11" text="요소설" />
+    <string id="SikaLordNameJDYX12" text="능사청" />
+    <string id="SikaLordNameJDYX13" text="백청" />
+    <string id="SikaLordNameJDYX14" text="소천은" />
+    <string id="SikaLordNameJDYX15" text="하운" />
+    <string id="SikaLordNameJDYX16" text="소사민" />
+    <string id="SikaLordNameJDYX17" text="소채옥" />
+    <string id="SikaLordNameJDYX18" text="묵영" />
+    <string id="SikaLordNameJDYX19" text="능약번" />
+    <string id="SikaLordNameJDYX20" text="묵약영" />
+    <string id="SikaLordNameJDYX21" text="능설" />
+    <string id="SikaLordNameJDYX22" text="소수명" />
+    <string id="SikaLordNameJDYX23" text="소월" />
+    <string id="SikaLordNameJDYX24" text="소앵" />
+    <string id="SikaLordNameJDYX25" text="엽곡겸" />
+    <string id="SikaLordNameJDYX26" text="관만안" />
+    <string id="SikaLordNameJDYX27" text="엽신" />
+    <string id="SikaLordNameJDYX28" text="장환옥" />
+    <string id="SikaLordNameJDYX29" text="엽장남" />
+    <string id="SikaLordNameJDYX30" text="엽일환" />
+    <string id="SikaLordNameJDYX31" text="묵사문" />
+    <string id="SikaLordNameJDYX32" text="방완영" />
+    <string id="SikaLordNameJDYX33" text="묵영란" />
+    <string id="SikaLordNameJDYX34" text="묵군" />
+    <string id="SikaLordNameJDYX35" text="남궁문연" />
+    <string id="SikaLordNameJDYX36" text="주청" />
+    <string id="SikaLordNameJDYX37" text="유영" />
+    <string id="SikaLordNameJDYX38" text="임완여" />
+    <string id="SikaLordNameJDYX39" text="임청란" />
+    <string id="SikaLordNameJDYX40" text="당안하" />
+    <string id="SikaLordNameJDYX41" text="남궁기" />
+    <string id="SikaLordNameJDYX42" text="상관운의" />
+    <string id="SikaLordNameJDYX43" text="조옥아" />
+    <string id="SikaLordNameJDYX44" text="상관금" />
+    <string id="SikaLordNameJDYX45" text="소정이" />
+    <string id="SikaLordNameJDYX46" text="독고백희" />
+    <string id="SikaLordNameJDYX47" text="임연기" />
+    <string id="SikaLordNameJDYX48" text="왕몽구" />
+    <string id="SikaLordNameJDYX49" text="서봉령" />
+    <string id="SikaLordNameJDYX50" text="구양충" />
+    <string id="SikaLordNameJDYX51" text="구양등" />
+    <string id="SikaLordNameJDYX52" text="가추면" />
+    <string id="SikaLordNameJDYX53" text="시옥" />
+    <string id="SikaLordNameJDYX54" text="하열" />
+   <!-- 炎的最终补齐老领主结束 -->
+
+   <!-- 普若尤恩的最终补齐老领主开始 프로옌 -->
+    <string id="SikaLordNamePRUX01" text="로이스턴" />
+    <string id="SikaLordNamePRUX02" text="스코트" />
+    <string id="SikaLordNamePRUX03" text="메그" />
+    <string id="SikaLordNamePRUX04" text="벅" />
+    <string id="SikaLordNamePRUX05" text="벡" />
+    <string id="SikaLordNamePRUX06" text="조쉬" />
+    <string id="SikaLordNamePRUX07" text="이브스" />
+    <string id="SikaLordNamePRUX08" text="웹" />
+    <string id="SikaLordNamePRUX09" text="델리" />
+    <string id="SikaLordNamePRUX10" text="테민" />
+    <string id="SikaLordNamePRUX11" text="상프로" />
+    <string id="SikaLordNamePRUX12" text="파자르반" />
+    <string id="SikaLordNamePRUX13" text="에르고 릴리안" />
+    <string id="SikaLordNamePRUX14" text="위니" />
+    <string id="SikaLordNamePRUX15" text="후퍼트" />
+    <string id="SikaLordNamePRUX16" text="안나" />
+    <string id="SikaLordNamePRUX17" text="드밀" />
+    <string id="SikaLordNamePRUX18" text="마가렛" />
+    <string id="SikaLordNamePRUX19" text="파커" />
+    <string id="SikaLordNamePRUX20" text="스와인" />
+    <string id="SikaLordNamePRUX21" text="다니엘" />
+    <string id="SikaLordNamePRUX22" text="안젤라" />
+    <string id="SikaLordNamePRUX23" text="딜런" />
+    <string id="SikaLordNamePRUX24" text="브레넌" />
+    <string id="SikaLordNamePRUX25" text="드레이크" />
+    <string id="SikaLordNamePRUX26" text="트로이" />
+    <string id="SikaLordNamePRUX27" text="레예크" />
+    <string id="SikaLordNamePRUX28" text="에마" />
+    <string id="SikaLordNamePRUX29" text="알리스" />
+    <string id="SikaLordNamePRUX30" text="행크" />
+    <string id="SikaLordNamePRUX31" text="말콤" />
+    <string id="SikaLordNamePRUX32" text="엘레나" />
+    <string id="SikaLordNamePRUX33" text="케이신" />
+    <string id="SikaLordNamePRUX34" text="베이라" />
+    <string id="SikaLordNamePRUX35" text="크리스티" />
+    <string id="SikaLordNamePRUX36" text="코라" />
+    <string id="SikaLordNamePRUX37" text="디나" />
+    <string id="SikaLordNamePRUX38" text="로저스" />
+    <string id="SikaLordNamePRUX39" text="캐서린" />
+    <string id="SikaLordNamePRUX40" text="데이지" />
+    <string id="SikaLordNamePRUX41" text="도리스" />
+    <string id="SikaLordNamePRUX42" text="엘사" />
+    <string id="SikaLordNamePRUX43" text="레오" />
+    <string id="SikaLordNamePRUX44" text="아이비" />
+    <string id="SikaLordNamePRUX45" text="빈센트" />
+    <string id="SikaLordNamePRUX46" text="피오나" />
+    <string id="SikaLordNamePRUX47" text="녹스" />
+    <string id="SikaLordNamePRUX48" text="베시" />
+    <string id="SikaLordNamePRUX49" text="카라" />
+    <string id="SikaLordNamePRUX50" text="엘리엇" />
+    <string id="SikaLordNamePRUX51" text="솔루나" />
+    <string id="SikaLordNamePRUX52" text="프랑키" />
+    <string id="SikaLordNamePRUX53" text="비비안" />
+   <!-- 普若尤恩的最终补齐老领主结束 -->
+
+   <!-- 埃布拉蒙的最终补齐老领主开始 -->
+    <string id="SikaLordNameRBLX01" text="아드반" />
+    <string id="SikaLordNameRBLX02" text="세실" />
+    <string id="SikaLordNameRBLX03" text="오번" />
+    <string id="SikaLordNameRBLX04" text="히드라" />
+    <string id="SikaLordNameRBLX05" text="엘라" />
+    <string id="SikaLordNameRBLX06" text="구스카" />
+    <string id="SikaLordNameRBLX07" text="카이드" />
+    <string id="SikaLordNameRBLX08" text="포타" />
+    <string id="SikaLordNameRBLX09" text="히필라" />
+    <string id="SikaLordNameRBLX10" text="주하나" />
+    <string id="SikaLordNameRBLX11" text="라데핑" />
+    <string id="SikaLordNameRBLX12" text="아파" />
+    <string id="SikaLordNameRBLX13" text="아바" />
+    <string id="SikaLordNameRBLX14" text="파이잘" />
+    <string id="SikaLordNameRBLX15" text="아지즈" />
+    <string id="SikaLordNameRBLX16" text="바이 하야" />
+    <string id="SikaLordNameRBLX17" text="알루프" />
+    <string id="SikaLordNameRBLX18" text="라흐만" />
+    <string id="SikaLordNameRBLX19" text="이븐" />
+    <string id="SikaLordNameRBLX20" text="아스마" />
+    <string id="SikaLordNameRBLX21" text="가멜" />
+    <string id="SikaLordNameRBLX22" text="바이투라" />
+    <string id="SikaLordNameRBLX23" text="나세르" />
+    <string id="SikaLordNameRBLX24" text="살라" />
+    <string id="SikaLordNameRBLX25" text="파투나" />
+    <string id="SikaLordNameRBLX26" text="마흐무드" />
+    <string id="SikaLordNameRBLX27" text="하이다" />
+    <string id="SikaLordNameRBLX28" text="오송" />
+    <string id="SikaLordNameRBLX29" text="이크람" />
+    <string id="SikaLordNameRBLX30" text="이마니" />
+    <string id="SikaLordNameRBLX31" text="이나스" />
+    <string id="SikaLordNameRBLX32" text="아이샤" />
+    <string id="SikaLordNameRBLX33" text="파티마" />
+    <string id="SikaLordNameRBLX34" text="카밀라" />
+    <string id="SikaLordNameRBLX35" text="프레마키" />
+    <string id="SikaLordNameRBLX36" text="자밀라" />
+    <string id="SikaLordNameRBLX37" text="레티파" />
+    <string id="SikaLordNameRBLX38" text="맘나" />
+    <string id="SikaLordNameRBLX39" text="코미차" />
+    <string id="SikaLordNameRBLX40" text="무나" />
+    <string id="SikaLordNameRBLX41" text="무시에르" />
+    <string id="SikaLordNameRBLX42" text="이맘" />
+    <string id="SikaLordNameRBLX43" text="나다" />
+    <string id="SikaLordNameRBLX44" text="나빌" />
+    <string id="SikaLordNameRBLX45" text="누가하" />
+    <string id="SikaLordNameRBLX46" text="니에르마이" />
+    <string id="SikaLordNameRBLX47" text="레이드" />
+    <string id="SikaLordNameRBLX48" text="아이슈오" />
+    <string id="SikaLordNameRBLX49" text="라나" />
+    <string id="SikaLordNameRBLX50" text="레사바나" />
+    <string id="SikaLordNameRBLX51" text="라비에르" />
+    <string id="SikaLordNameRBLX52" text="해리스" />
+    <string id="SikaLordNameRBLX53" text="허드슨" />
+   <!-- 埃布拉蒙的最终补齐老领主结束 -->
+
+   <!-- 乌拉索维的最终补齐老领主开始 -->
+    <string id="SikaLordNameWLTX01" text="갈키미르" />
+    <string id="SikaLordNameWLTX02" text="키이스" />
+    <string id="SikaLordNameWLTX03" text="블루어" />
+    <string id="SikaLordNameWLTX04" text="허핑턴" />
+    <string id="SikaLordNameWLTX05" text="키부" />
+    <string id="SikaLordNameWLTX06" text="울리히" />
+    <string id="SikaLordNameWLTX07" text="룰리" />
+    <string id="SikaLordNameWLTX08" text="네이팅" />
+	<string id="SikaLordNameWLTX09" text="다마리" />
+    <string id="SikaLordNameWLTX10" text="이고르" />
+    <string id="SikaLordNameWLTX11" text="마리나" />
+    <string id="SikaLordNameWLTX12" text="므니세크" />
+    <string id="SikaLordNameWLTX13" text="기네발" />
+    <string id="SikaLordNameWLTX14" text="시예브나" />
+    <string id="SikaLordNameWLTX15" text="로푸시나" />
+    <string id="SikaLordNameWLTX16" text="사지안" />
+    <string id="SikaLordNameWLTX17" text="알렉세이" />
+    <string id="SikaLordNameWLTX18" text="안드레" />
+    <string id="SikaLordNameWLTX19" text="안톤" />
+    <string id="SikaLordNameWLTX20" text="리예브나" />
+    <string id="SikaLordNameWLTX21" text="알렉산드라" />
+    <string id="SikaLordNameWLTX22" text="바실리" />
+    <string id="SikaLordNameWLTX23" text="예핌" />
+    <string id="SikaLordNameWLTX24" text="펠리다" />
+    <string id="SikaLordNameWLTX25" text="표도르" />
+    <string id="SikaLordNameWLTX26" text="이반" />
+    <string id="SikaLordNameWLTX27" text="올리가" />
+    <string id="SikaLordNameWLTX28" text="크세니아" />
+    <string id="SikaLordNameWLTX29" text="나가" />
+    <string id="SikaLordNameWLTX30" text="폴리나" />
+    <string id="SikaLordNameWLTX31" text="아나스타샤" />
+    <string id="SikaLordNameWLTX32" text="레프" />
+    <string id="SikaLordNameWLTX33" text="아플로라" />
+    <string id="SikaLordNameWLTX34" text="막심" />
+    <string id="SikaLordNameWLTX35" text="레오니드" />
+    <string id="SikaLordNameWLTX36" text="유리" />
+    <string id="SikaLordNameWLTX37" text="이스크라" />
+    <string id="SikaLordNameWLTX38" text="피야" />
+    <string id="SikaLordNameWLTX39" text="야코브" />
+    <string id="SikaLordNameWLTX40" text="예브게니" />
+    <string id="SikaLordNameWLTX41" text="빅토르" />
+   <!-- 乌拉索维的最终补齐老领主结束 -->
+
+   <!-- 蒙戈黎安的最终补齐老领主开始 -->
+    <string id="SikaLordNameMGRX01" text="쿠카드란" />
+    <string id="SikaLordNameMGRX02" text="스르비야" />
+    <string id="SikaLordNameMGRX03" text="달리" />
+    <string id="SikaLordNameMGRX04" text="도드" />
+    <string id="SikaLordNameMGRX05" text="켐보" />
+    <string id="SikaLordNameMGRX06" text="무사우" />
+    <string id="SikaLordNameMGRX07" text="투루" />
+    <string id="SikaLordNameMGRX08" text="운쿤구" />
+    <string id="SikaLordNameMGRX09" text="지차바" />
+    <string id="SikaLordNameMGRX10" text="지나사우" />
+    <string id="SikaLordNameMGRX11" text="킴부바" />
+    <string id="SikaLordNameMGRX12" text="" />
+    <string id="SikaLordNameMGRX13" text="" />
+    <string id="SikaLordNameMGRX14" text="브리그" />
+    <string id="SikaLordNameMGRX15" text="" />
+    <string id="SikaLordNameMGRX16" text="우나렌" />
+    <string id="SikaLordNameMGRX17" text="아두킨" />
+    <string id="SikaLordNameMGRX18" text="바얄" />
+    <string id="SikaLordNameMGRX19" text="에리히" />
+    <string id="SikaLordNameMGRX20" text="술리드" />
+    <string id="SikaLordNameMGRX21" text="후헤르" />
+    <string id="SikaLordNameMGRX22" text="무레한" />
+    <string id="SikaLordNameMGRX23" text="수크바" />
+    <string id="SikaLordNameMGRX24" text="파울러" />
+    <string id="SikaLordNameMGRX25" text="돌란" />
+    <string id="SikaLordNameMGRX26" text="브리골드" />
+    <string id="SikaLordNameMGRX27" text="이렌탈" />
+    <string id="SikaLordNameMGRX28" text="후리우스" />
+    <string id="SikaLordNameMGRX29" text="아리샨" />
+    <string id="SikaLordNameMGRX30" text="타라" />
+    <string id="SikaLordNameMGRX31" text="시카한" />
+    <string id="SikaLordNameMGRX32" text="아무르" />
+    <string id="SikaLordNameMGRX33" text="알리마" />
+    <string id="SikaLordNameMGRX34" text="우잉게" />
+    <string id="SikaLordNameMGRX35" text="킹게르탈" />
+    <string id="SikaLordNameMGRX36" text="나렌토야" />
+    <string id="SikaLordNameMGRX37" text="울리한" />
+    <string id="SikaLordNameMGRX38" text="키무그르" />
+    <string id="SikaLordNameMGRX39" text="루바터" />
+    <string id="SikaLordNameMGRX40" text="블렉" />
+    <string id="SikaLordNameMGRX41" text="바이 겔리" />
+    <string id="SikaLordNameMGRX42" text="루다림타" />
+    <string id="SikaLordNameMGRX43" text="바드마" />
+    <string id="SikaLordNameMGRX44" text="나이렌타이" />
+    <string id="SikaLordNameMGRX45" text="몬린군" />
+    <string id="SikaLordNameMGRX46" text="나부키" />
+    <string id="SikaLordNameMGRX47" text="하부루이" />
+    <string id="SikaLordNameMGRX48" text="알탄" />
+   <!-- 蒙戈黎安的最终补齐老领主结束 -->
+
+   <!-- 纳堪维亚的最终补齐老领主开始 -->
+    <string id="SikaLordNameNKNX01" text="하트" />
+    <string id="SikaLordNameNKNX02" text="커크" />
+    <string id="SikaLordNameNKNX03" text="워렌" />
+    <string id="SikaLordNameNKNX04" text="힐" />
+    <string id="SikaLordNameNKNX05" text="어크스" />
+    <string id="SikaLordNameNKNX06" text="호퍼" />
+    <string id="SikaLordNameNKNX07" text="렐라" />
+    <string id="SikaLordNameNKNX08" text="노렐" />
+    <string id="SikaLordNameNKNX09" text="하이든" />
+    <string id="SikaLordNameNKNX10" text="레지나" />
+    <string id="SikaLordNameNKNX11" text="아사" />
+    <string id="SikaLordNameNKNX12" text="" />
+    <string id="SikaLordNameNKNX13" text="" />
+    <string id="SikaLordNameNKNX14" text="에반젤린" />
+    <string id="SikaLordNameNKNX15" text="비키" />
+    <string id="SikaLordNameNKNX16" text="아방갈린" />
+    <string id="SikaLordNameNKNX17" text="비르지니" />
+    <string id="SikaLordNameNKNX18" text="버질" />
+    <string id="SikaLordNameNKNX19" text="비제이" />
+    <string id="SikaLordNameNKNX20" text="반젤리스" />
+    <string id="SikaLordNameNKNX21" text="바르가스" />
+    <string id="SikaLordNameNKNX22" text="트위기" />
+    <string id="SikaLordNameNKNX23" text="우자나" />
+    <string id="SikaLordNameNKNX24" text="소트" />
+    <string id="SikaLordNameNKNX25" text="앙그르" />
+    <string id="SikaLordNameNKNX26" text="반지" />
+    <string id="SikaLordNameNKNX27" text="비자야" />
+    <string id="SikaLordNameNKNX28" text="허핀" />
+    <string id="SikaLordNameNKNX29" text="반파더" />
+    <string id="SikaLordNameNKNX30" text="알트" />
+    <string id="SikaLordNameNKNX31" text="바르카" />
+    <string id="SikaLordNameNKNX32" text="시피" />
+    <string id="SikaLordNameNKNX33" text="니콜렛" />
+    <string id="SikaLordNameNKNX34" text="할버드" />
+    <string id="SikaLordNameNKNX35" text="몬나" />
+    <string id="SikaLordNameNKNX36" text="도르트" />
+    <string id="SikaLordNameNKNX37" text="베가" />
+    <string id="SikaLordNameNKNX38" text="아스문드" />
+    <string id="SikaLordNameNKNX39" text="바카" />
+    <string id="SikaLordNameNKNX40" text="비센조" />
+    <string id="SikaLordNameNKNX41" text="빈스" />
+    <string id="SikaLordNameNKNX42" text="그레타" />
+    <string id="SikaLordNameNKNX43" text="카르판" />
+    <string id="SikaLordNameNKNX44" text="힐딩" />
+    <string id="SikaLordNameNKNX45" text="헬거" />
+    <string id="SikaLordNameNKNX46" text="에이릭스도티르" />
+    <string id="SikaLordNameNKNX47" text="신더" />
+    <string id="SikaLordNameNKNX48" text="헤르문드" />
+    <string id="SikaLordNameNKNX49" text="토르그림" />
+    <string id="SikaLordNameNKNX50" text="안간티르" />
+    <string id="SikaLordNameNKNX51" text="벨레" />
+    <string id="SikaLordNameNKNX52" text="토르게이르" />
+    <string id="SikaLordNameNKNX53" text="토라" />
+    <string id="SikaLordNameNKNX54" text="스바르트" />
+    <string id="SikaLordNameNKNX55" text="핀보그" />
+   <!-- 纳堪维亚的最终补齐老领主结束 -->
+
+   <!-- 雅瑞安的最终补齐老领主开始 -->
+    <!-- 雅瑞安老领主统治者和领袖开始 -->
+	<string id="SikaLordNameYRNX01" text="아이크 쿠와" />
+     <string id="SikaLordNameYRNX02" text="파카르" />
+     <string id="SikaLordNameYRNX03" text="스켈" />
+     <string id="SikaLordNameYRNX04" text="쿠쿨칸" />
+     <string id="SikaLordNameYRNX05" text="이시타브" />
+     <string id="SikaLordNameYRNX06" text="라우라나" />
+     <string id="SikaLordNameYRNX07" text="코카타" />
+     <string id="SikaLordNameYRNX08" text="이시첼" />
+     <string id="SikaLordNameYRNX09" text="사만 에크" />
+    <!-- 雅瑞安老领主统治者和领袖结束 -->
+	<string id="SikaLordNameYRNX10" text="난디" />
+    <string id="SikaLordNameYRNX11" text="아마디" />
+    <string id="SikaLordNameYRNX12" text="케 샨" />
+    <string id="SikaLordNameYRNX13" text="이만" />
+    <string id="SikaLordNameYRNX14" text="친키아" />
+    <string id="SikaLordNameYRNX15" text="맘보" />
+    <string id="SikaLordNameYRNX16" text="무시카" />
+    <string id="SikaLordNameYRNX17" text="마누산" />
+    <string id="SikaLordNameYRNX18" text="에도" />
+    <string id="SikaLordNameYRNX19" text="라고스" />
+    <string id="SikaLordNameYRNX20" text="이도" />
+    <string id="SikaLordNameYRNX21" text="코피" />
+    <string id="SikaLordNameYRNX22" text="마가디" />
+    <string id="SikaLordNameYRNX23" text="샤카" />
+    <string id="SikaLordNameYRNX24" text="보마" />
+    <string id="SikaLordNameYRNX25" text="부시만" />
+    <string id="SikaLordNameYRNX26" text="카도" />
+    <string id="SikaLordNameYRNX27" text="요루바" />
+    <string id="SikaLordNameYRNX28" text="다시에르" />
+    <string id="SikaLordNameYRNX29" text="므시카" />
+    <string id="SikaLordNameYRNX30" text="음폰도" />
+    <string id="SikaLordNameYRNX31" text="움루사" />
+    <string id="SikaLordNameYRNX32" text="야코나" />
+    <string id="SikaLordNameYRNX33" text="알 아인" />
+    <string id="SikaLordNameYRNX34" text="시시베" />
+    <string id="SikaLordNameYRNX35" text="바브카" />
+    <string id="SikaLordNameYRNX36" text="음풍구" />
+    <string id="SikaLordNameYRNX37" text="데시리" />
+    <string id="SikaLordNameYRNX38" text="포르티아" />
+    <string id="SikaLordNameYRNX39" text="하우사" />
+    <string id="SikaLordNameYRNX40" text="노르산도" />
+    <string id="SikaLordNameYRNX41" text="오로모" />
+    <string id="SikaLordNameYRNX42" text="로포르텔리" />
+    <string id="SikaLordNameYRNX43" text="라메" />
+    <string id="SikaLordNameYRNX44" text="메나" />
+    <string id="SikaLordNameYRNX45" text="마니아" />
+    <string id="SikaLordNameYRNX46" text="리안나" />
+    <string id="SikaLordNameYRNX47" text="픽실라트" />
+    <string id="SikaLordNameYRNX48" text="아리스타" />
+    <string id="SikaLordNameYRNX49" text="가후아" />
+    <string id="SikaLordNameYRNX50" text="무우파" />
+   <!-- 雅瑞安的最终补齐老领主结束 -->
+
+   <!-- 落月的最终补齐老领主开始 -->
+    <!-- 落月老领主统治者和领袖开始 -->
+    <string id="SikaLordNameLMCX01" text="미야타 히로시" />
+    <string id="SikaLordNameLMCX02" text="와타후지 게이고" />
+    <string id="SikaLordNameLMCX03" text="사키 엔추" />
+    <string id="SikaLordNameLMCX04" text="다케노 마사시" />
+    <string id="SikaLordNameLMCX05" text="가와사키 히로요시" />
+    <string id="SikaLordNameLMCX06" text="스기시마 토미오" />
+    <string id="SikaLordNameLMCX07" text="타케우치 사이타" />
+    <string id="SikaLordNameLMCX08" text="요시베 이치로" />
+    <string id="SikaLordNameLMCX09" text="타치하지메 사와츠바메" />
+    <!-- Old Lord of the Fallen Moon Ruler and Leader End -->
+    <string id="SikaLordNameLMCX10" text="미야타 스즈" />
+    <string id="SikaLordNameLMCX11" text="와타후지 린카" />
+    <string id="SikaLordNameLMCX12" text="와타후지 타카마" />
+    <string id="SikaLordNameLMCX13" text="와타후지 라쇼" />
+    <string id="SikaLordNameLMCX14" text="사키 시바카츠" />
+    <string id="SikaLordNameLMCX15" text="와타후지 히로하루" />
+    <string id="SikaLordNameLMCX16" text="미야타 요시키" />
+    <string id="SikaLordNameLMCX17" text="미야타 카즈마사" />
+    <string id="SikaLordNameLMCX18" text="사키 노부하마" />
+    <string id="SikaLordNameLMCX19" text="미야타 케이코" />
+    <string id="SikaLordNameLMCX20" text="미야타 모토키" />
+    <string id="SikaLordNameLMCX21" text="다케노 토모코" />
+    <string id="SikaLordNameLMCX22" text="다케야 히데오" />
+    <string id="SikaLordNameLMCX23" text="다케야 신이치" />
+    <string id="SikaLordNameLMCX24" text="가와사키 카미" />
+    <string id="SikaLordNameLMCX25" text="가와사키 마사무네" />
+    <string id="SikaLordNameLMCX26" text="가와사키 세키코" />
+    <string id="SikaLordNameLMCX27" text="가와사키 이도" />
+    <string id="SikaLordNameLMCX28" text="가와사키 린" />
+    <string id="SikaLordNameLMCX29" text="가와사키 모모에" />
+    <string id="SikaLordNameLMCX30" text="스기시마 시미즈" />
+    <string id="SikaLordNameLMCX31" text="스기시마 미노" />
+    <string id="SikaLordNameLMCX32" text="요시부 마이" />
+    <string id="SikaLordNameLMCX33" text="요시부 노키" />
+    <string id="SikaLordNameLMCX34" text="다케우치 카에데" />
+    <string id="SikaLordNameLMCX35" text="다케우치 유라쿠" />
+    <string id="SikaLordNameLMCX36" text="스기시마 타로" />
+    <string id="SikaLordNameLMCX37" text="스기시마 란" />
+    <string id="SikaLordNameLMCX38" text="타치하지메 사" />
+    <string id="SikaLordNameLMCX39" text="타치하지메 슌타이" />
+    <string id="SikaLordNameLMCX40" text="사키 시오다" />
+    <string id="SikaLordNameLMCX41" text="사키 카오리" />
+   <!-- 落月的最终补齐老领主结束 -->
+
+  <!-- 最终补齐老领主结束 -->
+
+  </strings>
+</base>

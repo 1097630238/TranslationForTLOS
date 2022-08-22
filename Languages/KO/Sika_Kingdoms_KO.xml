@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- 沙盒国家阵营文本 -->
+    <string id="kingdomempiren01" text="야리안 마국" />
+    <string id="kingdomempiren02" text="야리안 마국" />
+    <string id="kingdomempiren03" text="야리안 마국" />
+    <string id="kingdomempiren04" text="마황" />
+    <string id="kingdomempiren05" text="아무도 야리안의 기원은 모른다. 그들은 신의 아이들이라고 한다. 그들의 터전인 열대우림이 그들을 보호하고 있다. 신에 대한 믿음은 그들을 극도로 연합시켰다. 그들의 신이 그들이 싸울 때 특별한 힘을 주고 또 그들의 인생길을 인도해줄 것이라고 한다. 그들의 마법사 황제는 신의 화신이라고 하며, 본토의 비밀을 모두 통달했다고도 한다." />
+
+    <string id="kingdomempirew01" text="로모카 막부" />
+    <string id="kingdomempirew02" text="로모카 막부" />
+    <string id="kingdomempirew03" text="로모카 막부" />
+    <string id="kingdomempirew04" text="덴노" />
+    <string id="kingdomempirew05" text="로모카 사람들은 구석진 곳에 살며 본토 북동부의 다른 이들과 소통하지 않았다. 염 왕조의 상인들이 우연히 그들의 영토를 침범하고 나서야, 로모카인들은 문화, 정치, 기술과 상업을 염 왕조로부터 배우기 시작했고 그 이후로 발전해왔다. 미천한 배경을 가진 로모카 사람들은 살아남기 위해 본토의 다양한 문명의 장점을 흡수하고 발전시키며 독특한 문화를 형성하기 시작했다." />
+
+    <string id="kingdomempires01" text="염나라" />
+    <string id="kingdomempires02" text="염나라" />
+    <string id="kingdomempires03" text="염나라" />
+    <string id="kingdomempires04" text="염나라 사람들의 문화는 고대로부터 이어져왔다. 자비로우며 농업을 중요시하는 문화적 특성은 그들을 급속도로 성장시켰다. 그것은 시카 본토 최초의 고도로 통일된 봉건문화였다. 극도로 중앙집권화된 제국주의 권력 체계와 거대한 인구는 유구한 역사 가운데 그들을 번영케하고 유리하게 만들어 갔다. 그러나, 오랜 번영은 그들의 위기감각을 무디게 만들었고, 한때 위기에 빠지기도 했다." /> 
+
+    <string id="kingdomsturgia01" text="네케니아 왕국" />
+    <string id="kingdomsturgia02" text="네케니아 왕국" />
+    <string id="kingdomsturgia03" text="네케니아 왕국" />
+    <string id="kingdomsturgia04" text="국왕" />
+    <string id="kingdomsturgia05" text="네케니아는 한 때 얼음과 눈 속에 버려져 있었다. 그들은 숲 속을 걷길 좋아했다. 그들은 필요한 것만을 취했고 그들이 자라난 환경을 보호하길 원했다. 겨울에는 자원이 부족하기에, 그들은 종종 확장해야 했다. 결국, 주위 세력의 침입에 맞서, 그들은 눈 속에서 모든 세력을 결집시켰고 그들만의 동맹을 수립했다." />
+
+    <string id="kingdomaserai01" text="라블람 공국" />
+    <string id="kingdomaserai02" text="라블람 공국" />
+    <string id="kingdomaserai03" text="라블람 공국" />
+    <string id="kingdomaserai04" text="술탄" />
+    <string id="kingdomaserai05" text="라블람 사람들은 대륙의 끝자락에 살고 있다. 그들은 사막의 오아시스와 강가에서만 살 수 있다. 열악한 환경은 다른 문화에는 없는 회복력을 주었다. 그들은 그들의 인내와 사막의 지형을 이용하여 그들을 경멸하는 세력들을 계속해서 물리쳐왔다. 이윽고, 그들은 그들만의 통합된 봉건 사회를 사막에서 확립해냈다. 천연 자원의 부족은 빈부 격차를 극대화시켰다. 민간인들은 생존 수단이 없기에, 살기 위해서 대체로 부자의 노예가 되어야 했다. 이 때문에, 라블람의 왕조는 여러 번 전복되었다." />
+
+    <string id="kingdomvlandia01" text="프로옌 연방" />
+    <string id="kingdomvlandia02" text="프로옌 연방" />
+    <string id="kingdomvlandia03" text="프로옌 연방" />
+    <string id="kingdomvlandia04" text="왕" />
+    <string id="kingdomvlandia05" text="프로옌 사람들은 자부심으로 유명하며 세계에서 가장 순수한 혈통이라 주장한다. 그러나 내부적으로 전쟁이 끊이지 않으며, 모든 부족들은 정복을 꿈꾸고 있다. 끊임없는 전쟁 속에서 마침내 그들은 같은 목표를 갖게 되었다. 그것은 바로 기술과 돈과 신앙이었다. 이 목표의 추구는 내부 모순을 통합하고 외부로 확장하기 위한 공동의 노력으로 바뀌었다. 그러나, 내부 분열은 여전히 문화적 문제이다." />
+
+    <string id="kingdombattania01" text="월러스 군단" />
+    <string id="kingdombattania02" text="월러스 군단" />
+    <string id="kingdombattania03" text="월러스 군단" />
+    <string id="kingdombattania04" text="군단장" />
+    <string id="kingdombattania05" text="월러스 사람들은 거대한 짐승들을 사냥하기를 즐긴다. 성공적인 사냥은 부족을 식량 문제에서 자유롭게 할 수 있었다. 월러스인들은 싸움과 술을 좋아하고, 그 용맹한 성격 탓에 어떤 적도 두려워하지 않는다. 수없는 적을 무찌르며, 그들은 점차 스스로의 힘을 키워갔다. 감히 그들의 영향권에 침입하는 모든 적들은 파멸을 당할 것이다." />
+
+    <string id="kingdomkhuzait01" text="모그리안 칸국" />
+    <string id="kingdomkhuzait02" text="모그리안 칸국" />
+    <string id="kingdomkhuzait03" text="모그리안 칸국" />
+    <string id="kingdomkhuzait04" text="칸" />
+    <string id="kingdomkhuzait05" text="모그리안 사람들은 초원에서 번성하며 소, 양, 그리고 말들과 함께 살아간다. 모든 모그리안 사람은 뛰어난 기수이다. 광대한 초원은 통일된 문화적 인식을 저해했다, 초원왕이 태어나기 전까지는. 그는 용감했고 전쟁에 능했으며, 장기적인 전략의 비전을 갖고 있었다. 아주 짧은 시간에 그는 초원의 모든 군대를 통합하고 주변의 모든 군대를 물리쳤다. 잠시였지만, 그 영토는 대륙의 동쪽에서 서쪽까지 확장되었다. 그러나 모든 것은 영웅의 탄생과 함께 오고 영웅의 죽음과 함께 사라졌다. 모그리안 사람들은 그들을 번영의 시대로 다시 이끌어줄 다음 초원왕을 기다리고 있다." />
+  </strings>
+</base>

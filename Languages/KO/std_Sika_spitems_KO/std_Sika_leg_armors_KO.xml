@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 腿甲的英文文本 -->
+  <!-- 炎朝 -->
+    <string id="LAJDY01" text="농부 신발" />
+    <string id="LAJDY02" text="염 신발" />
+    <string id="LAJDY03" text="염 가죽 장화" />
+    <string id="LAJDY04" text="염 보병 장화" />
+    <string id="LAJDY05" text="염 뾰족한 장화" />
+    <string id="LAJDY06" text="염 쇼스" />
+    <string id="LAJDY07" text="염 기수 장화" />
+    <string id="LAJDY08" text="염 징박힌 황금 장화" />
+    <string id="LAJDY09" text="황금 판금 장화" />
+    <string id="LAJDY10" text="검은 판금 장화" />
+    <string id="LAJDY11" text="검은 경량 장화" />
+    <string id="LAJDY12" text="조잡한 황금 장화" />
+    <string id="LAJDY13" text="조잡한 판금 장화" />
+    <string id="LAJDY14" text="조잡한 판금 장화" />
+
+  <!-- 普若尤恩 -->
+    <string id="LAPRU01" text="프로옌 단순한 레더 부츠" />
+    <string id="LAPRU02" text="프로옌 메일 쇼스" />
+    <string id="LAPRU03" text="프로옌 보병 메일 쇼스" />
+    <string id="LAPRU04" text="프로옌 싸맨 레더 부츠" />
+    <string id="LAPRU05" text="프로옌 레더 부츠" />
+    <string id="LAPRU06" text="프로옌 스플린트 부츠" />
+    <string id="LAPRU07" text="프로옌 헤비 스플린트 부츠" />
+  <!-- 埃布拉蒙 -->
+    <string id="LARBL01" text="용병 장화" />
+    <string id="LARBL02" text="라블람 가죽 장화" />
+    <string id="LARBL03" text="라블람 갑옷 장화" />
+  <!-- 蒙戈黎安 -->
+    <string id="LAMGR01" text="모그리안 가죽 장화" />
+    <string id="LAMGR02" text="모그리안 스웨이드 장화" />
+  <!-- 落月 -->
+    <string id="LALMC01" text="로모카 주민 신발" />
+    <string id="LALMC02" text="로모카 아시가루 신발" />
+    <string id="LALMC03" text="로모카 장화" />
+    <string id="LALMC04" text="로모카 갑옷 쇼스" />
+  <!-- 雅瑞安 -->
+    <string id="LAYRN01" text="야리안 부족 신발" />
+    <string id="LAYRN02" text="야리안 전사 신발" />
+    <string id="LAYRN03" text="야리안 콘돌 장화" />
+    <string id="LAYRN04" text="야리안 이구아나 장화" />
+  <!-- 其他 -->
+    <string id="LASTY01" text="암흑 플레이트 장화" />
+    <string id="LASTY02" text="시카 기사 플레이트 장화" />
+  </strings>
+</base>

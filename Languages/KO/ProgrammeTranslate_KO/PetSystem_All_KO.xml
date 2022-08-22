@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+    <!-- PetSystem_All_CNs是PetSystem这个模块的翻译文件-->
+    
+    <!-- PetBehaiour所有显示界面的翻译-->
+    <string id="strPetDailyEvent001" text="당신의 반려동물이 배고픕니다." />
+    <string id="strPetDailyEvent002" text="당신의 반려동물이 목마릅니다." />
+    <string id="strPetDailyEvent003" text="당신의 반려동물이 불행합니다." />
+    
+    <!-- PetSystemVM所有显示界面的翻译-->
+
+    <string id="strPetSystemName001" text="개" />
+
+    <string id="strPetSystemVM000" text="반려동물 관리" />
+    <string id="strPetSystemVM001" text="먹이기" />
+    <string id="strPetSystemVM002" text="물 주기" />
+    <string id="strPetSystemVM003" text="쓰다듬기" />
+    <string id="strPetSystemVM004" text="놀아주기" />
+    <string id="strPetSystemVM005" text="훈련하기" />
+    <string id="strPetSystemVM006" text="상태" />
+    <string id="strPetSystemVM007" text="닫기" />
+
+
+    <string id="strPetSystemVM100" text="반려동물:" />
+    <string id="strPetSystemVM101" text="반려동물:" />
+    <string id="strPetSystemVM102" text="반려동물 레벨:" />
+    <string id="strPetSystemVM103" text="반려동물 건강:" />
+    <string id="strPetSystemVM104" text="포만감:" />
+    <string id="strPetSystemVM105" text="목마름:" />
+    <string id="strPetSystemVM106" text="기분:" />
+    <string id="strPetSystemVM107" text="관계:" />
+    <string id="strPetSystemVM108" text="경험치:" />
+
+    <string id="strPetSystemVM200" text="먹일 필요 없음" />
+    <string id="strPetSystemVM201" text="당신의 반려동물은 잘 먹고 있습니다." />
+    <string id="strPetSystemVM202" text="먹이기 중단" />
+    <string id="strPetSystemVM203" text="반려동물 먹이기" />
+    <string id="strPetSystemVM204" text="곡물을 먹이면 반려동물의 포만감을 높일 수 있습니다." />
+    <string id="strPetSystemVM205" text="먹이기" />
+    <string id="strPetSystemVM206" text="먹이기 중단" />
+    <string id="strPetSystemVM207" text="부족: 곡물" />
+    <string id="strPetSystemVM208" text="곡물이 부족합니다!" />
+    <string id="strPetSystemVM209" text="먹이기 중단" />
+
+    <string id="strPetSystemVM210" text="물 주기" />
+    
+    <string id="strPetSystemVM211" text="물 먹일 필요 없음" />
+    <string id="strPetSystemVM212" text="물 옆으로 데려가지만 마시게 하지는 못합니다." />
+    <string id="strPetSystemVM213" text="물 주기 중단" />
+    <string id="strPetSystemVM214" text="반려동물을 위한 물 한 통을 사는 데 100 디나르를 사용하면, 목마름 정도가 10 개선됩니다." />
+    <string id="strPetSystemVM215" text="물 주기" />
+    <string id="strPetSystemVM216" text="물 주기 중단" />
+    <string id="strPetSystemVM217" text="부족: 디나르" />
+    <string id="strPetSystemVM218" text="물을 사기에 돈이 부족합니다!" />
+    <string id="strPetSystemVM219" text="마시기 중단" />
+    <string id="strPetSystemVM220" text="반려동물을 먹이기에 돈이 부족합니다!" />
+    <string id="strPetSystemVM221" text="물 한 통을 사는 데 100 디나르를 사용하여, 반려동물의 목마름 정도를 " />
+    <string id="strPetSystemVM222" text=" 개선했습니다." />
+
+    <string id="strPetSystemVM223" text="쓰다듬을 필요 없음" />
+    <string id="strPetSystemVM224" text="당신의 반려동물은 충분히 행복합니다. 쓰다듬을 필요 없습니다." />
+    <string id="strPetSystemVM225" text="쓰다듬기 중단" />
+    <string id="strPetSystemVM226" text="쓰다듬기" />
+    <string id="strPetSystemVM227" text="반려동물을 쓰다듬기에 스태미너 10을 사용하면, 기분 10이 증가합니다." />
+    <string id="strPetSystemVM228" text="쓰다듬기" />
+    <string id="strPetSystemVM229" text="쓰다듬기 중단" />
+    <string id="strPetSystemVM230" text="부족: 스태미너" />
+    <string id="strPetSystemVM231" text="반려동물을 쓰다듬을 스태미너가 부족합니다." />
+    <string id="strPetSystemVM232" text="쓰다듬기 중단" />
+    <string id="strPetSystemVM233" text="반려동물을 쓰다듬기에 스태미너 10을 사용하여 기분 " />
+    <string id="strPetSystemVM234" text=" 이(가) 증가했습니다." />
+
+    <string id="strPetSystemVM235" text="놀아줄 필요 없음" />
+    <string id="strPetSystemVM236" text="당신은 이미 당신의 반려동물과 견고한 관계를 구축했으니, 지금은 놀아줄 필요가 없습니다." />
+    <string id="strPetSystemVM237" text="놀아주기 중단" />
+    <string id="strPetSystemVM238" text="놀아주기" />
+    <string id="strPetSystemVM239" text="장난감을 사서 반려동물과 놀아주기에 1000 디나르를 사용하면, 관계가 5 증가합니다." />
+    <string id="strPetSystemVM240" text="놀아주기" />
+    <string id="strPetSystemVM241" text="놀아주기 중단" />
+    <string id="strPetSystemVM242" text="부족: 디나르" />
+    <string id="strPetSystemVM243" text="반려동물을 위한 장난감을 사기에 돈이 부족합니다!" />
+    <string id="strPetSystemVM244" text="놀아주기 중단" />
+    <string id="strPetSystemVM245" text="반려동물 업그레이드!" />
+    <string id="strPetSystemVM246" text="최대 레벨 도달" />
+    <string id="strPetSystemVM247" text="장난감을 사서 반려동물과 놀아주기에 1000 디나르를 사용하여, 관계 " />
+    <string id="strPetSystemVM248" text=" 이(가) 증가했습니다." />
+
+    <string id="strPetSystemVM249" text="훈련할 필요 없음" />
+    <string id="strPetSystemVM250" text="당신의 반려동물은 이미 최대 잠재력에 도달했습니다. 추가 훈련이 필요 없습니다." />
+    <string id="strPetSystemVM251" text="훈련하기 중단" />
+    <string id="strPetSystemVM252" text="훈련하기" />
+    <string id="strPetSystemVM253" text="당신의 반려동물을 훈련하는 데에 1000 디나르와 10 스태미나를 사용하면, 경험치가 5 층가합니다. " />
+    <string id="strPetSystemVM254" text="훈련하기" />
+    <string id="strPetSystemVM255" text="훈련하기 중단" />
+    <string id="strPetSystemVM256" text="부족: 돈과 스태미너" />
+    <string id="strPetSystemVM257" text="당신은 당신의 반려동물을 훈련하기에 스태미너나 돈이 충분하지 않습니다." />
+    <string id="strPetSystemVM258" text="훈련하기 중단" />
+    <string id="strPetSystemVM259" text="당신의 반려동물을 훈련하는 데에 1000 디나르와 스태미너 10을 사용하여 동물이 경험치 " />
+    <string id="strPetSystemVM260" text=" 을 얻었습니다.pet experience." />
+
+    <string id="strPetSystemVM261" text="반려동물 이름 변경" />
+    <string id="strPetSystemVM262" text="자동 급여: on" />
+    <string id="strPetSystemVM263" text="자동 급여: off" />
+
+    <string id="strPetSystemVM264" text="당신은 반려동물을 돌볼 충분한 스태미너가 없습니다." />
+    <string id="strPetSystemVM265" text="반려동물의 상태(포만감, 목마름, 기분)가 모두 80 이상이면 펫은 완벽한 상태입니다. 반려동물의 상태가 50 이상이면 펫은 기본 상태입니다. 상태 50 미만의 반려동물은 슬럼프에 빠져 있습니다. 반려동물은 상태에 따라 이동 속도, 사기, 치유 및 시야 보너스를 제공합니다. 반려동물의 호감도와 훈련 레벨이 모두 100이 되면 반려동물이 업그레이드 됩니다. 반려동물은 10레벨까지 업그레이드할 수 있습니다. 2레벨부터 레벨당 병력 상한선이 5 씩 증가하고 부대 유지비가 1% 감소합니다." />
+
+    <string id="strPetSystemVM266" text="반려동물 먹이기에 곡물 1을 사용하여, 포만감 " />
+    <string id="strPetSystemVM267" text=" 이(가) 증가했습니다." />
+
+    <string id="strPetSystemVM268" text="자동 급여" />
+
+  </strings>
+</base>

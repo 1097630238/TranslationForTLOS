@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+    <!-- TheLandOfSika_All_CNs是TheLandOfSika这个模块的翻译文件-->
+    <string id="strTheLandOfSika" text="시카의 땅" />
+
+    <string id="strTheLandOfSika001" text="야영지 메뉴：{newline}여기서 야영하기로 합니다. 군대를 사찰하고 관리할 수 있으며, 반려동물을 먹이거나 전술을 변경할 수 있습니다." />
+    <string id="strTheLandOfSika002" text="반려동물 관리" />
+    <string id="strTheLandOfSika010" text="나가기" />
+    <string id="strTheLandOfSika004" text="시카의 땅" />
+    <string id="strTheLandOfSika005" text="시카의 땅" />
+
+    <string id="strSikaPetState000" text="반려동물 상태: 완벽" />
+    <string id="strSikaPetState001" text="반려동물 상태: 만족" />
+    <string id="strSikaPetState002" text="반려동물 상태: 보통" />
+    <string id="strSikaPetState003" text="반려동물 상태: 우울" />
+    <string id="strSikaPetState004" text="반려동물 상태: 죽어감" />
+    <string id="strSikaPetState005" text="반려동물 훈련 상태: 완벽" />
+    <string id="strSikaPetState006" text="반려동물 보너스" />
+
+   <!-- 文件CommonBehavior.cs开始 -->
+    <!--<string id="strSikaSettlementProgress001" text="정착지의 현재 프로젝트: " />
+    <string id="strSikaSettlementProgress002" text="정착지의 건설이 완료되었습니다!" />
+    <string id="strSikaSettlementProgress003" text="농지" />
+    <string id="strSikaSettlementProgress004" text="벌목소" />
+    <string id="strSikaSettlementProgress005" text="채석장" />
+    <string id="strSikaSettlementProgress006" text="병영" />
+    <string id="strSikaSettlementProgress007" text="시장" />
+    <string id="strSikaSettlementProgress008" text="의원" />
+    <string id="strSikaSettlementProgress009" text="없음" />-->
+
+    <string id="strSikaSettlementProgress010" text="정착지 자원과 식량 생산:" />
+    <string id="strSikaSettlementProgress011" text=", 목재:" />
+    <string id="strSikaSettlementProgress012" text=", 석재:" />
+    <string id="strSikaSettlementProgress013" text=". 세금: " />
+    <string id="strSikaSettlementProgress014" text="디나르. 시장 수입: " />
+    <string id="strSikaSettlementProgress015" text="디나르." />
+
+   <!-- CommonBehavior左下角信息开始 -->
+
+    <string id="strSikaInformationMessage001" text="MB2의 엔진 렌더링 시스템으로 인해, 처음으로 게임을 시작할 때, 전장에 진입할 때, 모델이나 맵을 로드할 때 이미지가 열리지 않을 수 있습니다. 그저 차분히 기다려 주시거나, 캐릭터 이미지가 완전히 보일 때까지 작동을 기다려 주십시오. (정확한 시간은 사용자의 컴퓨터 환경설정에 따라 다릅니다.)." />
+    <string id="strSikaInformationMessage002" text="The Land of Sika는 다른 모드를 설치하거나 모디파이어를 사용하는 것을 권장하지 않으며, 필수 모드도 필요 없습니다. 다른 모드를 설치하거나 모디파이어를 사용하면 충돌이 발생하거나 크래시가 날 수 있습니다. 이러한 상황으로 인해 크래시가 날 경우, 다른 모드 및 모디파이어를 닫고 다시 새 게임을 진행하십시오. 지원해 주셔서 감사합니다." />
+    <string id="strSikaInformationMessage003" text="당신은 The Land of Sika 1.4.8 버전을 플레이 중입니다. 업데이트 정보를 확인해 주세요. 개발자 디스코드에 참여하시거나(V9WZgWP4aZ) 다음의 사이트에서 후원할 수 있습니다: https://www.patreon.com/TheLandOfSika." />
+
+    <string id="strSikaInformationMessage060" text="개발 중!" />
+
+    <string id="strSikaInformationMessage061" text="현재 횃불 상태: " />
+    <string id="strSikaInformationMessage062" text="현재 깃발 상태: " />
+    <string id="strSikaInformationMessage063" text="현재 불화살 상태: " />
+    <string id="strSikaInformationMessage064" text="Off" />
+    <string id="strSikaInformationMessage065" text="On" />
+   <!-- CommonBehavior左下角信息结束 -->
+
+   <!-- CommonBehavior左侧菜单开始 -->
+    <string id="strTheLandOfSikaMenu1001" text="부대 사열" />
+    <string id="strTheLandOfSikaMenu1002" text="부대 훈련" />
+    <string id="strTheLandOfSikaMenu1003" text="자원과 도구" />
+    <string id="strTheLandOfSikaMenu1004" text="게임 설정" />
+    <string id="strTheLandOfSikaMenu1005" text="게임 옵션" />
+    <string id="strTheLandOfSikaMenu1006" text="횃불 on/off" />
+    <string id="strTheLandOfSikaMenu1007" text="깃발 on/off" />
+    <string id="strTheLandOfSikaMenu1008" text="불화살 on/off" />
+    <string id="strTheLandOfSikaMenu1009" text="야영지로 돌아가기" />
+   <!-- CommonBehavior左侧菜单结束 -->
+  <!-- 文件CommonBehavior.cs结束 -->
+
+  <!-- 文件CollectResourcesMissionLogic.cs开始 -->
+   <!-- CollectResourcesMissionLogic左下角信息开始 -->
+    <string id="strSikaInformationMessage021" text="식량 2 획득!" />
+    <string id="strSikaInformationMessage022" text="식량 5 획득!" />
+   <!-- CollectResourcesMissionLogic左下角信息结束 -->
+  <!-- 文件CollectResourcesMissionLogic.cs结束 -->
+
+  <!-- 文件SpecialLootLogic.cs开始 -->
+   <!-- SpecialLootLogic.cs左下角信息开始 -->
+    <string id="strSikaInformationMessage1001" text="당신은 " />
+    <string id="strSikaInformationMessage1002" text="특별한 전리품을 얻었습니다: " />
+    <string id="strSikaInformationMessage1003" text="보통의" />
+    <string id="strSikaInformationMessage1004" text="괜찮은" />
+    <string id="strSikaInformationMessage1005" text="희귀한" />
+    <string id="strSikaInformationMessage1006" text="섬세한" />
+    <string id="strSikaInformationMessage1007" text="화려한" />
+   <!-- SpecialLootLogic.cs左下角信息结束 -->
+  <!-- 文件SpecialLootLogic.cs结束 -->
+
+  <!-- 文件SpecialClanBehavior.cs开始 -->
+
+   <!-- SpecialClanBehavior.cs对话开始 -->
+    <string id="strSpecialClanTalk1101" text="마지막 순간까지, 이 세상의 모든 것을 암흑의 물결이 지배할 것이다!" />
+    <string id="strSpecialClanTalk1102" text="널 파괴하겠다!" />
+
+    <string id="strSpecialClanTalk1103" text="인간, 인간! 맛있다! 맛있다!" />
+    <string id="strSpecialClanTalk1104" text="괴물이다! 모두 없애주마!" />
+
+    <string id="strSpecialClanTalk1105" text="너의 죄는 피의 연꽃에 삼켜질 것이다!" />
+    <string id="strSpecialClanTalk1106" text="내 죄에 피의 연꽃을 파묻어주지!" />
+
+    <string id="strSpecialClanTalk1107" text="끝없는 하얀 서리가 대륙 전체를 뒤덮을 것이다!" />
+    <string id="strSpecialClanTalk1108" text="하얀 서리를 쪼개고 햇살을 맞이할테다!" />
+
+    <string id="strSpecialClanTalk1109" text="사악한 불꽃이 모든 것을 태워버릴 것이다!" />
+    <string id="strSpecialClanTalk1110" text="사악한 불꽃이 꺼지리라!" />
+    
+    <string id="strSpecialClanTalk1111" text="우리는 지하 세계의 전령이다. 이단심문관의 명에 따라 너의 영혼을 벌할 것이다!" />
+    <string id="strSpecialClanTalk1112" text="그 누구도, 신이라 해도 내 영혼을 심문할 수는 없다!" />
+   <!-- SpecialClanBehavior.cs对话结束 -->
+
+   <!-- SpecialClanBehavior.cs左侧菜单开始 -->
+    <string id="strTheLandOfSikaMenu1101" text="강력한 악의 세력을 만났습니다!" />
+    <string id="strTheLandOfSikaMenu1102" text="공격!" />
+    <string id="strTheLandOfSikaMenu1103" text="항복." />
+    <string id="strTheLandOfSikaMenu1104" text="일시적 후퇴." />
+
+    <string id="strTheLandOfSikaMenu1105" text="희귀한" />
+    <string id="strTheLandOfSikaMenu1106" text="섬세한" />
+    <string id="strTheLandOfSikaMenu1107" text="화려한" />
+   <!-- SpecialClanBehavior.cs左侧菜单结束 -->
+  <!-- 文件SpecialClanBehavior.cs结束 -->
+
+  <!-- 文件SikaDiplomacyBehavior.cs开始 -->
+    <string id="strTheLandOfSikaInformationMessage1001" text="는 숙고를 거친 후, " />
+    <string id="strTheLandOfSikaInformationMessage1002" text="에 전쟁을 선포했습니다." />
+  <!-- 文件SikaDiplomacyBehavior.cs结束 -->
+
+  <!-- 文件BattleResourcesLogic.cs开始 -->
+    <string id="strTheLandOfSikaInformationMessage1101" text="당신의 병사들은 전장에서 다음과 같은 자원들을 수집했습니다. 식량: " />
+    <string id="strTheLandOfSikaInformationMessage1102" text=", 목재: " />
+    <string id="strTheLandOfSikaInformationMessage1103" text=" 그리고 석재: " />
+  <!-- 文件BattleResourcesLogic.cs结束 -->
+
+  <!-- 文件SikaSettlementVM.cs开始 -->
+   <!-- SikaSettlementVM.cs弹窗开始 -->
+    <string id="strTheLandOfSikaWindow12011" text="건설 불가" />
+    <string id="strTheLandOfSikaWindow12012" text="해당 건물 건설 불가" />
+
+    <string id="strTheLandOfSikaWindow1201" text="이(가) 건설 중입니다." />
+    <string id="strTheLandOfSikaWindow1202" text="당신의 정착지는 건설 중입니다. 새로운 프로젝트는 기다려 주십시오." />
+    <string id="strTheLandOfSikaWindow1203" text="건설 불가" />
+
+    <string id="strTheLandOfSikaWindow1204" text="업그레이드 불가" />
+    <string id="strTheLandOfSikaWindow1205" text="정착지의 농지는 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1206" text="업그레이드 중단" />
+
+    <string id="strTheLandOfSikaWindow1207" text="농지 업그레이드" />
+    <string id="strTheLandOfSikaWindow1208" text="당신은 " />
+    <string id="strTheLandOfSikaWindow1209" text="포인트의 식량, 목재, 석재를 사용할 것입니다: 농지 업그레이드." />
+    <string id="strTheLandOfSikaWindow1210" text="건설 확인" />
+    <string id="strTheLandOfSikaWindow1211" text="건설 중단" />
+
+    <string id="strTheLandOfSikaWindow1212" text="자원 부족" />
+    <string id="strTheLandOfSikaWindow1213" text="자원이 부족합니다!" />
+
+    <string id="strTheLandOfSikaWindow1214" text="정착지의 벌목장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1215" text="정착지의 채석장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1216" text="정착지의 병영이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1217" text="정착지의 시장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1218" text="정착지의 의원이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaWindow1219" text="정착지의 플레이어 홈이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+
+    <string id="strTheLandOfSikaWindow1220" text="벌목장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1221" text="채석장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1222" text="병영 업그레이드" />
+    <string id="strTheLandOfSikaWindow1223" text="시장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1224" text="의원 업그레이드" />
+    <string id="strTheLandOfSikaWindow1225" text="플레이어 홈 업그레이드" />
+
+    <string id="strTheLandOfSikaWindow1226" text="포인트의 식량, 목재, 그리고 석재: 벌목장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1227" text="포인트의 식량, 목재, 그리고 석재: 채석장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1228" text="포인트의 식량, 목재, 그리고 석재: 병영 업그레이드" />
+    <string id="strTheLandOfSikaWindow1229" text="포인트의 식량, 목재, 그리고 석재: 시장 업그레이드" />
+    <string id="strTheLandOfSikaWindow1230" text="포인트의 식량, 목재, 그리고 석재: 의원 업그레이드" />
+    <string id="strTheLandOfSikaWindow1231" text=" 포인트의 식량, 목재, 그리고 석재: 플레이어 홈 업그레이드" />
+
+    <string id="strTheLandOfSikaWindow1232" text="이 프로젝트는 지금 건설할 수 없습니다!" />
+    <string id="strTheLandOfSikaWindow1233" text="건설 취소" />
+
+   <!-- SikaSettlementVM.cs弹窗开始 -->
+
+   <!-- SikaSettlementVM.cs左下角信息开始 -->
+    <string id="strTheLandOfSikaInformationMessage1201" text="당신의 정착지는 건설 중입니다. 새로운 프로젝트는 기다려 주십시오." />
+
+    <string id="strTheLandOfSikaInformationMessage1203" text="정착지의 농지가 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1204" text="정착지의 벌목장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1205" text="정착지의 채석장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1206" text="정착지의 병영이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1207" text="정착지의 시장이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1208" text="정착지의 의원이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+    <string id="strTheLandOfSikaInformationMessage1209" text="정착지의 플레이어홈이 최고 레벨에 도달했습니다, 업그레이드 할 수 없습니다." />
+
+    <string id="strTheLandOfSikaInformationMessage1210" text="농지를 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1211" text="벌목장을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1212" text="채석장을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1213" text="병영을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1214" text="시장을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1215" text="의원을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+    <string id="strTheLandOfSikaInformationMessage1216" text="플레이어홈을 업그레이드 하기 위한 자원이 충분하지 않습니다. 필요 자원: " />
+
+    <string id="strTheLandOfSikaInformationMessage1202" text=" 포인트의 식량, 목재, 그리고 석재." />
+   <!-- SikaSettlementVM.cs左下角信息开始 -->
+
+   <!-- SikaSettlementVM.cs界面UI开始 -->
+    <string id="strTheLandOfSikaUI1201" text="정착지 건설" />
+    <string id="strTheLandOfSikaUI1202" text="식량:" />
+    <string id="strTheLandOfSikaUI1203" text="목재:" />
+    <string id="strTheLandOfSikaUI1204" text="석재:" />
+    <string id="strTheLandOfSikaUI1205" text="현재 프로젝트:" />
+    <string id="strTheLandOfSikaUI1206" text="잔여 시간:" />
+    <string id="strTheLandOfSikaUI1207" text="시간" />
+    <string id="strTheLandOfSikaUI1208" text="정착지 레벨: " />
+    <string id="strTheLandOfSikaUI1209" text="현재 레벨:" />
+    <string id="strTheLandOfSikaUI1210" text="정착지 이름 변경" />
+
+    <string id="strTheLandOfSikaUI1211" text="농지" />
+    <string id="strTheLandOfSikaUI1212" text="벌목장" />
+    <string id="strTheLandOfSikaUI1213" text="채석장" />
+    <string id="strTheLandOfSikaUI1214" text="민병대 야영지" />
+    <string id="strTheLandOfSikaUI1215" text="시장" />
+    <string id="strTheLandOfSikaUI1216" text="의원" />
+    <string id="strTheLandOfSikaUI1217" text="플레이어 홈" />
+
+    <string id="strTheLandOfSikaUI1218" text="농지는 매일 식량을 생산합니다. 각 레벨의 농지는 매일 식량 10을 생산합니다." />
+    <string id="strTheLandOfSikaUI1219" text="벌목장은 매일 나무를 생산합니다. 각 레벨의 벌목장은 매일 목재 10을 제공합니다." />
+    <string id="strTheLandOfSikaUI1220" text="채석장은 매일 석재를 생산합니다. 각 레벨의 채석장은 매일 석재 10을 제공합니다." />
+    <string id="strTheLandOfSikaUI1221" text="각 레벨의 병영은 커스텀 병종 병사의 급여를 2% 감소합니다." />
+    <string id="strTheLandOfSikaUI1222" text="시장은 매일 디나르와 거래를 제공합니다. 각 레벨의 시장은 매일 50 디나르를 제공합니다." />
+    <string id="strTheLandOfSikaUI1223" text="의원은 정착지의 치료 기능을 제공합니다. 각 레벨의 의원은 20 HP를 치유합니다." />
+    <string id="strTheLandOfSikaUI1224" text="플레이어 홈은 플레이어 캐릭터가 쉬는 장소입니다. 플레이어 홈이 10레벨에 도달하면 황금 궁전이 됩니다." />
+    <string id="strTheLandOfSikaUI1225" text="이 프로젝트는 지금 사용할 수 없습니다!" />
+
+    <string id="strTheLandOfSikaUI1226" text="업그레이드" />
+    <!-- SikaSettlementVM.cs界面UI开始 -->
+  <!-- 文件SikaSettlementVM.cs结束 -->
+  
+  <!-- 文件ToolCreationVM.cs开始 -->
+   <!-- ToolCreationVM.cs弹窗开始 -->
+    <string id="strTheLandOfSikaWindow1301" text="제작 확인" /><!-- 1.4.7 -->
+    <string id="strTheLandOfSikaWindow1302" text="제작 중지" />
+
+    <string id="strTheLandOfSikaWindow1303" text="재료 부족" />
+    <string id="strTheLandOfSikaWindow1304" text="재료가 충분하지 않습니다!" />
+
+    <string id="strTheLandOfSikaWindow1305" text="나무 도끼 제작" />
+    <string id="strTheLandOfSikaWindow1306" text="나무 도끼 제작에 목재 10, 석재 5 소모!" />
+
+    <string id="strTheLandOfSikaWindow1307" text="나무 곡괭이 제작" />
+    <string id="strTheLandOfSikaWindow1308" text="나무 곡괭이 제작에 목재 5, 석재 10 소모!" />
+   <!-- ToolCreationVM.cs弹窗开始 -->
+
+   <!-- ToolCreationVM.cs左下角信息开始 -->
+    <string id="strTheLandOfSikaInformationMessage1301" text="재료가 충분하지 않습니다!" />
+
+    <string id="strTheLandOfSikaInformationMessage1302" text="나무 도끼에 목재 10, 석재 5 을(를) 소모하였습니다." />
+    <string id="strTheLandOfSikaInformationMessage1303" text="나무 곡괭이에 목재 5, 석재 10 을(를) 소모하였습니다." />
+   <!-- ToolCreationVM.cs左下角信息开始 -->
+
+   <!-- ToolCreationVM.cs界面UI开始Tool Making等xml内的没有同步147希绝翻译 -->
+    <string id="strTheLandOfSikaUI1301" text="목재:" />
+    <string id="strTheLandOfSikaUI1302" text="석재:" />
+    <string id="strTheLandOfSikaUI1303" text="식량:" />
+
+    <string id="strTheLandOfSikaUI1304" text="나무 도끼 제작에 목재 10, 석재 5 이(가) 필요합니다." />
+    <string id="strTheLandOfSikaUI1305" text="나무 곡괭이 제작에 목재 5, 석재 10 이(가) 필요합니다." />
+
+    <string id="strTheLandOfSikaUI1306" text="도구 제작" />
+    <string id="strTheLandOfSikaUI1307" text="제작" />
+    <string id="strTheLandOfSikaUI1308" text="나무 도끼" />
+    <string id="strTheLandOfSikaUI1309" text="나무 곡괭이" />
+    <!-- ToolCreationVM.cs界面UI开始 -->
+  <!-- 文件ToolCreationVM.cs结束 -->
+
+  <!-- 文件PlayerLogicBehavior.cs开始 -->
+    <string id="strPlayerLogicBehavior001" text="혼돈석을 습득하였습니다. 현재 소지한 혼돈석: " />
+
+    <string id="strVoidProblemDialog001" text="문제가 생긴 것 같은데." />
+    <string id="strVoidProblemDialog002" text="그렇군." />
+
+    <string id="strSikaKnightHallDialog1001" text="시카 교회에 오신 걸 환영합니다. 무엇을 도와드릴까요?" />
+    <string id="strSikaKnightHallDialog1002" text="아무 것도 아닙니다." />
+    <string id="strSikaKnightHallDialog1003" text="혼돈석으로 교환할 수 있는 게 있다고 들었습니다. 그런데 혼돈석이 뭔지 설명해 주시겠습니까?" />
+    <string id="strSikaKnightHallDialog1004" text="물론입니다. 혼돈석은 혼돈의 에너지로 가득한 돌입니다. 우리는 그 힘으로 누구든 도울 수 있으니, 다행히 하나라도 찾게 되면, 교환할 수 있습니다." />
+    <string id="strSikaKnightHallDialog1005" text="알겠습니다." />
+    <string id="strSikaKnightHallDialog1006" text="혼돈석은 어디서 찾을 수 있습니까?" />
+    <string id="strSikaKnightHallDialog1007" text="혼돈석은 유배지에 많이 있습니다. 이 땅에는 또한 많은 암흑 세력의 부대가 있으니, 그들도 혼돈석을 가지고 있을 겁니다." />
+    <string id="strSikaKnightHallDialog1008" text="알겠습니다." />
+    <string id="strSikaKnightHallDialog1009" text="교환할 혼돈석이 있습니다." />
+    <string id="strSikaKnightHallDialog1010" text="그렇군요, 무엇으로 교환하시겠습니까?" />
+    <string id="strSikaKnightHallDialog1011" text="이번에는 아닙니다." />
+    <string id="strSikaKnightHallDialog1012" text="시카 기사 5명과 교환하고 싶습니다." />
+    <string id="strSikaKnightHallDialog1013" text="그렇군요, 시카 기사 5명이 부대에 합류합니다." />
+    <string id="strSikaKnightHallDialog1014" text="시카 기사 5명이 부대에 합류합니다." />
+    <string id="strSikaKnightHallDialog1015" text="돈으로 교환하고 싶습니다." />
+    <string id="strSikaKnightHallDialog1016" text="그렇군요, 10000 디나르입니다." />
+    <string id="strSikaKnightHallDialog1017" text="10000 디나르를 얻었습니다." />
+    <string id="strSikaKnightHallDialog1018" text="아이템 하나와 교환하고 싶습니다. (랜덤)" />
+    <string id="strSikaKnightHallDialog1019" text="그렇군요, 여기 있습니다." />
+    <string id="strSikaKnightHallDialog1020" text="당신은 다음의 아이템을 얻었습니다: " />
+  
+  <!-- 文件PlayerLogicBehavior.cs结束 -->
+
+  <!-- 文件SikaKingdomBehavior.cs开始 -->
+   <!-- SikaKingdomBehavior弹出事件信息开始 -->
+    <string id="strRandomEvents1101" text="건국" />
+    <string id="strRandomEvents1102" text="시카의 사건" />
+    <string id="strRandomEvents1103" text="새 왕국 발흥" />
+    <string id="strRandomEvents1104" text="새로운 왕국이 시카의 땅에 나타났습니다. 두 가문에 의해 왕국이 세워졌고, 시카의 땅은 재건될 것입니다!" />
+    <string id="strRandomEvents1105" text="중요도" />
+    <string id="strRandomEvents1106" text="정보 확인" />
+   <!-- SikaKingdomBehavior弹出事件信息结束 -->
+
+   <!-- SikaKingdomBehavior名字开始 -->
+    <string id="strSikaKingdomName1001" text="왕국" />
+    <string id="strSikaKingdomName1002" text="공국" />
+    <string id="strSikaKingdomName1003" text="제국" />
+    <string id="strSikaKingdomName1004" text="왕조" />
+    <string id="strSikaKingdomName1005" text="연방" />
+    <string id="strSikaKingdomName1006" text="마법 왕조" />
+    <string id="strSikaKingdomName1007" text="천국" />
+    <string id="strSikaKingdomName1008" text="고왕국" />
+    <string id="strSikaKingdomName1009" text="국가" />
+    <string id="strSikaKingdomName1010" text="부족" />
+    <string id="strSikaKingdomName1011" text="칸국" />
+    <string id="strSikaKingdomName1012" text="군단" />
+    <string id="strSikaKingdomName1013" text="반란군" />
+    <string id="strSikaKingdomName1014" text="부흥 왕국" />
+    <string id="strSikaKingdomName1015" text="연합" />
+    <string id="strSikaKingdomName1016" text="황조" />
+    <string id="strSikaKingdomName1017" text="장원" />
+    <string id="strSikaKingdomName1018" text="형제단" />
+    <string id="strSikaKingdomName1019" text="교회" />
+    <string id="strSikaKingdomName1020" text="성전 왕국" />
+    <string id="strSikaKingdomName1021" text="기사단" />
+    <string id="strSikaKingdomName1022" text="성전기사단" />
+    <string id="strSikaKingdomName1023" text="항해단" />
+    <string id="strSikaKingdomName1024" text="성자 교회" />
+    <string id="strSikaKingdomName1025" text="침략군" />
+    <string id="strSikaKingdomName1026" text="방랑 군단" />
+    <string id="strSikaKingdomName1027" text="용병 군단" />
+    <string id="strSikaKingdomName1028" text="군단" />
+    <string id="strSikaKingdomName1029" text="근위대" />
+    <string id="strSikaKingdomName1030" text="그림자 군대" />
+    <string id="strSikaKingdomName1031" text="방랑 군대" />
+    <string id="strSikaKingdomName1032" text="암살단" />
+    <string id="strSikaKingdomName1033" text="항해군" />
+    <string id="strSikaKingdomName1034" text="이단심문대" />
+    <string id="strSikaKingdomName1035" text="어둠 제국" />
+    <string id="strSikaKingdomName1036" text="악의 왕국" />
+    <string id="strSikaKingdomName1037" text="국가" />
+    <string id="strSikaKingdomName1038" text="얼음의 영토" />
+    <string id="strSikaKingdomName1039" text="막부" />
+    <string id="strSikaKingdomName1040" text="제국의 영토" />
+   <!-- SikaKingdomBehavior名字结束 -->
+  <!-- 文件SikaKingdomBehavior.cs结束 -->
+
+  <!-- 文件SikaTownExtentionBehavior.cs开始 -->
+   <!-- SikaTownExtentionBehavior.cs左侧菜单开始 -->
+    <string id="strTheLandOfSikaMenu1201" text="시카 교회" />
+   <!-- SikaTownExtentionBehavior.cs左侧菜单结束 -->
+  <!-- 文件SikaTownExtentionBehavior.cs结束 -->
+
+  <!-- 文件CustomSandboxCharacterCreationContent.cs开始 -->
+   <!-- SikaTownExtentionBehavior.cs右侧菜单开始 -->
+    <string id="strTheLandOfSikaMenu1301" text="당신은 모든 것을 기억했습니다. 그러나 이제는 과거를 버리고 새로운 여정을 시작할 때입니다. 이번에는 새로운 세상에서 어떤 이야기가 기다리고 있을까요? 시카의 땅을 탐험할 시간입니다!" />
+    <string id="strTheLandOfSikaMenu1302" text="과거" />
+    <string id="strTheLandOfSikaMenu1303" text="시카의 땅에 오기 전에, 당신이 태어난 가정 환경은..." />
+
+    <string id="strTheLandOfSikaMenu1304" text="왕족" />
+    <string id="strTheLandOfSikaMenu1305" text="당신은 왕실에서 태어나 대부분의 사람들이 평생 경험하지 못할 특권을 누립니다. 귀족 계급은 당신의 강직한 기질을 연마했지만 당신은 고통의 시련과 함께 오는 경험도 잃었습니다." />
+    <string id="strTheLandOfSikaMenu1306" text="부유층" />
+    <string id="strTheLandOfSikaMenu1307" text="금수저를 가지고 태어난 당신은 어릴 때부터 집안의 돈 개념으로 길러져 왔습니다. 세상 무엇이든 살 수 있지만 여전히 돈으로 살 수 없는 많은 것들을 걱정합니다." />
+    <string id="strTheLandOfSikaMenu1308" text="근면한 농부" />
+    <string id="strTheLandOfSikaMenu1309" text="땅을 향하고 다시 하늘을 향합니다. 이것이 당신의 가족의 일상입니다. 비록 가진 것은 없지만, 당신은 벌판의 자유와 재미가 있습니다." />
+    <string id="strTheLandOfSikaMenu1310" text="수공업자" />
+    <string id="strTheLandOfSikaMenu1311" text="실크는 당신이 가장 좋아하는 상품입니다. 당신의 가족은 일년 내내 제품을 생산하며 많은 사람들에게 인정을 받았습니다. 생산에 대한 부모님의 헌신과 인내는 당신에게 깊은 영향을 미칩니다." />
+    <string id="strTheLandOfSikaMenu1312" text="군대의 기둥" />
+    <string id="strTheLandOfSikaMenu1313" text="당신의 가족은 대대로 입대했으며, 당신은 뛰어난 군사적 업적과 영광, 고난과 보호의 정신을 물려받게 될 것입니다." />
+    <string id="strTheLandOfSikaMenu1314" text="사회적 방랑자" />
+    <string id="strTheLandOfSikaMenu1315" text="사람이 있는 곳에 죄가 있고, 당신의 가족이 있는 곳에 정의가 있습니다! 방패와 칼, 그리고 당신의 가족들은 수 세대에 걸쳐 이 세상의 정의를 지켜왔습니다. 그리고 이제 당신도 같은 선택을 내립니다!" />
+
+    <string id="strTheLandOfSikaMenu1316" text="명예로운 기사" />
+    <string id="strTheLandOfSikaMenu1317" text="당신의 가족은 대대로 기사 작위를 받았습니다. 기사의 규례와 명예는 가문의 번영을 유지하는 열쇠입니다." />
+    <string id="strTheLandOfSikaMenu1318" text="여행 상인" />
+    <string id="strTheLandOfSikaMenu1319" text="당신의 가족은 일년 내내 대륙을 여행하며 많은 부를 얻었을 뿐만 아니라 많은 정보와 자원을 얻었습니다. 당신은 여행용 마차 안에서 온갖 흥미롭고 이상한 경험을 했습니다." />
+    <string id="strTheLandOfSikaMenu1320" text="종교적 신자" />
+    <string id="strTheLandOfSikaMenu1321" text="당신의 가족은 항상 종교적 신자였으며 대대로 종교적 교리를 믿었습니다. 이러한 교리를 따르는 것이 가족의 신조입니다." />
+    <string id="strTheLandOfSikaMenu1322" text="대장장이 마스터" />
+    <string id="strTheLandOfSikaMenu1323" text="당신의 가족은 영주의 무기에서 이웃의 부엌 칼에 이르기까지 모두 대대로 아버지의 손으로 만들어 왔습니다. 아버지의 손에 들린 망치는 그 어떤 무기보다 많은 경험을 했습니다." />
+    <string id="strTheLandOfSikaMenu1324" text="예술가 가문" />
+    <string id="strTheLandOfSikaMenu1325" text="당신의 가족은 수많은 유명 예술가, 조각가, 화가, 작가, 음악가를 배출했습니다. 그들의 영향 아래, 당신도 비교할 수 없는 예술적 재능을 가지고 있습니다." />
+    <string id="strTheLandOfSikaMenu1326" text="용병" />
+    <string id="strTheLandOfSikaMenu1327" text="인생은 어렵습니다. 당신의 가족은 항상 칼에 피를 더해 왔습니다. 당신의 가족은 생계를 위해 얼마나 많은 목숨을 앗아갔고 얼마나 많은 전쟁에 참전했는지 모릅니다. 하지만 결국, 남은 것은 당신 뿐입니다." />
+
+    <string id="strTheLandOfSikaMenu1328" text="탐험가" />
+    <string id="strTheLandOfSikaMenu1329" text="당신은 어린 시절부터 가족의 탐험에서 모든 종류의 전설을 들었던 것을 기억합니다. 그들은 여러 대륙을 여행했고 수많은 경험을 통해 셀 수 없이 많은 부를 얻었습니다." />
+    <string id="strTheLandOfSikaMenu1330" text="거래의 달인" />
+    <string id="strTheLandOfSikaMenu1331" text="당신의 가족은 항구에서 모든 종류의 상품을 거래하고 당신은 본토에서 모피와 기름을 수출합니다. 먼 대륙에서 향신료와 기타 희귀 물품을 수입합니다." />
+    <string id="strTheLandOfSikaMenu1332" text="해변의 어부들" />
+    <string id="strTheLandOfSikaMenu1333" text="당신의 가족은 바다에서 자랐고, 당신의 조상은 바다에 의존하여 낚시를 했습니다. 바다에서의 시간은 육지에서의 시간보다 더 깁니다. 당신을 역겹게 하는 유일한 것은 삼시 세 끼 똑같은 생선을 먹는 것뿐입니다." />
+    <string id="strTheLandOfSikaMenu1334" text="모피 사냥꾼" />
+    <string id="strTheLandOfSikaMenu1335" text="당신의 가족은 큰 동물을 사냥하며 살아갑니다. 당신은 어릴 때부터 동물의 습성을 이해하도록 아버지에게 훈련을 받았습니다. 처음으로 활로 동물을 사냥하던 장면이 아직도 어렴풋이 기억나네요!" />
+    <string id="strTheLandOfSikaMenu1336" text="정글 레인저" />
+    <string id="strTheLandOfSikaMenu1337" text="당신의 사격은 백 걸음에도 멈추지 않습니다. 당신은 깊고 확고한 눈으로 수백 미터 떨어진 적을 찾을 수 있습니다. 당신의 가족은 숲에서 무적입니다. 숲 밖에서도 그 심오한 경험은 가족이 모든 종류의 일을 처리하는 데 도움이 될 수 있습니다." />
+     <string id="strTheLandOfSikaMenu1338" text="해적 전사" />
+    <string id="strTheLandOfSikaMenu1339" text="당신의 가족은 대대로 본토에서 멀리 떨어진 섬에서 살았고, 당신은 약탈 상선과 해안 도시와 마을에 생계를 의존하고 있습니다. 당신은 태어날 때부터 적자생존의 원칙을 가족으로부터 물려받았습니다. 이 외딴 섬에는 재료가 부족하기에 지속적인 약탈만이 가족의 생존을 도울 수 있습니다." />
+
+    <string id="strTheLandOfSikaMenu1340" text="선교사의 측근" />
+    <string id="strTheLandOfSikaMenu1341" text="선교사의 측근 소개" />
+    <string id="strTheLandOfSikaMenu1342" text="유물 경비원" />
+    <string id="strTheLandOfSikaMenu1343" text="유물 경비원 소개" />
+    <string id="strTheLandOfSikaMenu1344" text="낙타 상인" />
+    <string id="strTheLandOfSikaMenu1345" text="낙타 상인 소개" />
+    <string id="strTheLandOfSikaMenu1346" text="전장의 조언자" />
+    <string id="strTheLandOfSikaMenu1347" text="전장의 조언자 소개" />
+    <string id="strTheLandOfSikaMenu1348" text="노예 거래인" />
+    <string id="strTheLandOfSikaMenu1349" text="노예 거래인 소개" />
+    <string id="strTheLandOfSikaMenu1350" text="반역자" />
+    <string id="strTheLandOfSikaMenu1351" text="반역자 소개" />
+
+    <string id="strTheLandOfSikaMenu1352" text="충실한 신자" />
+    <string id="strTheLandOfSikaMenu1353" text="충실한 신자 소개" />
+    <string id="strTheLandOfSikaMenu1354" text="샤먼 장로" />
+    <string id="strTheLandOfSikaMenu1355" text="샤먼 장로 소개" />
+    <string id="strTheLandOfSikaMenu1356" text="숲의 전사" />
+    <string id="strTheLandOfSikaMenu1357" text="숲의 전사 소개" />
+    <string id="strTheLandOfSikaMenu1358" text="짐승 살해자" />
+    <string id="strTheLandOfSikaMenu1359" text="짐승 살해자 소개" />
+    <string id="strTheLandOfSikaMenu1360" text="녹림의 전령" />
+    <string id="strTheLandOfSikaMenu1361" text="녹림의 전령 소개" />
+    <string id="strTheLandOfSikaMenu1362" text="음유시인" />
+    <string id="strTheLandOfSikaMenu1363" text="음유시인 소개" />
+
+    <string id="strTheLandOfSikaMenu1364" text="부족의 수장" />
+    <string id="strTheLandOfSikaMenu1365" text="부족의 수장 소개" />
+    <string id="strTheLandOfSikaMenu1366" text="유목민 상인" />
+    <string id="strTheLandOfSikaMenu1367" text="유목민 상인 소개" />
+    <string id="strTheLandOfSikaMenu1368" text="마상 전사" />
+    <string id="strTheLandOfSikaMenu1369" text="마상 전사 소개" />
+    <string id="strTheLandOfSikaMenu1370" text="초원의 농부" />
+    <string id="strTheLandOfSikaMenu1371" text="초원의 농부 소개" />
+    <string id="strTheLandOfSikaMenu1372" text="동물 소통가" />
+    <string id="strTheLandOfSikaMenu1373" text="동물 소통가 소개" />
+    <string id="strTheLandOfSikaMenu1374" text="목동" />
+    <string id="strTheLandOfSikaMenu1375" text="목동 소개" />
+
+   <!-- SikaTownExtentionBehavior.cs右侧菜单结束 -->
+  <!-- 文件CustomSandboxCharacterCreationContent.cs结束 -->
+
+  <!-- 文件CustomCharacterStatsModel.cs开始 -->
+    <string id="strTheLandOfSikaOhtersText1001" text="영웅 건강" />
+  <!-- 文件CustomCharacterStatsModel.cs结束 -->
+
+  <!-- 文件CustomMoraleModel.cs开始 -->
+    <string id="strTheLandOfSikaOhtersText1101" text="반려동물 완벽한 상태" />
+    <string id="strTheLandOfSikaOhtersText1102" text="반려동물 만족한 상태" />
+    <string id="strTheLandOfSikaOhtersText1103" text="반려동물 기본 상태" />
+    <string id="strTheLandOfSikaOhtersText1104" text="반려동물 낮은 상태" />
+    <string id="strTheLandOfSikaOhtersText1105" text="반려동물 죽어가는 상태" />
+  <!-- 文件CustomMoraleModel.cs结束 -->
+
+  <!-- 文件CustomPartySize.cs开始 -->
+    <string id="strTheLandOfSikaOhtersText1201" text="반려동물 스페셜 에디션" />
+  <!-- 文件CustomPartySize.cs结束 -->
+
+  <!-- 文件SikaTowerBehaviour.cs开始 -->
+  <string id="strTheLandOfSikaOhtersText1301" text="엘린족 마을" />
+  <string id="strTheLandOfSikaOhtersText1302" text="숨겨진 오두막" />
+  <!-- 文件SikaTowerBehaviour.cs结束 -->
+  
+  </strings>
+</base>

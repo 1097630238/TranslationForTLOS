@@ -1,0 +1,1372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+ <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+ <!-- QuestSystem_All_CNs是QuestSystem这个模块的翻译文件-->
+
+ <!-- QuestName所有任务名字的翻译开始 -->
+    <string id="strQuestName000" text="혼돈의 시작" />
+    <string id="strQuestName001" text="정착지의 여명" />
+    <string id="strQuestName002" text="절망한 노예" />
+    <string id="strQuestName003" text="빌켄의 편지" />
+    <string id="strQuestName004" text="시카 기사단의 전령" />
+    <string id="strQuestName005" text="자원과 도구" />
+    <string id="strQuestName006" text="외로운 아이시" />
+    <string id="strQuestName007" text="비밀스러운 전령" />
+    <string id="strQuestName008" text="케이지족의 로린" />
+    <string id="strQuestName009" text="항적" />
+    <string id="strQuestName010" text="시카의 역사 - 케이지족의 이야기" />
+    <string id="strQuestName011" text="비밀스러운 마녀" />
+    <string id="strQuestName012" text="엘린족의 정착지" />
+    <string id="strQuestName013" text="추방된 자들의 땅" />
+ <!-- QuestName所有任务名字的翻译结束 -->
+
+ <!-- QuestDescription所有任务菜单的任务描述的翻译开始 -->
+
+  <!-- 文件SikaQuestTalkSaveSlaves.cs开始 -->
+   <!-- SikaQuestTalkSaveSlaves任务菜单的任务描述开始 -->
+    <string id="strQuestDescription001" text="당신은 우연히 노예단에 속한 무리를 파괴했습니다. 이 일로 인해 그들은 당신을 뒤쫓을 것입니다. 당신은 셀리라는 노예 소녀를 풀어주었습니다. 그녀는 그녀의 사람들을 풀어주면 노예단과 싸우는 데에 도움이 될 것이라고 합니다. " />
+    <string id="strQuestDescription002" text=" 의 선술집으로 가서, 빌켄이 이 노예단들에 대해 아는 것이 있는지 알아보십시오." />
+    <string id="strQuestDescription003" text="비켄은 당신이 벌집을 건드렸다고 합니다. 그 노예단들은 이 대륙에서 가장 강력한 세력입니다. 살고 싶다면, 그들과 싸울 방법을 찾으십시오. 노예소녀 셀리는 당신에게 " />
+    <string id="strQuestDescription004" text=" 로 가서 그녀의 종족을 구해달라고 합니다. 그들이 노예단과 싸우는 것을 도와줄 것입니다." />
+    <string id="strQuestDescription005" text="임무 완료! 시카 기사단의 도움으로, 당신은 시카족들을 노예단의 손에서 성공적으로 구해낼 수 있었습니다. 몇몇은 당신의 부대가 그들을 지켜주기엔 너무 약하다고 생각해서 떠나기로 했습니다. 나머지는 당신을 새로운 주인으로 모시기로 했습니다. 그들의 장로인 몬나이는 당신의 정착지를 건설할 장소를 찾으라고 조언합니다." />
+
+   <!-- SikaQuestTalkSaveSlaves任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestTalkSaveSlaves.cs结束 -->
+
+  <!-- 文件SikaQuestSecretLetter.cs开始 -->
+   <!-- SikaQuestSecretLetter任务菜单的任务描述开始 -->
+    <string id="strQuestDescription059" text="빌켄의 짐을 찾았습니다! 그는 화물을 {SETTLEMENT}에 팔았습니다. 빌켄은 선술집에 잠시 머물겠다고 합니다. 거기로 가야할 것 같습니다." />
+
+    <string id="strQuestDescription006" text="당신은 우연히 '노예단'이라는 강력한 세력에 속한 무리를 공격했습니다. 그들은 누구라도 자신들에게 덤빈 자들을 찾아 복수하려 합니다. 상단장 빌켄은 떠나기 전에 '시카 기사단'이라고 적힌 편지를 남겼습니다. 편지 안에는, 시카 기사단은 누구든 이 편지를 받은 사람과 접촉하고 싶다고 합니다. 하지만 당신은 시카 기사단을 어디서 찾아야 할 지 모릅니다. 여행을 계속하다보면 실마리를 찾을 지도 모릅니다." />
+
+    <string id="strQuestDescription049" text="시카 기사단의 전령을 찾았습니다. 그는 이 편지를 가진 사람은 시카 기사단의 친구로 대우한다고 합니다. 그는 당신이 노예단과 싸우는 걸 돕겠다고 합니다. 그는 이 편지를 잘 보관하라고 조언합니다. 이 편지를 갖고 있으면, 대륙 어디에서나 시카 기사단의 도움을 받을 수 있기 때문입니다." />
+   <!-- SikaQuestSecretLetter任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestSecretLetter.cs结束 -->
+
+  <!-- 文件SikaQuestPlayerSettlement.cs开始 -->
+   <!-- SikaQuestPlayerSettlement任务菜单的任务描述开始 -->
+    <string id="strQuestDescription007" text="전투는 매우 위험했지만, 당신은 노예단으로부터 시카족을 구해냈습니다. 시카족의 장로 몬나이는 노예단에 대항하려면 최대한 빨리 당신의 정착지를 건설하기에 적당한 장소를 찾아야 한다고 합니다. 그렇게 하지 못한다면, 기회조차 얻지 못할 것입니다. ('H'를 누르면 정착지 건설 메뉴가 생성됩니다.)" />
+    <string id="strQuestDescription008" text="시카족은 정착지 건설을 시작했습니다. 작업을 완료하려면 시간이 좀 걸릴 것입니다. 셀리는 그녀의 종족이 마을 근처에서 자원을 수집하고 있다고 합니다. 당신은 그들을 도울 수 있습니다." />
+    <string id="strQuestDescription009" text="당신은 성공적으로 정착지를 건설했습니다. 몬나이 장로는 당신의 정착지에서 당신을 기다리고 있습니다. 그를 방문하여 노예단에 대한 계획에 관해 의논하기 원합니다." />
+    <string id="strQuestDescription010" text="당신은 정착지를 건설했습니다. 정착지를 강화하여 노예단에 맞설 수 있는 요새로 만들어야 합니다. 셀리에게 무엇을 해야할 지 물어보십시오." />
+    <string id="strQuestDescription011" text="셀리는 그녀의 종족이 준비한 곡물이 그녀와 장로 사이에 곡식단 앞에 있다고 합니다. 이 곡물을 취하여 정착지 건설에 보태십시오." />
+    <string id="strQuestDescription012" text="당신은 시카족이 당신에게 준 곡물을 모두 모았습니다. 견목 10을 모아 셀리에게 가져다 주십시오. 정착지 건설에 도움이 될 것입니다." />
+    <string id="strQuestDescription013" text="당신은 셀리에게 견목 10개를 주었습니다. 마을 안에 당신의 집도 지어졌다는 소식을 들었습니다. 시간 날 때 한 번 둘러 보십시오. 셀리는 당신이 " />
+    <string id="strQuestDescription014" text="의 시장으로 가서 필요한 물자를 사오길 바랍니다." />
+    <string id="strQuestDescription015" text="셀리는 당신이 " />
+    <string id="strQuestDescription016" text="의 시장으로 가서 필요한 재료를 사오길 바랍니다. 당신은 길에서 노예단에게 당한 상인을 만났습니다. 그는 그를 쫓는 노예단을 처리해주면 보급 문제를 해결해주겠다고 합니다." />
+    <string id="strQuestDescription017" text="당신은 " />
+    <string id="strQuestDescription018" text="의 인근에서 노예단에게 쫓기고 있던 상인을 구해주었습니다. 그는 당신의 정착지에 합류해서 거기서 거래하고 싶어합니다. 정착지로 돌아가서 진행상황을 파악하십시오." />
+    <string id="strQuestDescription019" text="임무 완수! 당신은 시카족의 도움을 받아 정착지를 건설했고 집도 가지게 되었습니다. 정착지 강화를 위한 공사를 지속하십시오. 노예단의 공격으로부터 살아남으려면 꼭 필요한 일입니다." />
+   <!-- SikaQuestPlayerSettlement任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestPlayerSettlement.cs结束 -->
+
+  <!-- 文件SikaQuestResourceTool.cs开始 -->
+   <!-- SikaQuestResourceTool任务菜单的任务描述开始 -->
+    <string id="strQuestDescription020" text="당신은 시카족과 함께 정착지를 건설하기로 했습니다. 건설 공사는 진행 중입니다. 셀리는 그들이 정착지 근처에서 자원을 수집하고 있다고 합니다. 어떻게 도울 수 있을지 살펴보십시오." />
+    <string id="strQuestDescription021" text="아르드론이라고 하는 시카족 사람이 말하길, 여기서 자원을 수집하고 있다고 합니다. 견목 10개를 수집하여 오늘의 작업을 완수할 수 있도록 도우십시오. (자원 지역에서 아무 근접무기나 사용하여 자원을 수집하십시오.)" />
+    <string id="strQuestDescription022" text="당신은 아르드론에게서 도구 제작법을 배웠습니다. '자원과 도구' 메뉴에서 제작하세요. 적절한 도구를 사용하면, 해당하는 자원을 더 빠르게 수집할 수 있습니다. 아르드론은 그가 준 돌 곡괭이를 사용하여 석재 20을 수집하라고 합니다. 석재는 강 건너편에 있습니다. ('자원과 도구' 메뉴로 들어가려면 도시 안에서는 'Q' 키, 캠페인 맵에서는 'U' 키를 누르세요.)" />
+    <string id="strQuestDescription023" text="충분한 석재를 수집했습니다. 아르드론이 앞에 있는 숲에 닭이 좀 돌아다닌다고 합니다. 이 닭들을 사냥하면 식량 10을 수확할 수 있고, 마을에서 연회를 열 수도 있습니다. 그러면 마을의 건설 속도를 증가시킬 수 있습니다." />
+    <string id="strQuestDescription024" text="충분한 식량을 수집했습니다. 아르드론은 마을이 가동되려면 여전히 목재 50, 석재 50, 식량 20이 필요하다고 합니다." /> 
+    <string id="strQuestDescription025" text="임무 완수! 마을의 기반시설 건설에 필요한 모든 자원을 제공했습니다. 시카족은 이미 마을의 건설을 완료했습니다. 마을로 가서 다음 단계에 관해 의논할 시간입니다." /> 
+   <!-- SikaQuestResourceTool任务菜单的任务描述结束 -->
+  <!-- 文件SikaQuestResourceTool.cs结束 -->
+
+  <!-- 文件QuestBlueIce.cs开始 -->
+   <!-- QuestBlueIce任务菜单的任务描述开始 -->
+    <string id="strQuestDescription026" text="아르드론은 꼬마 아이시를 돌보는 것을 당신이 돕기를 바라니다. 당신은 그녀를 방문해야 합니다." />
+    <string id="strQuestDescription027" text="아르드론은 꼬마 아이시를 돌보는 것을 당신이 돕기를 바랍니다. 하지만 그녀는 말하기 싫어합니다. 당신은 셀리에게 아는 것이 있는지 물어봐야 합니다." />
+    <string id="strQuestDescription028" text="당신은 셀리에게 아이시에 관해 물었습니다. 그녀는 아이시의 부모가 노예단에게 살해당해서, 그후로 마음을 닫았다고 말했습니다. 셀리는 마을에 나비라는 소년이 있다고 했습니다. 아마도 그가 어린 아이시를 도와줄 수도 있습니다." />
+    <string id="strQuestDescription029" text="당신은 꼬마 나비를 발견했습니다. 나비는 아이시의 문제를 해결하기 위해 그녀의 부모를 소환할 수 있다고 합니다. 그러나 먼저 나비의 아버지가 남겨준 조각상을 찾아야 합니다. 그 조각상은 '물을 향한다'고 합니다. 마을의 강가 근처에 있을 것입니다. 살펴보세요." />
+    <string id="strQuestDescription030" text="당신은 성공적으로 나비가 원한 조각상을 찾았습니다. 이제 나비를 찾아가세요." />
+    <string id="strQuestDescription031" text="나비는 당신에게 조각상을 밤에 가져와 달라고 합니다. 의식은 밤에 치뤄지는 것 같습니다. 나비는 당신이 조각상이 있었던 곳 근처의 모닥불 옆에서 기다리겠다고 합니다. " />
+    <string id="strQuestDescription032" text="나비의 의식을 통해, 아이시는 그녀의 어머니를 보았습니다. 그 이후로, 전보다는 반응이 있는 것 같습니다. 다행히 그녀의 상태에 도움이 될 것 같습니다. 몬나이에게 의식에 관해 물어보세요." />
+    <string id="strQuestDescription033" text="몬나이에 따르면, 나비가 사용한 힘은 어머니 여신 라이에누스의 힘이라고 합니다. 그녀는 정말 신일까요? 당신에게 위협이 되지만 않는다면, 별 일은 없을 겁니다. 몬나이는 또, 아이시가 당신에게 감사한다고 합니다. 가서 다시 아이시를 찾으세요." />
+    <string id="strQuestDescription034" text="임무 완수! 아이시는 정상으로 돌아간 것 같습니다. 나비는 여러 의식을 통해 어머니 여신의 힘의 통로가 되는 시카족의 예언자로 밝혀졌습니다. 시카족은 보기와는 달리 보통 부족이 아닌 것 같습니다." />
+   <!-- QuestBlueIce任务菜单的任务描述结束 -->
+  <!-- 文件QuestBlueIce.cs结束 -->
+  
+  <!-- 文件QuestMeetSikaKnight.cs开始 -->
+   <!-- QuestMeetSikaKnight任务菜单的任务描述开始 -->
+    <string id="strQuestDescription035" text="시카족의 몬나이는 노예단을 어떻게 상대해야 할 지 말해주었습니다. 먼저 " />
+    <string id="strQuestDescription036" text="의 선술집으로 가서 시카 기사단의 전령을 찾으십시오." />
+    <string id="strQuestDescription037" text="당신은  " />
+    <string id="strQuestDescription038" text="의 선술집에서 시카 기사단의 전령을 찾았습니다. 그러나 노예단의 심복 몇몇이 당신을 따라왔습니다. 제거하십시오!" />
+    <string id="strQuestDescription039" text="노예단의 심복들을 물리친 뒤, 당신은 데리안에게 당신의 의도를 설명했습니다. 데리안은 시카 기사단과 시카족 자체의 차이에 대해 설명한 뒤, 다른 전령을 만나야 한다고 말했습니다." />
+    <string id="strQuestDescription040" text="당신과 데리안은 다른 전령의 집에 왔지만, 누군가 먼저 왔던 것 같습니다. 집 안에서 단서들을 찾아야 합니다." />
+    <string id="strQuestDescription041" text="당신은 전령의 집에서 모든 단서를 수집했습니다. 데리안은 어떤 진전이 있었는지 보러 가십시오." />
+    <string id="strQuestDescription042" text="임무 완수! 데리안은 당신을 어느 시카 기사의 집으로 데려 갔지만, 그 기사는 어떤 이유인가 집을 떠났습니다. 데리안은 나머지 시카 기사단과 접촉할 방법을 얻었습니다. 이제 떠날 때입니다." />
+   <!-- QuestMeetSikaKnight任务菜单的任务描述结束 -->
+  <!-- 文件QuestMeetSikaKnight.cs结束 -->
+
+  <!-- 文件QuestSikaLord.cs开始 -->
+   <!-- QuestSikaLord任务菜单的任务描述开始 -->
+    <string id="strQuestDescription043" text="방랑기사 데리안이 당신의 부대에 합류했습니다. 데리안은 그가 " />
+    <string id="strQuestDescription044" text="로 가서 시카 기사단에게 도움을 요청할 수 있다고 합니다. 데리안은 마을에 전령이 있을 것이라 합니다." />
+    <string id="strQuestDescription045" text="데리안은 당신을 시카 기사단의 전령 월터에게 인도했습니다. 그는 당신에게 " />
+    <string id="strQuestDescription046" text="에서 매복한 뒤 노예단을 공격하여 포로를 구출해야 한다고 말합니다." />
+    <string id="strQuestDescription047" text="당신은 시카 기사단을 도와 노예단으로부터 케이지족의 로린을 구출했습니다. 하지만 그는 기사단의 보호를 거절했습니다. 대신, 그는 당신이 그와 그의 부족을 당신의 정착지로 데려가기를 원합니다." />
+    <string id="strQuestDescription048" text="임무 완수! 당신은 노예단으로부터 케이지족의 로린을 구출했습니다. 그는 시카 기사단의 보호를 거절했습니다. 그는 그의 부족을 당신의 정착지로 인도하기로 결정했습니다." />
+   <!-- QuestSikaLord任务菜单的任务描述结束 -->
+  <!-- 文件QuestSikaLord.cs结束 -->
+
+  <!-- 文件QuestWiseSage.cs开始 -->
+   <!-- QuestWiseSage任务菜单的任务描述开始 -->
+    <string id="strQuestDescription050" text="당신은 로린과 그의 부족을 노예단으로부터 구했습니다. 그는 그의 부족과 함께 당신의 정착지로 가기 원합니다. 그와 이야기하고 싶으면, 먼저 그와 그의 부족을 당신의 정착지로 데려가야 합니다." />
+    <string id="strQuestDescription051" text="케이지족의 로린은 시카의 기사단을 신뢰하지 않는다고 합니다. 왜냐하면 그들은 이 대륙의 사람들을 보호하겠다던 서약을 이행하지 않았기 때문입니다. 시카족의 장로는 다음 계획에 관해 논의하기 위해 영주의 회관에서 당신을 기다리고 있습니다." />
+    <string id="strQuestDescription052" text="케이지족의 로린과 몬나이 장로는 당신에게 동맹을 맹세했습니다. 그러나 이것은 단지 시작일 뿐입니다. 케이지족의 로린은 바을을 보호하기 위해 당신을 도울 사람을 찾아야 한다고 합니다. 그리고 더 많은 세력에게서 도움을 구해야 한다고 합니다. 먼저, 항적을 제압할 그의 계획에 관해 들으십시오." />
+    <string id="strQuestDescription058" text="항초패는 당신의 마을에 합류하여 마을을 지키는 임무를 맡았습니다. 그는 두 번째 등등에 대해 뭔가를 말했고, 로린이 영주 홀에서 당신을 기다리고 있다고 말했습니다. 로린에게 말을 걸어 노예단과 싸울 계획에 관해 이야기하십시오." />
+    <string id="strQuestDescription060" text="로린의 계획에 따르면, 떠돌이 항초패가 당신에게 합류해 노예단에 맞서 싸우도록 합니다. 당신의 마을로 돌아가, 항초패에게 어떻게 마을을 지킬 지 물어보십시오." />
+    <string id="strQuestDescription061" text="로린과 당신은 노예단에 관한 계획에 대해 의논했습니다. 데리안은 당신의 곁에서 뭔가 말하고 싶어합니다. 데리안에게 말을 걸어 시카 기사단이 노예단 타도에 도움을 줄 수 있지 물어보십시오." />
+    <string id="strQuestDescription062" text="데리안은 설명했지만, 당신은 로린과 케이지족의 보호를 시카 기사단에게 넘기기를 거부합니다. 그들은 당신에게 어떤 도움도 제공하고 싶어하지 않습니다. 데리안은 케이지족과 노예단 사이에 무슨 일이 일어났는지 알고 싶다면 몬나이와 이야기해야 한다고 말합니다. 시카족은 케이지족과 오랜 역사를 가지고 있습니다." />
+    <string id="strQuestDescription063" text="몬나이 장로가 케이지족의 역사를 알려 주었습니다. 케이지족에게는 몇 가지 비밀이 있는 것 같습니다. 이제 먼저 로린과 대화하여 노예단을 물리치는 방법을 논의해야 합니다." />
+    <string id="strQuestDescription064" text="임무 완수! 당신은 케이지족의 역사를 알게 되었습니다. 로린은 방문해야 할 왕국의 위치가 있는 지도를 제공합니다. 당신은 노예단과 싸울 의향이 있는 다른 세력을 찾아야 합니다." />
+   <!-- QuestWiseSage任务菜单的任务描述结束 -->
+  <!-- 文件QuestWiseSage.cs结束 -->
+
+  <!-- 文件QuestBanditXiang.cs开始 -->
+   <!-- QuestBanditXiang任务菜单的任务描述开始 -->
+    <string id="strQuestDescription054" text="케이지족의 로린은 부자를 강탈하고 가난한 사람을 돕는 것으로 유명한 도적 항초패를 설득하려면 먼저 그를 물리쳐야 한다고 말합니다. 그는 마을 근처에 있는 것 같습니다. 그를 찾아 처치하십시오." />
+    <string id="strQuestDescription055" text="당신은 정착지 근처에서 항초패를 발견하고 그를 물리쳤지만 그는 당신을 믿지 않고 쉽게 마음을 바꾸지 않을 것입니다. 로린이 당신에게 조언했으니, 돌아가서 그에게 다음에 무엇을 해야 하는지 묻는 것이 좋습니다. 그는 새로운 계획을 가지고 있을 것입니다." />
+    <string id="strQuestDescription056" text="당신이 로린을 찾으러 돌아간 후, 그는 항초패에 대한 새로운 계획이 있다고 말합니다. 당신이 계획에 대해 논의했을 때, 정찰병은 항초패와 그의 군대가 당신의 정착지를 향해 진군하고 있다고 알려줍니다. 로린은 나가서 싸울 것을 제안합니다." />
+    <string id="strQuestDescription057" text="임무 완수! 로린의 계획을 완수하고 황초패를 가둔 후, 로린이 나타나 함께 하자고 설득합니다. 그렇게 강력한 숨겨진 세력을 가진 수호자는 확실히 당신의 정착지에 일종의 보호를 제공할 것입니다." />
+   <!-- QuestBanditXiang任务菜单的任务描述结束 -->
+  <!-- 文件QuestBanditXiang.cs结束 -->
+
+  <!-- 文件QuestBanishLand.cs开始 -->
+   <!-- QuestBanishLand任务菜单的任务描述开始 -->
+    <string id="strQuestDescription1001" text="엘린족의 여왕 라드루윌은 당신이 추방된 자들의 땅으로 가서 그곳에 있는 모든 걸신들린 악마들을 제거하기를 원합니다." />
+    <string id="strQuestDescription1002" text="팔찌의 힘으로 당신은 추방된 자들의 땅으로 들어갑니다. 여기를 떠나 엘린족의 여왕 라드루윌과 함께 진행 상황을 보고하십시오." />
+    <string id="strQuestDescription1003" text="엘린이 당신의 동맹이 됩니다. 엘린족의 공주 밀리스본이 부대에 합류합니다. 동시에 매주 팔찌의 힘이 회복됩니다. 모든 마을의 메뉴 옵션에서 추방된 자들의 땅으로 들어갈 수 있습니다.{newline}(1.4.8 스토리 라인은 여기서 끝납니다. 이 모드를 플레이해 주셔서 감사합니다. 다음 업데이트를 기다린다면, ModDB 및 Nexusmods에서 우리를 팔로우하세요!)" />
+   <!-- QuestBanishLand任务菜单的任务描述结束 -->
+  <!-- 文件QuestBanishLand.cs结束 -->
+
+  <!-- 文件QuestSikaHistoryKajer.cs开始 -->
+    <string id="strQuestDescription1101" text="이 퀘스트는 시카의 역사적 기록입니다. 이 퀘스트는 시카의 땅에서 케이지족의 역사를 기록할 것입니다." />
+    <string id="strQuestDescription1102" text="케이지족의 역사 (1): 로린은 항초패도 끝없는 감사와 노예단에 대한 분노를 가진, 케이지족의 일원이라 합니다. " />
+    <string id="strQuestDescription1103" text="케이지족의 역사 (2): 데리안은 시카 기사단 교회가 케이지족과 나쁜 관계를 맺고 있으며, 시카족은 케이지족과 매우 오랜 관계를 맺고 있는 것 같다고 설명했습니다." />
+    <string id="strQuestDescription1104" text="케이지족의 역사 (3): 몬나이는 시카의 역사 기록에 따르면 케이지족과 시카족은 오래전부터 양측 지도자가 친구가 되면서 좋은 관계를 유지했다고 전했습니다. 또한 본토에는 시카족과 우정을 유지하는 몇몇 세력이 있었습니다." />
+    <string id="strQuestDescription1105" text="케이지족의 역사 (4): 몬나이는 100여 년 전 본토에 떠도는 정보에 따르면 케이지 일족의 왕이 노예 여성과 결혼하여 노예 집단의 침입을 일으키고 결국 왕국을 멸망시켰다고 합니다. 현재의 케이지 일족은 그 해에 탈출하여 살아남은 자들입니다." />
+    <string id="strQuestDescription1106" text="케이지족의 역사 (5): 몬나이는 몇 년 전에 케이지족의 남은 거점이 다시 노예 집단에 의해 공격을 받았다고 합니다. 당신의 도움이 없었다면 케이지족은 더 이상 존재하지 않았을 것입니다." />
+    <string id="strQuestDescription1107" text="케이지족의 역사 (6): 로린은 케이지 일족의 역사에 대해 알려줍니다. 126년 전, 즉 시카력 1177년에, 노예 집단이 케이지족의 왕국을 침략했고, 현재의 케이지족은 그 해에 유일하게 살아남은 자손입니다." />
+    <string id="strQuestDescription1108" text="케이지족의 역사 (7): 로린은 126년 전 케이지 일족의 여왕은 노예가 아니라 케이지 일족을 번영으로 이끈 뛰어난 여왕이었다고 말했습니다. 이는 노예 집단이 그들을 약탈하려는 핑계에 불과했습니다." />
+    <string id="strQuestDescription1109" text="케이지족의 역사 (8): 로린은 몇 년 전에 노예 집단이 다시 그들의 요새를 공격했으며 그가 케이지 일족의 현재 지도자인 케이지 홀란드 이사벨 로린이라고 말합니다." />
+  <!-- 文件QuestSikaHistoryKajer.cs结束 -->
+
+  <!-- 文件QuestMysteriousWitch.cs开始 -->
+    <string id="strQuestDescription1201" text="로린은 당신이 방문해야 할 주요 세력의 위치를 알려왔습니다. 그는 일족의 지도자 몬나이가 당신에게 할 말이 더 있다고 말했습니다. 가서 그가 무슨 말을 더 할 것인지 물어보십시오." />
+    <string id="strQuestDescription1202" text="몬나이는 그것이 " />
+    <string id="strQuestDescription1203" text=" 숲의 북서쪽에 있다고 말했습니다." />
+    <string id="strQuestDescription1204" text="에 당신을 도울 수 있는 예언자 마녀가 있습니다." />
+    <string id="strQuestDescription1205" text="당신은 몬나이 장로가 말한 오두막에 왔습니다. 마녀는 당신을 적에게 살해당하는 이상한 꿈으로 당신을 데려가는 것 같습니다." />
+    <string id="strQuestDescription1206" text="당신은 마침내 꿈에서 깨어납니다. 여기가 어디지요? 그래서 죽지 않은 것가요? 문 밖에서 소리가 들렸습니다. 나가서 조사하십시오." />
+    <string id="strQuestDescription1207" text="마녀의 견습생 로타스가 무슨 일이 있었는지 알려줍니다. 당신이 보고 경험한 것은 미래이지만 로타스는 그것이 단지 가능성일 뿐이며 사람들은 자신의 운명을 바꿀 수 있다고 말했습니다." />
+    <string id="strQuestDescription1208" text="임무 완수! 마녀의 견습생 로타스는 팔찌를 주고 팀에 합류하여 본토로 여행하기로 결정했습니다. 엘린 일족의 거점을 찾기 위해서는 본토 북서쪽에 있는 숲으로 가야 한다고 합니다. (대륙의 최북단은 얼음과 눈으로 덮여 있습니다.)" />
+  <!-- 文件QuestMysteriousWitch.cs结束 -->
+
+  <!-- 文件QuestElinVillage.cs开始 -->
+    <string id="strQuestDescription1301" text="마녀의 견습생 로타스는 팔찌를 주며 당면한 문제를 해결하려면 본토 북서부 모퉁이 " />
+    <string id="strQuestDescription1302" text=" 근처의 숲으로 가서 엘린 일족의 정착지로 들어가는 길을 찾아야 한다고 합니다. 그곳에 가면 누군가 당신을 도울 수 있습니다. (대륙의 최북단은 눈으로 뒤덮인 땅입니다.)" />
+    <string id="strQuestDescription1303" text="안개 낀 숲 밖에서 엘린 일족의 정찰병 게리란을 구했습니다. 그녀는 엘린 일족의 공주 밀리스본이 노예단에 의해 사로잡혔다고 말했습니다. 빨리 가야 합니다." />
+    <string id="strQuestDescription1304" text=" 근처에서 공주 밀리스본을 구하세요. 그들을 통해 엘린족의 요새에 들어갈 수 있는 방법을 찾을 수 있을지도 모릅니다." />
+    <string id="strQuestDescription1305" text="당신은 노예단의 손에서 공주 밀리스본을 구했습니다. 그녀에게 로타스가 준 팔찌를 보여주자, 그녀는 당신을 엘린 일족의 영토로 데려 가기로 결정했습니다." />
+    <string id="strQuestDescription1306" text="엘린족의 공주의 지도 아래 엘린 일족의 요새에 성공적으로 진입했습니다. 먼저 게리란을 찾으러 가십시오." />
+    <string id="strQuestDescription1307" text="게리란이 엘린 가문의 여왕 라드루윌에게 당신에 관해 말했습니다. 엘린 요새에 있는 라드루윌과 대화하고 그녀가 당신과 함께 노예단에 저항할 수 있는지 확인하십시오." />
+    <string id="strQuestDescription1308" text="엘린족의 여왕 라드루윌은 당신에게 걸신들린 악마와 추방된 자들의 땅에 대해 말했습니다. 엘린 일족의 도움을 받는 대가로 엘린 일족이 추방된 자들의 땅에서 악마를 정화하도록 도와야 합니다." />
+    <string id="strQuestDescription1309" text="임무 완수! 당신은 엘린 일족이 도와준 대가로 추방된 자들의 땅에서 악마를 정화하는 데 도와주기로 동의합니다." />
+  <!-- 文件QuestElinVillage.cs结束 -->
+
+ <!-- QuestDescription所有任务菜单的任务描述的翻译结束 -->
+
+ <!--  任务公用翻译 -->
+    <string id="strCancelQuestCommon" text="임무 취소" />
+    <string id="strCompleteQuestCommon" text="임무 완수" />
+
+ <!-- QuestSystem翻译-->
+    <string id="strQuestSystem000" text="새로운 정착지 건설 확인" />
+    <string id="strQuestSystem001" text="여기에 정착지를 건설하시겠습니까? 시카 일족은 이곳에 당신의 마을을 건설하는 데 도움을 줄 것이며 지속적으로 정착지를 개발할 수 있습니다. 여기에 건설하시겠습니까?" />
+    <string id="strQuestSystem002" text="건설 확인" />
+    <string id="strQuestSystem003" text="건설 취소" />
+    <string id="strQuestSystem004" text="축하합니다, 주인님. 당신은 성공적으로 당신의 정착지를 건설했습니다!" />
+
+ <!-- MainBehaviour翻译-->
+    <string id="strQuestMainBehaviour000" text="야습 이후" />
+    <string id="strQuestMainBehaviour001" text="당신은 혼수상태에서 깨어났습니다. 당신은 시체를 밀어내고 어젯밤에 있었던 일을 기억해내려 합니다. 당신은 공격에 쓰러졌고 나머지는 기억나지 않습니다. 상처에 붕대를 감은 뒤, 상단장 빌켄이 파괴된 야영지에서 무엇인가를 찾고 있는 것을 발견합니다." />
+    <string id="strQuestMainBehaviour002" text="일어나 빌켄에게 질문" />
+    <string id="strQuestMainBehaviour003" text="상단장 빌켄" />
+    <string id="strQuestMainBehaviour004" text="팔찌의 힘이 회복되어 추방된 자들의 땅에 들어갈 수 있습니다." />
+
+ <!-- QuestFirst翻译-->
+    <string id="strQuestFirst000" text="당신은 어젯밤 공격에서 살아 남았습니다. 불타는 야영지에서 상단장이 무언가를 찾고 있습니다. 아마도 그에게 무슨 일이 있었는지 물어봐야 할 것입니다." />
+    <string id="strQuestFirst001" text="병사 모집" />
+    <string id="strQuestFirst002" text="도적 공격" />
+    <string id="strQuestFirst003" text="노예단 도적" />
+    <string id="strQuestFirst004" text="노예단 도적 두목" />
+    <string id="strQuestFirst005" text="상단장 빌켄은 어젯밤의 도적단을 공격하고 중요한 편지를 포함한 그의 모든 물품을 되찾기를 원합니다. 먼저 10명의 병력을 모아야 합니다." />
+    <string id="strQuestFirst006" text="빌켄은 {SETTLEMENT} 주변에 밤부터 도적단이 숨어 있다는 사실을 알게 됩니다. 조심스럽게 그곳으로 가서 하나씩 매복해야 합니다." />
+    <string id="strQuestFirst007" text="당신은 주변의 모든 도적을 무찔렀고, 이제 그들의 지도자를 공격하여 빌켄의 물품과 편지를 되찾을 시간입니다." />
+    <string id="strQuestFirst008" text="임무 완수! 당신은 {SETTLEMENT} 주변의 모든 도적을 성공적으로 무찌르고 빌켄이 물품과 편지를 되찾도록 도왔습니다." />
+
+ <!-- QuestPartyName所有部队名开始 -->
+    <string id="strQuestPartyName003" text="모험 상인 그로드" />
+    <string id="strQuestPartyName004" text="노예단 전사" />
+    <string id="strQuestPartyName005" text="노예단 약탈자" />
+    <string id="strQuestPartyName006" text="노예단 습격대" />
+    <string id="strQuestPartyName007" text="노예단 전사" />
+    <string id="strQuestPartyName008" text="노예단 정찰병" />
+    <string id="strQuestPartyName009" text="모험 상인 그로드" />
+    <string id="strQuestPartyName010" text="주둔지" />
+    <string id="strQuestPartyName011" text="노예단 호위대" />
+    <string id="strQuestPartyName012" text="항적" />
+    <string id="strQuestPartyName013" text="어둠의 악마" />
+    <string id="strQuestPartyName014" text="노예단 침입자" />
+ <!-- QuestPartyName所有部队名结束 -->
+
+ <!-- 文件QuestInitBehaviour.cs开始 -->
+
+  <!-- 所有对话开始 -->
+
+   <!-- 商队首领维利克对话开始 -->
+    <string id="strTalkTradeLeader001" text="그래, 지난 번에 무슨 얘기를 했더라?" />
+    <string id="strTalkTradeLeader002" text="지난 번에 '시카의 땅'의 창조 신화에 대해 이야기했소." />
+    <string id="strTalkTradeLeader003" text="그렇군, 전설에 따르면, 아주 먼 옛날, 우주의 끝, 혼돈의 에너지가 가득한 곳에서, 그 힘에 굶주린 위대한 신들이, 끝없는 전쟁을 시작했지." />
+    <string id="strTalkTradeLeader004" text="(계속)" />
+    <string id="strTalkTradeLeader005" text="그 전쟁은 전 세계를 거의 멸망시킬 뻔 했지, 평화의 여신이 중재하기 전까진 말이야. 하지만, 파워 게임은 끝나지 않았고, 신들은 우리 세상의 종족들을 창조하여 그들 사이에 신들의 이름으로 곧 터질 새로운 전쟁을 시작했어." />
+    <string id="strTalkTradeLeader006" text="(계속)" />
+    <string id="strTalkTradeLeader007" text="이 전쟁이 얼만큼 지속될지 아무도 모르지만, 우리가 아는 건 이 살육의 끝에 살아 남은 인류가 대륙을 지배할 거란 사실이야." />
+    <string id="strTalkTradeLeader008" text="(계속)" />
+    <string id="strTalkTradeLeader009" text="이 갈등의 시대에,저 끝없는 검은 땅의 남쪽 수평선에서, 이세계의 악이 창궐하고 있어." />
+    <string id="strTalkTradeLeader010" text="(계속)" />
+    <string id="strTalkTradeLeader011" text="인류가 그들의 영토가 안정되었다고 생각했을 그때, 아무도 알아차리지 못했던 어둠의 땅에서, 악의 세력이 온 대륙을 마치 화살처럼 뚫고 들어오고 있었어." />
+    <string id="strTalkTradeLeader012" text="(계속)" />
+    <string id="strTalkTradeLeader013" text="온 대륙은 끝없는 전쟁과 혼돈 속에 빠져 있었어. 어둠과 절망이 온 대륙에 퍼졌지. 그때, 인류는 그림자 속에서 겨우 살아남을 수 있었어." />
+    <string id="strTalkTradeLeader014" text="(계속)" />
+    <string id="strTalkTradeLeader015" text="모든 희망이 사라졌을 때, 인류는 마침내 마지막 결전을 시작했어. 영웅의 칼이 마지막 순간 악의 세력과 부딪혔고, 영웅의 피로 내일의 빛이 비추었지!" />
+    <string id="strTalkTradeLeader016" text="(계속)" />
+    <string id="strTalkTradeLeader017" text="하지만 평화는 계속되지 못했고, 간교한 계략과, 신념의 갈등으로, 인류는 서로 반목하게 되었지." />
+    <string id="strTalkTradeLeader018" text="(계속)" />
+    <string id="strTalkTradeLeader019" text="인간 문명 사이에 새로운 전쟁의 물결이 오고 있어. 미래는 불확실하고." />
+    <string id="strTalkTradeLeader020" text="재밌는 이야기군, 그래서 지금 우리 시대에 대륙의 지배자는 누구요?" />
+    <string id="strTalkTradeLeader021" text="지금은 대륙에 8개의 주된 세력이 있어. 북부의 월러스 군단과 네케니아 왕국, 중부의 모그리안 부족과 로모카 막부, 남부의 라블람 술탄국, 프로옌 연방, 염 왕조와 야리안의 마황, 이들이 대륙의 지배자들이지." />
+    <string id="strTalkTradeLeader022" text="무척 강력해 보이는군. 그럼, 이 땅에 다른 세력도 있소?" />
+    <string id="strTalkTradeLeader023" text="이 대륙의 본토는 그들 차지이지만, 여긴 수많은 종족과 셰력들이 태어나고 죽는, 이 세계 최고의 대륙이야. 사람들의 눈에는 많은 세력들이 사라졌다고는 하지만, 내가 알기론, 그들의 힘도 결코 얕볼 수 없지!" />
+    <string id="strTalkTradeLeader024" text="알겠소. 이제 더 물어볼 건 없소." />
+
+    <string id="strTalkTradeLeader025" text="{PLAYER.NAME}, 아직 살아있나?" />
+    <string id="strTalkTradeLeader026" text="그런 것 같소, 당신은 어떻게 살아남은거요?" />
+    <string id="strTalkTradeLeader027" text="나는 장사꾼이야, 지난 밤에 숨을 곳을 찾아두었지." />
+    <string id="strTalkTradeLeader028" text="하, 그럼 도망갔었다는 것이군! 그럼 왜 다시 돌아온게요?" />
+    <string id="strTalkTradeLeader029" text="이해하오, 그럼 왜 다시 돌아온거요?" />
+    <string id="strTalkTradeLeader030" text="내 짐 안에 중요한 편지가 있어. 저 도적떼들에게서 다시 찾아야만 해." />
+    <string id="strTalkTradeLeader031" text="계획이 있소?" />
+    <string id="strTalkTradeLeader032" text="지난 밤에 야습만 아니었어도 기회가 있었을 지도 모르지. 내게 돈이 좀 있으니, 가까운 마을에서 병사를 모집해. 그놈들이 어디로 갔을지 알고 있어. 만약 그 도적떼를 이길 수 있다면, 내 짐의 반을 주도록 하지." />
+    <string id="strTalkTradeLeader033" text="해보겠소." />
+    <string id="strTalkTradeLeader034" text="그래, 그럼 시작하지." />
+
+    <string id="strTalkTradeLeader035" text="{PLAYER.NAME}, 이제 공격할 충분한 병력이 있는 것 같군." />
+    <string id="strTalkTradeLeader036" text="이제 뭘 해야 하오?" />
+    <string id="strTalkTradeLeader037" text="놈들은 우리를 공격한 마을 근처에 있을 거야." />
+    <string id="strTalkTradeLeader038" text="그럼 갑시다." />
+    <string id="strTalkTradeLeader039" text="알겠소, 기다려 주시오." />
+    <string id="strTalkTradeLeader040" text="내 정보원에 따르면 놈들은 마을 주위에 흩어져 있으니, 몰래 잠입해서 각개격파할 수 있을 거야." />
+    <string id="strTalkTradeLeader041" text="알겠소." />
+
+    <string id="strTalkTradeLeader042" text="고맙군, {PLAYER.NAME}, 약속한 화물의 절반일세." />
+    <string id="strTalkTradeLeader043" text="그럼 이제 뭘 할거요?" />
+    <string id="strTalkTradeLeader044" text="남은 화물들을 팔아야지." />
+    <string id="strTalkTradeLeader045" text="편지는 찾았소?" />
+    <string id="strTalkTradeLeader046" text="물론이지, 이제 나는 가장 가까운 도시에 갈테니, 그곳 선술집에서 날 찾을 수 있을거요." />
+    <string id="strTalkTradeLeader047" text="알겠소." />
+
+    <string id="strTalkTradeLeader048" text="아, 왔구만. 도망친 줄 알았네." />
+    <string id="strTalkTradeLeader049" text="무슨 일이오?" />
+    <string id="strTalkTradeLeader050" text="무슨 일이냐고? 방금 노예단을 공격한 것 모르나?" />
+    <string id="strTalkTradeLeader051" text="그건 아는데, 뭐하는 자들이오?" />
+    <string id="strTalkTradeLeader052" text="게다가 노예까지 구해줘? 지금 불장난이라도 하는 겐가? 우린 이제 망했어! 누군지도 모르면서 이런 행동을 하다니, 이게 마지막 실수여야 할거야!" />
+    <string id="strTalkTradeLeader053" text="무슨 일이오, 겁먹은 것 같은데." />
+    <string id="strTalkTradeLeader054" text="그래, 노예단, 그들은 이 땅의 모든 노예 거래를 장악하고 있지. 모든 왕국이 그들을 지원한다고! 옛날에 한 작은 왕국의 왕이 노예와 사랑에 빠져 노예들에게 그녀를 풀어달라고 부탁했는데, 무슨 일이 일어났는지 아는가?" />
+    <string id="strTalkTradeLeader055" text="그들이 그녀를 풀어줬다고?" />
+    <string id="strTalkTradeLeader056" text="물론 멍청한 너 말고, 대신에 노예단은 그 나라를 정복했고 모든 생존자는 노예가 되었어. 이 대륙의 모든 세력들은 그 새끼들을 지지해. 내가 너라면 그 노예를 풀어주고 할 수 있는 한 빨리 도망칠거야." />
+    <string id="strTalkTradeLeader057" text="난 도망치지 않을 거요." />
+    <string id="strTalkTradeLeader058" text="난 할 말을 했을 뿐이야. 노예단은 우리를 그냥 보내주지 않을 거야. 아, 그 편지는 네가 가져 가도록 해. 나는 다른 대륙으로 갈테니. 아참, 그 보수로 2000디나르를 주지. 그들이 노예단의 일원이란 걸 알았다면 너를 연루시키진 않았을 거야. 잘 가게나." />
+    <string id="strTalkTradeLeader059" text="(편지와 돈을 받는다.)" />
+
+    <string id="strTalkTradeLeader060" text="난 곧 떠날거야, 다음에 보세나`." />
+    <string id="strTalkTradeLeader061" text="노예단에 대해 알고 싶소." />
+    <string id="strTalkTradeLeader062" text="알겠소. 그럼 안녕히!" />
+    <string id="strTalkTradeLeader063" text="솔직히 진짜 배후가 누구인지는 몰라. 내가 아는 유일한 것은 노예단은 전쟁 포로든 빚 노예든 상관없이 대륙 전역에서 노예를 거래한다는 것뿐. 그들에게 노예가 되었다면 평생 노예가 될 것이며, 노예단에게서 너를 산 주인을 섬겨야 할 뿐이야. 당신이 탈출하거나 주인에게 불순종한다면 그들은 널 사냥할 거야. 그러한 사냥에서 탈출할 수 있는 사람은 거의 없으며, 아마도 다른 대륙으로 탈출해야 할 거야. 노예단은 그들을 돕는 자에게 후하게 상을 주고, 또 모든 왕국의 노예 무역이 그들에게 달려 있으니까. 이게 내가 아는 전부야." />
+
+    <string id="strTalkTradeLeader064" text="그럼, 나는 이제 가야겠어." />
+    <string id="strTalkTradeLeader065" text="알겠소." />
+
+   <!-- 商队首领维利克对话结束 상단장 빌켄 대화 종료 -->
+
+   <!-- 샐리 대화 시작 -->
+    <string id="strTalkSlaveGirl1001" text="주인님, 셀리는 영원히 주인님을 섬기겠습니다." />
+    <string id="strTalkSlaveGirl1002" text="그래." />
+
+    <string id="strTalkSlaveGirl1101" text="주인님, 당신은 확실히 우리를 위해 좋은 곳을 선택했습니다! 우리 장로가 마을 건설을 감독하기 시작했습니다. 조금만 참으세요, 주인님." />
+    <string id="strTalkSlaveGirl1102" text="잘 됐군. 내가 도와줄 수도 있어." />
+    <string id="strTalkSlaveGirl1103" text="그러면 너희는 내 은혜를 결코 잊지 말아야 한다." />
+    <string id="strTalkSlaveGirl1104" text="감사합니다." />
+    <string id="strTalkSlaveGirl1105" text="도와줄까? 건설이 빨리 완료되면 좋겠는데." />
+    <string id="strTalkSlaveGirl1106" text="걱정하지 마세요. 최대한 빨리 완료하겠습니다. 확신이 서지 않으면 근처의 들판으로 가보세요. 저희 일족 사람들이 거기서 자원을 모으고 있을 거에요." />
+    <string id="strTalkSlaveGirl1107" text="그래, 한 번 가보마." />
+
+    <string id="strTalkSlaveGirl1201" text="주인님, 정착지를 마련해 주셔서 감사합니다." />
+    <string id="strTalkSlaveGirl1202" text="천만에." />
+    <string id="strTalkSlaveGirl1203" text="그럼 어서 가서 일하도록 해라." />
+    <string id="strTalkSlaveGirl1204" text="네, 주인님. 그러면 저희를 좀 도와 주시겠어요?" />
+    <string id="strTalkSlaveGirl1205" text="그래, 무엇을 하면 되겠느냐?" />
+    <string id="strTalkSlaveGirl1206" text="흠, 어디 보자... 집을 지으려면 나무가 필요해요. 하지만 우리는 노예의 낙인이 있어서 시장에서 거래를 할 수가 없으니, 좀 도와주시겠어요? 가시기 전에 저랑 장로님 사이에 있는 곡식단에서 곡물을 챙져가시면 되요. 죄송합니다, 그게 우리가 가진 전부에요." />
+    <string id="strTalkSlaveGirl1207" text="그래." />
+
+    <string id="strTalkSlaveGirl1301" text="주인님, 필요한 목재는 다 모으셨나요?" />
+    <string id="strTalkSlaveGirl1302" text="여기 있다. 견목 10개. 이거면 충분한가?" />
+    <string id="strTalkSlaveGirl1303" text="아직 다 못 모았다." />
+    <string id="strTalkSlaveGirl1304" text="물론이죠, 감사합니다 주인님." />
+    <string id="strTalkSlaveGirl1305" text="또 도울 일이 있느냐?" />
+    <string id="strTalkSlaveGirl1306" text="네, 주인님, 우리는 노예라서 도시에서 거래를 할 수가 없어요. 그러니 주인님께서, 가까운 시장에서 보급품을 좀 사주셨으면 해요. 아참, 주인님의 저택 건설도 마쳤습니다." />
+    <string id="strTalkSlaveGirl1307" text="그래, 알았다." />
+
+    <string id="strTalkSlaveGirl1401" text="구해주셔서 감사합니다. 나는 당신의 종이니, 명을 내려주십시오." />
+    <string id="strTalkSlaveGirl1402" text="나는 노예 주인이 아니오. 주인이라고 부르지 마시오." />
+    <string id="strTalkSlaveGirl1403" text="당신이 날 구해주셨으니, 이제 제 주인이십니다. (병사 중 한 명이 당신에게 그녀와 같은 죄수는 손에 '노예의 낙인'이 찍힐 것이라고 말합니다. 그것은 평생 노예라는 의미입니다.) " />
+    <string id="strTalkSlaveGirl1404" text="너에게도 낙인이 있나?" /> 
+    <string id="strTalkSlaveGirl1405" text="네, 주인님." />
+    <string id="strTalkSlaveGirl1406" text="낙인 따윈 잊어버려, 주인의 이름으로 너를 해방한다." />
+    <string id="strTalkSlaveGirl1407" text="낙인이 그렇게 강력한가?" />
+    <string id="strTalkSlaveGirl1408" text="노예단에 대해 전혀 모르시는 것 같군요." />
+    <string id="strTalkSlaveGirl1409" text="음. 그들은 어떤 세력이지?" />
+    <string id="strTalkSlaveGirl1410" text="그 개새끼들, 그놈들은 노예 상인 집단이데, 그들은 전국에 걸쳐 노예를 거래하고, 아무리 위대한 왕국조차도 그들의 심기를 거스를 수 없어요. 주인님은 이 대륙에서 태어나지 않은 것 같네요. 그렇지 않다면 모르실 리 없으니까요." />
+    <string id="strTalkSlaveGirl1411" text="그러면 내가 너를 노예단에게서 구해줬어도 여전히 너는 노예라는 건가?" />
+    <string id="strTalkSlaveGirl1412" text="네, 저는 손과 목에 노예의 낙인이 있고, 그건 제가 평생 노예라는 뜻이고, 평생 주인을 섬겨야 한다는 뜻이에요. 그러지 않으면 노예단이 저를 쫓아와서 새로운 주인에게 팔겠지요." />
+    <string id="strTalkSlaveGirl1413" text="다른 해결책은 없고?" />
+    <string id="strTalkSlaveGirl1414" text="다른 선택지도 있어요. 노예단을 없애버리는 거죠! (그녀의 눈에서 분노가 느껴집니다.)" />
+    <string id="strTalkSlaveGirl1415" text="그러면, 너의 이야기는 뭐지? 왜 노예가 된 거야?" />
+    <string id="strTalkSlaveGirl1416" text="그들이 우리 마을을 습격해서, 노예로 삼았어요. 엄마, 아빠, 할아버지 할머니도 모두, 그때 살해당했어요." />
+    <string id="strTalkSlaveGirl1417" text="내 부대를 따라와." />
+    <string id="strTalkSlaveGirl1418" text="새로운 주인을 찾아봐." />
+    <string id="strTalkSlaveGirl1419" text="주인님은 이미 노예단을 적으로 두었으니, 그들은 당신을 내버려두지 않을 거에요. 우리 일족은 여전히 노예단에게 붙잡혀 있지만 노예단을 파괴할 방법을 알고 있어요. 주인님이 우리 일족을 구해주시면, 우리는 주인님을 섬길 거에요." />
+    <string id="strTalkSlaveGirl1420" text="그들은 어디에 있지? 내가 해보지." />
+    <string id="strTalkSlaveGirl1421" text="너희 일족이 날 실망시키지 않아야 할 거야." />
+    <string id="strTalkSlaveGirl1422" text="그들은 근처에 있는 노예단의 전초 기지에 포로로 잡혀 있어요. 주인님이 준비하시는 대로, 제가 길을 인도할게요." />
+    <string id="strTalkSlaveGirl1423" text="가자." />
+
+    <string id="strTalkSlaveGirl1501" text="우리 일족을 구해줘서 감사합니다, 주인님." />
+    <string id="strTalkSlaveGirl1502" text="주인이라고 부르지 말라니까. 너희 일족을 구했는데, 이제 뭘 해야하지? 싸워야할 노예단이 많아." />
+    <string id="strTalkSlaveGirl1503" text="걱정하지 마세요, 주인님. 노예단은 우리 일족의 터전을 파괴했어요. 주인님이 우리의 유일한 희망이니, 우리 일족은 주인님을 도울 거에요. 약속해요. 우리 장로님이 노예단을 상대할 방법을 알고 있어요.." />
+    <string id="strTalkSlaveGirl1504" text="너희 장로는 어디에 있지?" />
+    <string id="strTalkSlaveGirl1505" text="여기로 와달라고 할게요, 잠시만 기다리세요." />
+    <string id="strTalkSlaveGirl1506" text="그래." />
+
+    <string id="strTalkSlaveGirl1601" text="다녀오셨어요, 주인님." />
+    <string id="strTalkSlaveGirl1602" text="내가 할 일이 더 있니? 보급은 충분하고?" />
+    <string id="strTalkSlaveGirl1603" text="네, 이제 충분해요. 그리고, 시카 기사단의 일원이라는 사람이 도움을 주었어요. 영물 두 마리를 주었답니다." />
+    <string id="strTalkSlaveGirl1604" text="영물?" />
+    <string id="strTalkSlaveGirl1605" text="네, 주인님, 이 생명체들은 시카 기사단이 키우는 영적인 동물인데, 전투에 도움이 되어요. 기사가 신령한 고양이와 신령한 개를 데려 왔으니, 하나를 고르시어요." />
+    <string id="strTalkSlaveGirl1606" text="그래, 한 번 보자꾸나." />
+
+    <string id="strTalkSlaveGirl1701" text="주인님, 제가 도와드릴 게 있나요?" />
+    <string id="strTalkSlaveGirl1702" text="아이시에게 무슨 문제가 있는지 말해줄 수 있느냐? 아르드론이 내게 그녀를 돌봐달라고 부탁했지만, 누구와도 이야기하고 싶지 않다는구나." />
+    <string id="strTalkSlaveGirl1703" text="이 알통몬 같은 녀석이, 감히 주인님께 그런 일을 시키다니. 장로님께 말해서 또 벌 받게 해야겠어요. 주인님... 주인님께서 우리를 노예단으로부터 구해주셨지만, 아이시는... 불쌍한 아이시, 부모도 형제도, 모두 노예단이 우리 마을을 공격했던 날, 그녀의 눈앞에서 신의 품으로 돌아갔답니다. 아마도 그 일로 인해 슬픔의 바다에 잠긴 것 같아요. 하지만 우리가 정착한 뒤에는 좀 나아졌어요." />
+    <string id="strTalkSlaveGirl1704" text="이해가 가니, 장로에게 벌주라고 하지는 말거라. 난 그저 돕고 싶은 것뿐이란다." />
+    <string id="strTalkSlaveGirl1705" text="알고 있었다. 내가 주인이니, 아르드론에게 이딴 일로 다시 날 방해하지 말라고 하거라." />
+    <string id="strTalkSlaveGirl1706" text="네, 주인님. 장로님 말씀대로 주인님은 정말 순수한 마음을 가지셨어요." />
+    <string id="strTalkSlaveGirl1707" text="죄송합니다, 주인님. 이런 일로 심려끼치지 않겠습니다." />
+    <string id="strTalkSlaveGirl1708" text="우리가 아이시를 도울 수 있겠니?" />
+    <string id="strTalkSlaveGirl1709" text="송구스럽지만 잘 모르겠습니다. 하지만 마을에서 가장 용감한 소년 나비에게 물어봐도 될까요? 아이시보다 어린데 그 아이의 부모님도 신의 품으로 돌아갔어요. 나비는 우리 일족의 예언자인 아버지의 지위를 물려받았고, 다른 아이들도 걔가 예언자의 능력을 가지고 있다고 말하는데, 정작 나비는 그 능력을 다른 사람에게 보이는 걸 거부해요. 왜냐면 나비 아버지가 노예단의 공격을 예견하지 못했기 때문에, 그 이후로 아무도 믿지 않거든요. 하지만 저는 나비가 아이시를 도울 수 있을 거라 생각해요." />
+    <string id="strTalkSlaveGirl1710" text="그래, 나비에게 물어보마." />
+
+
+   <!-- 萨莉对话结束 -->
+
+   <!-- 希绝族莫奈对话开始 시카족 몬나이 대화 시작 -->
+
+    <string id="strTalkSikaLeader001" text="주인님, 셀리에게서 들었습니다. 모든 시카족의 이름으로, 주인님께 감사의 인사를 전하고 싶습니다." />
+    <string id="strTalkSikaLeader002" text="물론, 노예단을 파괴하고 당신과 같은 모든 노예들을 해방하는 것이 나의 목표일세." />
+    <string id="strTalkSikaLeader003" text="별말씀을, 해야할 일을 했을 뿐이오." />
+    <string id="strTalkSikaLeader004" text="하, 내가 아니었다면 넌 평생 노예였을 거라구!" />
+    <string id="strTalkSikaLeader005" text="주인님의 목표와 태도는 상관없습니다. 중요한 건, 주인께서는 누구도 감히 하지 못할 일을 하셨다는 것이지요. 그리고 우리 시카족은 당신을 섬길 것입니다." />
+    <string id="strTalkSikaLeader006" text="방법이 있겠소?" />
+    <string id="strTalkSikaLeader007" text="네, 노예단은 강력하지만, 그들을 파괴할 방법이 없는 건 아닙니다." />
+
+    <string id="strTalkSikaLeader008" text="결국, 운명을 피하지 못했습니다. 죄송합니다 주인님, 주인님을 끌어들이는 게 아니었는데..." />
+    <string id="strTalkSikaLeader009" text="아니, 다시 과거로 돌아가도 당신을 구했을 거요. 다른 게 있다면 좀 더 준비해서 왔겠지." />
+    <string id="strTalkSikaLeader010" text="이럴 줄 알았다면 당신을 구하러 오지 않았을텐데! 이제 아무 희망도 없다고!" />
+    <string id="strTalkSikaLeader011" text="주인님, 셀리와 함께 탈출을 시도할 수 있을 것 같습니다. 그녀가 화살로부터 주인님을 보호할 수 있다면 영광일 것입니다. 그러면 마스터는 살아남을 수 있을 것입니다. 셀리와 함께 살아서 탈출한다면, 시카족은 명맥을 유지할 것입니다." />
+    <string id="strTalkSikaLeader012" text="나도 그러길 바라오, 하지만 우린 포위당했고 숫자도 부족한 걸. 이런 상황에선 힘들 것 같소." />
+    <string id="strTalkSikaLeader013" text="나는 도망가지 않을거요. 왜냐하면 싸우기로 했으니까. 나는 마지막 순간까지 싸우겠소." />
+    <string id="strTalkSikaLeader014" text="그냥 죽게 내버려두지 않겠소. 아직 희망은 있어!" />
+    <string id="strTalkSikaLeader015" text="안돼, 난 혼자서 탈출하겠어. 행운을 빌지!!" />
+    <string id="strTalkSikaLeader016" text="그래, 셀리와 함께 탈출하도록 하지. 하지만 곧 돌아오겠소." />
+    <string id="strTalkSikaLeader017" text="(당신이 결정을 내리자마자, 셀리와 몇몇 포로들이 언덕을 올려다보고 있는 걸 보았습니다. 언덕 저 멀리에서 지축이 흔들리고 있습니다. 셀리는 당신을 돌아보고 말했습니다: 저기서 뭔가 오고 있어요!)" />
+
+    <string id="strTalkSikaLeader018" text="주인님, 우리 시카족을 구해주셔서 감사합니다. 당신이 아니었다면 우리는 반드시 암울한 운명에 직면했을 것입니다. 우리 시카족은 영원히 당신을 섬기겠습니다." />
+    <string id="strTalkSikaLeader019" text="아니오, 시카 기사단이 아니었다면 아무도 살아남지 못했을 거요." />
+    <string id="strTalkSikaLeader020" text="그랬겠지요. 하지만 주인님이 아니었다면, 시카 기사단이 구해줄 기회조차 얻지 못했을 것입니다. 주인님이 행하신 일과 선하심을 결코 잊지 않을 것입니다." />
+    <string id="strTalkSikaLeader021" text="아니오, 나는 당신을 영원히 노예로 삼고 싶지 않소. 게다가 나 때문에 화살도 맞지 않았소." />
+    <string id="strTalkSikaLeader022" text="아닙니다, 주인님이 안전할 수 있다면, 다치는 것도 기쁨입니다. 나는 늙었으니, 고작 그 정도가 제가 할 수 있는 일이지요. 주인님, 이제 노예단에 대해 아셨으니, 시카족은 주인님만 믿겠습니다." />
+    <string id="strTalkSikaLeader023" text="하지만 이 노예단과 어떻게 싸우겠소? 우리는 너무 약하오." />
+    <string id="strTalkSikaLeader024" text="걱정 마십시오, 주인님. 제게 계획이 있고 당신을 실망시키지 않을 것입니다. 우리는 당신을 위한 기지를 건설할 적당한 장소를 찾아 떠나야 합니다. 시카족은 대륙의 첫 번째 종족이며, 대륙에는 여전히 많은 세력이 있어 우리를 보호할 것입니다. 우리가 기지를 건설하면 그 세력들이 반드시 도움을 줄 것이고, 노예단은 공격을 시작하기 전에 한 번 더 생각하게 될 것입니다. 자, 이제 서둘러야 합니다. 여기는 이야기할 곳이 아닙니다. 나중에 논의하시지요." />
+
+    <string id="strTalkSikaLeader025" text="주인님, 나 몬나이는, 시카족의 이름으로 당신께 감사 인사를 올리려 하옵니다. 우리는 당신을 영원히 섬기기로 맹세합니다." />
+    <string id="strTalkSikaLeader026" text="나는 여전히 그대들을 내 노예로 두고싶지 않소. 그저 그대들을 자유롭게 하고 싶소." />
+    <string id="strTalkSikaLeader027" text="그러면 그렇게 하시오. 내가 당신들의 새 주인이고, 당신들은 영원히 내게 충성을 바쳐야 하오." />
+    <string id="strTalkSikaLeader028" text="주인님의 노예가 되어 영광입니다. 우리 중 일부는 떠날 수도 있겠지만, 나머지는 끝까지 주인님을 섬길 것입니다. 몸에 노예의 낙인을 지니고 있는 이상, 우리에게는 선택의 여지가 없습니다. 누군가 노예단을 단번에 멸망시킬 수 없는 이상 우리는 누군가의 노예가 될 수밖에 없습니다.게다가 주인님은 좋은 분이십니다." />
+    <string id="strTalkSikaLeader029" text="예, 주인님, 우리 중 일부는 떠나기로 선택할 수 있지만 나머지는 끝까지 당신을 섬길 것입니다. " />
+    <string id="strTalkSikaLeader030" text="알겠소. 이제 작전 기지가 생겼소. 다음은 무엇이오? 이제 노예단과 어떻게 싸워야 하오?" />
+    <string id="strTalkSikaLeader031" text="주인님, 영향력과 힘을 확장하지 않으면 노예단을 물리칠 기회가 없습니다." />
+    <string id="strTalkSikaLeader032" text="그래서, 뭘 해야 하오?" />
+    <string id="strTalkSikaLeader033" text="우리 시카족은 고대부터 대륙의 수많은 세력으로부터 보호받고 있습니다. 이번에 우리를 지켜줄 사람이 아무도 없다면... 어쩌면 멸망은 피할 수 없는 운명일지도 모릅니다. 일단은 시카 기사단들에게 연락을 취하는 것이 좋겠습니다. 그들이 우리를 보호할 수 있습니다… 당분간은 말입니다." />
+    <string id="strTalkSikaLeader034" text="어디서 그들을 찾을 수 있겠소? 아 맞다, 내게 그들에게서 온 편지가 있소. (당신은 몬나이에게 시카 기사단의 편지를 보여줍니다.) " />
+    <string id="strTalkSikaLeader035" text="시카 기사단의 편지? 이것은 분명히 일을 더 쉽게 만들어 줄 것입니다. 가까운 선술집에서 전령 찾을 수 있습니다. 주인님이 시카족을 대표한다고만 말씀하십시오. 주인님이 시카 기사단을 찾는 동안 우리는 건설을 계속할 것입니다. 주인님, 건설 작업을 돕고 싶다면 셀리에게 무엇을 할 수 있는지 여쭈십시오." />
+    <string id="strTalkSikaLeader036" text="알겠소." />
+
+    <string id="strTalkSikaLeader037" text="주인님, 무엇을 도와드릴까요?" />
+    <string id="strTalkSikaLeader038" text="의식에 관해 말해 주시오. 내 말은, 나비의 힘에 대해 설명해 주시겠소?" />
+    <string id="strTalkSikaLeader039" text="네, 그것은 시카족의 예언자의 힘입니다. 올바른 의식을 통해, 어머니 여신의 힘을 불러낼 수 있습니다." />
+    <string id="strTalkSikaLeader040" text="나비가 의식 중에 말한 '라이에누스'를 말하는 건가? " />
+    <string id="strTalkSikaLeader041" text="네, 주인님. 하지만 여신의 이름을 직접 부르지 마십시오. 이것은 우리의 금기입니다. 어머니 여신은 오랫동안 우리 의식에 응답하지 않았습니다. 이것은 정말 기적입니다. 제발, 방금 일어난 일을 비밀로 유지해 주십시오. 누군가 알게 된다면, 다른 세력이 우리에게 해를 끼칠까 두렵습니다." />
+    <string id="strTalkSikaLeader042" text="알겠소." />
+    <string id="strTalkSikaLeader043" text="어머니 여신은 주인님께 아무런 악의가 없거나, 그녀의 힘을 나타내지는 않을 것입니다. 어쨌든 아이시를 도와주셔서 감사합니다. 정말로 상태가 많이 좋아진 것 같습니다. 아이시도 주인님께 고마워 합니다. 한 번 만나 보시지요." />
+
+    <string id="strTalkSikaLeader044" text="주인님, 제가 도울 일이라도?" />
+    <string id="strTalkSikaLeader045" text="없소." />
+
+    <string id="strTalkSikaLeader1001" text="주인님, 돌아오셨습니까. 로린 족장에게서 현재 상황에 대해 들었습니다. 항초패가 마을을 지켜준다면, 노예단에 대항할 다른 힘을 찾을 수 있을 것입니다." />
+    <string id="strTalkSikaLeader1002" text="글쎄, 시카족과 케이지족 사이에 긴 역사가 있다고 들었소. 그들이 마을을 지켜주겠소?" />
+    <string id="strTalkSikaLeader1003" text="주인님, 케이지 일족도 우리처럼 주인님 외에는 보호받을 곳이 없으니 안심하십시오. 그들은 죽을 때까지 이 마을을 보호할 것입니다. 우리도 훈련을 시작했으니, 이번에는 고향 땅을 지키기 위해 싸울 것입니다." />
+    <string id="strTalkSikaLeader1004" text="음, 그렇게 말하니 안심이 되는군. 그럼 당신은 케이지 족을 오래 전부터 알고 있었소?" />
+    <string id="strTalkSikaLeader1005" text="제가 직접 본 것은 아니지만, 케이지족은 오랫동안 우리와 접촉이 있었다고 합니다. 우리의 역사 기록에 따르면, 한때 우리 일족과 케이지 일족의 지도자 때에 매우 친밀한 관계였던 시절이 있었다고 합니다. 그때부터, 그들은 본토에서 우리 시카 일족과 적대적이지 않은 몇 안 되는 세력 중 하나였습니다." />
+    <string id="strTalkSikaLeader1006" text="그러면 무슨 일이 있었던 거요?" />
+    <string id="strTalkSikaLeader1007" text="후에, 우리 시카 일족은 점점 쇠락해져 갔고 케이지 일족과도 연결이 끊겨습니다. 하지만 우리와는 달리, 그들은 언제나 그들의 땅을 지켜왔습니다. 노예단이 나타나기 전까지는 말이지요." />
+    <string id="strTalkSikaLeader1008" text="노예단이 그들을 멸망시켰나? 무슨 일이 일어났던 거지?" />
+    <string id="strTalkSikaLeader1009" text="본토에서는 약 100년 전 케이지족의 왕이 노예와 결혼하여, 그 일로 노예단이 포위했다고 전해집니다. 마침내 케이지 일족 세력은 노예단에 의해 전멸했습니다. 그 이후로 본토에서 그들에 대해 아는 사람은 거의 없습니다." />
+    <string id="strTalkSikaLeader1010" text="그러면 로린족은 누구요?" />
+    <string id="strTalkSikaLeader1011" text="그들은 공격 이후 탈출한 케이지 일족의 후예입니다. 왜냐하면 남아 있는 일족이 거의 없고, 그들을 아는 사람도 적을 뿐더러 본토에 알려진 바도 없기 때문입니다. 몇 년 전까지만 해도 케이지 일족의 영토가 다시 노예단의 공격을 받았다는 소식을 접했습니다. 이번에는 극소수만이 살아남았다고 합니다." />
+    <string id="strTalkSikaLeader1012" text="노예단이 또 그들을 공격했군. 이번에는 이유가 뭐요? 왕과 결혼한 노예는 이미 오래전에 죽은 것 아닌가?" />
+    <string id="strTalkSikaLeader1013" text="공격이 너무 작은 규모라 아무도 구체적인 이유를 설명하기 어렵습니다. 로린에게 물어봤지만 그도 이유를 모른다고 하더군요. 구체적인 이유는 노예단에게 물어봐야겠지만, 시카 기사단도 관심을 가지고 있어서 이유를 모르겠습니다." />
+    <string id="strTalkSikaLeader1014" text="고맙소. 대충 알겠소." />
+    <string id="strTalkSikaLeader1015" text="그들을 구해주신 감사합니다, 주인님. 그렇지 않았다면 이 대륙에서 케이지 일족은 사라졌을 것입니다. 그들을 믿어 주십시오. 노예단에 대한 그들의 증오는 우리보다 더 무거우니 말입니다." />
+    <string id="strTalkSikaLeader1016" text="알겠소." />
+
+    <string id="strTalkSikaLeader1101" text="주인님, 떠날 채비는 마치셨습니까?" />
+    <string id="strTalkSikaLeader1102" text="그렇소만, 로린이 말하길 내게 할 이야기가 있다고 하던데." />
+    <string id="strTalkSikaLeader1103" text="네, 로린은 주인님께 본토를 여행할 때 주인님의 신분, 노예단에 대한 원한, 시카 일족과 케이지 일족에 대한 모든 것을 공개해서는 안 된다고 말했을 것입니다." />
+    <string id="strTalkSikaLeader1104" text="알고 있소." />
+    <string id="strTalkSikaLeader1105" text="덧붙이자면, 주인님께서 주요 세력을 찾아가시기 전에, 테르다스의 북동쪽 숲에 있는 마녀를 찾으십시오. 그녀는 미래를 예언하는 능력이 있으니 우리에게 도움이 될지도 모릅니다." />
+    <string id="strTalkSikaLeader1106" text="알겠소." />
+
+   <!-- 希绝族莫奈对话结束 -->
+
+   <!-- 希绝骑士绝炎对话开始 -->
+    <string id="strTalkSikaKnightLeader001" text="감히 노예들과 싸우는 사람을 보는 건 처음이오. 이방인이여, 당신은 내 존경을 얻었소. 시카 기사단의 이름으로, 나는 당신에게 감사를 표하오. 당신은 우리 기사단의 동맹이 될 것이오." />
+    <string id="strTalkSikaKnightLeader002" text="시카 기사단? (셀리가 말하길, 시카 기사단은 이 대륙에서 노예단에게 감히 적대감을 표시할 수 있는 유일한 세력이지만, 노예단이 너무 강력하기 때문에 대부분의 경우 도적들을 공격할 뿐이라고 합니다.)" />
+    <string id="strTalkSikaKnightLeader003" text="음, 당신은 시카족인 것 같군. 노예단이 당신의 마을을 공격했다고 들었지만 우리가 돕기에는 너무 늦었소. 폐허가 된 마을을 보았을 때 가장 영광스러운 시카족이 영원히 파괴되는 줄 알았소. 하지만 당신이 변화를 만들었소. " />
+    <string id="strTalkSikaKnightLeader004" text="가장 영광스러운 시카족?" />
+    <string id="strTalkSikaKnightLeader005" text="하, 시카족의 구원자가 이방인이라고 들었는데, 지금 내 눈으로 목격하고 있군. 이 대륙에서 우리 말고 누가 감히 노예단들을 화나게 했는지 궁금했소. 자, 그럼 시카족은 당신 것이오. 우리가 당신을 영원히 보호할 수는 없소. 당신은 떠나야 하고, 나는 노예단을 쫓아야 하오. 아마도 우린 다시 보게 될 거요." />
+    <string id="strTalkSikaKnightLeader006" text="(셀리는 그의 상처를 치료하려 했지만 그는 거절했고 말에 올랐다.) 그럼 다음에 봅시다!" />
+
+   <!-- 希绝骑士绝炎对话结束 -->
+
+   <!-- 希绝族田壮对话开始 시카족 -->
+
+    <string id="strTalkSettlementGatherer001" text="주인님이 오셨군요! 주인님, 여긴 많은 자원이 있으니, 이걸로 마을을 건설할 수 있겠습니다." />
+    <string id="strTalkSettlementGatherer002" text="내가 도울 게 있나?" />
+    <string id="strTalkSettlementGatherer003" text="아, 주인님께서 아르드론을 도와주시겠다고요? 아르드론은 피곤한데, 그럼 아르드론은 주인님께서 숲에 가셔서 견목 10 을 구해주시면 좋겠습니다." />
+    <string id="strTalkSettlementGatherer004" text="물론, 견목을 모아 주도록 하지." />
+
+    <string id="strTalkSettlementGatherer005" text="아르드론 피곤해요, 주인님은 견목을 다 모으셨나요?" />
+    <string id="strTalkSettlementGatherer006" text="물론, 여기 있네. 더 필요한 거 있나?" />
+
+    <string id="strTalkSettlementGatherer007" text="아직 다 못 했네." />
+    <string id="strTalkSettlementGatherer008" text="완벽해요. 아르드론은 주인님께 도구 제작 방법을 알려줄 수 있고, 도구가 있으면 주인님은 더 빨리 자원을 수집할 수 있어요. 아르드론은 주인님이 석재 20 을 채굴하면 좋겠어요. 주인님은 아르드론의 곡괭이를 사용하실 수 있어요." />
+    <string id="strTalkSettlementGatherer009" text="그렇군." />
+
+    <string id="strTalkSettlementGatherer010" text="주인님 다 하셨어요?" />
+    <string id="strTalkSettlementGatherer011" text="석재 20을 모아왔네. 더 필요한 거 있나?" />
+
+    <string id="strTalkSettlementGatherer012" text="아직 다 못했네." />
+    <string id="strTalkSettlementGatherer013" text="주인님 일 다 하신 거 같은데, 아르드론은 벌써 배가 고파요. 주인님, 이 숲에는 멧돼지가 많이 사는데, 아르드론과 마을을 위해서 몇 마리 좀 잡아주실 수 있어요? 아르드론은 10 마리 있으면 좋겠어요." />
+    <string id="strTalkSettlementGatherer014" text="문제 없지." />
+
+    <string id="strTalkSettlementGatherer015" text="주인님 멧돼지 다 잡으셨어요?" />
+    <string id="strTalkSettlementGatherer016" text="그래, 일족이 다 먹을 만큼 충분해. 빨리 마을로 가져가야 해. 더 필요한 거 있나?" />
+
+    <string id="strTalkSettlementGatherer017" text="아직이네." />
+    <!-- 这里开始任务被缩减，换用018a -->
+    <string id="strTalkSettlementGatherer018a" text="이제, 아르드론은 돼지고기를 먹을 수 있어요. 아, 주인님, 아르드론 말은 '우리가' 돼지고기를 먹을 수 있게 되었다는 말이에요. 아르드론은 주인님께 감사하다고 말하고 싶어요. 아르드론은 장로님께 주인님께서 하신 일을 다 이야기했어요. 장로님은 아르드론을 혼냈어요. 알통몬이 뭘 잘못했나요? 오, 필요한 건 다 있는 것 같아요. 아르드론은 보급품을 마을로 가져갈 거에요.{newline}그리고, 주인님, 아르드론은 주인님이 아르드론 부탁을 들어주시면 좋겠어요. 꼬마 아이시가 이상해 보여요. 주인님께서 아이시 한 번 봐주시면 안 될까요?" />
+
+    <string id="strTalkSettlementGatherer018" text="이제, 아르드론은 돼지고기를 먹을 수 있어요. 아, 주인님, 아르드론 말은 '우리가' 돼지고기를 먹을 수 있게 되었다는 말이에요. 주인님, 이제 마을 건설이 거의 끝나가요. 장로님이 아르드론에게 석재 50, 목재 50, 식량 30이 필요하다고 했어요." />
+    <string id="strTalkSettlementGatherer019" text="알겠네." />
+
+    <string id="strTalkSettlementGatherer020" text="주인님, 필요한 건 다 모으셨어요?" />
+    <string id="strTalkSettlementGatherer021" text="여기 있네." />
+
+    <string id="strTalkSettlementGatherer022" text="아직." />
+    <string id="strTalkSettlementGatherer023" text="아르드론은 주인님께 감사하다고 말하고 싶어요. 아르드론은 장로님께 주인님께서 하신 일을 다 이야기했어요. 장로님은 아르드론을 혼냈어요. 알통몬이 뭘 잘못했나요? 오, 필요한 건 다 있는 것 같아요. 아르드론은 보급품을 마을로 가져갈 거에요.{newline}그리고, 주인님, 아르드론은 주인님이 아르드론 부탁을 들어주시면 좋겠어요. 꼬마 아이시가 이상해 보여요. 주인님께서 아이시 한 번 봐주시면 안 될까요?" />
+    <string id="strTalkSettlementGatherer024" text="그래, 무슨 일인지 알아볼게." />
+
+    <string id="strTalkSettlementGatherer025" text="안녕하세요, 주인님." />
+    <string id="strTalkSettlementGatherer026" text="안녕." />
+
+   <!-- 希绝族田壮对话结束 -->
+
+   <!-- 蓝冰对话开始 아이시 대화 시작 -->
+    <string id="strTalkSikaSettlementBlueIce001" text="말하기 싫어요." />
+    <string id="strTalkSikaSettlementBlueIce002" text="왜? 아르드론이 너랑 이야기해 보라고 하던데?" />
+    <string id="strTalkSikaSettlementBlueIce003" text="싫어요, 아무하고도 말하기 싫어요." />
+    <string id="strTalkSikaSettlementBlueIce004" text="문제가 있다면, 얘기해 보렴." />
+    <string id="strTalkSikaSettlementBlueIce005" text="시간 낭비하지 않겠다. 말하라고 했다!" />
+    <string id="strTalkSikaSettlementBlueIce006" text="싫어요, 말 안 할 거에요." />
+    <string id="strTalkSikaSettlementBlueIce007" text="너 괜찮니?" />
+    <string id="strTalkSikaSettlementBlueIce008" text="말하기 싫어요." />
+    <string id="strTalkSikaSettlementBlueIce009" text="아이시? 아이시! 젠장! 그냥 '말하기 싫어요'만 계속 반복할 뿐이군. 셀리에게 어찌된 영문인지 물어봐야겠어." />
+
+    <string id="strTalkSikaSettlementBlueIce010" text="주엔님? 도와주셔서 감사해요. 엄마가 언제나 나와 함께 할 거라고 했어요." />
+    <string id="strTalkSikaSettlementBlueIce011" text="감사는 무슨, 해야할 일을 했을 뿐이란다." />
+    <string id="strTalkSikaSettlementBlueIce012" text="'주인님'이라고 해야지! 고맙기는, 해야할 일을 했을 뿐이야." />
+    <string id="strTalkSikaSettlementBlueIce013" text="네, 엄마가 주인님을 최선을 다해 도우라고 했어요. 아르드론 오빠가 말하길 자기가 재료들을 좀 모아 두었대요. 언제든 주인님이 원하신대로 쓰래요!" />
+    <string id="strTalkSikaSettlementBlueIce014" text="네, 주인님. 엄마가 주인님을 최선을 다해 도우라고 했어요. 아르드론 오빠가 말하길 자기가 재료들을 좀 모아 놨대요. 언제든 주인님이 원하신대로 쓰래요!" />
+    <string id="strTalkSikaSettlementBlueIce015" text="그래." />
+
+    <string id="strTalkSikaSettlementBlueIce016" text="말하기 싫어요." />
+    <string id="strTalkSikaSettlementBlueIce017" text="미안." />
+
+    <string id="strTalkSikaSettlementBlueIce018" text="공부하느라 바빠요!" />
+    <string id="strTalkSikaSettlementBlueIce019" text="그래." />
+
+    <string id="strTalkSikaSettlementBlueIce020" text="지금은 이야기할 때가 아닌 것 같아요." />
+    <string id="strTalkSikaSettlementBlueIce021" text="미안." />
+
+   <!-- 蓝冰对话结束 아이시 대화 종료 -->
+
+   <!-- 纳维对话开始 나비 대화 시작 -->
+    <!-- For Translation: In Nive's words, "master" use "{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}" -->
+    <!-- For example: strTalkSikaSettlementWarmNaive001 - "Anything I can do for you? {?PLAYER.GENDER}Big Sister{?}Big Brother{\?}." -->
+    <string id="strTalkSikaSettlementWarmNaive001" text="무슨 일이에요 {?PLAYER.GENDER}누나{?}형{\?}?" />
+    <string id="strTalkSikaSettlementWarmNaive002" text="안녕, 꼬마 나비야? {?PLAYER.GENDER}누나가{?}형이{\?} 네 도움이 필요해" />
+    <string id="strTalkSikaSettlementWarmNaive003" text="아니요, 꼬마 나비는 아무도 도울 수 없어요." />
+    <string id="strTalkSikaSettlementWarmNaive004" text="나는 이 마을의 영주란다. 꼬마 나비는 마을의 예언자라고 들었는데, 우리 꼬마 나비가 좀 도와줄 수 있을까?" />
+    <string id="strTalkSikaSettlementWarmNaive005" text="우리 구해주신 분이에요? 알아요. 그럼 도와드릴게요." />
+    <string id="strTalkSikaSettlementWarmNaive006" text="잘 됐구나! 혹시 아이시 아니? 셀리에게 들으니 아이시 부모님이 신의 품으로 돌아가셔서 많이 슬퍼한다고 하던데, 네가 좀 도와줄 수 있을 거라고 하더구나." />
+    <string id="strTalkSikaSettlementWarmNaive007" text="도와드릴 순 있어요. 하지만 아이시의 부모님은 신께 돌아간 것도 아니고 죽은 것도 아니에요." />
+    <string id="strTalkSikaSettlementWarmNaive008" text="뭐라구?" />
+    <string id="strTalkSikaSettlementWarmNaive009" text="몬나이 장로님이 아이시에게 진실을 말하지 말라고 하셨어요. 만약 아이시가 부모님이 돌아가신 게 아니라고 믿지 않는다면, 아무 것도 해줄 수 없어요." />
+    <string id="strTalkSikaSettlementWarmNaive010" text="그럼 그분들이 죽지 않았다는 거니? 아이시가 그렇게 믿지 않는다고? 그분들은 다 사라진 거 아니니?" />
+    <string id="strTalkSikaSettlementWarmNaive011" text="네, 아니에요. 우리 마음 속에 영원히 살아있죠. 신께 돌아가지 않는다면, 진짜 죽은 게 아니니까요." />
+    <string id="strTalkSikaSettlementWarmNaive012" text="그러면, 아이시가 부모님이 영원히 마음 속에 산다고 믿게 만들어야 한다는 거니?" />
+    <string id="strTalkSikaSettlementWarmNaive013" text="아니요, 제 말은요, 제가 그분들을 소환할 수 있는데, 그분들이 살아 있다고 아이시가 믿게 만들어야 한다는 거에요." />
+    <string id="strTalkSikaSettlementWarmNaive014" text="그분들을 되살릴 수 있다는 거니?" />
+    <string id="strTalkSikaSettlementWarmNaive015" text="아니요, 그냥 소환만 해요. 하지만 지금은 아버지가 주신 중요한 유물을 잃어버렸어요. 그걸 먼저 찾아야 해요." />
+    <string id="strTalkSikaSettlementWarmNaive016" text="내가 찾는 걸 돕는다면 말야, 그렇지? 그럼 어디서 그걸 찾을 수 있니?" />
+    <string id="strTalkSikaSettlementWarmNaive017" text="유물은 물 쪽으로 도망간 것 같아요. 나에게서 숨으려고 해요. 조각상인데, 그게 있어야 아이시를 도울 수 있어요." />
+    <string id="strTalkSikaSettlementWarmNaive018" text="(도망가? 조강상이 도망가?) 그래, 내가 찾아보마." />
+
+    <string id="strTalkSikaSettlementWarmNaive019" text="조각상 찾았어요?" />
+    <string id="strTalkSikaSettlementWarmNaive020" text="(강에서 찾은 조각상을 보여준다.) 이게 네가 찾던 조각상이니?" />
+    <string id="strTalkSikaSettlementWarmNaive021" text="맞아요. 그건 {?PLAYER.GENDER}누나가{?}형이{\?} 갖고 있어요. 앞으로 언젠가 {?PLAYER.GENDER}누나를{?}형을{\?} 도와줄 거에요." />
+    <string id="strTalkSikaSettlementWarmNaive022" text="언젠가 나를 도와줘? 하지만 아이시의 부모님을 소환하려면 이게 필요하다며?" />
+    <string id="strTalkSikaSettlementWarmNaive023" text="네, 그냥 밤에 저에게 가져다주세요. 아이시랑 저는 조각상을 있었던 곳 근처의 모닥불 옆에서 기다릴 거에요." />
+    <string id="strTalkSikaSettlementWarmNaive024" text="알겠다." />
+
+    <string id="strTalkSikaSettlementWarmNaive025" text="가도 될 것 같아, {?PLAYER.GENDER}누나{?}형{\?}." />
+    <string id="strTalkSikaSettlementWarmNaive026" text="그래." />
+
+    <!-- strTalkSikaSettlementWarmNaive027 - "Hello{?PLAYER.GENDER}Big Sister{?}Big Brother{\?}, do you want to play with me?" -->
+    <string id="strTalkSikaSettlementWarmNaive027" text="{?PLAYER.GENDER}누나{?}형{\?}, 안녕? 나랑 놀래?" />
+    <string id="strTalkSikaSettlementWarmNaive028" text="다음에." />
+
+    <string id="strTalkSikaSettlementWarmNaive029" text="오셨네요. 조각상을 주세요. 아이시를 위한 의식을 거행할 거에요." />
+    <string id="strTalkSikaSettlementWarmNaive030" text="그래. (나비는 조각상을 가져가서, 아이시의 손을 칼로 그은 후, 그녀의 피를 조각상 위에 뜰어뜨렸다.)" />
+
+    <string id="strTalkSikaSettlementWarmNaive031" text="빛과 어둠의 혼돈 속에서, 희망과 절망의 불꽃 속에서, 쇠퇴와 위대함의 거대한 바퀴 속에서, 선과 악의 순환 속에서,{newline}위대한 어머니 라이에누스의 아들과 딸들의 외침을 들으소서!" />
+    <string id="strTalkSikaSettlementWarmNaive032" text="당신의 따뜻한 품 안에서, 끝없는 잠에서 깨어나라!" />
+    <string id="strTalkSikaSettlementWarmNaive033" text="(나비가 주문을 다 외우자, 조각상에서 여성의 모습이 나타났다. 아이시는 눈물을 머금고 그 여성에게 달려가 끌어안았다. ) 엄마!" />
+    <string id="strTalkSikaSettlementWarmNaive034" text="(아이시의 어머니는 아이시와 잠시 이야기를 나누더니, 갑자기 일어났다.){newline}감사합니다, 이방인이여. 어머니 여신의 빛이 당신과 함께하기를. (그리고 그 여자는 사라졌다.)" />
+    <string id="strTalkSikaSettlementWarmNaive035" text="엄마!" />
+    <!-- strTalkSikaSettlementWarmNaive027 - "{?PLAYER.GENDER}누나{?}형{\?}, 의식은 끝났어요. 조각상은 가지셔도 돼요. 언젠가 나중에 {?PLAYER.GENDER}누나를{?}형을{\?} 도와줄 거에요." -->
+    <string id="strTalkSikaSettlementWarmNaive036" text="{?PLAYER.GENDER}누나{?}형{\?}, 의식은 끝났어요. 조각상은 가지셔도 돼요. 언젠가 나중에 {?PLAYER.GENDER}누나를{?}형을{\?} 도와줄 거에요." />
+
+   <!-- 纳维对话结束 나비 대화 종료 -->
+
+   <!-- 冒险商人格罗德对话开始 모험 상인 그로드 대화 시작 -->
+    <string id="strTalkSikaSettlementTrader001" text="비키시오!" />
+    <string id="strTalkSikaSettlementTrader002" text="어이쿠, 매우 급해 보이는구려." />
+    <string id="strTalkSikaSettlementTrader003" text="그렇소, 노예단에게 쫓기고 있소. 이렇게 될 줄 알았으면 거래하러 가지 않았을텐데!" />
+    <string id="strTalkSikaSettlementTrader004" text="거래? 당신 상인이오? 나는 일해줄 사람이 필요하오." />
+    <string id="strTalkSikaSettlementTrader005" text="필요 없을 걸? 나는 노예단에게 쫓기는 몸이라고! 더 할 말 없소, 그들이 곧 닥칠테니 나는 어서 떠나야 하오!" />
+    <string id="strTalkSikaSettlementTrader006" text="노예단의 현상금 명단에 있소? 그래서 그들이 당신을 쫓고 있는거요? 알겠소. 내가 노예단을 처리할테니, 날 위해 일해 주시오." />
+    <string id="strTalkSikaSettlementTrader007" text="노예단을 처리한다고? 나를 위해서? 세상에, 이런 사람이 진짜 있구먼. 근처에서 기다리고 있을테니, 노예단을 처리하고 나면, 내 분명히 당신을 위해 일하겠소이다." />
+    <string id="strTalkSikaSettlementTrader008" text="문제 없소." />
+
+    <string id="strTalkSikaSettlementTrader009" text="와, 엄청나구만, 정말로 저 노예단들을 쓸어버리다니, 감사하오." />
+    <string id="strTalkSikaSettlementTrader010" text="천만에. 그저 일이나 좀 해 주시오. 그러니까, 물품을 좀 구매해 주시오." />
+    <string id="strTalkSikaSettlementTrader011" text="노예단을 쓸어버리는 건 기쁜 일이지." />
+    <string id="strTalkSikaSettlementTrader012" text="혹시 그, 시카족 구해준 사람 아니십니까?" />
+    <string id="strTalkSikaSettlementTrader013" text="그렇소." />
+    <string id="strTalkSikaSettlementTrader014" text="정말이오? 드디어 내가 대박을 잡았고만." />
+    <string id="strTalkSikaSettlementTrader015" text="그래, 노예단에게 쫓기는 이유가 무엇이오?" />
+    <string id="strTalkSikaSettlementTrader016" text="그 이유는 제가 그들의 '규칙'을 어겼기 때문입니다요. 노예단은 주인 없는 노예와 나 같은 상인 간의 거래를 금지했습니다요. 나는 노예을 별로 좋아하지 않아서 노예들을 좀 도와줬는데, 그것 때문에 노예단에게서 쫓기는 거랍니다. 일전에 어느 노예와 그녀의 딸을 도와줬는데, 누가 그걸 노예단에게 알렸던 겁니다." />
+    <string id="strTalkSikaSettlementTrader017" text="그래서 노예단이 당신을 쫓아다닌 거요? 어쨌든, 내 일을 도와줄 수 있소?" />
+    <string id="strTalkSikaSettlementTrader018" text="물론이다마다요. 노예들은 시장에서 거래하는 게 금지되어 있으니까요. 필요한 보급물자는 제가 살테니, 어디 계신지만 알려주십시오. 제가 가져다 드리겠습니다. 아참, 저도 요청 드릴 게 있습니다." />
+    <string id="strTalkSikaSettlementTrader019" text="말하시오. 듣고 있소." />
+    <string id="strTalkSikaSettlementTrader020" text="보시다시피, 웬 놈이 노예단에게 일러바친 바람에 제가 쫓기고 있는데, 쉽게 포기할 것 같지는 않습니다요. 그러니 나으리의 부대에 합류시켜 주십시오. 수락해 주시면, 노예단의 현상금 명단에 있는 제 다른 친구들도 함께 합류할 것입니다." />
+    <string id="strTalkSikaSettlementTrader021" text="듣던 중 반가운 소리군. 누구든 도움이 될 만한 사람은 모두 환영이오." />
+    <string id="strTalkSikaSettlementTrader022" text="수락하오. 내 정착지에 보급을 해준다면야." />
+    <string id="strTalkSikaSettlementTrader023" text="감사합니다요. 최대한 빨리 준비하겠습니다." />
+    <string id="strTalkSikaSettlementTrader024" text="그럼 정착지에서 봅시다." />
+
+    <string id="strTalkSikaSettlementTrader025" text="드디어 오셨군요, 오랫동안 기다리고 있었습니다요." />
+    <string id="strTalkSikaSettlementTrader026" text="몬나이가 말하길 여기서 장사를 시작했다고 하더군." />
+    <string id="strTalkSikaSettlementTrader027" text="네, 이렇게 좋은 마을을 본 적이 없습니다요. 시카족들이 저를 위해서도 집을 마련해 주었지 뭡니까. 저는 시카족에게 필요한 물품을 전달했지요. 앞으로는 여기서 무역을 돕겠습니다. 필요한 것이 있으면 저에게서도 구입하실 수 있습니다. 그건 그렇고, 셀리가 나으리를 찾는 것 같습니다." />
+    <string id="strTalkSikaSettlementTrader028" text="알겠소. 우리와 합류한 걸 환영하오." />
+
+    <string id="strTalkSikaSettlementTrader029" text="필요하신 게 있으시면, 마을에서 거래하시면 됩니다." />
+    <string id="strTalkSikaSettlementTrader030" text="알겠소. 다음에 또 봅시다." />
+
+   <!-- 冒险商人格罗德对话结束 모험상인 그로드 대화 종료 -->
+
+   <!-- 希绝骑士希瑞莱对话开始 방랑기사 데리안 대화 시작 -->
+    <string id="strTalkSikaKnightDerian001" text="무슨 일인가, 젊은이?" />
+    <string id="strTalkSikaKnightDerian002" text="시카 기사단을 찾고 있소." />
+    <string id="strTalkSikaKnightDerian003" text="(그는 의심스럽게 인상을 찌푸리며) 무슨 일로?" />
+    <string id="strTalkSikaKnightDerian004" text="나는 시카족의 이름으로 왔소." />
+    <string id="strTalkSikaKnightDerian005" text="나는 시카 기사단의 편지를 갖고 왔소." />
+    <string id="strTalkSikaKnightDerian006" text="그렇다면 방랑기사 데리안이 길을 알려주지. 하지만, 먼저 저 쥐새끼들을 좀 손봐야겠어. 내 옆에 있으시오!" />
+    <string id="strTalkSikaKnightDerian007" text="그럽시다." />
+
+    <string id="strTalkSikaKnightDerian008" text="이게 다 뭔가? 시카 기사단의 편지를 받은 인물이자 시카족의 대변인이며 수호자라니, 이거 재밌구만." />
+    <string id="strTalkSikaKnightDerian009" text="무슨 뜻이오?" />
+    <string id="strTalkSikaKnightDerian010" text="왜냐하면 이 두 세력이 동시에 같은 사람에게 도움을 요청하는 것을 들어본 적이 없기 때문이지." />
+    <string id="strTalkSikaKnightDerian011" text="그러면, 시카족과 시카 기사단은, 실제로는 관련이 없다는 말이오?" />
+    <string id="strTalkSikaKnightDerian012" text="흠, 보아하니 이 대륙 사람이 아닌 것 같군. 그러면 더 궁금한데. 그렇다면 오래된 이 두 세력이 이방인에게서 도움을 구했단 말인가?" />
+    <string id="strTalkSikaKnightDerian013" text="간단하게 말하지. 시카족은 대륙의 첫 번째 종족일세. 그들은 다른 종족이 여기에 오기 전에 수 세기 동안 이곳에서 살았다네. 그리고 시카 기사단은 신들의 전쟁 이후 창설된 기사단으로서 이 대륙의 수호자라고 주장하지. 여정 가운데 더 많이 알게 될 걸세. 이제 이야기는 충분히 했으니, 다른 사람을 찾아서 우리를 도와줄 수 있는지 알아보세나." />
+    <string id="strTalkSikaKnightDerian014" text="그럽시다." />
+
+    <string id="strTalkSikaKnightDerian015" text="젠장! 우리가 너무 늦은 것 같네. 누군가 우리보다 먼저 온 것 같아." />
+    <string id="strTalkSikaKnightDerian016" text="노예단이?" />
+    <string id="strTalkSikaKnightDerian017" text="아마도. 이렇게 빨리 움직일 줄은 몰랐네." />
+    <string id="strTalkSikaKnightDerian018" text="우리가 이곳에 와서 그런 거요?" />
+    <string id="strTalkSikaKnightDerian019" text="죄책감 느낄 필요는 없네, 노예단은 시카 기사단과 오랜 경쟁 관계에 있네. 그저 우리의 제일 우선순위가 아닐 뿐일세." />
+    <string id="strTalkSikaKnightDerian020" text="이곳을 수색해서 찾을 수 있는 걸 알아봐야 하네." />
+    <string id="strTalkSikaKnightDerian021" text="알겠소." />
+
+    <string id="strTalkSikaKnightDerian022" text="그래, 무슨 일이 있었던 건지 좀 찾아낸 게 있나?" />
+    <string id="strTalkSikaKnightDerian023" text="알아낸 게 있소." />
+    <string id="strTalkSikaKnightDerian024" text="뭘 찾았는가? 그는 떠난 건가? 이유는?" />
+    <string id="strTalkSikaKnightDerian025" text="흠, 뭔가 이상하오." />
+
+    <string id="strTalkSikaKnightDerian026" text="그럼, 누가 그를 떠나게 한 건가? 자네 생각은 어떤가?" />
+    <string id="strTalkSikaKnightDerian027" text="노예단?" />
+    <string id="strTalkSikaKnightDerian028" text="시카 기사단의 적?" />
+    <string id="strTalkSikaKnightDerian029" text="수비대?" />
+    <string id="strTalkSikaKnightDerian030" text="다른 이유?" />
+
+    <string id="strTalkSikaKnightDerian031" text="가능은 하지만, 싸움의 흔적이 없네. 다른 이유가 있을 걸세." />
+    <string id="strTalkSikaKnightDerian032" text="그렇게 생각하지는 않네. 아무도 우리가 누군지 모르니, 우리를 따라오진 않았을 걸세." />
+    <string id="strTalkSikaKnightDerian033" text="동의하네." />
+
+    <string id="strTalkSikaKnightDerian034" text="다른 단서는?" />
+    <string id="strTalkSikaKnightDerian035" text="그는 급히 떠났소." />
+    <string id="strTalkSikaKnightDerian036" text="그는 계획을 갖고 떠났소." />
+    <string id="strTalkSikaKnightDerian037" text="그는 강제로 떠나게 되었소." />
+    <string id="strTalkSikaKnightDerian038" text="단서가 서로 상충되서, 확실치 않소." />
+
+    <string id="strTalkSikaKnightDerian039" text="잘 관찰해서 좋은 판단을 내렸군." />
+    <string id="strTalkSikaKnightDerian040" text="전체적인 그림은 그게 아닌 것 같군." />
+    <string id="strTalkSikaKnightDerian041" text="동의하네, 뭔가 놓친 것 같군." />
+
+    <string id="strTalkSikaKnightDerian042" text="그는 이곳을 떠난 것 같은데, 뭘 갖고 간 것 같나?" />
+    <string id="strTalkSikaKnightDerian043" text="귀중품." />
+    <string id="strTalkSikaKnightDerian044" text="식량." />
+    <string id="strTalkSikaKnightDerian045" text="중요한 물건." />
+    <string id="strTalkSikaKnightDerian046" text="장비." />
+
+    <string id="strTalkSikaKnightDerian047" text="그래, 중요한 서류들을 가져간 것 같군." />
+    <string id="strTalkSikaKnightDerian048" text="그런 것을 가져간 것 같지는 않네." />
+    <string id="strTalkSikaKnightDerian049" text="그랬겠지, 하지만 그게 우선순위는 아닐게야." />
+
+    <string id="strTalkSikaKnightDerian050" text="이거면 된 것 같네. 어떤 이유에선가 급히 떠나야 했는데, 중요한 물건을 가져갔다라... 그를 찾을 수 있는 단서를 찾은 것 같네." />
+    <string id="strTalkSikaKnightDerian051" text="그럼 서두릅시다!" />
+
+    <string id="strTalkSikaKnightDerian052" text="별 일 아니면 방해하지 마시게." />
+    <string id="strTalkSikaKnightDerian053" text="알겠소." />
+
+    <string id="strTalkSikaKnightDerian1001" text="무엇을 묻고 싶은지 알고 있소. 로린을 시카 기사단의 보호 아래 넘긴다면, 당신 마을을 지키도록 그들을 설득할 수 있소." />
+    <string id="strTalkSikaKnightDerian1002" text="그건 불가능하오. 나에게 이미 충성을 맹세한 이를 넘길 수는 없소." />
+    <string id="strTalkSikaKnightDerian1003" text="하하하, 그래서 당신을 택한 것이겠지. (그는 갑자기 위엄 있는 표정으로 당신을 바라본다) 하지만 정말로 그 뒤에 숨겨진 대가를 이해하고 있는 거요? 생각 없는 친절은 종종 악보다 더 잔인하다오." />
+    <string id="strTalkSikaKnightDerian1004" text="솔직히 말하자면, 내가 어떤 일을 당할지 모르지만 시도도 하지 않고 포기할 수는 없소!" />
+    <string id="strTalkSikaKnightDerian1005" text="세상은 흑백으로만 나눌 수 있는 게 아니오! 그런 것이나 생각할 바엔 차라리 죽음의 친절을 택하겠소!" />
+    <string id="strTalkSikaKnightDerian1006" text="결과는 모르오. 모든 건 사람에게 달렸을 뿐. 우리는 단지 우리가 내린 결정에 책임을 지면 되는 것이오." />
+    <string id="strTalkSikaKnightDerian1007" text="하하하, 어쩌면 당신은 아무도 할 수 없는 일을 정말로 할 수 있을지도 모르겠군. 안됐지만, 교회로서 가장 큰 양보는 어떤 이유든 당신을 적대시하지 않는 것뿐, 이제 다시는 당신을 도울 수 없소." />
+    <string id="strTalkSikaKnightDerian1008" text="혼란스럽군. 시카 기사단은 시카족을 포함해서 이 대륙을 지키는 자들이라고 들었는데." />
+    <string id="strTalkSikaKnightDerian1009" text="그래, 하여 그들은 당신이 요새를 구축하고 시카 일족을 보호하도록 지원했소. 그런데 일이 그리 간단치는 않은 것 같고, 도와주지 않겠다고 노골적으로 말하지는 않았지만 아무도 보내지 않은 것은 분명한 것 같소." />
+    <string id="strTalkSikaKnightDerian1010" text="알겠소. 그럼 케이지족과 시카 기사단 사이의 원한은 뭐요? 그리고 노예단과의 원한은?" />
+    <string id="strTalkSikaKnightDerian1011" text="케이지족과 시카 기사단 사이의 관계를 말하기는 어렵지만 시카 기사단은 그들을 해치려는 의도가 전혀 없소. 그렇지 않다면 로린과 그의 일족을 보호하는 데 동의하지 않았을 거요. 케이지 일족과 노예단 사이의 원한은 본토 사람들에게 잘 알려져 있지만 대다수의 사람들은 케이지족을 잘 모르오. 몬나이 장로에게 물어보시오. 시카 일족과 케이지 일족 사이에는 오랜 역사가 있다고 하니 말이오." />
+    <string id="strTalkSikaKnightDerian1012" text="알겠소. 몬나이 장로에게 물어보겠소." />
+
+    <string id="strTalkSikaKnightDerian1101" text="왜 여기서 야영을 하자는 거요?" />
+    <string id="strTalkSikaKnightDerian1102" text="숲에서 멀지 않으니, 엘린족의 요새가 이 근처에 있을 거요." />
+    <string id="strTalkSikaKnightDerian1103" text="그럼 왜 서두르지 않소?" />
+    <string id="strTalkSikaKnightDerian1104" text="엘린 종족의 정착지는 외부인을 환영하지 않소. 올바른 길을 모른다면, 우리는 이 숲에서 길을 잃을 수도 있소." />
+    <string id="strTalkSikaKnightDerian1105" text="네 스승이 엘린족의 정착지를 어떻게 찾는지 가르쳐 주지는 않았나봐?" />
+    <string id="strTalkSikaKnightDerian1106" text="걱정마세요. 스승님이 여기로 오라고 하셨다면, 우리가 들어갈 방법을 찾을 수 있다는 것도 아셨을 거에요." />
+    <string id="strTalkSikaKnightDerian1107" text="이 멀리까지 찾아온 의미를 모르겠군. 시카 기사단을 제외하면, 이 약한 세력들은 노예단에 저항하는 데에 전혀 도움이 되지 않을 거요." />
+    <string id="strTalkSikaKnightDerian1108" text="그럼 당신은 내가 로린을 당신에게 넘겨야 한다고 생각하오?" />
+    <string id="strTalkSikaKnightDerian1109" text="솔직히 말하면, 모르겠소. 당신의 선택이 옳을 지도 모르지. 하지만 이 약한 세력들을 데리고 노예단과 대항하기엔 어렵소. 게다가, 약해진 부족은 전혀 도움이 되지 않소." />
+    <string id="strTalkSikaKnightDerian1110" text="무슨 말이오?" />
+    <string id="strTalkSikaKnightDerian1111" text="그들은 이미 오래 전에 어떤 특별한 이유로 쇠퇴했다고들 하오. 그 이후로 그들은 이 숲에 있었소. 본토의 많은 사람들은 그들의 존재도 알지 못하오. " />
+    <string id="strTalkSikaKnightDerian1112" text="그렇다면, 네 스승은 왜 우리를 여기까지 오게 한 거니?" />
+    <string id="strTalkSikaKnightDerian1113" text="음... 모르겠어요. 하지만 스승님을 믿어요. 이곳에 오게 한 이유가 반드시 있을 거에요. " />
+    <string id="strTalkSikaKnightDerian1114" text="... 난 오지 말 걸 그랬어." />
+    <string id="strTalkSikaKnightDerian1115" text="그럼 왜 아직 여기 있소? 나는 당신도 시카 기사단의 일원인 걸 기억하오. 그들이 날 도와주는 걸 거부한다면, 왜 당신은 떠나지 않는 거요?" />
+    <string id="strTalkSikaKnightDerian1116" text="이방인이여, 내가 한때 시카 기사단의 일원이었던 건 맞지만, 지금은 아니야. 난 그저 시카 기사단의 신조를 따르는 방랑 기사일 뿐이오." />
+    <string id="strTalkSikaKnightDerian1117" text="그렇다 해도, 내 곁에서 나를 도울 이유가 전혀 없지 않소." />
+    <string id="strTalkSikaKnightDerian1118" text="아마도 나는 단지 당신이 어디까지 갈 수 있는지 궁금한 것인지도 모르지. 하지만 걱정마시오. 시카 기사단의 교리에 따르면, 우리는 결코 동료를 버리지 않소. 이제 어떻게 엘린족의 정착지로 들어갈 건지나 생각해 봐야지." />
+    <string id="strTalkSikaKnightDerian1119" text="저기 봐요! 뭔가 다가오고 있어요!" />
+    <string id="strTalkSikaKnightDerian1120" text="(저 멀리 말 할 마리가 보인다. 누가 말 위에 쓰러져 있는 것 같다. 말이 천천히 당신에게 다가왔다. 갑자기, 그 사람이 말 위에서 떨어졌다. 로타스는 서둘러 그녀를 데리러 달려갔다. 당신은 그녀를 야영지로 데려가 물을 주었다. 그녀는 잠시 회복하고는 당신에게 말했다...)" />
+
+   <!-- 希绝骑士希瑞莱对话结束 -->
+
+   <!-- 希绝骑士使者沃特对话开始 시카 기사단의 전령 월터 대화 시작 -->
+    <string id="strTalkSikaKnightEnvoy001" text="내게 무슨 볼 일이라도 있소? 어? 데리안? 여긴 어인 일이오? (데리안은 그와 얘기하러 갔고, 약간의 대화를 나눈 뒤 다시 돌아 왔다.)" />
+    <string id="strTalkSikaKnightEnvoy002" text="우리를 도와주시겠소? (그에게 편지를 건네준다.)" />
+    <string id="strTalkSikaKnightEnvoy003" text="(그는 편지를 확인 후 돌려준다) 물론, 이런 편지를 받은 사람은 모든 지역의 우리 조직과 닿을 수 있소. 무슨 일이 있었는지는 알고 있소. 우리 조직도 시카족에게 일어난 일들을 지켜보고 있으니. 기꺼이 도와드리겠소이다." />
+    <string id="strTalkSikaKnightEnvoy004" text="잘됐군, 도와준다니 감사하오." />
+    <string id="strTalkSikaKnightEnvoy005" text="미안하지만, 그 전에 먼저 해결해야할 문제가 있소. " />
+    <string id="strTalkSikaKnightEnvoy006" text="무슨 문제?" />
+    <string id="strTalkSikaKnightEnvoy007" text="우리가 노예단과 불구대천지 원수는 아니지만, 뭔가를 꾸미고 있는 것 같긴 하오. 그들이 우리 친구 중 한 사람을 납치했으니, 먼저 그를 구출해야 하오." />
+    <string id="strTalkSikaKnightEnvoy008" text="내가 도울 수 있겠소? 내가 당신 친구를 구해주면, 우리 정착지의 안전을 보장해 주겠소?" />
+    <string id="strTalkSikaKnightEnvoy009" text="물론이오, 우리는 당신과 당신의 정착지의 안전을 보장할 것이오. 우리는 신의 가호를 받는 사람들에게 거짓말을 하지 않소. 매복해서 노예단의 캐러밴에서 우리 친구를 구출할 수 있을 거요. 내 그대에게 빚진 셈 치겠소." />
+    <string id="strTalkSikaKnightEnvoy010" text="물론이오." />
+    <string id="strTalkSikaKnightEnvoy011" text="데리안은 전투에서 당신을 도울 것이고, 나는 우리 조직에 연락할 취하겠소. 추가적인 도움을 제공할 것이라 확신하오. 준비가 되면, 노예단을 공격할 수 있소. 친구를 구하는 데만 집중하시오, 나머지는 우리에게 맡기고. 노예단은 마을 근처에서 쉬고 있으니 공격할 좋은 기회가 될거요." />
+    <string id="strTalkSikaKnightEnvoy012" text="알겠소." />
+
+    <string id="strTalkSikaKnightEnvoy013" text="새로운 게 있소?" />
+    <string id="strTalkSikaKnightEnvoy014" text="없소." />
+
+   <!-- 希绝骑士使者沃特对话结束 -->
+
+   <!-- 卡杰族洛林对话开始 케이지족의 로린 대화 시작 -->
+    <string id="strTalkSikaVillageWiseSage001" text="안녕하시오, 이방인이여. 나는 케이지족의 로린이요. 구해주어 고맙소." />
+    <string id="strTalkSikaVillageWiseSage002" text="별말씀을. 저 노예단 개자식들의 숫자를 줄이는 게 내 기쁨이오. 게다가, 시카 기사단이 내게 도움을 요청했소." />
+    <string id="strTalkSikaVillageWiseSage003" text="시카 기사단? (인상이 깊이 찡그려졌다) 하긴, 그 기사들을 제외하고는 감히 노예단을 공격할 세력이 없긴 하지. 이방인이여, 우리는 당신과 함께할 수 없소." />
+    <string id="strTalkSikaVillageWiseSage004" text="아니, 나는 기사단이 아니오. (데리안이 다가온다)." />
+    <string id="strTalkSikaVillageWiseSage005" text="하, 방랑기사 데리안 아닌가. 기사단이 아니라더니, 이게 무슨 일인가." />
+    <string id="strTalkSikaVillageWiseSage006" text="(데리안: 아니, 그는 우리의 일원이 아니오. 우리는 단지 당신과 당신 일족을 도우려는 것 뿐이오.) 그래, 우리도 떠나는 것이 낫겠소." />
+    <string id="strTalkSikaVillageWiseSage007" text="혹시 당신이 시카족을 구한 이방인이오? 왜 여기에 있는 거요? 그럼 당신은 이제 시카 기사단의 친구인거요?" />
+    <string id="strTalkSikaVillageWiseSage008" text="(당신은 그에게 당신의 여정을 간략히 소개한다.) " />
+    <string id="strTalkSikaVillageWiseSage009" text="하, 흥미로운 여정이구려. 데리안, 시카 기사단의 도움에는 매우 감사하오. 하지만 우리는 이 이방인의 마을에 가고 싶소. {PLAYER.NAME}, 수락하겠소?" />
+    <string id="strTalkSikaVillageWiseSage010" text="그러시오. 하지만... (당신은 데리안을 바라보았고, 그는 다음과 같이 말했다: 하지만 우리는 당신을 구출하여 시카 기사단의 보호 아래 두기로 약속했소.)" />
+    <string id="strTalkSikaVillageWiseSage011" text="이런, 데리안. 기사단에서 쫓겨나고는 당신들의 거룩한 책도 잊어버렸나 보군. 그럼 내가 도와주지. 평화의 서 제937권 제333단락, '너는 반드시 다른 이의 자유 의지를 존중해야 하며 그 누구도 강요하지 말라, 그러지 않으면 너 자신이 파멸할 것이다.' 당신네 기사단은 누구도 구원하지 못했소. 그렇지 않았다면 우리가 이런 꼴이 되지도 않았겠지. {PLAYER.NAME}, 이 대륙에서 살아남고 싶다면, 반드시 신앙심을 지켜야 하오. (데리안은 더 말하고 싶었지만, 잠시 망설인 뒤 침묵하기로 한다)" />
+    <string id="strTalkSikaVillageWiseSage012" text="알겠소." />
+    <string id="strTalkSikaVillageWiseSage013" text="서두릅시다. 나와 나의 일족은 고통을 많이 겪었소. 우리에겐 치유와 휴식이 필요하오." />
+    <string id="strTalkSikaVillageWiseSage014" text="그럽시다." />
+
+    <string id="strTalkSikaVillageWiseSage015" text="이곳은 정말 좋은 곳이구려." />
+    <string id="strTalkSikaVillageWiseSage016" text="일족은 어떻소?" />
+    <string id="strTalkSikaVillageWiseSage017" text="거의 회복되었소. 시카족의 의술은 뛰어나지." />
+    <string id="strTalkSikaVillageWiseSage018" text="왜 시카 기사단의 보호를 거절하고 우리에게 온 거요?" />
+    <string id="strTalkSikaVillageWiseSage019" text="{PLAYER.NAME}, 이방인이여, 나는 당신이 감히 노예단을 공격하는 이유에 관심이 있소. 그들은 강력하고 무자비한데 말이오." />
+    <string id="strTalkSikaVillageWiseSage020" text="그들이 먼저 나를 공격했소." />
+    <string id="strTalkSikaVillageWiseSage021" text="그건 사고였소. 나는 그들이 누군지도 모르오." />
+    <string id="strTalkSikaVillageWiseSage022" text="그러고 싶으니까. 저 개새끼들은 당해도 싸." />
+    <string id="strTalkSikaVillageWiseSage023" text="대충 알겠소. 내 몬나이와 조금 이야기를 나눴소이다. 그럼 이제 내 차례요. 질문에 답하도록 하지. 나는 시카 기사단을 믿지 않소. 시카 기사단이 우리를 보호할 수 있다면, 시카족과 우리 일족에게 그런 운명은 닥치지 않았을 것이오." />
+    <string id="strTalkSikaVillageWiseSage024" text="그렇군." />
+    <string id="strTalkSikaVillageWiseSage025" text="물론, 그들도 나름의 이유는 있겠지. 나중에 더 많이 알게 될 것이오. 아무튼 그래서, 나는 그들의 보호를 거부했소." />
+    <string id="strTalkSikaVillageWiseSage026" text="그럼 계획은 있소?" />
+    <string id="strTalkSikaVillageWiseSage027" text="나도 똑같은 질문이오, 이방인이여. 여긴 이야기하기에 좋은 장소는 아니오. 회관으로 가서 몬나이와 이야기해 봅시다." />
+    <string id="strTalkSikaVillageWiseSage028" text="알겠소." />
+
+    <string id="strTalkSikaVillageWiseSage029" text="{PLAYER.NAME}, 방금 몬나이와 합의에 도달했소. 노예단에 맞서 싸우려면 힘과 영향력이 필요하오." />
+    <string id="strTalkSikaVillageWiseSage030" text="그럼 어떻게 당신의 힘과 영향력을 증가시킬 것이오?" />
+    <string id="strTalkSikaVillageWiseSage031" text="하하, 이방인이여, 우리 힘을 말하는 게 아니오. 당신의 힘과 영향력을 말하는 거요." />
+    <string id="strTalkSikaVillageWiseSage032" text="나를 도운다? 이유가 무엇이오?" />
+    <string id="strTalkSikaVillageWiseSage033" text="이유? 당신이 우리를 노예단으로부터 구해주었지 않소. 우리는 결코 잊지 못할 거요. 노예단은 강력하니, 우리가 함께 싸워야 하오." />
+    <string id="strTalkSikaVillageWiseSage034" text="알겠소, 그럼 같이 그 새끼들을 끝장냅시다." />
+    <string id="strTalkSikaVillageWiseSage035" text="내가 원한 건 아니지만, 지금으로선 다른 방법이 없군." />
+    <string id="strTalkSikaVillageWiseSage036" text="이 대륙에는 여전히 노예단에게 억압받는 사람들이 많이 있소. 그들은 분명히 우리를 도울 것이오. 모두의 힘을 모으는 한 노예단을 무찌를 수 있다는 희망이 있소." />
+    <string id="strTalkSikaVillageWiseSage037" text="그럼, 첫 번째 단계는 무엇이오?" />
+    <string id="strTalkSikaVillageWiseSage038" text="먼저 우리 자신의 세력을 세워야 하고, 그런 다음 이 정착지를 거점으로 삼아 노예단을 어떻게 처리할 지 이야기합시다." />
+    <string id="strTalkSikaVillageWiseSage039" text="그러면 그들을 무찌를 수 있소?" />
+    <string id="strTalkSikaVillageWiseSage040" text="물론 아니지. 하지만 우리는 이미 우리가 접촉한 대륙의 모든 세력에게 전령을 보냈소. 시카족과 우리의 운명은 당신 손에 달렸소, 이방인이여. 그러니 부디, 우리의 충성을 받아주시오!" />
+    <string id="strTalkSikaVillageWiseSage041" text="받아들이겠소!" />
+    <string id="strTalkSikaVillageWiseSage042" text="몬나이 장로, 그리고 {PLAYER.NAME}. 이제 마을 건설에 박차를 가하고 방어에 대비해야 하오. 우리는 가능한 모든 사람에게서 도움을 찾아야 하지만 먼저 이 정착지를 보호할 누군가가 필요하오. 근처에 항초패라는 유명한 도적이 있소. 그는 인근에서 가장 큰 도적단이오. 가장 중요한 것은, 그는 일반 도적들과 달리 부자들만 털고 약탈한 물건과 돈을 필요한 사람들에게 나눠준다는 것이오. 그러한 행동은 많은 사람들이 그와 합류하도록 이끌었소. 그가 우리의 대의에 동참하도록 설득할 수 있는 방법만 찾을 수 있다면, 큰 도움이 될 것이오. 우리 일족이 지금 그의 일당이 우리 마을 근처에서 쉬고 있다고 들었소. 그를 설득하려면 먼저 그를 이겨야 하오." />
+    <string id="strTalkSikaVillageWiseSage043" text="알겠소. 내가 그를 상대해 보겠소." />
+
+    <string id="strTalkSikaVillageWiseSage044" text="벌써 돌아왔소? 그를 설득하긴 쉽지 않을 거요." />
+    <string id="strTalkSikaVillageWiseSage045" text="그래, 다음은 뭐요? 그를 풀어주었소. 다음에도 또 패배시킨다면, 우리에게 합류하라고 했소." />
+    <string id="strTalkSikaVillageWiseSage046" text="그거면 됐소이다. 준비나 하시오. 놈이 곧 찾아올 거요." />
+    <string id="strTalkSikaVillageWiseSage047" text="그가 오겠소?" />
+    <string id="strTalkSikaVillageWiseSage048" text="걱정마시오. 최대한 빨리 올 거요. 하지만, 놈의 수하가 꽤 많소. 내게 계획이 있으니, 내 지시를 따라 주시오." />
+    <string id="strTalkSikaVillageWiseSage049" text="당신을 믿어도 되겠소? 그렇게 많은 놈들을 이기기란 그리 쉬운 일이 아니오." />
+    <string id="strTalkSikaVillageWiseSage050" text="음, 이미 다 생각해 두었소. 내 작전을 들어보시오. 나는 함정을 파놓으려 하오. 전투가 시작되면, 놈이 당신을 죽이진 않을 거요. 어느 정도 싸우다가 탈출하시오." />
+    <string id="strTalkSikaVillageWiseSage051" text="후퇴하라는 거요?" />
+    <string id="strTalkSikaVillageWiseSage052" text="그렇소. 하지만 거짓 퇴각이오. 매복의 미끼가 되는 것이오." />
+    <string id="strTalkSikaVillageWiseSage053" text="그리고 나서?" />
+    <string id="strTalkSikaVillageWiseSage054" text="기억하시오, 퇴각할 때 저 멀리 있는 계곡으로 향하시오. 우리는 수적으로 열세이므로 매복과 함정을 설치하기 위해 가장 유리한 지점을 선택해야 하오." />
+    <string id="strTalkSikaVillageWiseSage055" text="알겠소." />
+    <string id="strTalkSikaVillageWiseSage056" text="나머지는 내가 맡겠소. 모두가 내 말을 따라야 하오. 미끼를 던지고, 그가 물기를 기다리는 것이오." />
+    <string id="strTalkSikaVillageWiseSage057" text="(케이지족의 일원이 들어와 항초패라는 자가 많은 무리와 함께 밖에 있다고 말한다.)" />
+    <string id="strTalkSikaVillageWiseSage058" text="예상한 대로군. 그는 이미 이곳을 아는 것 같소. 기억하시오, 당황하지 말고 계획대로만 하시오." />
+    <string id="strTalkSikaVillageWiseSage059" text="알겠소. 벌써 죽긴 싫으니까." />
+
+    <string id="strTalkSikaVillageWiseSage060" text="내게 볼일이 있소?" />
+    <string id="strTalkSikaVillageWiseSage061" text="없소." />
+
+    <string id="strTalkSikaVillageWiseSage062" text="내가 도울 것이라도?" />
+    <string id="strTalkSikaVillageWiseSage063" text="없소." />
+
+    <string id="strTalkSikaVillageWiseSage064" text="계획이 있소?" />
+    <string id="strTalkSikaVillageWiseSage065" text="없소." />
+
+    <string id="strTalkSikaVillageWiseSage066" text="들으라, 항초패와 졸개들아. 무기를 내려놓고 항복하라. 너희들은 포위되었다. 네놈들의 목숨은 우리 손에 달렸다." />
+    <string id="strTalkSikaVillageWiseSage067" text="닥쳐라! 그렇게 대단하시면 와서 가져가 보시든가!" />
+    <string id="strTalkSikaVillageWiseSage068" text="하하하, 항초패여, 여전하구나. 하지만 너희 형제들이 헛되이 목숨을 잃게 하지 말라." />
+    <string id="strTalkSikaVillageWiseSage069" text="시끄럽다! 네놈들 손에 붙잡히느니 죽는 게 낫지!" />
+    <string id="strTalkSikaVillageWiseSage070" text="그건 맞지만, 내 목소리를 기억하지 못하는가, 항초패?" />
+    <string id="strTalkSikaVillageWiseSage071" text="네놈따위 누가 신경쓰나! 어? 죽여버리... 아니 로린 형님?" />
+    <string id="strTalkSikaVillageWiseSage072" text="(로린은 모두에게 무기를 내려놓으라 하고 항초패에게 다가간다) 그럼 누구겠나?" />
+    <string id="strTalkSikaVillageWiseSage073" text="세상에 이게 머선 일이요? 형님? 정말 형님이오? 어떻게...? 다 내 잘못이오, 다 내 잘못이오!" />
+    <string id="strTalkSikaVillageWiseSage074" text="글쎄, 우리 사이에 달라질 게 뭐가 있겠나. 그간 많이 자랐고 성숙해졌구만." />
+    <string id="strTalkSikaVillageWiseSage075" text="이게 머선 일이오? 왜 로린 형님이 여기 있소?" />
+    <string id="strTalkSikaVillageWiseSage076" text="(로린이 당신을 바라본다) 이분이 날 노예단에게서 구해주셨지. 우리는 노예단과 싸울 거점을 만들고 있어. 내가 널 찾으라고 했다." />
+    <string id="strTalkSikaVillageWiseSage077" text="알겠소. 항적은 형님을 따라 그놈들을 죽여버리겠소." />
+    <string id="strTalkSikaVillageWiseSage078" text="형제여, 고맙네만 내가 아니라 나으리를 따르게. 내 계획을 알려주겠네. 그러면 알아서 할 수 있을게야." />
+    <string id="strTalkSikaVillageWiseSage079" text="문제 없소! 로린 형님, 걱정 붙들어 매고 나만 믿으시오." />
+
+    <string id="strTalkSikaVillageWiseSage1001" text="나으리, 오셨소." />
+    <string id="strTalkSikaVillageWiseSage1002" text="항초패와 아는 사이요?" />
+    <string id="strTalkSikaVillageWiseSage1003" text="네, 먼저 말씀드리지 못해 송구합니다. 하지만 심려치 마십시오, 나으리. 그도 우리 케이지 일족의 일원이니, 확실히 믿을 수 있습니다." />
+    <string id="strTalkSikaVillageWiseSage1004" text="그도 케이지 일족의 일원이오? 그럼 왜 당신과 함께 있지 않았소?" />
+    <string id="strTalkSikaVillageWiseSage1005" text="긴 이야깁니다. 초패와 나는 노예단과 철천지 원수이지요. 우리 케이지 일족은 나으리께 충성을 바치기로 맹세한 것을 만드시 지킬 거외다. 게다가, 나으리, 우린 어디 갈 곳도 없으니, 이제 이곳이 우리의 집이지요." />
+    <string id="strTalkSikaVillageWiseSage1006" text="알겠소, 이제 무엇을 해야 하오? 노예단의 힘을 어떻게 막아야 하겠소?" />
+    <string id="strTalkSikaVillageWiseSage1007" text="한편으로는 시카 기사단이 도움을 줄 수 있는지 알아봐야 하고(그는 데리안의 옆을 바라보지만 데리안은 그를 무시한다), 다른 한편으로는 본토의 다른 지역으로 가서 노예단에 저항할 수 있도록 도움을 줄 수 있는 세력을 찾아야 합니다. 노예단에 저항하는 많은 세력이 여러 곳에 있습니다. 노예단에 저항하기 위해 그들과 동맹을 맺을 수 있는지 봅시다." />
+    <string id="strTalkSikaVillageWiseSage1008" text="그럼 데리안에게 가보... (말을 마치기도 전에 데리안이 나서며 말을 가로막았다.)" />
+    <string id="strTalkSikaVillageWiseSage1009" text="(데리안: 흠, 이 대륙에 무슨 세력이 있단 말인가? 실제로 노예단에게 대항하는 시카 기사단들 외에 시카족을 지키는 데 관심이 있는 사람이 또 있나? 시카 교회에 가기를 거부하면서 도움을 구한다? 그리고 당신의 존재 때문에, 노예단이 이곳을 포기하지 않을 것을 모르는가? 노예단과 시카족 사이의 원한은 모르겠지만, 당신네과 그들 사이의 관계는 모두가 알아야 하오.)" />
+    <string id="strTalkSikaVillageWiseSage1010" text="노예단에게 어떤 원한이 있소?" />
+    <string id="strTalkSikaVillageWiseSage1011" text="한없는 원한이지요. 나으리, 시카 기사단에게 우리를 도와줄 건지 물어보시고 나서 다음 계획에 관해 논의하십시다." />
+    <string id="strTalkSikaVillageWiseSage1012" text="알겠소." />
+
+    <string id="strTalkSikaVillageWiseSage1101" text="알고 있소 나으리, 물어볼게 많으시겠지요. 내 대답해 드리리다." />
+    <string id="strTalkSikaVillageWiseSage1102" text="당신들이 수백 년 전 노예단에게 멸망한 후 유일하게 남은 케이지족 사람들이오?" />
+    <string id="strTalkSikaVillageWiseSage1103" text="126년 전이오, 나으리. 그렇소, 우리가 왕국이 멸망한 후 도피한 유일하게 남은 케이지 일족이오. 하지만 이유에 대해서는, 나으리가 들은 것은 사실이 아니외다. 케이지 일족의 여왕은 결코 노예가 아니었소이다." />
+    <string id="strTalkSikaVillageWiseSage1104" text="노예가 아니었소? 그때 당신의 왕이 노예와 결혼하지 않았다는 말인가? 그렇다면 노예단이 당신들을 공격한 이유가 대체 무엇이오?" />
+    <string id="strTalkSikaVillageWiseSage1105" text="우리도 이유는 모르지만, 우리 기록에 따르면 당시 여왕이 케이지 일족을 번영으로 이끌었다는 것은 분명합니다. 모든 것은 노예단이 우리를 약탈하려는 핑계였던 것이외다." />
+    <string id="strTalkSikaVillageWiseSage1106" text="그렇군. 그러면 왜 노예 집단이 그렇게 오랜 세월이 흐른 후 다시 당신들을 공격한 거요?" />
+    <string id="strTalkSikaVillageWiseSage1107" text="왜 그들이 우리를 다시 공격했는지 모르겠소. 만일 알았다면 모든 것을 준비했을 것이외다. 지금 이 지경이 되지는 않았을 테지요." />
+    <string id="strTalkSikaVillageWiseSage1108" text="당신은 누구요? 시카 기사단을 포함해서, 그들의 목표는 당신인 것 같소만?" />
+    <string id="strTalkSikaVillageWiseSage1109" text="원래는 나으리께서 노예단을 해결하신 후에 설명하려 했소이다. 나와 내 일족을 믿을 수 있기를 바라오. 나는, 현재 케이지 일족의 지도자 케이지 홀란드 이사벨 로린이오! 우리 케이지 일족은 나으리께 충성하기로 결심했으니, 나으리는 우리의 영원한 지도자가 될 것입니다." />
+    <string id="strTalkSikaVillageWiseSage1110" text="지금은 당신만 믿을 수 있겠소. 항초패는 누구요?" />
+    <string id="strTalkSikaVillageWiseSage1111" text="마지막 공격 때, 항초패와 소수의 일족이 노예단에게 포로가 되는 것을 피할 수 있었습니다. 나으리, 우리가 이곳을 죽음으로 지킬 것을 믿어 주십시오.." />
+    <string id="strTalkSikaVillageWiseSage1112" text="다음 계획은 무엇이오? 시카 기사단이 우릴 도와주지 않을 것 같소?" />
+    <string id="strTalkSikaVillageWiseSage1113" text="몬나이 족장과도 상의했으니, 몬나이 족장이 그들에게 시카 기사단에게 연락을 시도할 것입니다. 우리의 계획은 나으리께서 함께 노예단에게 저항할 의지가 있는 지역 군대를 찾기 위해 주요 세력에게 찾아가시는 것입니다. 이곳은 나으리께서 대군을 만들어 가실 수 있는 곳입니다. 조심하십시오. 나으리의 신분과 목적이 쉽게 노출되어선 안됩니다. 노예단의 발톱과 이빨은 대륙 전역에 있으니 말입니다. 게다가 몬나이 족장도도 추가 계획이 있는 것 같습니다." />
+    <string id="strTalkSikaVillageWiseSage1114" text="알겠소!" />
+
+   <!-- 卡杰族洛林对话结束 -->
+
+   <!-- 强盗项楚霸对话开始 도적 두목 항초패 대화 시작 -->
+    <string id="strTalkSikaSettlementXiang001" text="누구냐? 난 지금 쉬고 있다. 죽고 싶은 게냐?" />
+    <string id="strTalkSikaSettlementXiang002" text="네가 항초패냐? 나는 근처 마을의 영주다. 네게 도움을 받으러 왔다. " />
+    <string id="strTalkSikaSettlementXiang003" text="하하하, 정말 웃기는구만. 제 발로 찾아온 녀석이, 내가 누군지도 모르나? 나는 너 같은 영주나 부자들을 가장 좋아하지. 내가 수년 간 도둑질을 해왔지만 먹이가 제 발로 기어 들어오는 건 처음 보네. 됐다, 오늘은 기분이 좋구만. 값 나가는 걸 모조리 내어놓으면 보내주도록 하지." />
+    <string id="strTalkSikaSettlementXiang004" text="그런 거라면, 항복할 준비나 해야 할 거다!" />
+    <string id="strTalkSikaSettlementXiang005" text="와, 나보다 미친 놈은 또 처음 보네. 얘들아, 쳐라!" />
+    <string id="strTalkSikaSettlementXiang006" text="공격!" />
+
+    <string id="strTalkSikaSettlementXiang007" text="우리 애들을 다 데려왔다면, 오늘이 네 제사날이었을 거다. 내가 너 같은 쓰레기의 손에 죽을 줄이야." />
+    <string id="strTalkSikaSettlementXiang008" text="난 너를 죽이러 온 게 아니야. 난 단지 우리 정착지를 보호하는 데에 네 도움이 필요할 뿐이다." />
+    <string id="strTalkSikaSettlementXiang009" text="하하하, 오늘은 정말 내 인생 최고로 웃기는 날이구만. 고귀한 분이 나같은 도적에게 보호를 요청한다니. 날 더 쪽팔리게 하지 마라. 쪽팔리느니 차라리 죽는 게 낫지. 패배를 인정한다. 죽여라." />
+    <string id="strTalkSikaSettlementXiang010" text="... 진짜 널 죽이러 온 게 아니라니까. 믿지 못하겠다면, 풀어주도록 하지." />
+    <string id="strTalkSikaSettlementXiang011" text="그냥 보내준다고? 그 정도로 강하다면야, 어디 한번 날 풀어줘 보시지. 우리 형제들과 함께 돌아와서, 네놈을 흠씬 두들겨 패고 무릎 꿇고 살려달라고 빌게 만들테다." />
+    <string id="strTalkSikaSettlementXiang012" text="지금은 널 풀어주지만, 다음에 또 진다면, 우리에게 합류하는 거다." />
+    <string id="strTalkSikaSettlementXiang013" text="(그를 풀어주도록 지시한다.) 하하하, 날 두 번 이길 순 없지. 정말 강심장인가보군. 목숨만은 살려주지. 값 나가는 물건이나 많이 챙겨두라고." />
+    <string id="strTalkSikaSettlementXiang014" text="기다리고 있겠다." />
+
+    <string id="strTalkSikaSettlementXiang015" text="감히 기어나올 거라곤 생각하지 못했는데. 쉬운 놈은 아니구만. 내 강력한 군대를 보아라, 무섭지 않나? 난 너처럼 보들보들 하지 않다고. 이번엔 네놈의 무릎을 꿇리고야 말겠다!" />
+    <string id="strTalkSikaSettlementXiang016" text="나야말로, 이렇게 말이 많을 줄 몰랐네. 싸우려 왔으면 덤비기나 해라!" />
+    <string id="strTalkSikaSettlementXiang017" text="그냥 우리에게 합류하라는 것 뿐이야. 싸울테면 싸우든가!" />
+    <string id="strTalkSikaSettlementXiang018" text="돌격!" />
+    <string id="strTalkSikaSettlementXiang019" text="공격!" />
+
+    <string id="strTalkSikaSettlementXiang020" text="안녕하시오, 나으리. 로린 형님이 다 말해주었으니, 날 믿으시오. 내 숨통이 붙어 있는 한, 노예단은 한 발짝도 다가오지 못할 거요." />
+    <string id="strTalkSikaSettlementXiang021" text="믿겠소. 환영하오." />
+    <string id="strTalkSikaSettlementXiang022" text="로린 형님이 계급을 혼동해선 안 된다고 말했습니다만... 나으리, 괜찮으시다면, 시간 나실 때 저랑 한판 붙어보시지 않겠습니까? 이번에는 지지 않겠소. 로린 형님의 전략에 당한 건 패배라고 할 수 없소. 로린 형님이 먼저 하라고 하신 일은 완수하겠습니다." />
+    <string id="strTalkSikaSettlementXiang023" text="문제 없지. 연습이 완벽을 만드니까. 기다리겠네." />
+
+    <string id="strTalkSikaSettlementXiang024" text="마을을 지키겠습니다. 믿어만 주십쇼!" />
+    <string id="strTalkSikaSettlementXiang025" text="알겠네." />
+
+    <string id="strTalkSikaSettlementXiang1001" text="나으리, 돌아오셨군요. 로린 형님이 맡긴 일은 정리해 두었습니다. 노예단 놈들, 대가를 치르게 해줄테다! 나으리, 걱정마시오. 목숨을 걸고 로린 형님과 마을을 지키겠습니다. 다시는 그런 일이 일어나지 않도록 말이지요!" />
+    <string id="strTalkSikaSettlementXiang1002" text="다시는?" />
+    <string id="strTalkSikaSettlementXiang1003" text="나으리, 로린 형님이 영주의 회관에서 기다리고 있습니다. 노예단 놈들을 타도할 수 있도록 우리를 잘 이끌어 주십시오." />
+    <string id="strTalkSikaSettlementXiang1004" text="알겠네." />
+
+   <!-- 强盗项楚霸对话结束 -->
+
+   <!-- 艾灵族侦察射手格丽尔安对话开始 엘린족 정찰병 겔리란 대화 시작 -->
+    <!--<string id="strTalkElinScout1001" text="我们快接近。" />
+    <string id="strTalkElinScout1002" text="占位符" />
+    <string id="strTalkElinScout1003" text="占位符" />
+    <string id="strTalkElinScout1004" text="占位符" />
+    <string id="strTalkElinScout1005" text="占位符" />
+    <string id="strTalkElinScout1006" text="占位符" />
+    <string id="strTalkElinScout1007" text="占位符" />
+    <string id="strTalkElinScout1008" text="占位符" />
+    <string id="strTalkElinScout1009" text="占位符" />
+    <string id="strTalkElinScout1010" text="占位符" />
+    <string id="strTalkElinScout1011" text="占位符" />
+    <string id="strTalkElinScout1012" text="占位符" />-->
+
+    <string id="strTalkElinScout1101" text="질문이 있으면 뭐든지 물어보세요." />
+    <string id="strTalkElinScout1102" text="좋소." />
+
+    <string id="strTalkElinScout1201" text="서둘러요! 밀리 공주를 구해주세요!" />
+    <string id="strTalkElinScout1202" text="밀리 공주? (로타스가 옆에서 당신에게 밀리스본은 엘린족의 공주라고 설명해 주었다)" />
+    <string id="strTalkElinScout1203" text="그래요, 우리는 놀러 나왔다가 노예단에게 발각 당했어요. 그들이 밀리 공주를 납치했습니다. 지금 당장 가지 않으면, 너무 늦을 지도 몰라요" />
+    <string id="strTalkElinScout1204" text="(데리안: 엘린 일족의 공주가 아무런 보호도 없이 놀러 나갔다?) 그녀는 지금 어디에 있나?" />
+    <string id="strTalkElinScout1205" text="아마 메르켈 시 근처에 있을 거에요. 빨리 가야합니다!" />
+    <string id="strTalkElinScout1206" text="당신 몸은 어쩌고요?" />
+    <string id="strTalkElinScout1207" text="상관 없어요. 빨리 갑시다. 밀리스본 공주를 구하기만 하면, 엘린 일족은 최선을 다해 보상할 겁니다." />
+    <string id="strTalkElinScout1208" text="OK, 알겠소. 갑시다." />
+
+    <string id="strTalkElinScout1301" text="여기 계셨군요. 밀리스본 공주님을 구해주셔서 감사합니다." />
+    <string id="strTalkElinScout1302" text="이 팔찌에 대해 아시오?" />
+    <string id="strTalkElinScout1303" text="당신의 일에 대해 라드루윌 여왕님께 보고했습니다. 여왕께서 안에서 기다리고 계시며, 그것에 관해서도 대답해 주실 거에요. 아참, 다시 한 번, 밀리스본 공주님을 구해주셔서 감사합니다." />
+    <string id="strTalkElinScout1304" text="알겠소." />
+
+   <!-- 艾灵族侦察射手格丽尔安对话结束 -->
+
+   <!-- 巫婆对话开始 마녀 대화 시작 -->
+    <string id="strTalkSikaWitch1001" text="이방인이여, 그대는 이미 그대가 찾고 있는 답을 갖고 있다네." />
+    <string id="strTalkSikaWitch1002" text="알겠소." />
+
+    <string id="strTalkSikaWitch1101" text="이곳에 아무도 찾아오지 않은지 오래되었는데, 왜 여기에 왔는가?" />
+    <string id="strTalkSikaWitch1102" text="안녕하시오. 당신에게 미래를 내다보는 능력이 있다고 들었소. 내 미래에 대해 알려고 왔소." />
+    <string id="strTalkSikaWitch1103" text="하하하, 다들 미래를 보러 오지. 하지만 눈도 침침한 노파에게 미래를 맡긴다니, 좋은 생각은 아닌 것 같은데?" />
+    <string id="strTalkSikaWitch1104" text="당신의 인도를 받고자 하오." />
+    <string id="strTalkSikaWitch1105" text="무슨 일이 일어나든, 내 선택은 내가 할 것이오." />
+    <string id="strTalkSikaWitch1106" text="어디 보자, 시카족? 재밌군. 잠깐, 그 이방인이군! 변화의 시간이 도래한 것인가. 말해주겠나, 이방인이여, 왜 여기에 왔는지? 그대의 대답이 그대의 미래를 결정할 걸세." />
+    <string id="strTalkSikaWitch1107" text="나는 이 세상을 지배하러 왔다!" />
+    <string id="strTalkSikaWitch1108" text="나는 이 세상을 구하러 왔소!" />
+    <string id="strTalkSikaWitch1109" text="나는 이 세상을 즐기러 왔소." />
+    <string id="strTalkSikaWitch1110" text="나는 이 세상에 파멸을 가져올 것이오." />
+    <string id="strTalkSikaWitch1111" text="하하하, 알겠네, 이방인. 미래를 직면할 준비가 되었는가?" />
+    <string id="strTalkSikaWitch1112" text="준비됐소." />
+    <string id="strTalkSikaWitch1113" text="눈을 감으면 운명의 여신이 그대의 미래를 밝혀줄 것이야!" />
+    <string id="strTalkSikaWitch1114" text="(당신을 눈을 감았고, 갑자기 몸의 무게가 느껴지지 않더니, 의식이 멀어진다)" />
+   <!-- 巫婆对话结束 -->
+
+   <!-- 若璃对话开始 로타스 대화 시작-->
+    <string id="strTalkWitchStudent1001" text="그럼, 우리의 여정이 시작됩니다!" />
+    <string id="strTalkWitchStudent1002" text="그래..." />
+
+    <string id="strTalkWitchStudent1101" text="일어나셨군요! 괜찮아요? 꿈속의 적은 대박 잘생기고 강력했나요?!" />
+    <string id="strTalkWitchStudent1102" text="...꿈? 잠이 들었나?" />
+    <string id="strTalkWitchStudent1103" text="아, 설명해 주는 걸 잊었네요. 잠든 게 아니라, 미래에 일어날 일을 경험한 거에요." />
+    <string id="strTalkWitchStudent1104" text="...미래에 일어날 일." />
+    <string id="strTalkWitchStudent1105" text="네, 스승님은 당신의 미래가 되게 복잡할 거래요. 당신이 만난 적은 지금까지 본 것 중에 가장 강력했을 거라고. 그래서 어떻던가요? 대박 강했어요? 키는 크던가요?" />
+    <string id="strTalkWitchStudent1106" text="그래서, 이것들은 불가피한 건가?" />
+    <string id="strTalkWitchStudent1107" text="스승님의 능력은 당신에게 일어날 수 있는 일을 경험하게 하는 거에요. 스승님은 운명의 톱니바퀴는 시간의 법칙에 따라 굴러가기에 모든 것이 가능하기도 하고 불가능하기도 하다고 말했어요. 그래서 그는 어떻게 생겼어요?" />
+    <string id="strTalkWitchStudent1108" text="잘 기억이 나질 않아... 검은 감옷을 입었던가? 그런데 넌 누구니?" />
+    <string id="strTalkWitchStudent1109" text="풀 바디 블랙 아머라니, 완전 멋있어! 아, 내 소개를 잊었네요. 안녕하세요, 내 이름은 로타스에요. 동료가 되어서 무지 기뻐요." />
+    <string id="strTalkWitchStudent1110" text="동료? 그래, 함께해서 반갑구나." />
+    <string id="strTalkWitchStudent1111" text="동료? 적에게 반하는 여자랑은 동료가 되고 싶지 않은데." />
+    <string id="strTalkWitchStudent1112" text="저를 꼭 데려가세요. 스승님은 미래를 바꾸고 자신만의 길을 찾으려면 반드시 내 도움이 필요하다고 말씀하셨어요. 게다가, 나는 많은 것을 알고 있어요. 스승님한테 몇 년 동안이나 배웠는걸요." />
+    <string id="strTalkWitchStudent1113" text="그럼 너도 예지력이 있니?" />
+    <string id="strTalkWitchStudent1114" text="... 약초로 상처를 치유하는 법은 알아요... 아참! 서둘러요. 엘린 일족의 영토로 가려면 서둘러야 한다고 스승님이 말했어요!" />
+    <string id="strTalkWitchStudent1115" text="엘린 일족?" />
+    <string id="strTalkWitchStudent1116" text="글쎄, 이건 당신 거에요. (그녀는 당신에게 팔찌를 건냈다). 스승님은 나중에 당신에게 이것이 필요할 거라고 했어요. 또 스승님은 시급한 문제들을 해결하려면 엘린 일족의 영토로 가야한댔어요. 이제 모험을 떠나요! 엘린 일족의 영토는 본토 북서부의 숲 깊숙한 곳에 있어요. " />
+    <string id="strTalkWitchStudent1117" text="그래, 가자꾸나. (북서부? 대륙의 최북단은 1년 내내 눈으로 뒤덮인 지역이었던 걸로 기억하는데...)" />
+
+    <string id="strTalkWitchStudent1201" text="죽은 건가? 뭔 일이었던 거지?" />
+    <string id="strTalkWitchStudent1202" text="문 밖에서 무슨 소리가 난다. 나가서 무슨 일인지 알아봐야겠어." />
+   <!-- 若璃对话结束 -->
+
+   <!-- 艾灵族公主米莉斯玟对话开始 엘린족 공주 밀리스본 대화 시작 -->
+    <string id="strTalkElinLeaderDaughter1001" text="그럼 시작하지." />
+    <string id="strTalkElinLeaderDaughter1002" text="그럽시다." />
+
+    <string id="strTalkElinLeaderDaughter1101" text="게리란! 드디어 날 구하러 왔구나. 지겨워 죽는 줄 알았어." />
+    <string id="strTalkElinLeaderDaughter1102" text="괜찮소?" />
+    <string id="strTalkElinLeaderDaughter1103" text="게리란, 이들은 누구야?" />
+    <string id="strTalkElinLeaderDaughter1104" text="(게리란: 공주님, 여기 오다가 만난 사람들이에요. 그들이 절 도와줬습니다. 당신도 구해줬어요.)" />
+    <string id="strTalkElinLeaderDaughter1105" text="알겠어. 어머니께로 돌아가면, 아주 후하게 대해 줄 거에요... 음? 월러스 사람이 아니에요?" />
+    <string id="strTalkElinLeaderDaughter1106" text="네, 저는 다른 대륙에서 왔습니다." />
+    <string id="strTalkElinLeaderDaughter1107" text="이방인? 정말로? 그럼 모험을 하러 온 거네요? 와, 분명 흥미진진한 이야기를 많이 겪었겠어요." />
+    <string id="strTalkElinLeaderDaughter1108" text="... (게리란: 공주님, 돌아가야 합니다.)" />
+    <string id="strTalkElinLeaderDaughter1109" text="이방인이여, 계속 탐험할 건가요? 내가 당신 동료가 되는 건 어때요? 나는 엘린 종족 중에 가장 강력한 사수에요. 다음은 어디로 가죠? 같이 본토를 여행하는 거에요! 하하!" />
+    <string id="strTalkElinLeaderDaughter1110" text="우린 엘린족의 영토로 가고 싶습니다. 방법이 있을까요? (당신은 로타스가 당신에게 준 팔찌를 기억합니다. 당신은 팔찌를 꺼내 밀리스본에게 보여줍니다.)" />
+    <string id="strTalkElinLeaderDaughter1111" text="(밀리스본의 눈길이 당신의 손에 든 팔찌에 닿자, 그녀의 눈이 갑자기 차분해지고 깨끗해졌다) 게리란, 돌아왔어. 이방인이여, 구해주셔서 감사합니다. 엘린 종족의 영토로 가십시오. 제가 인도하겠습니다." />
+    <string id="strTalkElinLeaderDaughter1112" text="(데리안은 무언가를 깊이 생각한다) OK, 가시지요." />
+
+    <string id="strTalkElinLeaderDaughter1201" text="엘린족의 정착지에 온 것을 환영합니다." />
+    <string id="strTalkElinLeaderDaughter1202" text="와, 정말 아름다워요." />
+    <string id="strTalkElinLeaderDaughter1203" text="정말 그렇군. 엘린족의 정착지다워." />
+    <string id="strTalkElinLeaderDaughter1204" text="물론이죠! 우리 엘린 일족은 대대로 이곳에서 살았답니다. 우리에게 가장 자랑스런 곳이에요." />
+    <string id="strTalkElinLeaderDaughter1205" text="이제 누구에게 가면 됩니까?" />
+    <string id="strTalkElinLeaderDaughter1206" text="마을로 가서 게리란을 찾으세요. 어머니에게 보고를 마쳤을 거에요." />
+
+   <!-- 艾灵族公主米莉斯玟对话结束 -->
+
+   <!-- 艾灵族女王瑞德欧威对话开始 엘린족 여왕 라드루윌 대화 시작 -->
+    <string id="strTalkElinLeader1001" text="엘린 일족은 당신을 환영합니다, 이방인이여." />
+    <string id="strTalkElinLeader1002" text="감사합니다." />
+
+    <string id="strTalkElinLeader1101" text="왔구나, 이방인, 운명의 아이. 그대의 이야기는 알고 있소. 내 딸을 구해줘서 고마워요." />
+    <string id="strTalkElinLeader1102" text="네, 노예단에게서 밀리스본 공주님을 구했습니다. 저는... " />
+    <string id="strTalkElinLeader1103" text="(그녀가 당신을 가로막는다) 당신이 여기 온 이유를 알아요. (그녀는 로타스를 가리키며) 그녀의 스승이 나에게 말해줬거든요. 먼저 그 팔찌를 보여주시겠어요?" />
+    <string id="strTalkElinLeader1104" text="(당신은 팔찌를 보여준다)" />
+    <string id="strTalkElinLeader1105" text="그렇군요, 하지만 지금은 잠시 치워둘게요. 엘린족은 우리의 고향 외에는 관심이 없답니다." />
+    <string id="strTalkElinLeader1106" text="노예단이 따님을 납치했었습니다. 우리가 아니었다면 노예로 팔렸을지도 모릅니다." />
+    <string id="strTalkElinLeader1107" text="자기가 선택했으면 그 결과도 책임 져야지요." />
+    <string id="strTalkElinLeader1108" text="(밀리스본: 어마마마...)" />
+    <string id="strTalkElinLeader1109" text="(그녀는 밀리스본을 무시한다.) 이방인이여, 노예단만이 이 대륙의 유일한 위협이 아니에요. 기꺼이 그대를 돕고 싶지만, 우리에겐 우리의 문제가 있어요." />
+    <string id="strTalkElinLeader1110" text="우리의 문제? 여기서 쭉 사셨다고 들었습니다만." />
+    <string id="strTalkElinLeader1111" text="그렇죠. 하지만 왜인지 아나요?" />
+    <string id="strTalkElinLeader1112" text="아니오." />
+    <string id="strTalkElinLeader1113" text="옛날에는, 엘린 종족도 이 세계의 막강한 세력이었어요. 걸신들린 악마가 도착할 때까지 우리는 그들과 오랜 전쟁을 했지만 그들은 계속 아무 것도 없는 데서 나타났어요. 우리는 그들이 본토를 침략하는 것을 막기 위해 이곳을 대대로 지키고 있는 것이랍니다." />
+    <string id="strTalkElinLeader1114" text="그렇게 된 거군요." />
+    <string id="strTalkElinLeader1115" text="만일 그대가 우리를 도와준다면, 우리도 그대를 돕겠어요. 단지 노예단에만 맞설 뿐 아니라, 진정한 동맹이 되는 거에요." />
+    <string id="strTalkElinLeader1116" text="물론입니다, 할 수 있다면 기꺼이 돕겠습니다. 하지만 어떻게 도와드릴 수 있지요? (로타스가 손에 있는 팔찌를 보게 한다)" />
+    <string id="strTalkElinLeader1117" text="그래요, 그 팔찌는 엘린족의 유물이지요. 그것은 그대를 적대적인 에너지로부터 보호하고 추방된 자들의 땅에 들어갈 수 있게 해줄 거에요." />
+    <string id="strTalkElinLeader1118" text="추방된 자들의 땅?" />
+    <string id="strTalkElinLeader1119" text="그래요, 추방된 자들의 땅, 밤의 악마들의 땅이에요. 추방된 자들의 땅은 죽음의 에너지로 가득해서, 밤의 악마들을 약하게 해서 그들을 물리칠 수 있게 해요. 만일 그대가 추방된 자들의 땅에 들어가 그들을 약화시킬 수만 있다면, 우리는 더 큰 힘으로 당신을 도울 거에요." />
+    <string id="strTalkElinLeader1120" text="알겠습니다. 어떻게 하면 될까요?" />
+    <string id="strTalkElinLeader1121" text="그대가 준비되면, 의식을 행하겠어요. 의식과 나의 주문을 통해, 팔찌가 그대를 추방된 자들의 땅으로 순간이동시켜 줄 거에요." />
+    <string id="strTalkElinLeader1122" text="준비됐습니다." />
+
+    <string id="strTalkElinLeader1201" text="돌아왔군요. 기분이 어떤가요? 이상하진 않았나요? 괜찮던가요?" />
+    <string id="strTalkElinLeader1202" text="저는 딱히 이상한 건 없었습니다. 하지만 그 악마들은 생각보다 강하더군요." />
+    <string id="strTalkElinLeader1203" text="네, 아마도 그들도 시간이 지나면서 추방된 자들의 땅의 환경에 적응하기 시작했을 거에요. 하지만, 어쨌든 당신은 우리에게 큰 호의를 베풀었습니다. 운명의 아이여." />
+    <string id="strTalkElinLeader1204" text="그러면, 이제 도움을 기대해도 되겠습니까?" />
+    <string id="strTalkElinLeader1205" text="그 악마의 수는 압도적으로 많지만, 팔찌는 매주 스스로 충전 할 수 있으므로 정기적으로 추방된 자들의 땅에 들어갈 수 있어요. 내가 가르쳐준 반지와 마법을 마을 근처에서 사용하면 추방된 자들의 땅에 들어갈 수 있을 거에요." />
+    <string id="strTalkElinLeader1206" text="알겠습니다." />
+    <string id="strTalkElinLeader1207" text="보상으로, 나 엘린족의 여왕은, 공식적으로 선언합니다. 공주 밀리스본을 추방하고, 더 이상 우리 일족의 일원으로 여기지 않겠습니다. 왜냐하면 내 허락 없이 신성한 땅을 떠났기 때문입니다. 하지만, 엘린족의 영토에 들어오는 건 허락하겠어요. 이방인이여, 우리는 여전히 여기에 남아 악마로부터 이곳을 보호해야 합니다. 그래도 당신의 정착지를 지키기 위해 정찰대를 보내겠어요. 만일 침입하는 자가 있다면, 우리의 지원군을 기대해도 좋습니다." />
+    <string id="strTalkElinLeader1208" text="도와주셔서 감사합니다." />
+
+   <!-- 艾灵族女王瑞德欧威对话结束 -->
+
+   <!-- 敌人部队见面对话开始 -->
+    <string id="strTalkSlaveLeader001" text="어리석은 이방인이여, 어떻게 감히 우리를 공격하고 우리의 '화물'을 풀어주려 하느냐. 우리는 어디에나 있다! 당장 항복하라!" />
+    <string id="strTalkSlaveLeader002" text="할 수 있으면 싸워보시든가!" />
+
+    <string id="strTalkSlaveLeader003" text="노예단의 분노를 느껴봐라!" />
+    <string id="strTalkSlaveLeader004" text="공격!" />
+    
+    <string id="strTalkSlaveSendCap001" text="감히 우리를 공격하려 하다니, 어리석군!" />
+    <string id="strTalkSlaveSendCap002" text="공격!" />
+
+    <string id="strTalkSlaveLeader005" text="누구냐? 우리는 노예단이다." />
+    <string id="strTalkSlaveLeader006" text="어쩌라고. 돌격!" />
+
+   <!-- 敌人部队见面对话结束 -->
+
+   <!-- 其他对话开始 -->
+
+    <string id="strTalkSikaSettlementVillager001" text="주인님, 구해주셔서서 감사합니다." />
+    <string id="strTalkSikaSettlementVillager002" text="그래." />
+    <string id="strTalkSikaSettlementVillager003" text="가까이 오지 마시오, 낯선 이여." />
+
+    <string id="strTalkSikaSettlementSikaLeave001" text="우리 자신 외에는 누구도 우릴 지켜줄 수 없어." />
+    <string id="strTalkSikaSettlementSikaLeave002" text="그렇군." />
+    
+   <!-- 其他对话结束 -->
+
+  <!-- 所有对话结束 -->
+
+  <!-- 左侧菜单开始 왼쪽 메뉴 시작 -->
+    <string id="strQuestMenu001" text="당신은 당신의 군대와 함께 적의 야영지 주위에 몰래 잠입합니다. 야영지 주변의 순찰대가 지금 당신을 눈치 채지 못한 것 같습니다. 지금이 공격할 때입니다!" />
+    <string id="strQuestMenu002" text="전투를 시작한다!" />
+    <string id="strQuestMenu003" text="아직은 내버려둔다." />
+
+    <string id="strQuestMenu004" text="야영지 근처의 적을 제거합니다. 빌켄은 준비가 되는대로 그날 밤 당신을 공격한 도적들에게 공격을 시작할 수 있다고 말합니다." />
+    <string id="strQuestMenu005" text="공격!" />
+    <string id="strQuestMenu006" text="아직은 내버려둔다." />
+
+    <string id="strQuestMenu007" text="당신과 셀리는 노예단의 야영지를 발견했습니다. 이곳에 죄수들을 가두고 있는 것 같습니다. 이것은 노예단을 위한 중요한 전초 기지입니다. 많은 병사과 경비병이 야영지에서 이동하고 있다는 것을 알아챘습니다. 힘든 싸움이 될 것입니다." />
+    <string id="strQuestMenu008" text="공격!" />
+    <string id="strQuestMenu009" text="아직은 내버려둔다." />
+
+    <string id="strQuestMenu010" text="당신은 기습 당했습니다! 사방에 노예단입니다! 싸워야 합니다!" />
+    <string id="strQuestMenu011" text="목숨을 걸고 싸워라!" />
+
+    <string id="strQuestMenu012" text="노예단이 당신의 시야에 나타났습니다. 싸우지 않고는 떠나지 않을 것처럼 보입니다. 당신의 병사들은 전투 준비가 되어 있습니다." />
+    <string id="strQuestMenu013" text="공격!" />
+    <string id="strQuestMenu014" text="아직은 내버려둔다." />
+
+    <string id="strQuestMenu015" text="당신은 선술집에서 데리안을 따라 나갔습니다. 데리안은 당신과 함께 거리를 아무렇지 않게 걷는 것 같았습니다. 사실 그는 주변의 모든 움직임을 관찰하고 있었습니다. 두 모퉁이를 돌고 나자, 누군가가 당신을 따라오고 있다는 것을 분명히 느낄 수 있었습니다. 데리안이 따라오라고 손짓했습니다. 두 사람이 시장으로 걸어들어갔을 때, 갑자기 한 아이가 눈앞에서 과일 양동이를 땅에 던졌습니다." />
+    <string id="strQuestMenu016" text="데리안에게 신호를 주어, 무슨 일인지 알아보게 한다." />
+    <string id="strQuestMenu017" text="아이를 도와 과일을 줍는다." />
+
+    <string id="strQuestMenu018" text="데리안은 말없이 고개를 끄덕이며, 바닥에 흩어져 있는 과일들 쪽으로 가볍게 걸어갔습니다. 모든 것을 둘러보는 날아다니는 독수리처럼, 그의 차가운 눈이 순간, 실제 모습을 드러냈습니다. 데리안은 몸을 굽혀 사과 두 개와 오렌지를 집어 들었습니다. 아무 일도 일어나지 않았습니다. 세 번째 열매를 주우려고 몸을 굽혔을 때, 어떤 형체가 나타나 그를 단검으로 찔렀습니다. 하지만 데리안은 이미 준비가 되어 있었습니다. 손에 든 사과로 공격을 막아낸 뒤, 그 형체가 단검을 뽑아내기 전에 데리안은 오른손으로 허리에서 단검을 뽑아 공격자의 목을 찔렀습니다. 주변 사람들은 즉시 뿔뿔이 흩어지고 달아났습니다. 당신은 데리안에게 달려가 그가 다쳤는지 물었습니다. 데리안은 공격자의 단검으로 사과를 들어올려 보였습니다. 그런 다음 그는 당신에게 싸움을 준비하라는 신호를 보냈습니다. 뒤따르던 자들이 왔습니다." />
+    <string id="strQuestMenu019" text="싸운다!" />
+    <string id="strQuestMenu020" text="주위를 둘러보니 이상한 점은 없는 것 같습니다. 당신은 조심스럽게 당신 앞에 있는 과일들을 주웠습니다. 오렌지를 줍기 위해 몸을 굽히자, 갑자기 그림자 속에서 형체가 번쩍였습니다. 당신은 준비하고 있었지만, 그의 단검이 당신의 왼쪽 어깨를 찔렀습니다. 당신도 오른손으로 허리에서 단검을 빼어 그의 목을 찔렀습니다. 데리안이 당신에게 달려왔습니다. 조금 걱정스러운 표정이기는 하지만 일단 왼쪽 어깨에 달린 단검은 신경쓰지 말라고 말했습니다. 더 많은 공격자가 나타났습니다!" />
+  
+    <string id="strQuestMenu021" text="데리안의 도움으로 모든 공격자를 물리쳤습니다. 당신은 그에게 감사를 표하고, 편지에 대한 당신의 질문에 답할 수 있기를 바라며 당신의 목적을 밝혔습니다." />
+    <string id="strQuestMenu022" text="계속." />
+
+    <string id="strQuestMenu023" text="당신은 공격자들에게 기절했지만 데리안은 마침내 그들을 물리쳤습니다. 잠시 후, 당신은 일어났습니다. 그 후, 당신은 데리안에게 당신의 의도를 밝히며, 그가 이 편지에 대한 당신의 질문에 답하고 시카족을 도울 수 있기를 바랐습니다." />
+    <string id="strQuestMenu024" text="계속." />
+
+    <string id="strQuestMenu025" text="당신은 데리안을 따라 도시를 지나 골목을 지나 집들로 둘러싸인 곳에 도착했습니다. 데리안이 유일한 문으로 다가갔습니다. 그는 특정한 리듬에 따라 문을 두드렸습니다. 당신은 마음 속으로 그것을 기억했습니다. 아무런 응답이 없었습니다. 당신과 데리안은 서로를 쳐다보았고, 문 손잡이가 비스듬한 것을 보았습니다. 데리안이 부드럽게 밀자 문이 열렸습니다. 그는 서둘러 들어갔습니다." />
+    <string id="strQuestMenu026" text="들어간다." />
+    <string id="strQuestMenu027" text="떠난다." />
+
+    <string id="strQuestMenu028" text="항초패의 군대가 시야에서 사라졌습니다. 그래도, 로린의 계획을 따를 수밖에 없습니다. 그의 계획이 통하길 바랄 뿐입니다." />
+    <string id="strQuestMenu029" text="항초패의 군대에 겁 없이 돌진한다." />
+    <string id="strQuestMenu030" text="당신이 대담하게 돌격하자 적군이 당신의 병사들을 쉽게 포위했습니다. 그들은 당신 부하들의 목숨을 빼앗는 대신, 몸값을 요구했습니다. 적과 마주하고 있으니, 다시 공격할 수 밖에 없습니다. 1000 디나르를 잃었습니다." />
+    <string id="strQuestMenu031" text="언제라도 퇴각할 준비를 하고 공격한다." />
+    <string id="strQuestMenu032" text="많은 적들을 상대해야 하기에, 돌격하더라도 큰 효과는 없을 것입니다." />
+    <string id="strQuestMenu033" text="계획 없이 공격한다." />
+    <string id="strQuestMenu034" text="당신의 계획되지 않은 공격으로 많은 수의 적군이 당신의 병사들을 쉽게 포위했습니다. 그들은 병사들의 목숨을 앗아가는 대신 몸값을 요구했다. 적과 마주하고 있으니, 다시 공격할 수 밖에 없습니다. 1000 디나르를 잃었습니다." />
+
+    <string id="strQuestMenu035" text="항초패의 병사가 너무 많아, 당신의 공격은 별 효과가 없었습니다. 다음 단계는 무엇입니까?" />
+    <string id="strQuestMenu036" text="퇴각한다!" />
+    <string id="strQuestMenu037" text="당신의 퇴각은 그들이 추격하도록 즉각적으로 도발했습니다." />
+    <string id="strQuestMenu038" text="계속 공격!" />
+    <string id="strQuestMenu039" text="이런 상황에 공격을 지속하면 병사들이 포로가 될 뿐입니다. 몸값을 지불합니다. 1000 디나르를 잃었습니다." />
+    <string id="strQuestMenu040" text="전선 유지." />
+    <string id="strQuestMenu041" text="이런 상황에 수비를 지속하면 병사들이 포로가 될 뿐입니다. 몸값을 지불합니다. 1000 디나르를 잃었습니다." />
+
+    <string id="strQuestMenu042" text="적들을 바로 뒤에 두고, 당신은 여러 방향으로 퇴각할 수 있습니다. 당신은..." />
+    <string id="strQuestMenu043" text="산으로 퇴각한다." />
+    <string id="strQuestMenu044" text="당신이 도망친 방향에는 지원군이 없습니다. 1000 디나르를 잃고 시작 위치로 돌아갑니다." />
+    <string id="strQuestMenu045" text="평원으로 퇴각한다." />
+    <string id="strQuestMenu046" text="당신이 도망친 방향에는 지원군이 없습니다. 1000 디나르를 잃고 시작 위치로 돌아갑니다." />
+    <string id="strQuestMenu047" text="숲속으로 퇴각한다." />
+    <string id="strQuestMenu048" text="당신이 도망친 방향에는 지원군이 없습니다. 1000 디나르를 잃고 시작 위치로 돌아갑니다." />
+    <string id="strQuestMenu049" text="계곡으로 퇴각한다." />
+
+    <string id="strQuestMenu050" text="시카의 땅 대륙의 전 지역인 것 같은 다양한 풍경이 차례로 보입니다. 또한 당신 주변의 여러 부류의 사람들이 보입니다. 마침내, 멀리서 검은 갑옷을 입은 남자가 보이는데, 마치 당신을 공격할 것 같습니다!" />
+    <string id="strQuestMenu051" text="공격!" />
+    <string id="strQuestMenu052" text="당신의 검이 점점 그의 몸으로 파고들자 그는 갑자기 강한 활력으로 폭발했습니다. 그는 한 손으로 당신의 검을 움켜쥐고, 다른 한 손의 검으로 순식간에 당신의 가슴을 꿰뚫었습니다. 당신의 의식은 점점 사라져 갔습니다..." />
+    <string id="strQuestMenu053" text="기절." />
+    <string id="strQuestMenu054" text="그는 한 손으로는 쉽게 당신의 검을 움켜쥐고, 다른 한 손의 칼로 순식간에 당신의 가슴을 꿰뚫었습니다. 당신의 의식은 점점 사라져 갔습니다..." />
+    <string id="strQuestMenu055" text="기절." />
+
+    <string id="strQuestMenu056" text="당신은 엘린족을 따라 노예단의 야영지로 갔습니다. 그들은 무언가를 축하하고 있습니다. 엘린족의 공주를 사로잡은 자들일 것입니다." />
+
+    <string id="strQuestMenu057" text="엘린족이 자리를 마련하였습니다. 라드루윌은 당신을 준비시킨 뒤, 팔찌를 들고 그녀를 따라 읽으라고 합니다: '알베노-다스'." />
+    <string id="strQuestMenu058" text="알베노-다스!" />
+
+    <string id="strQuestMenu059" text="추방된 자들의 땅으로 들어갑니다" />
+
+    <string id="strQuestMenu060" text="당신은 항초패의 군대를 협곡으로 성공적으로 유인했고 로린은 항초패의 군대를 성공적으로 포위했습니다." />
+
+    <string id="strQuestMenu061" text="데리안은 이곳에서 야영하며 병사들을 쉬게 하라고 합니다." />
+
+  <!-- 左侧菜单结束 -->
+
+   <!-- QuestInitBehaviour弹窗开始 -->
+    <string id="strQuestWindow016" text="시카 기사단의 편지" />
+    <string id="strQuestWindow017" text="여행자에게: 시카 기사단이 안부를 전합니다. 우리는 우리를 접견하는 모든 친우들을 환영합니다. 우리 시카 기사단은 대륙이 혼돈 가운데 있을 때 수많은 사람들을 보호해 왔습니다. 당신이 우리와 같은 비전을 갖고 있다면, 당신과의 만남을 기다립니다. 이 편지는 우리의 전령을 만났을 때 증거가 될 것입니다. 당신과 만나길 고대합니다.{newline} {newline}시카 기사단으로부터." />
+    <string id="strQuestWindow018" text="편지를 가방에 다시 넣는다." />
+
+    <string id="strQuestWindow019" text="절체절명의 순간" />
+    <string id="strQuestWindow020" text="당신과 당신의 군대는 용감하게 싸웠지만 노예단이 너무 많았습니다. 옆에 있던 병사들이 하나둘 땅에 쓰러졌습니다. 당신은 눈앞의 적을 베어버리려고 합니다. 주위를 둘러보니 모든 병력이 죽거나 다쳐서 땅에 쓰러졌습니다. 뒤를 돌아보니 구출된 포로 중 일부도 화살비로 부상을 입었습니다. 당신은 숨을 가쁘게 몰아쉬며 장로에게 돌아갑니다. 셀리는 화살을 뽑지 않고 상처에 붕대를 감아 지혈합니다." />
+    <string id="strQuestWindow021" text="당신과 당신의 군대가 첫 번째 공격은 물리쳤지만, 더 많은 적들이 계속 쏟아져 옵니다. 옆에 있던 병사들이 하나둘 땅에 쓰러졌습니다. 당신은 눈앞의 적을 베어버리려고 합니다. 주위를 둘러보니 모든 병력이 죽거나 다쳐서 땅에 쓰러졌습니다. 뒤를 돌아보니 구출된 포로 중 일부도 화살비로 부상을 입었습니다. 당신은 숨을 가쁘게 몰아쉬며 장로에게 돌아갑니다. 셀리는 화살을 뽑지 않고 상처에 붕대를 감아 지혈합니다." />
+    <string id="strQuestWindow019a" text="장로에게 말을 건다" />
+
+    <string id="strQuestWindow025" text="자원과 도구" />
+    <string id="strQuestWindow026" text="자원 및 도구 메뉴를 열었습니다. 장면에서는 'Q' 키를 누르고 캠페인 맵에서는 야영지 메뉴를 통해 열 수 있습니다." />
+    <string id="strQuestWindow027" text="확인" />
+
+    <string id="strQuestWindow028" text="신령한 짐승" />
+    <string id="strQuestWindow029" text="시카 기사단이 당신에게 두 마리의 신령한 짐승을 보냈습니다. 그 짐승이 당신의 부대에 도움이 될 수 있다고 합니다. 신령한 개와 신령한 고양이 중 하나를 선택할 수 있습니다. 기억하세요, 선택 사항은 변경할 수 없습니다:" />
+    <string id="strQuestWindow030" text="신령한 개 선택" />
+    <string id="strQuestWindow031" text="신령한 고양이 선택" />
+
+    <string id="strQuestWindow053" text="협곡의 매복" />
+    <string id="strQuestWindow054" text="당신의 군대가 계곡을 건너자 항초패를 선두로 군대가 돌진합니다. 그러나 협곡을 빠져나오기 전에 무수한 바위가 굴러와 계곡 양쪽의 산을 굴러내려가는 길을 막았습니다. 로린은 사격 준비를 마친 석궁수와 궁수들로 둘러싸인 계곡 꼭대기에 서 있었습니다." />
+    <string id="strQuestWindow055" text="공격" />
+
+    <string id="strQuestWindow056" text="절체절명의 순간" />
+    <string id="strQuestWindow057" text="당신과 당신의 군대는 용감하게 싸웠지만 노예단이 너무 많았습니다. 옆에 있던 병사들이 하나둘 땅에 쓰러졌습니다. 당신은 눈앞의 적을 베어버리려고 합니다. 주위를 둘러보니 모든 병력이 죽거나 다쳐서 땅에 쓰러졌습니다. 뒤를 돌아보니 구출된 포로 중 일부도 화살비로 부상을 입었습니다. 당신은 숨을 가쁘게 몰아쉬며 장로에게 돌아갑니다. 셀리는 화살을 뽑지 않고 상처에 붕대를 감아 지혈합니다." />
+    <string id="strQuestWindow058" text="장로에게 말을 건다" />
+    <string id="strQuestWindow059" text="당신과 당신의 군대가 첫 번째 공격은 물리쳤지만, 더 많은 적들이 계속 쏟아져 옵니다. 옆에 있던 병사들이 하나둘 땅에 쓰러졌습니다. 당신은 눈앞의 적을 베어버리려고 합니다. 주위를 둘러보니 모든 병력이 죽거나 다쳐서 땅에 쓰러졌습니다. 뒤를 돌아보니 구출된 포로 중 일부도 화살비로 부상을 입었습니다. 당신은 숨을 가쁘게 몰아쉬며 장로에게 돌아갑니다. 셀리는 화살을 뽑지 않고 상처에 붕대를 감아 지혈합니다." />
+
+    <string id="strQuestWindow060" text="개" />
+    <string id="strQuestWindow061" text="고양이" />
+   <!-- QuestInitBehaviour弹窗结束 -->
+
+   <!-- QuestInitBehaviour部队名开始 -->
+    <string id="strQuestPartyName001" text="노예단 전사" />
+    <string id="strQuestPartyName002" text="노예단 수색자" />
+   <!-- QuestInitBehaviour部队名结束 -->
+
+   <!-- QuestInitBehaviour左下角信息开始 좌하단 로그 시작 -->
+    <string id="strSikaInformationMessage004" text="상단장의 화물을 찾았습니다." />
+    <string id="strSikaInformationMessage005" text="곡물을 찾았습니다." />
+    <string id="strSikaInformationMessage006" text="고기를 찾았습니다." />
+    <string id="strSikaInformationMessage007" text="모피를 찾았습니다." />
+    <string id="strSikaInformationMessage008" text="기름을 찾았습니다." />
+    <string id="strSikaInformationMessage009" text="당나귀를 찾았습니다." />
+
+    <string id="strSikaInformationMessage020" text="당신은 아르드론의 곡괭이를 들었습니다. I 를 눌러 장착하십시오." />
+
+    <string id="strSikaInformationMessage027" text="의식이 끝난 것 같습니다. 아이시에게 도움이 되기를 바랍니다. 그 의식에 대해 장로 몬나이에게 물어봐야 합니다." />
+    <string id="strSikaInformationMessage028" text="아이시의 상태가 많이 좋아진 것 같습니다. 그녀가 회복되기를 바랍니다." />
+    <string id="strSikaInformationMessage029" text="아르드론이 자원을 보냈습니다. 당신은 석재, 목재, 식량을 각각 200 씩 얻었습니다." />
+
+    <string id="strSikaInformationMessage030" text="당신은 신령한 개를 얻었습니다. 야영지 메뉴에서 반려동물 메뉴로 들어갈 수 있고 U 키를 눌러 관리할 수 있습니다." />
+    <string id="strSikaInformationMessage031" text="당신은 신령한 고양이를 얻었습니다. 야영지 메뉴에서 반려동물 메뉴로 들어갈 수 있고 U 키를 눌러 관리할 수 있습니다." />
+
+    <string id="strSikaInformationMessage042" text="방랑기사 데리안이 당신의 부대에 합류했습니다. 이제 시카 기사단에게 도움을 요청해야 합니다." />
+    <string id="strSikaInformationMessage043" text="방랑기사 데리안은 집에서 흔적을 발견했습니다. 그 흔적은 다음의 가장 가까운 마을을 향하고 있습니다: " />
+
+    <string id="strSikaInformationMessage045" text="케이지족의 로린은 당신이 그와 그의 일족을 당신의 야영지로 데려가기를 원합니다." />
+    <string id="strSikaInformationMessage046" text="케이지족의 로린은 시카족의 몬나이가 영주의 회관에서 당신을 기다리고 있다고 말했습니다." />
+    <string id="strSikaInformationMessage047" text="몬나이와 로린은 그들이 당신에게 충성할 것이라고 맹세했지만, 그것은 당신의 문제에는 아무 의미가 없습니다. 로린은 당신이 근처에 있는 도적 항초패를 물리치고 그를 설득하여 당신과 함께 하도록 해야 한다고 말했습니다." />
+
+    <string id="strSikaInformationMessage048" text="이번에는 마침내 항초패와 그의 군대를 물리쳤습니다. 이제 로린에게 다음 단계에 대해 물어봐야 합니다." />
+    <string id="strSikaInformationMessage049" text="이제 커스텀 병종과 병종 트리를 정착지 메뉴에서 만들 수 있습니다." />
+    <string id="strSikaInformationMessage050" text="항초패가 정착지 밖에서 큰 세력과 함께 당신을 조롱하고 있습니다. 로린은 어쨌든 당신의 계획대로 행동하라고 말했습니다." />
+
+    <string id="strSikaInformationMessage051" text="상단장 빌켄은 노예단과의 충돌에 당신을 연루시킨 보상으로 2000 디나르를 주었습니다." />
+    <string id="strSikaInformationMessage052" text="당신은 빌켄에게서 수상한 편지를 받았습니다. 아마도 나중에 그것이 필요할 것입니다." />
+
+    <string id="strSikaInformationMessage053" text="당신은 당신의 자신의 집이 생겼습니다. 정착 메뉴에서 집에 들어갈 수 있습니다. 동시에 정착촌 건설 '플레이어 홈' 프로젝트가 시작됩니다. 정착지 건설 메뉴에서 '플레이어 홈'을 업그레이드할 수 있습니다." />
+
+    <string id="strSikaInformationMessage054" text="나비가 밤에 조각상을 가져오라고 합니다. 의식은 밤에 거행되는 것 같습니다." />
+
+    <string id="strSikaInformationMessage056" text="많은 장면을 보고 그 의미를 이해하지는 못하지만 그 꿈의 마지막 적은 잊을 수 없습니다. 엘린족? 또 다른 이상한 종족이군요. 이제 선택의 여지가 없습니다. 손에 든 팔찌를 보고 생각하십시오. 엘린 종족의 영토를 찾기 위해서는 본토 북서부에 있는 숲을 통해서만 갈 수 있습니다. 아마도 거기에서 답을 얻을 수 있을 것입니다." />
+
+    <string id="strSikaInformationMessage057" text="엘린족의 공주 밀리스본은 엘린족의 영토로 당신을 데려 가기로 결정했습니다. 북서부 숲의 엘린족 영토로 갈 시간입니다." />
+
+    <string id="strSikaInformationMessage058" text="엘린족의 공주 밀리스본은 엘린족에서 추방되었고 공식적으로 당신의 부대에 합류했습니다. 이제 모든 도시의 메뉴에서 추방된 자들의 땅으로 들어가는 옵션이 활성화됩니다. 팔찌가 매주 에너지를 회복하면 추방된 자들의 땅으로 들어갈 수 있습니다." />
+
+    <string id="strSikaInformationMessage059" text="팔찌에 에너지가 부족하여 추방된 자들의 땅에 들어갈 수 없습니다." />
+
+    <string id="strSikaInformationMessage1101" text="임무 완수! 당신은 500 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1102" text="임무 완수! 당신은 1000 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1103" text="임무 완수! 당신은 2000 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1104" text="임무 완수! 당신은 1000 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1105" text="임무 완수! 당신은 2000 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1106" text="임무 완수! 당신은 2000 디나르를 얻었습니다." />
+    <string id="strSikaInformationMessage1107" text="임무 완수! 당신은 3000 디나르를 얻었습니다." />
+
+   <!-- QuestInitBehaviour左下角信息开始 -->
+
+ <!-- 文件QuestInitBehaviour.cs结束 -->
+
+ <!-- 文件QuestUpdateBehaviour.cs开始 -->
+   <!-- QuestUpdateBehaviour弹窗开始 -->
+    <string id="strQuestWindow001" text="노예 소녀" />
+    <string id="strQuestWindow002" text="당신은 전장을 정리하고 약탈합니다. 이 도적들은 평범한 도적이 아니라 노예단으로 보입니다. 그들이 가지고 있는 유일한 것은 빌켄의 화물이며, 당신은 그들의 사슬에서 소녀를 해방시킵니다." />
+    <string id="strQuestWindow003" text="그녀에게 질문한다" />
+
+    <string id="strQuestWindow004" text="시카족의 장로, 몬나이" />
+    <string id="strQuestWindow005" text="당신의 병사들은 모든 포로를 풀어주었습니다. 그들 모두는 누더기 옷을 입고 있었고, 그들의 몸은 흉터로 뒤덮였습니다. 셀리는 노인이 걸어가는 것을 도왔습니다. 그들이 당신에게 다가오려 할 때, 그 노인은 셀리에게 손을 놓아달라고 했습니다. 셀리는 정중하게 옆으로 섰고 그 노인은 천천히 당신을 향해 걸어왔습니다." />
+    <string id="strQuestWindow006" text="그 노인과 대화한다" />
+
+    <string id="strQuestWindow007" text="노예단에게 포위당하다" />
+    <string id="strQuestWindow008" text="몬나이 장로가 말을 마치기도 전에 갑자기 멀리서 화살이 쏟아졌습니다. 구조된 포로와 구조된 포로를 달래고 치료하던 병사들은 화살비를 맞았다. 당신도 많은 화살을 가지고 있습니다. 몬나이 장로는 그의 뒤에서 당신을 보호했고 곧 그의 오른쪽 어깨에 화살을 맞았습니다! 당신은 재빨리 몸을 낮추고 몬나이를 바위 뒤로 끌고 갔습니다. 노예단이 당신을 완전히 포위했습니다. 전신갑주를 입은 지도자가 말을 타고 당신에게 말을 걸었습니다." />
+    <string id="strQuestWindow009" text="대장에게 말을 건다" />
+
+    <string id="strQuestWindow010" text="전투 이후" />
+    <string id="strQuestWindow011" text="전투의 흐름은 양 진영 사이에서 몇 차례 바뀌었고, 당신이 아직 살아 있다는 것을 상상할 수 없습니다. 당신의 병사들은 약탈을 시작하고 전장을 청소합니다. 시카족은 대충 상황을 수습하고 있습니다. 몬나이는 상처를 치료하며 셀리와 함께 당신을 찾고 있습니다." />
+    <string id="strQuestWindow012" text="몬나이에게 말을 건다" />
+
+    <string id="strQuestWindow013" text="새로운 정착지" />
+    <string id="strQuestWindow014" text="장로 몬나이는 미래 계획을 논의하기 전에 새로운 정착지를 건설해야 한다고 제안합니다. 시카 기사단과 같은 세력이 당신에게 도움을 줄 수는 있지만, 여전히 강력한 노예단의 그림자가 드리우고 있습니다. 하지만 당신은 앞으로 나아가야 합니다. ('H'를 눌러 정착촌 건설 명령을 내립니다)." />
+    <string id="strQuestWindow015" text="떠난다." />
+
+   <!-- QuestUpdateBehaviour弹窗结束 -->
+
+   <!-- QuestUpdateBehaviour左下角信息开始 -->
+    <string id="strSikaInformationMessage044" text="시카 기사 하나가 당신의 야영지에 와서 노예단이 오는 중이라고 말했습니다. 전투를 준비하십시오!" />
+
+   <!-- QuestUpdateBehaviour左下角信息开始 -->
+
+ <!-- 文件QuestUpdateBehaviour.cs结束 -->
+
+ <!-- 文件SubModule.cs开始 -->
+   <!-- SubModule弹窗开始 -->
+    <string id="strQuestWindow022" text="시카 기사단" />
+    <string id="strQuestWindow023" text="저 멀리 땅의 진동이 점점 가까워지더니 언덕 꼭대기에 형체가 보였다. 햇빛이 산비탈 기슭에서 산꼭대기까지 쏟아지더니, 마침내 그 모습이 드러났다. 흰 말, 은색 조끼, 금빛 말 투구, 붉은 깃털이 바람에 부드럽게 흔들리고 있다. 말을 탄 거대한 모습이 마침내 태양과 함께 나타났다. 검은색과 황금색 갑옷에 은색 투구를 쓰고, 무시무시한 거대한 창이 손에 들려 있습니다. 말을 탄 남자는 마치 돌격 명령을 내린 것처럼 무기를 높이 들었다. 그러자 검은색과 금색 기병의 물결이 언덕 너머에서부터 돌진하여 노예단의 대형의 심장부까지 짓밟는 것을 보았다. 가장 먼저 기병대의 돌격은 노예들에게 강력한 타격을 주었다. 이 기병들에게는 상대가 되지 않지만 노예단은 여전히 ​​강력한 전사들이었다. 더 나은 장비, 훈련 및 조직을 갖춘 이 기병대는 조금씩 전진했다. 마침내 기병대의 대장이 창을 노예단 대장의 심장에 찔러넣자 노예단은 마침내 부서졌다. 전투가 끝난 후 기병대장은 검을 내려놓고 당신을 향해 걸어왔다." />
+    <string id="strQuestWindow024" text="기사에게 말을 건다" />
+   <!-- SubModule弹窗结束 -->
+ <!-- 文件SubModule.cs结束 -->
+
+ <!-- 文件SelfSettlementMission.cs开始 -->
+   <!-- SelfSettlementMission左下角信息开始 -->
+    <string id="strSikaInformationMessage023" text="곡식 한 포대를 획득했습니다." />
+
+    <string id="strSikaInformationMessage024" text="나비가 말했던 조각상일 것입니다. 돌아가서 나비에게 말을 거세요." />
+    <string id="strSikaInformationMessage025" text="나비는 밤에 다시 오라고 합니다. 의식을 위한 적당한 시간입니다." />
+    <string id="strSikaInformationMessage026" text="시간이 되었으니, 조각상을 있었던 곳 근처의 모닥불 옆에서 나비를 찾으세요." />
+   <!-- SelfSettlementMission左下角信息结束 -->
+ <!-- 文件SelfSettlementMission.cs结束 -->
+
+ <!-- 文件QuestSpawnNPCMission.cs开始 -->
+
+   <!-- QuestSpawnNPCMission弹窗开始 -->
+    <string id="strQuestWindow032" text="평화의 서" />
+    <string id="strQuestWindow033" text="평화의 서, 10장 6절: 평화의 여신 로비스는 시카의 땅을 수호하기 위해 신성한 힘을 소진했다. 그녀는 마지막 순간에 남은 힘을 그녀의 사도들에게 나누어주었으니, 그녀의 길을 따르는 사람들은 그녀의 힘을 공유하기 위해 시카 기사단에 합류할 수 있다." />
+    <string id="strQuestWindow034" text="증거 수집." />
+
+    <string id="strQuestWindow035" text="반쯤 먹은 수프" />
+    <string id="strQuestWindow036" text="그릇에 반쯤 남은 수프. 아직 그릇에 숟가락이 있다. 누군가 식사가 강제로 취소된 것인가? 누군가의 저녁 식사가 강제로 취소되었습니다." />
+    <string id="strQuestWindow037" text="증거 수집." />
+
+    <string id="strQuestWindow038" text="부서진 오크통." />
+    <string id="strQuestWindow039" text="부서진 오크통. 비어있다. 안에 들어 있던 것은 없어진 건가?" />
+    <string id="strQuestWindow040" text="증거 수집." />
+
+    <string id="strQuestWindow041" text="천 조각" />
+    <string id="strQuestWindow042" text="천 조각 하나가 비어있는 궤짝 앞에 떨어져 있다. 우연히 흘린 것인가?" />
+    <string id="strQuestWindow043" text="증거 수집." />
+
+    <string id="strQuestWindow044" text="옷" />
+    <string id="strQuestWindow045" text="옷장 앞에 옷이 한 무더기 쌓여 있다. 옷장 안에 있던 옷을 모두 꺼낸 것 같다. 왜?" />
+    <string id="strQuestWindow046" text="증거 수집." />
+
+    <string id="strQuestWindow047" text="귀중품" />
+    <string id="strQuestWindow048" text="일부 귀중품은 아직 먼지가 묻어 있다. 한동안 손대지 않은 것 같다." />
+    <string id="strQuestWindow049" text="증거 수집." />
+
+    <string id="strQuestWindow050" text="양념된 고기" />
+    <string id="strQuestWindow051" text="소스를 뿌린 양념된 고기. 저녁식사였을 것이다.." />
+    <string id="strQuestWindow052" text="증거 수집." />
+   <!-- QuestSpawnNPCMission弹窗结束 -->
+
+   <!-- QuestSpawnNPCMission左下角信息开始 -->
+    <string id="strSikaInformationMessage032" text="재밌는 이야기구만. 하지만 중요한 걸 찾은 것 같지는 않군." />
+
+    <string id="strSikaInformationMessage033" text="먼저 데리안에게 무슨 일이 일어났는지 물어보고, 방을 수색합니다." />
+    <string id="strSikaInformationMessage034" text="" />
+    <string id="strSikaInformationMessage035" text="반쯤 먹은 것으로 보아, 그는 정말 급했던 것 같습니다. 무언가 그를 방해했습니다." />
+    <string id="strSikaInformationMessage036" text="통을 부수어 안에 있는 것을 가져간 것 같습니다. 하지만 당신은 이 통 안에 무엇이 있었는지 알 수 없습니다." />
+    <string id="strSikaInformationMessage037" text="궤짝 앞에 있는 천 조각 하나. 무슨 의미일까요?" />
+    <string id="strSikaInformationMessage038" text="옷장 앞에 모든 옷이 꺼내져 있습니다. 뭔가 찾고 있었던 걸까요?" />
+    <string id="strSikaInformationMessage039" text="귀중품에 손대지 않았다? 체포되었거나 납치당한 것일까요? 아니면 이 일을 한 사람은 돈에는 관심이 없는 걸까요?" />
+    <string id="strSikaInformationMessage040" text="소스를 뿌린 양념된 고기라니, 이상하군요, 식사 같습니다." />
+    <string id="strSikaInformationMessage041" text="지금은 이게 다인 것 같습니다. 돌아가서 데리안에게 뭔가를 찾았는지 물어보세요." />
+
+    <string id="strSikaInformationMessage055" text="당신은 아직 모든 단서를 수색하지 않았습니다." />
+
+   <!-- QuestSpawnNPCMission左下角信息结束 -->
+
+ <!-- 文件QuestSpawnNPCMission.cs结束 -->
+
+ <!-- 文件SettlementMenuBehavior.cs开始 -->
+  <!-- SettlementMenuBehavior.cs左侧菜单开始 -->
+    <string id="strQuestMenu1001" text="숲속에 있는 비밀스러운 집을 찾았습니다." />
+    <string id="strQuestMenu1002" text="비밀스러운 집으로 들어가기" />
+  <!-- SettlementMenuBehavior.cs左侧菜单结束 -->
+ <!-- 文件SettlementMenuBehavior.cs结束 -->
+
+ <!-- 文件QuesWitchHouse.cs开始 -->
+  <!-- QuesWitchHouse.cs正上方提示横幅开始 -->
+    <string id="strReminderBanner1001" text="먼저 무슨 일이 있었던 것인지 알아내야 합니다." />
+  <!-- QuesWitchHouse.cs正上方提示横幅结束 -->
+ <!-- 文件QuesWitchHouse.cs结束 -->
+
+  </strings>
+</base>

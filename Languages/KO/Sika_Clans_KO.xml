@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어"/>
+  </tags>
+  <strings>
+    <!-- 家族名的英文 -->
+    <!-- 雅瑞安 -->
+    <string id="CLNYRN01" text="차이"/>
+    <string id="CLNYRN02" text="쿠아"/>
+    <string id="CLNYRN03" text="하우"/>
+    <string id="CLNYRN04" text="키우"/>
+    <string id="CLNYRN05" text="얌"/>
+    <string id="CLNYRN06" text="카바"/>
+    <string id="CLNYRN07" text="발람"/>
+    <string id="CLNYRN08" text="콤"/>
+    <string id="CLNYRN09" text="나하우"/>
+
+    <!-- 落月 -->
+    <string id="CLNLMC01" text="미야타"/>
+    <string id="CLNLMC02" text="와타후지"/>
+    <string id="CLNLMC03" text="사키"/>
+    <string id="CLNLMC04" text="다케노"/>
+    <string id="CLNLMC05" text="가와사키"/>
+    <string id="CLNLMC06" text="스기시마"/>
+    <string id="CLNLMC07" text="다케우치"/>
+    <string id="CLNLMC08" text="요시부"/>
+    <string id="CLNLMC09" text="타치하지메"/>
+
+    <!-- 炎 -->
+    <string id="CLNJDY01" text="소가"/>
+    <string id="CLNJDY02" text="묵가"/>
+    <string id="CLNJDY03" text="능가"/>
+    <string id="CLNJDY04" text="엽가"/>
+    <string id="CLNJDY05" text="임가"/>
+    <string id="CLNJDY06" text="남궁"/>
+    <string id="CLNJDY07" text="상관"/>
+    <string id="CLNJDY08" text="독고"/>
+    <string id="CLNJDY09" text="구양"/>
+
+    <string id="CLNJDY10" text="이"/>
+    <string id="CLNJDY11" text="왕"/>
+    <string id="CLNJDY12" text="유"/>
+    <string id="CLNJDY13" text="주"/>
+    <string id="CLNJDY14" text="사마"/>
+    <string id="CLNJDY15" text="영"/>
+
+    <!-- 埃布拉蒙 -->
+    <string id="CLNRBL01" text="와심 유누스"/>
+    <string id="CLNRBL02" text="아나스 사미르"/>
+    <string id="CLNRBL03" text="파디 다우드"/>
+    <string id="CLNRBL04" text="야사르 지야드"/>
+    <string id="CLNRBL05" text="라샤드 우크바"/>
+    <string id="CLNRBL06" text="샤피크 탈라"/>
+    <string id="CLNRBL07" text="마히르 루크맘"/>
+    <string id="CLNRBL08" text="피라스 오스"/>
+    <string id="CLNRBL09" text="이샨 하미드"/>
+
+    <!-- 普若尤恩 -->
+    <string id="CLNPRU01" text="오스틴"/>
+    <string id="CLNPRU02" text="얼프"/>
+    <string id="CLNPRU03" text="하이드"/>
+    <string id="CLNPRU04" text="버나드"/>
+    <string id="CLNPRU05" text="린더그로브"/>
+    <string id="CLNPRU06" text="로스"/>
+    <string id="CLNPRU07" text="스버그"/>
+    <string id="CLNPRU08" text="롤린"/>
+    <string id="CLNPRU09" text="피터"/>
+    <string id="CLNPRU10" text="로빈슨"/>
+    <string id="CLNPRU11" text="에버미스"/>
+
+    <!-- 乌拉索维 -->
+    <string id="CLNWLT01" text="벨레스키아"/>
+    <string id="CLNWLT02" text="체르노보그"/>
+    <string id="CLNWLT03" text="안드레예브스키"/>
+    <string id="CLNWLT04" text="쿠즈네트소바"/>
+    <string id="CLNWLT05" text="포레비트"/>
+    <string id="CLNWLT06" text="유리예브나"/>
+    <string id="CLNWLT07" text="이바노프"/>
+    <string id="CLNWLT08" text="발레리아노비치"/>
+    <string id="CLNWLT09" text="트리갈라프"/>
+
+    <!-- 蒙戈黎安 -->
+    <string id="CLNMGR01" text="차하르"/>
+    <string id="CLNMGR02" text="자라누드"/>
+    <string id="CLNMGR03" text="보르즈킨"/>
+    <string id="CLNMGR04" text="나레워잉"/>
+    <string id="CLNMGR05" text="알탄"/>
+    <string id="CLNMGR06" text="히즈누드"/>
+    <string id="CLNMGR07" text="차하누와"/>
+    <string id="CLNMGR08" text="나수투"/>
+    <string id="CLNMGR09" text="베수르티"/>
+  
+    <!-- 纳堪维亚 -->
+    <string id="CLNNKN01" text="믹홀"/>
+    <string id="CLNNKN02" text="안데르센"/>
+    <string id="CLNNKN03" text="닐센"/>
+    <string id="CLNNKN04" text="닐웨스"/>
+    <string id="CLNNKN05" text="린네우스"/>
+    <string id="CLNNKN06" text="오슬린"/>
+    <string id="CLNNKN07" text="라르센"/>
+    <string id="CLNNKN08" text="메드윈"/>
+    <string id="CLNNKN09" text="스베레달"/>
+
+    <!-- 小家族 -->
+    <string id="CLNMNR01" text="천산 의협군"/>
+    <string id="CLNMNR02" text="비호 반란군"/>
+    <string id="CLNMNR03" text="자림 장원"/>
+    <string id="CLNMNR04" text="자유 형제회"/>
+    <string id="CLNMNR05" text="비밀 사냥꾼"/>
+    <string id="CLNMNR06" text="폭풍의 성전기사단"/>
+    <string id="CLNMNR07" text="서리 부흥회"/>
+    <string id="CLNMNR08" text="여우 항해단"/>
+    <string id="CLNMNR09" text="비아 성녀회"/>
+    <string id="CLNMNR10" text="윈넬론 부족"/>
+    <string id="CLNMNR11" text="황야 습격단"/>
+    <string id="CLNMNR12" text="흰무지개 기사단"/>
+    <string id="CLNMNR13" text="암흑의 까마귀"/>
+    <string id="CLNMNR14" text="오아시스 저항군"/>
+    <string id="CLNMNR15" text="모래폭풍 용병단"/>
+    <string id="CLNMNR16" text="성운 군단"/>
+    <string id="CLNMNR17" text="혈용 군단"/>
+    <string id="CLNMNR18" text="깊은어둠 수호대"/>
+    <string id="CLNMNR19" text="얼음 암살단"/>
+    <string id="CLNMNR20" text="깃털 그림자"/>
+    <string id="CLNMNR21" text="설풍 도적단"/>
+    <string id="CLNMNR22" text="악마 교회"/>
+    <string id="CLNMNR23" text="용의 포효"/>
+    <string id="CLNMNR24" text="레인 기사단"/>
+
+    <string id="NEWMNR01" text="노예단"/>
+    <string id="NEWMNR02" text="비아 성녀회"/>
+    <string id="NEWMNR03" text="암흑물결 기사단"/>
+    <string id="NEWMNR04" text="걸신들린 악마 군단"/>
+    <string id="NEWMNR05" text="피의 연꽃 복수단"/>
+    <string id="NEWMNR06" text="서리 성전기사단"/>
+    <string id="NEWMNR07" text="사악한 불꽃 침략자"/>
+    <string id="NEWMNR08" text="황혼 심판관"/>
+
+    <!-- 小家族短名 -->
+    <string id="CLNMNR0A" text="교단"/>
+    <string id="CLNMNR0B" text="반란군"/>
+
+    <!-- 小家族介绍 -->
+    <string id="ClanIntroduction01" text="천산 의협군 소개"/>
+    <string id="ClanIntroduction02" text="비호 반란군 소개"/>
+    <string id="ClanIntroduction03" text="자림 장원 소개"/>
+    <string id="ClanIntroduction04" text="자유 형제회 소개"/>
+    <string id="ClanIntroduction05" text="비밀 사냥꾼 소개"/>
+    <string id="ClanIntroduction06" text="폭풍의 성전기사단 소개"/>
+    <string id="ClanIntroduction07" text="서리 부흥회"/>
+    <string id="ClanIntroduction08" text="여우 항해단 소개"/>
+    <string id="ClanIntroduction09" text="비아 성녀회 소개"/>
+    <string id="ClanIntroduction10" text="윈넬론 부족 소개"/>
+    <string id="ClanIntroduction11" text="황야 습격단 소개"/>
+    <string id="ClanIntroduction12" text="흰무지개 기사단 소개"/>
+    <string id="ClanIntroduction13" text="암흑의 까마귀 소개"/>
+    <string id="ClanIntroduction14" text="오아시스 저항군 소개"/>
+    <string id="ClanIntroduction15" text="모래폭풍 용병단 소개"/>
+    <string id="ClanIntroduction16" text="성운 군단 소개"/>
+    <string id="ClanIntroduction17" text="혈용 군단 소개"/>
+    <string id="ClanIntroduction18" text="깊은어둠 수호대 소개"/>
+    <string id="ClanIntroduction19" text="얼음 암살단 소개 "/>
+    <string id="ClanIntroduction20" text="깃털 그림자 소개"/>
+    <string id="ClanIntroduction21" text="설풍 도적단 소개"/>
+    <string id="ClanIntroduction22" text="악마 교회 소개"/>
+    <string id="ClanIntroduction23" text="용의 포효 소개"/>
+    <string id="ClanIntroduction24" text="레인 기사단"/>
+
+    <string id="ClanIntroductionNew03" text="암흑물결 기사단은 300년 전 남쪽 대륙에서부터 침공한 검은 물보라의 후예들이 결성한 기사단이다. 그들은 주로 검은 물보라의 후예들의 은신처를 지키는 일을 담당하는 동시에, 본토의 여러 세력을 공격할 것이다. 그들과 본토의 세력 간의 수백년의 증오는 셀 수 없는 피의 빚을 축적해 왔다!"/>
+    <string id="ClanIntroductionNew04" text="걸신들린 악마 군단은 본토 전역을 공격하는 밤의 악마 세력이다. 그들의 요새는 본토 지하에 있다는 소문이 있다. 그래서 종종 갑자기 나타나기도 한다. 그들의 법이나 공격의 목적에 관해서는 알려진 바 없다. 사람들은 종종 그들이 공격하는 주된 이유가 식량일 것이라 믿는다. 모든 인간들의 요새는 그들에겐 곡물저장소와 같다. 본토의 어떤 인간 세력이라도 사악한 영혼들을 발견한다면, 어떤 댓가를 치뤄서라도 함께 힘을 합쳐 그들을 제거해야 한다."/>
+    <string id="ClanIntroductionNew05" text="한동안 그들은 본토를 조용히 배회했고, 그들의 집은 파괴되었고, 그들의 종족은 학살당했다. 그들의 존재를 기억하는 사람은 아무도 없었다. 그들의 명성이 본토에 다시 퍼진 것은 더 큰 세력이 사라지고나서였다. 먼 과거에 그들은 본토의 넓은 지역을 지배했지만, 강력하고 사악한 음모가 있었다. 계속되는 상속자들의 암살, 지배권의 혼돈, 본토의 다른 세력들의 포위와 억압이 극에 달했다. 한때 강력했던 제국은 거의 즉각적으로 파괴되었다. 그들은 다시 나타나 복수를 선언하고 대륙의 모든 세력을 파괴하려 한다. 그들은 엄청난 힘을 대가로 종족의 생명과 희망과 영혼을 팔았다고 한다."/>
+    <string id="ClanIntroductionNew06" text="북부의 끝없는 얼음 벌판의 종족들은 시카의 땅에 사는 다른 인간들과는 완전히 다른 신앙을 가지고 있다. 그들은 시카에 땅에 살고 있는 다른 인간 세력을 이단으로 여긴다. 때때로 그들은 시카의 땅에서 이단에 대항하기 위해 얼음 벌판에서 십자군를 형성한다. 그들은 강하고, 추위나 죽음을 두려워하지 않는다. 일반적인 무기는 그들의 단단한 피부조차 뚫을 수 없다. 그들은 북부에서 가장 무서운 존재들이다."/>
+    <string id="ClanIntroductionNew07" text="시카의 땅 남부의 끝없는 산 속에서 지하 마그마가 새로운 종족을 낳았다고 한다. 그들은 지하 세계에서 번성한다. 누군가 우연히, 땅의 세계와 마찬가지로 온갖 이상한 동식물이 있는 지하 세계에 침입한 적이 있다고 한다. 지하 세계의 거대한 자원 매장량은 이 새로운 종족을 부유하고 강력하게 만드는 데 도움이 되었으며, 그들은 빠르게 통일된 문명을 발전시켰다. 통일된 사회와 땅 위에 더 넓은 영토가 있음을 알게 된 그들은 오랫동안 계획된 침략을 시작했다."/>
+    <string id="ClanIntroductionNew08" text="어둡고 끝없는 바다의 끝자락에는 척박한 환경의 섬들이 무수히 많다. 이 미지의 장소에서 기이한 종족이 탄생했다. 그들의 상상할 수 없는 모습으로 인해 사람들은 그들이 이 세상의 창조물이 아니라 유령이라고 생각했다. 이 기이한 종족은 왠지 운명의 부름을 받은 것 같았다. 강력한 세력을 재생산하고 창조한 후, 그들은 어려움이나 위험을 두려워하지 않고 시카의 땅에 당도했다.  그들은 스스로를 심판관이라 칭하고 시카의 땅의 종족들에게 판결을 내리기 위해 왔다. 그들의 세력은 시카의 땅에 있는 다른 세력들보다 훨씬 덜 강력했지만, 그들의 유령 전투 모드는 여전히 본토의 모든 종족에게 형언할 수 없는 두려움을 불러일으켰다."/>
+
+  </strings>
+</base>

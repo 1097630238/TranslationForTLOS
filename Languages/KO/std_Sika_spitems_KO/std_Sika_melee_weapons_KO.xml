@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+ <!-- 近战武器的英文文本 -->
+ <!-- 双手类武器 -->
+  <!-- 炎朝双手 -->
+    <string id="THJDY01" text="괭이" />
+  <!-- 普若尤恩双手 -->
+    <string id="THPRU01" text="아너 나이트 투핸드 소드" />
+    <string id="THPRU02" text="도적 양손검" />
+  <!-- 埃布拉蒙双手 -->
+    <string id="THRBL01" text="맘루크 근위병 도끼" />
+    <string id="THRBL02" text="맘루크 근위병 양손 메이스" />
+    <string id="THRBL03" text="맘루크 중기병 메이스" />
+    <string id="THRBL04" text="맘루크 마스터 양손 메이스" />
+    <string id="THRBL05" text="맘루크 정예 호위병 메이스" />
+    <string id="THRBL06" text="라블람 귀족 양손 시미타르" />
+  <!-- 纳堪维亚双手 -->
+    <string id="THNKN01" text="네케니아 사냥꾼 양손도끼" />
+    <string id="THNKN02" text="네케니아 귀족 양손도끼" />
+  <!-- 乌拉索维双手 -->
+    <string id="THWLT01" text="벌목 도끼" />
+    <string id="THWLT02" text="월러스 양손 도끼" />
+    <string id="THWLT03" text="월러스 기수 도끼" />
+    <string id="THWLT04" text="월러스 양손 전쟁 도끼" />
+    <string id="THWLT05" text="월러스 충격 도끼" />
+    <string id="THWLT06" text="월러스 양손 도끼" />
+    <string id="THWLT07" text="월러스 전사 바디시" />
+    <string id="THWLT08" text="월러스 용사 바디시" />
+    <string id="THWLT09" text="월러스 거대 바디시" />
+  <!-- 落月双手 -->
+    <string id="THLMC01" text="로모카 카타나" />
+    <string id="THLMC02" text="로모카 사무라이 카타나" />
+    <string id="THLMC03" text="로모카 노다치" />
+  <!-- 雅瑞安双手 -->
+    <string id="THYRN01" text="야리안 전사 양손 메이스" />
+    <string id="THYRN02" text="야리안 전사 거대 메이스" />
+    <string id="THYRN03" text="콘돌 전쟁 메이스" />
+  <!-- 无文化特殊双手 -->
+    <string id="THSTY01" text="어둠의 브로드소드" />
+    <string id="THSTY02" text="드림랜드 그레이트소드" />
+    <string id="THSTY03" text="레이타니엔 디펙트" />
+  <!-- 强盗双手 -->
+    <string id="THBDT01" text="탈영병 양손검" />
+    <string id="THBDT02" text="야생숲 양손 도끼" />
+    <string id="THBDT03" text="야생숲 레인저 도끼" />
+    <string id="THBDT04" text="해적 양손 도끼" />
+    <string id="THBDT05" text="피어리스 워리어 양손 도끼" />
+  <!-- 特殊小家族双手 -->
+    <string id="THMNR01" text="걸신들린 악마의 막대기" />
+  <!-- 艾灵族双手 -->
+    <string id="THELN01" text="엘린족 양손검" />
+
+ <!-- 双手类武器结束 -->
+
+ <!-- 单手类武器开始 -->
+  <!-- 炎朝单手 -->
+    <string id="OHJDY01" text="단횡도" />
+    <string id="OHJDY02" text="횡도" />
+    <string id="OHJDY03" text="안영도" />
+    <string id="OHJDY04" text="태극검" />
+    <string id="OHJDY05" text="안영장도" />
+    <string id="OHJDY06" text="염 전쟁 도끼" />
+    <string id="OHJDY07" text="정예횡도" />
+    <string id="OHJDY08" text="농사 낫" />
+    <string id="OHJDY09" text="국경수비대 보병 검" />
+    <string id="OHJDY10" text="국경수비대 극병 검" />
+    <string id="OHJDY11" text="방위군 극병 검" />
+    <string id="OHJDY12" text="금과" />
+  <!-- 普若尤恩单手 -->
+    <string id="OHPRU01" text="픽" />
+    <string id="OHPRU02" text="프로옌 민병대 검" />
+    <string id="OHPRU03" text="프로옌 소드" />
+    <string id="OHPRU04" text="프로옌 보병 검" />
+    <string id="OHPRU05" text="프로옌 숏소드" />
+    <string id="OHPRU06" text="프로옌 기병 검" />
+    <string id="OHPRU07" text="프로옌 아밍 소드" />
+    <string id="OHPRU08" text="프로옌 롱소드" />
+    <string id="OHPRU09" text="프로옌 워소드" />
+    <string id="OHPRU10" text="프로옌 숏 워소드" />
+    <string id="OHPRU11" text="프로옌 테어 소드" />
+    <string id="OHPRU12" text="아너 나이트 소드" />
+    <string id="OHPRU13" text="무법자 메이스" />
+    <string id="OHPRU14" text="도적 메이스" />
+  <!-- 埃布拉蒙单手 -->
+    <string id="OHRBL01" text="작은 망치" />
+    <string id="OHRBL02" text="사막 단검" />
+    <string id="OHRBL03" text="용병 짧은 메이스" />
+    <string id="OHRBL04" text="용병 사브르" />
+    <string id="OHRBL05" text="라블람 사브르" />
+    <string id="OHRBL06" text="기수 사브르" />
+    <string id="OHRBL07" text="라블람 나선형 메이스" />
+    <string id="OHRBL08" text="라블람 고참 사브르" />
+    <string id="OHRBL09" text="라블람 짧은 메이스" />
+    <string id="OHRBL10" text="라블람 긴 사브르" />
+    <string id="OHRBL11" text="라블람 기수 메이스" />
+    <string id="OHRBL12" text="라블람 강철 메이스" />
+    <string id="OHRBL13" text="라블람 전쟁 메이스" />
+    <string id="OHRBL14" text="무거운 사브르" />
+    <string id="OHRBL15" text="엘리트 시미타르" />
+    <string id="OHRBL16" text="맘루크 신병 도끼" />
+    <string id="OHRBL17" text="맘루크 기수 도끼" />
+    <string id="OHRBL18" text="맘루크 감독관 메이스" />
+  <!-- 蒙戈黎安单手 -->
+    <string id="OHMGR01" text="혹 달린 몽둥이" />
+    <string id="OHMGR02" text="유목민 펄션" />
+    <string id="OHMGR03" text="유목민 사브르" />
+    <string id="OHMGR04" text="넓은 유목민 사브르" />
+    <string id="OHMGR05" text="모그리안 사브르" />
+    <string id="OHMGR06" text="유목민 기병 메이스" />
+    <string id="OHMGR07" text="철기병 메이스" />
+  <!-- 纳堪维亚单手 -->
+    <string id="OHNKN01" text="사냥칼" />
+    <string id="OHNKN02" text="손도끼" />
+    <string id="OHNKN03" text="짧은 도끼" />
+    <string id="OHNKN04" text="네케니아 가벼운 도끼" />
+    <string id="OHNKN05" text="네케니아 사냥꾼 도끼" />
+    <string id="OHNKN06" text="네케니아 전사 도끼" />
+    <string id="OHNKN07" text="네케니아 전쟁 도끼" />
+    <string id="OHNKN08" text="네케니아 비어디드 전쟁 도끼" />
+    <string id="OHNKN09" text="네케니아 숏소드" />
+    <string id="OHNKN10" text="네케니아 전쟁 숏소드" />
+    <string id="OHNKN11" text="네케니아 소드" />
+    <string id="OHNKN12" text="네케니아 근위병 도끼" />
+    <string id="OHNKN13" text="네케니아 허스칼 도끼" />
+  <!-- 乌拉索维单手 -->
+    <string id="OHWLT01" text="뾰족한 몽둥이" />
+    <string id="OHWLT02" text="월러스 장인 망치" />
+    <string id="OHWLT03" text="도축칼" />
+    <string id="OHWLT04" text="월러스 짧은 세이버" />
+    <string id="OHWLT05" text="월러스 병사 세이버" />
+    <string id="OHWLT06" text="월러스 뾰족한 몽둥이" />
+    <string id="OHWLT07" text="월러스 못 박힌 메이스" />
+    <string id="OHWLT08" text="월러스 한손도끼" />
+    <string id="OHWLT09" text="월러스 경비병 세이버" />
+    <string id="OHWLT10" text="월러스 군용 못 박힌 메이스" />
+  <!-- 落月单手 -->
+    <string id="OHLMC01" text="로모카 단도" />
+    <string id="OHLMC02" text="로모카 와키자시" />
+    <string id="OHLMC03" text="로모카 짧은 우치카타나" />
+    <string id="OHLMC04" text="로모카 우치카타나" />
+  <!-- 雅瑞安单手 -->
+    <string id="OHYRN01" text="부족 짧은 메이스" />
+    <string id="OHYRN02" text="부족 메이스" />
+    <string id="OHYRN03" text="부족 갑골 메이스" />
+    <string id="OHYRN04" text="부족 갑골 단단한 메이스" />
+    <string id="OHYRN05" text="부족 갑골 긴 메이스" />
+    <string id="OHYRN06" text="부족 갑골 전쟁 메이스" />
+  <!-- 采集工具 -->
+    <string id="OHSTY01" text="나무도끼" />
+    <string id="OHSTY02" text="나무곡괭이" />
+  <!-- 无文化特殊单手 -->
+    <string id="OHSTY03" text="오르신의 손도끼" />
+    <string id="OHSTY04" text="기시단 심판검" />
+    <string id="OHSTY05" text="실버 실드 나이트 소드" />
+  <!-- 特殊小家族单手 -->
+    <string id="OHMNR01" text="피의 연꽃 메이스" />
+  <!-- 艾灵族单手 -->
+    <string id="OHELN01" text="엘린족 숏소드" />
+    <string id="OHELN02" text="엘린족 소드" />
+    <string id="OHELN03" text="엘린족 지도자 소드" />
+ <!-- 单手类武器结束 -->
+
+ <!-- 长杆类武器开始 -->
+  <!-- 炎朝长杆 -->
+    <string id="POJDY01" text="염 단모" />
+    <string id="POJDY02" text="염 모" />
+    <string id="POJDY03" text="보병 과" />
+    <string id="POJDY04" text="삼첨도" />
+    <string id="POJDY05" text="삭" />
+    <string id="POJDY06" text="장삭" />
+    <string id="POJDY07" text="박도" />
+    <string id="POJDY08" text="맥도" />
+    <string id="POJDY09" text="갈퀴" />
+    <string id="POJDY10" text="국경수비대 극" />
+    <string id="POJDY11" text="방위군 극" />
+    <string id="POJDY12" text="관인모" />
+    <string id="POJDY13" text="염 민병대 과" />
+    <string id="POJDY14" text="마삭" />
+    <string id="POJDY15" text="청용언월도" />
+    <string id="POJDY16" text="방천화극" />
+  <!-- 普若尤恩长杆 -->
+    <string id="POPRU01" text="큰 낫" />
+    <string id="POPRU02" text="나무 삽" />
+    <string id="POPRU03" text="프로옌 민병대 스피어" />
+    <string id="POPRU04" text="프로옌 숏 스피어" />
+    <string id="POPRU05" text="프로옌 스피어" />
+    <string id="POPRU06" text="프로옌 라이트 랜스" />
+    <string id="POPRU07" text="프로옌 파이크" />
+    <string id="POPRU08" text="프로옌 그레이트 파이크" />
+    <string id="POPRU09" text="프로옌 헤비 랜스" />
+    <string id="POPRU10" text="프로옌 랜스" />
+    <string id="POPRU11" text="아너 나이트 랜스" />
+  <!-- 埃布拉蒙长杆 -->
+    <string id="PORBL01" text="나무 긴 쇠스랑" />
+    <string id="PORBL02" text="라블람 단창" />
+    <string id="PORBL03" text="맘루크 신병 죽창" />
+    <string id="PORBL04" text="맘루크 기수 죽창" />
+    <string id="PORBL05" text="맘루크 가벼운 랜스" />
+    <string id="PORBL06" text="맘루크 랜스" />
+  <!-- 蒙戈黎安长杆 -->
+    <string id="POMGR01" text="갈퀴" />
+    <string id="POMGR02" text="짧은 죽창" />
+    <string id="POMGR03" text="모그리안 단순한 창" />
+    <string id="POMGR04" text="모그리안 창" />
+    <string id="POMGR05" text="모그리안 단창" />
+    <string id="POMGR06" text="모그리안 무거운 단창" />
+    <string id="POMGR07" text="모그리안 가벼운 랜스" />
+    <string id="POMGR08" text="모그리안 랜스" />
+    <string id="POMGR09" text="모그리안 부족 랜스" />
+    <string id="POMGR10" text="철기병 랜스" />
+    <string id="POMGR11" text="질풍 기수 글레이브" />
+    <string id="POMGR12" text="광풍 기수 글레이브" />
+    <string id="POMGR13" text="모그리안 민병대 단창" />
+    <string id="POMGR14" text="모그리안 민병대 창" />
+  <!-- 纳堪维亚长杆 -->
+    <string id="PONKN01" text="쇠스랑" />
+    <string id="PONKN02" text="네케니아 귀족 창" />
+    <string id="PONKN03" text="네케니아 실드가드 쇠스랑" />
+  <!-- 乌拉索维长杆 -->
+    <string id="POWLT01" text="설원 귀족 랜스" />
+  <!-- 落月长杆 -->
+    <string id="POLMC01" text="로모카 단창" />
+    <string id="POLMC02" text="로모카 아시가루 창" />
+    <string id="POLMC03" text="로모카 창" />
+    <string id="POLMC04" text="로모카 나기나타" />
+    <string id="POLMC05" text="로모카 장창" />
+    <string id="POLMC06" text="로모카 사무라이 장창" />
+    <string id="POLMC07" text="로모카 십자 장창" />
+  <!-- 雅瑞安长杆 -->
+    <string id="POYRN01" text="부족 단창" />
+    <string id="POYRN02" text="부족 창" />
+    <string id="POYRN03" text="부족 넓은 창" />
+  <!-- 强盗长杆 -->
+    <string id="POBDT02" text="사막 죽창" />
+    <string id="POBDT03" text="이교도 사자 넓은 창" />
+    <string id="POBDT04" text="이교도 호위대 넓은 창" />
+    <string id="POBDT05" text="이교도 감독관 넓은 창" />
+    <string id="POBDT06" text="이교도 사자 긴 지팡이" />
+    <string id="POBDT07" text="이교도 호위대 긴 지팡이" />
+    <string id="POBDT08" text="이교도 감독관 긴 지팡이" />
+  <!-- 中立长杆 -->
+    <string id="POBDT01" text="긴 지팡이" />
+  <!-- 特殊小家族长杆 -->
+    <string id="POMNR01" text="흰서리 성전 기사 창" />
+    <string id="POMNR02" text="사악한 화염 기사 랜스" />
+  <!-- 无文化特殊长杆 -->
+    <string id="POSTY01" text="황동 줄무늬 철창" />
+    <string id="POSTY02" text="시카 기사 랜스" />
+ <!-- 长杆类武器结束 -->
+
+  </strings>
+</base>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 肩甲的英文文本 -->
+  <!-- 炎朝 -->
+    <string id="CAJDY01" text="염 비늘 폴드런" />
+    <string id="CAJDY02" text="염 단순 폴드런" />
+    <string id="CAJDY03" text="염 미늘 폴드런" />
+    <string id="CAJDY04" text="염 기수 스케일 폴드런" />
+    <string id="CAJDY05" text="염 보병 폴드런" />
+    <string id="CAJDY06" text="염 미늘 판 폴드런" />
+    <string id="CAJDY07" text="염 중갑 폴드런" />
+    <string id="CAJDY08" text="황금사자머리 미늘 견갑" />
+    <string id="CAJDY09" text="사자머리 비늘 견갑" />
+    <string id="CAJDY10" text="사자머리 사슬 견갑" />
+    <string id="CAJDY11" text="황금사자머리 미늘 견갑" />
+    <string id="CAJDY12" text="사자머리 비늘 견갑" />
+    <string id="CAJDY13" text="사자머리 사슬 견갑" />
+
+  <!-- 普若尤恩 -->
+    <string id="CAPRU01" text="프로옌 라이트 플레이트 폴드런" />
+
+  <!-- 埃布拉蒙 -->
+    <string id="CARBL01" text="가죽 스카프" />
+    <string id="CARBL02" text="용병 황동 스케일 폴드런" />
+  <!-- 蒙戈黎安 -->
+    <string id="CAMGR01" text="모그리안 미늘 견갑" />
+  <!-- 纳堪维亚 -->
+    <string id="CANKN01" text="네케니아 늑대 가죽 망토" />
+  <!-- 落月 -->
+    <string id="CALMC01" text="로모카 아시가루 숄" />
+    <string id="CALMC02" text="로모카 견갑" />
+    <string id="CALMC03" text="로모카 사무라이 견갑" />
+    <string id="CALMC04" text="로모카 구주견갑" />
+  <!-- 雅瑞安 -->
+    <string id="CAYRN01" text="야리안 부족 깃털 숄" />
+    <string id="CAYRN02" text="야리안 부족 전사 숄" />
+    <string id="CAYRN03" text="야리안 부족 견갑" />
+    <string id="CAYRN04" text="야리안 콘돌 견갑" />
+    <string id="CAYRN05" text="야리안 이구아나 견갑" />
+  <!-- 其他 -->
+    <string id="CASTY01" text="암흑 견갑" />
+    <string id="CASTY02" text="시카 기사단 플레이트 견갑" />
+    <string id="CASTY03" text="시카 기사단 지휘관 망토" />
+  </strings>
+</base>

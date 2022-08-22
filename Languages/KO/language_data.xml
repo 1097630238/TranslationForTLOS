@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="한국어">
+  <LanguageFile xml_path="KO/Sika_All_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_Clans_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_Cultures_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_Kingdoms_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_New_ModuleStrings_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_Settlements_KO.xml" />
+  <LanguageFile xml_path="KO/Culture_tang_KO/std_crafting_template_xml-zho-ko.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/BaseOverhaul_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/CommmonStrings_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/PetSystem_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/QuestSystem_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/SettlementSelfBuild_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/StoryCamera_All_KO.xml" />
+  <LanguageFile xml_path="KO/ProgrammeTranslate_KO/TheLandOfSika_All_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_spcharacters_all_KO/Sika_OriginLords_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_spcharacters_all_KO/Sika_StoryCharacters_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_spcharacters_all_KO/Sika_Troops_KO.xml" />
+  <LanguageFile xml_path="KO/Sika_spcharacters_all_KO/Sika_WandererCharacters_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_arm_armors_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_body_armors_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_head_armors_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_leg_armors_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_melee_weapons_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_others_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_ranged_weapons_KO.xml" />
+  <LanguageFile xml_path="KO/std_Sika_spitems_KO/std_Sika_shoulder_armors_KO.xml" />
+</LanguageData>

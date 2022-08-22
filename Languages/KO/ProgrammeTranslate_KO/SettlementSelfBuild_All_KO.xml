@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- ProgrammeTranslate_CN文件夹内皆是程序上的string翻译-->
+    <!-- SettlementSelfBuild_All_CNs是SettlementSelfBuild这个模块的翻译文件-->
+
+    <string id="strPreSettlementSelf000" text="당신의 정착지 건설을 시작합니다. 당신의 일꾼들이 자원을 모으는 것을 도울 수 있습니다." />
+    <string id="strPreSettlementSelf001" text="근처의 공터로 가세요." />
+    <string id="strPreSettlementSelf002" text="나가기" />
+
+    <string id="strSettlementSelf000" text="이곳은 당신의 정착지입니다. 많은 작업이 필요합니다. 계속 하십시오." />
+    <string id="strSettlementSelf001" text="정착지 중심 돌아보기" />
+    <string id="strSettlementSelf002" text="정착지 관리" />
+    <string id="strSettlementSelf003" text="저장고" />
+    <string id="strSettlementSelf004" text="떠나기" />
+    <string id="strSettlementSelf005" text="의 정착지" />
+    <string id="strSettlementSelf006" text="거래" />
+    <string id="strSettlementSelf007" text="당신의 집으로 가기" />
+
+    <string id="strSettlementSelf010" text="새로운 정착지 테스트" />
+
+    <string id="strSettlementSelf011" text="영주의 회관으로 이동" />
+    <string id="strSettlementSelf012" text="마을 건설" />
+    <string id="strSettlementSelf013" text="수비대 관리" />
+    <string id="strSettlementSelf014" text="커스텀 병종" />
+    <string id="strSettlementSelf015" text="자원 채집장" />
+    <string id="strSettlementSelf016" text="정착지 건설" />
+    <string id="strSettlementSelf017" text="병원" />
+
+    <string id="strSettlementSelf018" text="병원, 당신은 여기서 치유할 수 있습니다(플레이어에게만 영향)" />
+    <string id="strSettlementSelf019" text="치유" />
+    <string id="strSettlementSelf020" text="나가기" />
+    <string id="strSettlementSelf021" text="건강 상태" />
+    <string id="strSettlementSelf022" text="지금은 치유할 필요가 없습니다." />
+    <string id="strSettlementSelf023" text="치유할 필요 없음" />
+    <string id="strSettlementSelf024" text="부족: 디나르" />
+    <string id="strSettlementSelf025" text="치유하기에 돈이 부족합니다(200 미만)." />
+    <string id="strSettlementSelf026" text="치유 불가" />
+    <string id="strSettlementSelf026a" text="치료" />
+    <string id="strSettlementSelf027" text="200 디나르를 사용하여 치유합니다." />
+    <string id="strSettlementSelf028" text="HP" />
+    <string id="strSettlementSelf029" text="확인" />
+    <string id="strSettlementSelf030" text="취소" />
+
+    <string id="strSettlementSelf031" text="병원에서 치유합니다: " />
+    <string id="strSettlementSelf032" text="HP 회복" />
+
+    <string id="strSettlementSelf033" text="여기서 잠시 대기" />
+    <string id="strSettlementSelf034" text="당신의 정착지에서 대기 중입니다..." />
+
+    <string id="strElfSettlement000" text="당신은 마을에 도착했습니다!" />
+    <string id="strElfSettlement001" text="엘린족의 마을로 들어가기" />
+    <string id="strElfSettlement002" text="영주의 회관" />
+    <string id="strElfSettlement003" text="거래" />
+    <string id="strElfSettlement004" text="떠나기" />
+
+  </strings>
+</base>

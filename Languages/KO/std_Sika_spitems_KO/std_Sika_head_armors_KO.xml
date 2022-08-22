@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 头盔的英文文本 -->
+  <!-- 炎朝 -->
+    <string id="HAJDY01" text="상투" />
+    <string id="HAJDY02" text="염 두건" />
+    <string id="HAJDY03" text="염 경량 가죽 투구" />
+    <string id="HAJDY04" text="염 미늘 투구" />
+    <string id="HAJDY05" text="염 가장자리 미늘 투구" />
+    <string id="HAJDY06" text="염 병사 미늘 투구" />
+    <string id="HAJDY07" text="염 중량 미늘 투구" />
+    <string id="HAJDY08" text="염 안면 미늘 투구" />
+    <string id="HAJDY09" text="염 정예 중량 투구" />
+    <string id="HAJDY10" text="황금봉황날개 미늘 투구" />
+    <string id="HAJDY11" text="중량 용머리 미늘 투구" />
+    <string id="HAJDY12" text="검은 황금 판금 투구" />
+    <string id="HAJDY13" text="경량 궁수 투구" />
+    <string id="HAJDY14" text="조잡한 날개 미늘 투구" />
+    <string id="HAJDY15" text="조잡한 용머리 미늘 투구" />
+    <string id="HAJDY16" text="조잡한 검은 황금 판금 투구" />
+  <!-- 普若尤恩 -->
+    <string id="HAPRU01" text="프로옌 천을 덧댄 풀 헬름" />
+    <string id="HAPRU02" text="프로옌 레이스 코이프를 덧댄 풀 헬름" />
+    <string id="HAPRU03" text="프로옌 기병 포인티드 스컬캡" />
+    <string id="HAPRU04" text="프로옌 얼굴가리개 헬멧" />
+    <string id="HAPRU05" text="프로옌 궁수 피크드 헬멧" />
+  <!-- 埃布拉蒙 -->
+    <string id="HARBL01" text="라블람 기수 투구" />
+    <string id="HARBL02" text="라블람 전쟁 투구" />
+    <string id="HARBL03" text="라블람 맘루크 투구" />
+  <!-- 纳堪维亚 -->
+    <string id="HANKN01" text="네케니아 코받이 투구" />
+    <string id="HANKN02" text="네케니아 실드가드 투구" />
+    <string id="HANKN03" text="네케니아 해적 투구" />
+    <string id="HANKN04" text="네케니아 전쟁 투구" />
+  <!-- 乌拉索维 -->
+    <string id="HAWLT01" text="월러스 모피 캡" />
+    <string id="HAWLT02" text="월러스 가벼운 모피 캡" />
+    <string id="HAWLT03" text="월러스 레인저 모피 캡" />
+  <!-- 落月 -->
+    <string id="HALMC01" text="로모카 터번" />
+    <string id="HALMC02" text="로모카 거친 아시가루 투구" />
+    <string id="HALMC03" text="로모카 거친 투구" />
+    <string id="HALMC04" text="로모카 아시가루 투구" />
+    <string id="HALMC05" text="로모카 나기나타 병사 투구" />
+    <string id="HALMC06" text="로모카 투구" />
+    <string id="HALMC07" text="로모카 궁수 투구" />
+    <string id="HALMC08" text="로모카 사무라이 투구" />
+    <string id="HALMC09" text="로모카 구주투구" />
+  <!-- 雅瑞安 -->
+    <string id="HAYRN01" text="야리안 부족 모자" />
+    <string id="HAYRN02" text="야리안 부족 전사 모자" />
+    <string id="HAYRN03" text="야리안 부족 전사 투구" />
+    <string id="HAYRN04" text="야리안 부족 청동 투구" />
+    <string id="HAYRN05" text="야리안 부족 전쟁 투구" />
+    <string id="HAYRN06" text="야리안 콘돌 투구" />
+    <string id="HAYRN07" text="야리안 이구아나 투구" />
+  <!-- 其他 -->
+    <string id="HASTY01" text="암흑 투구" />
+    <string id="HASTY02" text="괴물 머리" />
+    <string id="HASTY03" text="시카 기사 지휘관 투구" />
+    <string id="HASTY04" text="두꺼운 두피" />
+    <string id="HASTY05" text="시카 기사 투구" />
+  </strings>
+</base>

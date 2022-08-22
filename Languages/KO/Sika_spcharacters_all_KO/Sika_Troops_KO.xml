@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 병종 한국어 텍스트 -->
+  <!-- 염나라 -->
+    <string id="NTJDY01" text="염 농부" />
+    <string id="NTJDY02" text="염 신병" />
+    <string id="NTJDY03" text="염 경보병" />
+    <string id="NTJDY04" text="염 경창병" />
+    <string id="NTJDY05" text="염 경노병" />
+    <string id="NTJDY06" text="염 보병" />
+    <string id="NTJDY07" text="염 도끼병" />
+    <string id="NTJDY08" text="염 중견 노병" />
+    <string id="NTJDY09" text="염 중견 보병" />
+    <string id="NTJDY10" text="염 삼첨도병" />
+    <string id="NTJDY11" text="염 기병" />
+    <string id="NTJDY12" text="염 호표기" />
+    <string id="NTJDY13" text="염 중갑 보병" />
+    <string id="NTJDY14" text="염 중갑 사모병" />
+    <string id="NTJDY15" text="염 중갑 연노병" />
+    <string id="NTJDY16" text="염 중갑 삼첨도병" />
+    <string id="OTJDY17" text="염 국경수비대 신병" />
+    <string id="OTJDY18" text="염 국경수비대 보병" />
+    <string id="OTJDY19" text="염 연노병" />
+    <string id="OTJDY20" text="염 국경수비대 극병" />
+    <string id="OTJDY21" text="염 수성군 노병" />
+    <string id="OTJDY22" text="염 수성군 극병" />
+    <string id="MLTJDY23" text="염 방위군 보병" />
+    <string id="MLTJDY24" text="염 방위군 노병" />
+    <string id="MLTJDY25" text="염 방위군 무장 보병" />
+    <string id="MLTJDY26" text="염 방위군 숙련 노병" />
+    <string id="OTJDY27" text="염 국경수비대 노병" />
+    
+  <!-- 프로우언 -->
+    <string id="NTPRU01" text="프로옌 주민" />
+    <string id="NTPRU02" text="프로옌 신병" />
+    <string id="NTPRU03" text="프로옌 경보병" />
+    <string id="NTPRU04" text="프로옌 징집 궁수" />
+    <string id="NTPRU05" text="프로옌 보병" />
+    <string id="NTPRU06" text="프로옌 궁수" />
+    <string id="NTPRU07" text="프로옌 기병" />
+    <string id="NTPRU08" text="프로옌 파이크병" />
+    <string id="NTPRU09" text="프로옌 중보병" />
+    <string id="NTPRU10" text="프로옌 장궁병" />
+    <string id="NTPRU11" text="프로옌 중기병" />
+    <string id="NTPRU12" text="프로옌 정예 파이크병" />
+    <string id="NTPRU13" text="프로옌 정예 장궁병" />
+    <string id="NTPRU14" text="프로옌 돌격 기병" />
+    <string id="OTPRU15" text="프로옌 스콰이어" />
+    <string id="OTPRU16" text="프로옌 나이트" />
+    <string id="OTPRU17" text="프로옌 아너 나이트" />
+    <string id="MLTPRU18" text="프로옌 민병대 검사" />
+    <string id="MLTPRU19" text="프로옌 민병대 궁수" />
+    <string id="MLTPRU20" text="프로옌 민병대 고참 검사" />
+    <string id="MLTPRU21" text="프로옌 민병대 고참 궁수" />
+
+  <!-- 라블람 -->
+    <string id="NTRBL01" text="라블람 평민" />
+    <string id="NTRBL02" text="라블람 신병" />
+    <string id="NTRBL03" text="라블람 견습 용병" />
+    <string id="NTRBL04" text="라블람 숙련 용병" />
+    <string id="NTRBL05" text="라블람 용병 궁수" />
+    <string id="NTRBL06" text="라블람 용병 기병" />
+    <string id="NTRBL07" text="라블람 전문 용병" />
+    <string id="NTRBL08" text="라블람 전문 용병 궁수" />
+    <string id="NTRBL09" text="라블람 전문 용병 기병" />
+    <string id="NTRBL10" text="라블람 용병 기마궁수" />
+    <string id="NTRBL11" text="라블람 중갑 용병" />
+    <string id="NTRBL12" text="라블람 용병 감독관" />
+    <string id="OTRBL13" text="라블람 맘루크 신병" />
+    <string id="OTRBL14" text="라블람 맘루크 보병" />
+    <string id="OTRBL15" text="라블람 맘루크 기수" />
+    <string id="OTRBL16" text="라블람 맘루크 근위병" />
+    <string id="OTRBL17" text="라블람 맘루크 중기병" />
+    <string id="OTRBL18" text="라블람 맘루크 정예근위병" />
+    <string id="OTRBL19" text="라블람 맘루크 기병 감독관" />
+    <string id="MLTRBL20" text="라블람 수비대 보병" />
+    <string id="MLTRBL21" text="라블람 수비대 사수" />
+    <string id="MLTRBL22" text="라블람 수비대 고참" />
+    <string id="MLTRBL23" text="라블람 수비대 궁수" />
+        
+  <!-- 모그리안 -->
+    <string id="NTMGR01" text="모그리안 유목민" />
+    <string id="NTMGR02" text="모그리안 신병" />
+    <string id="NTMGR03" text="모그리안 기수" />
+    <string id="NTMGR04" text="모그리안 척후병" />
+    <string id="NTMGR05" text="모그리안 창병" />
+    <string id="NTMGR06" text="모그리안 습격대" />
+    <string id="NTMGR07" text="모그리안 궁기병" />
+    <string id="NTMGR08" text="모그리안 창기병" />
+    <string id="NTMGR09" text="모그리안 고참 궁기병" />
+    <string id="NTMGR10" text="모그리안 명궁수" />
+    <string id="NTMGR11" text="모그리안 고참 창기병" />
+    <string id="NTMGR12" text="모그리안 경보병" />
+    <string id="NTMGR13" text="모그리안 고참 창병" />
+    <string id="NTMGR14" text="모그리안 사냥꾼" />
+    <string id="NTMGR15" text="모그리안 궁수" />
+    <string id="OTMGR16" text="모그리안 귀족 젊은이" />
+    <string id="OTMGR17" text="모그리안 귀족 궁기병" />
+    <string id="OTMGR18" text="모그리안 귀족 고참 궁기병" />
+    <string id="OTMGR19" text="모그리안 질풍 기수" />
+    <string id="OTMGR20" text="모그리안 귀족 중기병" />
+    <string id="OTMGR21" text="모그리안 광풍 기수" />
+    <string id="OTMGR22" text="모그리안 철기병" />
+    <string id="MLTMGR23" text="모그리안 민병대 창병" />
+    <string id="MLTMGR24" text="모그리안 민병대 궁수" />
+    <string id="MLTMGR25" text="모그리안 민병대 고참 창병" />
+    <string id="MLTMGR26" text="모그리안 민병대 고참 궁수" />
+    
+  <!-- 네케니아 -->
+    <string id="NTNKN01" text="네케니아 주민" />
+    <string id="NTNKN02" text="네케니아 도적" />
+    <string id="NTNKN03" text="네케니아 사냥꾼" />
+    <string id="NTNKN04" text="네케니아 경보병" />
+    <string id="NTNKN05" text="네케니아 궁수" />
+    <string id="NTNKN06" text="네케니아 척후병" />
+    <string id="NTNKN07" text="네케니아 투창병" />
+    <string id="NTNKN08" text="네케니아 전사" />
+    <string id="NTNKN09" text="네케니아 고참 투창병" />
+    <string id="NTNKN10" text="네케니아 실드가드" />
+    <string id="NTNKN11" text="네케니아 고참" />
+    <string id="NTNKN12" text="네케니아 침략자" />
+    <string id="OTNKN13" text="네케니아 근위병 젊은이" />
+    <string id="OTNKN14" text="네케니아 근위병 고참" />
+    <string id="OTNKN15" text="네케니아 허스칼" />
+    <string id="MLTNKN16" text="네케니아 민병대 도끼병" />
+    <string id="MLTNKN17" text="네케니아 민병대 궁수" />
+    <string id="MLTNKN18" text="네케니아 민병대 고참 도끼병" />
+    <string id="MLTNKN19" text="네케니아 민병대 고참 궁수" />
+
+  <!-- 월러스 -->
+    <string id="NTWLT01" text="월러스 시골사람" />
+    <string id="NTWLT02" text="월러스 사냥꾼" />
+    <string id="NTWLT03" text="월러스 장인" />
+    <string id="NTWLT04" text="월러스 투척병" />
+    <string id="NTWLT05" text="월러스 병사" />
+    <string id="NTWLT06" text="월러스 궁수" />
+    <string id="NTWLT07" text="월러스 기마 도끼병" />
+    <string id="NTWLT08" text="월러스 도끼병" />
+    <string id="NTWLT09" text="월러스 충격 도끼병" />
+    <string id="NTWLT10" text="월러스 경비병" />
+    <string id="NTWLT11" text="월러스 명사수" />
+    <string id="NTWLT12" text="월러스 레인저" />
+    <string id="OTWLT13" text="월러스 장사" />
+    <string id="OTWLT14" text="월러스 활 전사" />
+    <string id="OTWLT15" text="월러스 도끼 전사" />
+    <string id="OTWLT16" text="월러스 용맹 궁수" />
+    <string id="OTWLT17" text="월러스 용맹 도끼병" />
+    <string id="OTWLT18" text="월러스 마스터 궁수" />
+    <string id="OTWLT19" text="월러스 거대 도끼병" />
+    <string id="MLTWLT20" text="월러스 민병대 병사" />
+    <string id="MLTWLT21" text="월러스 민병대 사냥꾼" />
+    <string id="MLTWLT22" text="월러스 민병대 고참 병사" />
+    <string id="MLTWLT23" text="월러스 민병대 고참 사냥꾼" />
+
+    <!-- 로모카 -->
+    <string id="NTLMC01" text="로모카 주민" />
+    <string id="NTLMC02" text="로모카 아시가루" />
+    <string id="NTLMC03" text="로모카 숙련 아시가루" />
+    <string id="NTLMC04" text="로모카 장창 아시가루" />
+    <string id="NTLMC05" text="로모카 고참 아시가루" />
+    <string id="NTLMC06" text="로모카 활 아시가루" />
+    <string id="NTLMC07" text="로모카 카타나 아시가루" />
+    <string id="NTLMC08" text="로모카 방패 아시가루" />
+    <string id="NTLMC09" text="로모카 나기나타 병" />
+    <string id="NTLMC10" text="로모카 창병" />
+    <string id="NTLMC11" text="로모카 궁병" />
+    <string id="NTLMC12" text="로모카 보병" />
+    <string id="OTLMC13" text="로모카 로닌" />
+    <string id="OTLMC14" text="로모카 사무라이" />
+    <string id="OTLMC15" text="로모카 카타나 사무라이" />
+    <string id="OTLMC16" text="로모카 기마 사무라이" />
+    <string id="OTLMC17" text="로모카 노다치 사무라이" />
+    <string id="OTLMC18" text="로모카 카타나 기마 사무라이" />
+    <string id="MLTLMC19" text="로모카 수비대 보병" />
+    <string id="MLTLMC20" text="로모카 수비대 궁병" />
+    <string id="MLTLMC21" text="로모카 고참 수비대 보병" />
+    <string id="MLTLMC22" text="로모카 고참 수비대 궁병" />
+
+    <!-- 야리안 -->
+    <string id="NTYRN01" text="야리안 부족민" />
+    <string id="NTYRN02" text="야리안 부족 신병" />
+    <string id="NTYRN03" text="야리안 부족 사냥꾼" />
+    <string id="NTYRN04" text="야리안 부족 전사" />
+    <string id="NTYRN05" text="야리안 곤봉 전사" />
+    <string id="NTYRN06" text="야리안 모 전사" />
+    <string id="NTYRN07" text="야리안 부족 궁수" />
+    <string id="NTYRN08" text="야리안 단호한 전사" />
+    <string id="NTYRN09" text="야리안 날카로운 전사" />
+    <string id="NTYRN10" text="야리안 부족 강궁수" />
+    <string id="NTYRN11" text="야리안 정글 전사" />
+    <string id="OTYRN12" text="야리안 선별된 전사" />
+    <string id="OTYRN13" text="야리안 투석 전사" />
+    <string id="OTYRN14" text="야리안 거대곤봉 전사" />
+    <string id="OTYRN15" text="야리안 콘돌 전사" />
+    <string id="OTYRN16" text="야리안 이구아나 전사" />
+    <string id="MLTYRN17" text="야리안 야영지 경비병" />
+    <string id="MLTYRN18" text="야리안 야영지 투척병" />
+    <string id="MLTYRN19" text="야리안 강한 야영지 호위" />
+    <string id="MLTYRN20" text="야리안 강한 야영지 투척병" />
+
+    <!-- 구 강도 -->
+    <string id="NTBDT01" text="약탈자" />
+    <string id="NTBDT02" text="강도" />
+    <string id="NTBDT03" text="악당" />
+    <string id="NTBDT04" text="떠돌이 도적" />
+    <string id="NTBDT05" text="떠돌이 도적 두목" />
+    <string id="NTBDT06" text="무법자" />
+    <string id="NTBDT07" text="도적" />
+    <string id="NTBDT08" text="도적 두목" />
+    <string id="NTBDT09" text="난민" />
+    <string id="NTBDT10" text="사막 도적" />
+    <string id="NTBDT11" text="사막 도적 두목" />
+    <string id="NTBDT12" text="숲도적" />
+    <string id="NTBDT13" text="산적" />
+    <string id="NTBDT14" text="산적 두목" />
+    <string id="NTBDT15" text="말 약탈자" />
+    <string id="NTBDT16" text="마적" />
+    <string id="NTBDT17" text="마적 두목" />
+    <string id="NTBDT18" text="바다 약탈자" />
+    <string id="NTBDT19" text="수적" />
+    <string id="NTBDT20" text="수적 두목" />
+    <!-- 신 강도 -->
+    <string id="NTBDT21" text="탈영자" />
+    <string id="NTBDT22" text="탈영 병사" />
+    <string id="NTBDT23" text="탈영 전사" />
+    <string id="NTBDT24" text="탈영 광인" />
+    <string id="NTBDT25" text="탈영 하사관" />
+    <string id="NTBDT26" text="탈영 호위대" />
+    <string id="NTBDT27" text="이교도" />
+    <string id="NTBDT28" text="이교도 종복" />
+    <string id="NTBDT29" text="이교도 광신자" />
+    <string id="NTBDT30" text="이교도 사제" />
+    <string id="NTBDT31" text="이교도 호위대" />
+    <string id="NTBDT32" text="이교도 감독관" />
+    <string id="NTBDT33" text="습격자" />
+    <string id="NTBDT34" text="습격 도적" />
+    <string id="NTBDT35" text="습격 전사" />
+    <string id="NTBDT36" text="습격 기수" />
+    <string id="NTBDT37" text="습격 레인저" />
+    <string id="NTBDT38" text="습격 기사" />
+    <string id="NTBDT39" text="야생숲 떠돌이" />
+    <string id="NTBDT40" text="야생숲 사냥꾼" />
+    <string id="NTBDT41" text="야생숲 살수" />
+    <string id="NTBDT42" text="야생숲 전사" />
+    <string id="NTBDT43" text="야생숲 호위" />
+    <string id="NTBDT44" text="야생숲 레인저" />
+    <string id="NTBDT45" text="해적 탈영병" />
+    <string id="NTBDT46" text="해적 약탈자" />
+    <string id="NTBDT47" text="해적 전사" />
+    <string id="NTBDT48" text="해적 엘리트" />
+    <string id="NTBDT49" text="해적 습격자" />
+    <string id="NTBDT50" text="해적 피어리스 워리어" />
+    <string id="NTBDT51" text="사막 생존자" />
+    <string id="NTBDT52" text="사막 탐색자" />
+    <string id="NTBDT53" text="사막 길잡이꾼" />
+    <string id="NTBDT54" text="사막 모험가" />
+    <string id="NTBDT55" text="형제회 엘리트" />
+    <string id="NTBDT56" text="형제회 마스터" />
+
+    <!-- 고용병 -->
+    <string id="NTMCR01" text="모험가 감시병" />
+    <string id="NTMCR02" text="모험가 석궁수" />
+    <string id="NTMCR03" text="모험가 검사" />
+    <string id="NTMCR04" text="모험가 정찰병" />
+    <string id="NTMCR05" text="모험가 보병" />
+    <string id="NTMCR06" text="모험가 기수" />
+    <string id="NTMCR07" text="모험가 검객" />
+    <string id="NTMCR08" text="모험가 기병" />
+    
+    <!-- 바닐라 캐러밴 리더의 이름을 무시 -->
+    <string id="NTMCR09" text="라블람 상단 감독관" />
+    <string id="NTMCR10" text="월러스 상단 감독관" />
+    <string id="NTMCR11" text="염 상단 감독관" />
+    <string id="NTMCR12" text="모그리안 상단 감독관" />
+    <string id="NTMCR13" text="네케니아 상단 감독관" />
+    <string id="NTMCR14" text="프로옌 상단 감독관" />
+    <string id="NTMCR15" text="야리안 상단 감독관" />
+    <string id="NTMCR16" text="로모카 상단 감독관" />
+    <!-- 바닐라 캐러밴 경비대의 이름 무시 -->
+
+    <!-- 컷신 병종 -->
+    <string id="STT01" text="노예 약탈자" />
+    <string id="STT02" text="노예 강도" />
+    <string id="STT03" text="노예단 전사" />
+    <string id="STT04" text="노예단 기수" />
+    <string id="STT05" text="" />
+    <string id="STT06" text="상단 경비병" />
+    <string id="STT07" text="노예단 궁수" />
+    <string id="STT08" text="악마" />
+    <string id="STT09" text="하급 악마" />
+    <string id="STT10" text="광포한 악마" />
+    <string id="STT11" text="피에 굶주린 악마" />
+    <string id="STT12" text="악마 유체" />
+    <string id="STT13" text="악마 모체" />
+    <string id="STT14" text="상급 악마" />
+
+    <string id="NTSTY04" text="노예단 약탈자" />
+    <string id="NTSTY05" text="노예단 강도" />
+    <string id="NTSTY06" text="노예단 도적" />
+    <string id="NTSTY07" text="노예단 유격수" />
+    <string id="NTSTY08" text="노예단 기수" />
+    <string id="NTSTY09" text="노예단 전사" />
+    <string id="NTSTY10" text="노예단 사수" />
+    <string id="NTSTY11" text="노예단 고문관" />
+    <string id="NTSTY12" text="노예단 추격자" />
+    <string id="NTSTY13" text="노예단 대장" />
+
+    <!-- 특수세력 마이너클랜용 병종 -->
+    <string id="NTMNR01" text="암흑물결 기사" />
+    <string id="NTMNR02" text="걸신들린 악마" />
+    <string id="NTMNR03" text="피의 연꽃 복수 기사" />
+    <string id="NTMNR04" text="흰서리 성전 전사" />
+    <string id="NTMNR05" text="사악한 화염 기사" />
+    <string id="NTMNR06" text="황혼의 심판 기사" />
+
+    <!-- 특수병종 -->
+    <string id="NTSTY01" text="이단심문관" />
+    <string id="NTSTY02" text="실버 실드 나이트" />
+    <string id="NTSTY03" text="시카 기사" />
+
+  </strings>
+</base>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+    <!-- 希绝大陆兵种文件夹下“Sika_StoryCharacters”文件里的所有领主名称的翻译 -->
+
+    <!-- 剧情任务角色翻译 -->
+    <string id="SikaStoryName000" text="상단장 빌켄" />
+    <string id="SikaStoryName001" text="시카족의 장로 몬나이" />
+    <string id="SikaStoryName002" text="셀리" />
+    <string id="SikaStoryName003" text="노예 대장" />
+    <string id="SikaStoryName004" text="사막 여왕" />
+    <string id="SikaStoryName005" text="시카 기사단의 빈센트" />
+    <string id="SikaStoryName006" text="방랑기사 데리안" />
+    <string id="SikaStoryName007" text="상단장 빌켄" />
+    <string id="SikaStoryName008" text="상단장 빌켄" />
+    <string id="SikaStoryName009" text="상단장 빌켄" />
+    <string id="SikaStoryName010" text="모험 상인 그로드" />
+    <string id="SikaStoryName011" text="밤" />
+    <string id="SikaStoryName012" text="시카족의 아르드론" />
+    <string id="SikaStoryName013" text="시카 기사단의 전령 월터" />
+    <string id="SikaStoryName014" text="케이지족의 로린" />
+    <string id="SikaStoryName015" text="아이시" />
+    <string id="SikaStoryName016" text="나비" />
+    <string id="SikaStoryName017" text="커스터" />
+    <string id="SikaStoryName018" text="항초패" />
+    <string id="SikaStoryName019" text="항영희" />
+    <string id="SikaStoryName020" text="마녀" />
+    <string id="SikaStoryName021" text="라드루윌" />
+    <string id="SikaStoryName022" text="밀리스본" />
+    <string id="SikaStoryName023" text="아나렌" />
+    <string id="SikaStoryName024" text="게리란" />
+    <string id="SikaStoryName025" text="로타스" />
+
+    <string id="SikaStoryName026" text="노예단 대장" />
+    <string id="SikaStoryName027" text="시카족 아이" />
+    <string id="SikaStoryName028" text="시카족 소녀" />
+    <string id="SikaStoryName029" text="시카족 여인" />
+    <string id="SikaStoryName030" text="시카족 여인" />
+    <string id="SikaStoryName031" text="시카족 소년" />
+    <string id="SikaStoryName032" text="시카족 주민" />
+
+    <string id="SikaStoryName033" text="시카 교회의 사자" />
+
+    <string id="SikaStoryName034" text="엘린족 아이" />
+    <string id="SikaStoryName035" text="엘린족 부족민" />
+    <string id="SikaStoryName036" text="엘린족 젊은이" />
+
+  </strings>
+</base>

@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 胸甲的英文文本 -->
+  <!-- 炎朝 -->
+    <string id="BAJDY01" text="염 농부 의복" />
+    <string id="BAJDY02" text="염 신병 의복" />
+    <string id="BAJDY03" text="염 단순한 피갑" />
+    <string id="BAJDY04" text="염 가벼운 피갑" />
+    <string id="BAJDY05" text="염 단순한 인갑" />
+    <string id="BAJDY06" text="염 가벼운 보병 갑옷" />
+    <string id="BAJDY07" text="염 흑린갑" />
+    <string id="BAJDY08" text="염 찰갑" />
+    <string id="BAJDY09" text="염 양당갑" />
+    <string id="BAJDY10" text="염 합당 보병 갑옷" />
+    <string id="BAJDY11" text="염 합당 철갑" />
+    <string id="BAJDY12" text="염 무거운 미늘 갑옷" />
+    <string id="BAJDY13" text="염 호심경 은린갑" />
+    <string id="BAJDY14" text="금장산문갑" />
+    <string id="BAJDY15" text="금장명광 무거운 찰갑" />
+    <string id="BAJDY16" text="명광 기병 쇄자갑" />
+    <string id="BAJDY17" text="명광 판금" />
+    <string id="BAJDY18" text="가벼운 명광 인갑" />
+    <string id="BAJDY19" text="조잡한 산문갑" />
+    <string id="BAJDY20" text="조잡한 명광 찰갑" />
+    <string id="BAJDY21" text="조잡한 명광 쇄자갑" />
+    <string id="BAJDY22" text="조잡한 명광 판금" />
+    <string id="BAJDY23" text="조잡한 명광 인갑" />
+
+  <!-- 普若尤恩 -->
+    <string id="BAPRU01" text="프로옌 기병 라이트 아머" />
+    <string id="BAPRU02" text="프로옌 랜서 메일 호버크" />
+    <string id="BAPRU03" text="프로옌 보병 아머" />
+    <string id="BAPRU04" text="프로옌 무거운 아케톤" />
+    <string id="BAPRU05" text="프로옌 큐어드 스터디드 레더 아머" />
+    <string id="BAPRU06" text="프로옌 아너 나이트 아머" />
+    <string id="BAPRU07" text="프로옌 민병대 코트" />
+    <string id="BAPRU08" text="프로옌 찢어진 기병 아머" />
+    <string id="BAPRU09" text="프로옌 귀족 플레이트 아머" />
+  <!-- 埃布拉蒙 -->
+    <string id="BARBL01" text="라블람 기수 가죽 갑옷" />
+    <string id="BARBL02" text="라블람 기수 메일 호버크 " />
+    <string id="BARBL03" text="라블람 맘루크 스케일 메일" />
+  <!-- 蒙戈黎安 -->
+    <string id="BAMGR01" text="모그리안 가벼운 가죽 갑옷" />
+    <string id="BAMGR02" text="모그리안 스웨이드 갑옷" />
+  <!-- 纳堪维亚 -->
+    <string id="BANKN01" text="가죽 조끼" />
+    <string id="BANKN02" text="줄무늬 갑옷" />
+    <string id="BANKN03" text="네케니아 흉갑 메일 아머" />
+    <string id="BANKN04" text="네케니아 미늘 흉갑 메일 아머" />
+  <!-- 乌拉索维 -->
+    <string id="BAWLT01" text="월러스 메일 셔츠 " />
+    <string id="BAWLT02" text="월러스 짐승가죽 옷" />
+    <string id="BAWLT03" text="월러스 숲지대 의복" />
+  <!-- 落月 -->
+    <string id="BALMC01" text="로모카 주민 의복" />
+    <string id="BALMC02" text="로모카 아시가루 의복" />
+    <string id="BALMC03" text="로모카 하라아테" />
+    <string id="BALMC04" text="로모카 도우마루" />
+    <string id="BALMC05" text="로모카 아시가루 갑옷" />
+    <string id="BALMC06" text="로모카 사슬 갑옷" />
+    <string id="BALMC07" text="로모카 사무라이 갑옷" />
+    <string id="BALMC08" text="로모카 구주 갑옷" />
+  <!-- 雅瑞安 -->
+    <string id="BAYRN01" text="부족민 의복" />
+    <string id="BAYRN02" text="야리안 부족 의복" />
+    <string id="BAYRN03" text="야리안 부족 갑옷" />
+    <string id="BAYRN04" text="야리안 보병 갑옷" />
+    <string id="BAYRN05" text="야리안 전사 갑옷" />
+    <string id="BAYRN06" text="야리안 정글 전투복" />
+    <string id="BAYRN07" text="야리안 콘돌 전투복" />
+    <string id="BAYRN08" text="야리안 이구아나 전투복 " />
+  <!-- 其他 -->
+    <string id="BASTY01" text="암흑 플레이트 아머" />
+    <string id="BASTY02" text="괴물 몸통" />
+    <string id="BASTY03" text="시카 기사단 플레이트 아머" />
+    <string id="BASTY04" text="두꺼운 피부" />
+    <string id="BASTY05" text="검은 로브" />
+  <!-- 特殊小家族 -->
+    <string id="BAMNR01" text="황혼의 브리간딘" />
+  </strings>
+</base>

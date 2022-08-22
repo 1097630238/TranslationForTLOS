@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 手甲护臂的英文文本 -->
+  <!-- 炎朝 -->
+    <string id="AAJDY01" text="팔 보호대" />
+    <string id="AAJDY02" text="염 가죽 완갑" />
+    <string id="AAJDY03" text="염 단순한 미늘 완갑" />
+    <string id="AAJDY04" text="염 미늘 완갑" />
+    <string id="AAJDY05" text="염 중량 완갑" />
+    <string id="AAJDY06" text="황금 인갑 호완" />
+    <string id="AAJDY07" text="황금 판금 기병 호완" />
+    <string id="AAJDY08" text="검은 판금 기병 호완" />
+    <string id="AAJDY09" text="염 미늘 갑옷 호완" />
+
+  <!-- 埃布拉蒙 -->
+    <string id="AARBL01" text="라블람 가죽 팔목보호대" />
+    <string id="AARBL02" text="라블람 기수 팔목보호대" />
+  <!-- 纳堪维亚 -->
+    <string id="AANKN01" text="네케니아 판금 강화 장갑" />
+  <!-- 落月 -->
+    <string id="AALMC01" text="로모카 아시가루 완갑" />
+    <string id="AALMC02" text="로모카 사무라이 완갑" />
+    <string id="AALMC03" text="로모카 주구 완갑" />
+  <!-- 雅瑞安 -->
+    <string id="AAYRN01" text="야리안 부족 팔보호대" />
+  <!-- 其他 -->
+    <string id="AASTY01" text="암흑 완장" />
+    <string id="AASTY02" text="시카 기사 완장" />
+  </strings>
+</base>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="한국어" />
+  </tags>
+  <strings>
+  <!-- 远程武器的英文文本 -->
+  <!-- 炎朝远程武器开始 -->
+    <string id="CBJDY01" text="염 가벼운 석궁" />
+    <string id="CBJDY02" text="염 석궁" />
+    <string id="CBJDY03" text="염 무거운 석궁" />
+    <string id="CBJDY04" text="염 가벼운 연노" />
+    <string id="CBJDY05" text="염 연노" />
+    <string id="CBJDY06" text="염 수비대 석궁" />
+  <!-- 炎朝远程武器结束 -->
+  <!-- 普若尤恩远程武器开始 -->
+    <string id="BOPRU01" text="프로옌 숏보우" />
+    <string id="BOPRU02" text="프로옌 레인저 보우" />
+    <string id="BOPRU03" text="프로옌 롱보우" />
+    <string id="BOPRU04" text="프로옌 전쟁용 롱보우" />
+  <!-- 普若尤恩远程武器结束 -->
+  <!-- 埃布拉蒙远程武器开始 -->
+    <string id="BORBL01" text="용병 단궁" />
+    <string id="BORBL02" text="라블람 활" />
+    <string id="BORBL03" text="라블람 스트롱 보우" />
+    <string id="JARBL01" text="라블람 재블린" />
+    <string id="JARBL02" text="라블람 무거운 재블린" />
+  <!-- 埃布拉蒙远程武器结束 -->
+  <!-- 蒙戈黎安远程武器开始 -->
+    <string id="JAMGR01" text="유목민 재블린" />
+    <string id="BOMGR01" text="모그리안 사냥용 활" />
+    <string id="BOMGR02" text="모그리안 유목민 활" />
+    <string id="BOMGR03" text="모그리안 기수 활" />
+    <string id="BOMGR04" text="모그리안 반곡궁" />
+    <string id="BOMGR05" text="모그리안 단단한 활" />
+    <string id="BOMGR06" text="모그리안 전쟁용 활" />
+  <!-- 蒙戈黎安远程武器结束 -->
+  <!-- 纳堪维亚远程武器开始 -->
+    <string id="BONKN01" text="네케니아 사냥용 활" />
+    <string id="BONKN02" text="네케니아 숏보우" />
+    <string id="JANKN01" text="네케니아 가벼운 투척 도끼" />
+    <string id="JANKN02" text="네케니아 가벼운 재블린" />
+    <string id="JANKN03" text="네케니아 재블린" />
+    <string id="JANKN04" text="네케니아 투척 창" />
+    <string id="JANKN05" text="네케니아 투척 도끼" />
+    <string id="JANKN06" text="네케니아 무거운 투척 도끼" />
+  <!-- 纳堪维亚远程武器结束 -->
+  <!-- 乌拉索维远程武器开始 -->
+    <string id="BOWLT01" text="월러스 사냥용 활" />
+    <string id="BOWLT02" text="월러스 숏보우" />
+    <string id="BOWLT03" text="월러스 강한 활" />
+    <string id="BOWLT04" text="월러스 레인저 활" />
+    <string id="BOWLT05" text="월러스 전쟁용 활" />
+    <string id="BOWLT06" text="월러스 마스터 활" />
+  <!-- 乌拉索维远程武器结束 -->
+  <!-- 落月远程武器开始 -->
+    <string id="BOLMC01" text="로모카 단순한 활" />
+    <string id="BOLMC02" text="로모카 활" />
+    <string id="BOLMC03" text="로모카 주둔지 활" />
+  <!-- 落月远程武器结束 -->
+  <!-- 雅瑞安远程武器开始 -->
+    <string id="BOYRN01" text="부족 숏보우" />
+    <string id="BOYRN02" text="부족 활" />
+    <string id="BOYRN03" text="야리안 활" />
+    <string id="JAYRN01" text="정글 자갈" />
+    <string id="JAYRN02" text="정글 돌" />
+    <string id="JAYRN03" text="정글 투척 돌" />
+    <string id="JAYRN04" text="정글 바위" />
+    <string id="JAYRN05" text="이구아나 바위" />
+  <!-- 雅瑞安远程武器结束 -->
+  <!-- 强盗远程武器开始 -->
+    <string id="BOBDT01" text="이교도 숏보우" />
+    <string id="BOBDT02" text="이교도 활" />
+    <string id="BOBDT03" text="이교도 전쟁용 활" />
+    <string id="JABDT04" text="야생숲 단순한 재블린" />
+    <string id="JABDT05" text="야생숲 재블린" />
+    <string id="JABDT06" text="야생숲 투척 창" />
+    <string id="JABDT07" text="해적 투척 도끼" />
+    <string id="JABDT08" text="도적 투척 단검" />
+    <string id="JABDT09" text="약탈자 투척 나이프" />
+  <!-- 强盗远程武器结束 -->
+  <!-- 艾灵族远程武器开始 -->
+    <string id="BOELN01" text="엘린족 활" />
+  <!-- 艾灵族远程武器结束 -->
+
+  </strings>
+</base>

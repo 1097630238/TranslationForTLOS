@@ -6,48 +6,48 @@
   <strings>
   <!-- 腿甲的英文文本 -->
   <!-- 炎朝 -->
-    <string id="LAJDY01" text="Farmer Shoes" />
-    <string id="LAJDY02" text="Yan Shoes" />
-    <string id="LAJDY03" text="Yan Leather Boots" />
-    <string id="LAJDY04" text="Yan Infantry Boots" />
-    <string id="LAJDY05" text="Yan Infantry Pointed Boots" />
-    <string id="LAJDY06" text="Yan Chausses" />
-    <string id="LAJDY07" text="Yan Rider Boots" />
-    <string id="LAJDY08" text="Studded Golden Boots" />
-    <string id="LAJDY09" text="Golden Plate Boots" />
-    <string id="LAJDY10" text="Black Plate Boots" />
-    <string id="LAJDY11" text="Black Light Boots" />
-    <string id="LAJDY12" text="Crude Golden Boots" />
-    <string id="LAJDY13" text="Crude Plate Boots" />
-    <string id="LAJDY14" text="Crude Plate Boots" />
+    <string id="LAJDY01" text="Сапоги фермера" />
+    <string id="LAJDY02" text="Сапоги Ян" />
+    <string id="LAJDY03" text="Кожаные сапоги Ян" />
+    <string id="LAJDY04" text="Сапоги пехотинца Ян" />
+    <string id="LAJDY05" text="Остроконечные сапоги пехотинца Ян" />
+    <string id="LAJDY06" text="Шоссы Ян" />
+    <string id="LAJDY07" text="Сапоги наездника Ян" />
+    <string id="LAJDY08" text="Золотые сапоги Ян" />
+    <string id="LAJDY09" text="Золотые латные сапоги" />
+    <string id="LAJDY10" text="Черные латные сапоги" />
+    <string id="LAJDY11" text="Легкие черные сапоги" />
+    <string id="LAJDY12" text="Грубые золотые сапоги" />
+    <string id="LAJDY13" text="Грубые латные сапоги" />
+    <string id="LAJDY14" text="Грубые сапоги наездника" />
 
   <!-- 普若尤恩 -->
-    <string id="LAPRU01" text="Prouen Simple Leather Boots" />
-    <string id="LAPRU02" text="Prouen Mail Chausses" />
-    <string id="LAPRU03" text="Prouen Infantry Mail Chausses" />
-    <string id="LAPRU04" text="Prouen Wrapped Leather Boots" />
-    <string id="LAPRU05" text="Prouen Leather Boots" />
-    <string id="LAPRU06" text="Prouen Splint Boots" />
-    <string id="LAPRU07" text="Prouen Heavy Splint Boots" />
+    <string id="LAPRU01" text="Пруэнские простые кожаные сапоги" />
+    <string id="LAPRU02" text="Пруэнские кольчужные шоссы" />
+    <string id="LAPRU03" text="Пруэнские кольчужные шоссы пехотинца" />
+    <string id="LAPRU04" text="Пруэнские стеганые кожаные сапоги" />
+    <string id="LAPRU05" text="Пруэнские кожаные сапоги" />
+    <string id="LAPRU06" text="Пруэнские накладные поножи" />
+    <string id="LAPRU07" text="Пруэнские тяжелые накладные поножи" />
   <!-- 埃布拉蒙 -->
-    <string id="LARBL01" text="Mercenary Boots" />
-    <string id="LARBL02" text="Rabblam Leather Boots" />
-    <string id="LARBL03" text="Rabblam Mail Boots" />
+    <string id="LARBL01" text="Сапоги наемника" />
+    <string id="LARBL02" text="Раббламские кожаные сапоги" />
+    <string id="LARBL03" text="Раббламские кольчужные сапоги" />
   <!-- 蒙戈黎安 -->
-    <string id="LAMGR01" text="Mogrian Leather Boots" />
-    <string id="LAMGR02" text="Mogrian Suede Boots" />
+    <string id="LAMGR01" text="Могрианские кожаные сапоги" />
+    <string id="LAMGR02" text="Могрианские замшевые сапоги" />
   <!-- 落月 -->
-    <string id="LALMC01" text="Lomoca Villager Shoes" />
-    <string id="LALMC02" text="Lomoca Ashigaru Shoes" />
-    <string id="LALMC03" text="Lomoca Boots" />
-    <string id="LALMC04" text="Lomoca Mail Chausses" />
+    <string id="LALMC01" text="Обувь горожанина Ломока" />
+    <string id="LALMC02" text="Обувь асигару Ломока" />
+    <string id="LALMC03" text="Сапоги Ломока" />
+    <string id="LALMC04" text="Кольчужные шоссы Ломока" />
   <!-- 雅瑞安 -->
-    <string id="LAYRN01" text="Yarian Tribal Shoes" />
-    <string id="LAYRN02" text="Yarian Warrior Shoes" />
-    <string id="LAYRN03" text="Yarian Vultur Boots" />
-    <string id="LAYRN04" text="Yarian Agama Boots" />
+    <string id="LAYRN01" text="Обувь ярийского племени" />
+    <string id="LAYRN02" text="Обувь ярийского воина" />
+    <string id="LAYRN03" text="Сапоги ярийского стервятника" />
+    <string id="LAYRN04" text="Сапоги ярийской игуамы" />
   <!-- 其他 -->
-    <string id="LASTY01" text="Dark Plate Boots" />
-    <string id="LASTY02" text="Sika Knight Plate Boots" />
+    <string id="LASTY01" text="Темные поножи" />
+    <string id="LASTY02" text="Латные сапоги рыцаря Сики" />
   </strings>
 </base>

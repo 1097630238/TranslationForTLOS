@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-16"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -28,11 +28,11 @@
 	<string id="adtaijijian_guard" text="Меч стражи Тайчи" />
 	<string id="adtaijijian_grip" text="Меч Тайчи с рукоятью" />
 	<string id="adtaijijian_pommel" text="Меч Тайчи с навершием" />
-	<string id="adjingubang_grip" text="Gold Hoop Grip" />
-	<string id="adjingu" text="Golden Hoop" />
-	<string id="adjingu2" text="Golden Hoop 2" />
+	<string id="adjingubang_grip" text="Золотой обруч с рукоятью" />
+	<string id="adjingu" text="Золотой обруч" />
+	<string id="adjingu2" text="Золотой обруч" />
 	<string id="adqinglongyanyuedao" text="Гуаньдао Лазурного Дракона" />
-	<string id="adbang" text="Gold Hoop" />
+	<string id="adbang" text="Золотой обруч" />
 	<string id="adfangtianhuaji" text="Алебарда" />
 	<string id="addadao" text="Гуань Дао" />
 	<string id="adtaijijian" text="Меч Тайчи" />

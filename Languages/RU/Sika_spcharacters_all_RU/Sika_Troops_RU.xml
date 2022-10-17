@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Русский" />
@@ -24,7 +24,7 @@
     <string id="NTJDY16" text="Страж династии Ян" />
     <string id="OTJDY17" text="Рекрут границы Ян" />
     <string id="OTJDY18" text="Пехотинец границы Ян" />
-    <string id="OTJDY19" text="Арбалетчик (Повторитель) границы Ян" />
+    <string id="OTJDY19" text="Арбалетчик 'Чу-Ко-Ну' границы Ян" />
     <string id="OTJDY20" text="Алебардщик границы Ян" />
     <string id="OTJDY21" text="Гвардия арбалетчиков армии Ян" />
     <string id="OTJDY22" text="Гвардия алебардщиков армии Ян" />
@@ -58,29 +58,29 @@
     <string id="MLTPRU21" text="Пруэнский лучник-ветеран ополчения" />
 
   <!-- 埃布拉蒙 -->
-    <string id="NTRBL01" text="Эбрамонтский горожанин" />
-    <string id="NTRBL02" text="Эбрамонтский новобранец" />
-    <string id="NTRBL03" text="Эбрамонтский наемник" />
-    <string id="NTRBL04" text="Эбрамонтский обученный наемник" />
-    <string id="NTRBL05" text="Эбрамонтский наемный лучник" />
-    <string id="NTRBL06" text="Эбрамонтский наемный всадник" />
-    <string id="NTRBL07" text="Эбрамонтский наемный ветеран" />
-    <string id="NTRBL08" text="Эбрамонтский обученный наемный лучник" />
-    <string id="NTRBL09" text="Эбрамонтский наемный конный воитель" />
-    <string id="NTRBL10" text="Эбрамонтский наемный конный снайпер" />
-    <string id="NTRBL11" text="Эбрамонтский тяжелый наемник" />
-    <string id="NTRBL12" text="Главный эбрамонтский наемник" />
-    <string id="OTRBL13" text="Эбрамонтский мамлюк-рекрут" />
-    <string id="OTRBL14" text="Эбрамонтский мамлюк-пехота" />
-    <string id="OTRBL15" text="Эбрамонтский мамлюк-наездник" />
-    <string id="OTRBL16" text="Эбрамонтский мамлюк-страж" />
-    <string id="OTRBL17" text="Эбрамонтский тяжелый конный мамлюк" />
-    <string id="OTRBL18" text="Эбрамонтский главный страж-мамлюк" />h
-    <string id="OTRBL19" text="Эбрамонтский главный всадник-мамлюк" />
-    <string id="MLTRBL20" text="Эбрамонтский стражник-пехотинец" />
-    <string id="MLTRBL21" text="Эбрамонтский стрелец гарнизона" />
-    <string id="MLTRBL22" text="Эбрамонтский страж-ветеран" />
-    <string id="MLTRBL23" text="Эбрамонтский лучник-гвардеец" />
+    <string id="NTRBL01" text="Раббламский горожанин" />
+    <string id="NTRBL02" text="Раббламский новобранец" />
+    <string id="NTRBL03" text="Раббламский наемник" />
+    <string id="NTRBL04" text="Раббламский обученный наемник" />
+    <string id="NTRBL05" text="Раббламский наемный лучник" />
+    <string id="NTRBL06" text="Раббламский наемный всадник" />
+    <string id="NTRBL07" text="Раббламский наемный ветеран" />
+    <string id="NTRBL08" text="Раббламский обученный наемный лучник" />
+    <string id="NTRBL09" text="Раббламский наемный конный воитель" />
+    <string id="NTRBL10" text="Раббламский наемный конный снайпер" />
+    <string id="NTRBL11" text="Раббламский тяжелый наемник" />
+    <string id="NTRBL12" text="Главный раббламский наемник" />
+    <string id="OTRBL13" text="Раббламский мамлюк-рекрут" />
+    <string id="OTRBL14" text="Раббламский мамлюк-пехота" />
+    <string id="OTRBL15" text="Раббламский мамлюк-наездник" />
+    <string id="OTRBL16" text="Раббламский мамлюк-страж" />
+    <string id="OTRBL17" text="Раббламский тяжелый конный мамлюк" />
+    <string id="OTRBL18" text="Раббламский главный страж-мамлюк" />
+    <string id="OTRBL19" text="Раббламский главный всадник-мамлюк" />
+    <string id="MLTRBL20" text="Раббламский стражник-пехотинец" />
+    <string id="MLTRBL21" text="Раббламский стрелец гарнизона" />
+    <string id="MLTRBL22" text="Раббламский страж-ветеран" />
+    <string id="MLTRBL23" text="Раббламский лучник-гвардеец" />
         
   <!-- 蒙戈黎安 -->
     <string id="NTMGR01" text="Могрианский пастух" />
@@ -271,7 +271,7 @@
     <string id="NTMCR07" text="Экспедиционный клинок" />
     <string id="NTMCR08" text="Экспедиционный кавалерист" />
     <!-- 覆盖原版的商队头领名字 -->
-    <string id="NTMCR09" text="Эбрамонтский караванщик" />
+    <string id="NTMCR09" text="Раббламский караванщик" />
     <string id="NTMCR10" text="Караванщик Вультеса" />
     <string id="NTMCR11" text="Караванщик Ян" />
     <string id="NTMCR12" text="Могрианский караванщик" />
@@ -282,13 +282,13 @@
     <!-- 覆盖原版商队护卫的名字 -->
 
     <!-- 剧情用兵种 -->
-    <string id="STT01" text="Разбойник-раб" />
-    <string id="STT02" text="Бандит-раб" />
-    <string id="STT03" text="Воин-раб" />
-    <string id="STT04" text="Наездник-раб" />
+    <string id="STT01" text="Работорговец-разбойник" />
+    <string id="STT02" text="Бандит-работорговец" />
+    <string id="STT03" text="Воин-работорговец" />
+    <string id="STT04" text="Наездник-работорговец" />
     <string id="STT05" text="" />
     <string id="STT06" text="Охранник каравана" />
-    <string id="STT07" text="Лучник-раб" />
+    <string id="STT07" text="Лучник-работорговец" />
     <string id="STT08" text="Демон" />
     <string id="STT09" text="Низший демон" />
     <string id="STT10" text="Маниакальный демон" />
@@ -296,17 +296,17 @@
     <string id="STT12" text="Малый демон" />
     <string id="STT13" text="Демоническая матрица" />
     <string id="STT14" text="Сильный демон" />
-
-    <string id="NTSTY04" text="Slavers Looter" />
-    <string id="NTSTY05" text="Slavers Thug" />
-    <string id="NTSTY06" text="Slavers Bandit" />
-    <string id="NTSTY07" text="Slavers Skirmisher" />
-    <string id="NTSTY08" text="Slavers Rider" />
-    <string id="NTSTY09" text="Slavers Warrior" />
-    <string id="NTSTY10" text="Slavers Shooter" />
-    <string id="NTSTY11" text="Slavers Torturer" />
-    <string id="NTSTY12" text="Slavers Stalker" />
-    <string id="NTSTY13" text="Slavers Captain" />
+	
+	<string id="NTSTY04" text="Грабитель работорговцев" />
+    <string id="NTSTY05" text="Головорез работорговцев" />
+    <string id="NTSTY06" text="Вор работорговцев" />
+    <string id="NTSTY07" text="Застрельщик работорговцев" />
+    <string id="NTSTY08" text="Всадник работорговцев" />
+    <string id="NTSTY09" text="Боец работорговцев" />
+    <string id="NTSTY10" text="Стрелок работорговцев" />
+    <string id="NTSTY11" text="Палач работорговцев" />
+    <string id="NTSTY12" text="Похититель работорговцев" />
+    <string id="NTSTY13" text="Капитан работорговцев" />
 
     <!-- 特殊势力小家族用兵种 -->
     <string id="NTMNR01" text="Рыцарь Черной Волны" />

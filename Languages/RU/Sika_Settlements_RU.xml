@@ -5,540 +5,540 @@
   </tags>
   <strings>
     <!--新添加已修改-->
-    <string id="Settlements.Settlement.name.Atown_M1" text="Merill Lynch"/>
-    <string id="Settlements.Settlement.name.Avillage_M1_1" text="Merill Lynch Village"/>
-    <string id="Settlements.Settlement.name.Avillage_M1_2" text="Rabia Village"/>
+    <string id="Settlements.Settlement.name.Atown_M1" text="Мэрилл Линч"/>
+    <string id="Settlements.Settlement.name.Avillage_M1_1" text="Мэрилл Линч (деревня)"/>
+    <string id="Settlements.Settlement.name.Avillage_M1_2" text="Рабия"/>
     <!--新添加已修改-->
     
     <!--已修改-->
    <!-- 城堡 -->
-	<string id="Settlements.Settlement.name.Acastle_A1" text="Commer Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_A2" text="Acaste Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_A3" text="Fort Froker"/>
-    <string id="Settlements.Settlement.name.Acastle_A4" text="La Acaste"/>
-    <string id="Settlements.Settlement.name.Acastle_A5" text="Zibutan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_A6" text="Sunsfdland Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_A7" text="Fort Langley"/>
-    <string id="Settlements.Settlement.name.Acastle_A8" text="Forim castle"/>
-    <string id="Settlements.Settlement.name.Acastle_A9" text="Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_B1" text="Langabourg"/>
-    <string id="Settlements.Settlement.name.Acastle_B2" text="Naga Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_B3" text="Fort Tatter"/>
-    <string id="Settlements.Settlement.name.Acastle_B4" text="Saint Narcos"/>
-    <string id="Settlements.Settlement.name.Acastle_B5" text="Fort Burger"/>
-    <string id="Settlements.Settlement.name.Acastle_B6" text="Sendiburg"/>
-    <string id="Settlements.Settlement.name.Acastle_B7" text="Silico Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_B8" text="Juni Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EN1" text="Wu Gebao"/>
-    <string id="Settlements.Settlement.name.Acastle_EN2" text="Pine Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EN3" text="Savelica Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EN4" text="Fort MacKeek"/>
-    <string id="Settlements.Settlement.name.Acastle_EN5" text="Loveville Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EN6" text="Castle Polentny"/>
-    <string id="Settlements.Settlement.name.Acastle_EN7" text="Cakameco Fort"/>
-    <string id="Settlements.Settlement.name.Acastle_EN8" text="Fort Garland"/>
-    <string id="Settlements.Settlement.name.Acastle_EN9" text="Range Maue Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES1"  text="FengXiang Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES2"  text="ChengYin Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES3"  text="TaiYou Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES4"  text="AnYuan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES5"  text="ZhouGuan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES6"  text="TaiFeng Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES7"  text="LinSu Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_ES8"  text="YanShan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EW1"  text="LanLing Castle"/>
-	<string id="Settlements.Settlement.name.Acastle_EW2" text="Sincere Mountain Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EW3" text="Shaojiang City"/>
-    <string id="Settlements.Settlement.name.Acastle_EW4" text="Acastle Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_EW5" text="Biheshan City"/>
-    <string id="Settlements.Settlement.name.Acastle_EW6" text="Musen City"/>
-    <string id="Settlements.Settlement.name.Acastle_EW7" text="He Xuecheng"/>
-    <string id="Settlements.Settlement.name.Acastle_EW8" text="Kamikawa Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_K1" text="Sacastle"/>
-    <string id="Settlements.Settlement.name.Acastle_K2" text="Zemarburg"/>
-    <string id="Settlements.Settlement.name.Acastle_K3" text="Gurbamba"/>
-    <string id="Settlements.Settlement.name.Acastle_K4" text="Fort Tararum"/>
-    <string id="Settlements.Settlement.name.Acastle_K5" text="Hala and Limburg"/>
-    <string id="Settlements.Settlement.name.Acastle_K6" text="Hargay Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_K7" text="Bayan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_K8" text="Mandalay Fort"/>
-    <string id="Settlements.Settlement.name.Acastle_K9" text="Harir Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S1" text="Paperan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S2" text="Kolvan Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S3" text="Zhivao Fort"/>
-    <string id="Settlements.Settlement.name.Acastle_S4" text="Antle Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S5" text="Castle Trebil"/>
-    <string id="Settlements.Settlement.name.Acastle_S6" text="Betniem Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S7" text="Mojwar Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_S8" text="Debutland Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_V1" text="Acastle Castle"/>
-    <string id="Settlements.Settlement.name.Acastle_V2" text="Sebdan Warburg"/>
-    <string id="Settlements.Settlement.name.Acastle_V3" text="Fort Wacob"/>
-    <string id="Settlements.Settlement.name.Acastle_V4" text="Castle Chieri"/>
-    <string id="Settlements.Settlement.name.Acastle_V5" text="Batfaberg"/>
-    <string id="Settlements.Settlement.name.Acastle_V6" text="Joasburg"/>
-    <string id="Settlements.Settlement.name.Acastle_V7" text="Lequeburg"/>
-    <string id="Settlements.Settlement.name.Acastle_V8" text="Fort Bolleich"/>
+	<string id="Settlements.Settlement.name.Acastle_A1" text="Замок Коммер"/>
+    <string id="Settlements.Settlement.name.Acastle_A2" text="Замок Акасте"/>
+    <string id="Settlements.Settlement.name.Acastle_A3" text="Замок Фрокер"/>
+    <string id="Settlements.Settlement.name.Acastle_A4" text="Замок Ла Ап"/>
+    <string id="Settlements.Settlement.name.Acastle_A5" text="Замок Зибутан"/>
+    <string id="Settlements.Settlement.name.Acastle_A6" text="Замок Сансфланд"/>
+    <string id="Settlements.Settlement.name.Acastle_A7" text="Замок Лэнгли"/>
+    <string id="Settlements.Settlement.name.Acastle_A8" text="Замок Лэй Ка"/>
+    <string id="Settlements.Settlement.name.Acastle_A9" text="Замок Кансбург"/>
+    <string id="Settlements.Settlement.name.Acastle_B1" text="Замок Лангабо"/>
+    <string id="Settlements.Settlement.name.Acastle_B2" text="Замок Нига"/>
+    <string id="Settlements.Settlement.name.Acastle_B3" text="Замок Тарт"/>
+    <string id="Settlements.Settlement.name.Acastle_B4" text="Замок Сент-Наркос"/>
+    <string id="Settlements.Settlement.name.Acastle_B5" text="Замок Бюргер"/>
+    <string id="Settlements.Settlement.name.Acastle_B6" text="Замок Сэндибург"/>
+    <string id="Settlements.Settlement.name.Acastle_B7" text="Замок Силико"/>
+    <string id="Settlements.Settlement.name.Acastle_B8" text="Замок Базильдон"/>
+    <string id="Settlements.Settlement.name.Acastle_EN1" text="Замок Вугэ"/>
+    <string id="Settlements.Settlement.name.Acastle_EN2" text="Замок Катэми"/>
+    <string id="Settlements.Settlement.name.Acastle_EN3" text="Замок Савелика"/>
+    <string id="Settlements.Settlement.name.Acastle_EN4" text="Замок Макик"/>
+    <string id="Settlements.Settlement.name.Acastle_EN5" text="Замок Ровивьен"/>
+    <string id="Settlements.Settlement.name.Acastle_EN6" text="Замок Полетный"/>
+    <string id="Settlements.Settlement.name.Acastle_EN7" text="Замок Чакамеко"/>
+    <string id="Settlements.Settlement.name.Acastle_EN8" text="Замок Галланд"/>
+    <string id="Settlements.Settlement.name.Acastle_EN9" text="Замок 'Длинные Волосы'"/>
+    <string id="Settlements.Settlement.name.Acastle_ES1"  text="Замок Фэнсян"/>
+    <string id="Settlements.Settlement.name.Acastle_ES2"  text="Замок Чэнин"/>
+    <string id="Settlements.Settlement.name.Acastle_ES3"  text="Замок Тайю"/>
+    <string id="Settlements.Settlement.name.Acastle_ES4"  text="Замок Аньюань"/>
+    <string id="Settlements.Settlement.name.Acastle_ES5"  text="Замок Чжоугуань"/>
+    <string id="Settlements.Settlement.name.Acastle_ES6"  text="Замок Тайфэн"/>
+    <string id="Settlements.Settlement.name.Acastle_ES7"  text="Замок Линсу"/>
+    <string id="Settlements.Settlement.name.Acastle_ES8"  text="Замок Яншань"/>
+    <string id="Settlements.Settlement.name.Acastle_EW1"  text="Замок Ланлинь"/>
+	<string id="Settlements.Settlement.name.Acastle_EW2" text="Замок 'Искренняя Гора'"/>
+    <string id="Settlements.Settlement.name.Acastle_EW3" text="Шаоцзянь"/>
+    <string id="Settlements.Settlement.name.Acastle_EW4" text="Замок Аоки"/>
+    <string id="Settlements.Settlement.name.Acastle_EW5" text="Замок Бихешань"/>
+    <string id="Settlements.Settlement.name.Acastle_EW6" text="Замок Мусен"/>
+    <string id="Settlements.Settlement.name.Acastle_EW7" text="Замок Хэсючен"/>
+    <string id="Settlements.Settlement.name.Acastle_EW8" text="Замок Камикава"/>
+    <string id="Settlements.Settlement.name.Acastle_K1" text="Замок Яркенд"/>
+    <string id="Settlements.Settlement.name.Acastle_K2" text="Замок Земар"/>
+    <string id="Settlements.Settlement.name.Acastle_K3" text="Замок Гурбамба"/>
+    <string id="Settlements.Settlement.name.Acastle_K4" text="Замок Таралан"/>
+    <string id="Settlements.Settlement.name.Acastle_K5" text="Замок Харалим"/>
+    <string id="Settlements.Settlement.name.Acastle_K6" text="Замок Харгай"/>
+    <string id="Settlements.Settlement.name.Acastle_K7" text="Замок Баян"/>
+    <string id="Settlements.Settlement.name.Acastle_K8" text="Замок Мандалай"/>
+    <string id="Settlements.Settlement.name.Acastle_K9" text="Замок Каржан"/>
+    <string id="Settlements.Settlement.name.Acastle_S1" text="Замок Паперан"/>
+    <string id="Settlements.Settlement.name.Acastle_S2" text="Замок Одеяс"/>
+    <string id="Settlements.Settlement.name.Acastle_S3" text="Замок Чживао"/>
+    <string id="Settlements.Settlement.name.Acastle_S4" text="Замок Антрубург"/>
+    <string id="Settlements.Settlement.name.Acastle_S5" text="Замок Требилис"/>
+    <string id="Settlements.Settlement.name.Acastle_S6" text="Замок Бетним"/>
+    <string id="Settlements.Settlement.name.Acastle_S7" text="Замок Мойвар"/>
+    <string id="Settlements.Settlement.name.Acastle_S8" text="Замок Дебютланд"/>
+    <string id="Settlements.Settlement.name.Acastle_V1" text="Замок Дателес"/>
+    <string id="Settlements.Settlement.name.Acastle_V2" text="Замок Себутанво"/>
+    <string id="Settlements.Settlement.name.Acastle_V3" text="Замок Вако"/>
+    <string id="Settlements.Settlement.name.Acastle_V4" text="Замок Кьери"/>
+    <string id="Settlements.Settlement.name.Acastle_V5" text="Замок Батфа"/>
+    <string id="Settlements.Settlement.name.Acastle_V6" text="Замок Йоусбург"/>
+    <string id="Settlements.Settlement.name.Acastle_V7" text="Замок Лекбург"/>
+    <string id="Settlements.Settlement.name.Acastle_V8" text="Замок Полебург"/>
 
     <!-- 已修改 -->
    <!-- 城堡下属村庄 -->
-	<string id="Settlements.Settlement.name.Acastle_village_A1_1" text="Srockenstein"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A1_2" text="Rasierland"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A2_1" text="Bajijan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A2_2" text="Tahasaida"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A3_1" text="Hong Valkyra"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A3_2" text="Dunda"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A4_1" text="Maiweimu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A4_2" text="Berkushken"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A5_1" text="Cthul"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A5_2" text="Fickemara"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A6_1" text="Valsu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A6_2" text="Mattal"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A7_1" text="Shrejeku"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A7_2" text="Turner"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A8_1" text="Castle Stan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A8_2" text="Anna"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A9_1" text="Panamar"/>
-    <string id="Settlements.Settlement.name.Acastle_village_A9_2" text="Carmelt"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B1_1" text="Valerygrad"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B1_2" text="Sabrin"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B2_1" text="Alert Peak"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B2_2" text="Jersk"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B3_1" text="Perf"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B3_2" text="Onoch"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B4_1" text="Gnotkov"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B4_2" text="Bergner"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B5_1" text="Desco"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B5_2" text="Arlovsk"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B6_1" text="Lushetov"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B6_2" text="Korlachenko"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B7_1" text="Becca"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B7_2" text="Chichilask"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B8_1" text="Taylor Ural"/>
-    <string id="Settlements.Settlement.name.Acastle_village_B8_2" text="Ripov"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN1_1" text="Rumpole"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN1_2" text="Ferim"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN2_1" text="Lamba"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN2_2" text="Nebu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN3_1" text="Raju Semaia"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN3_2" text="Rogoni"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN4_1" text="Snyder Corner"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN4_2" text="Negabas"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN5_1" text="Lund"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN5_2" text="Bisenet"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN6_1" text="Tanner Rollinger"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN6_2" text="Riposa Anja"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN7_1" text="Saloper"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN7_2" text="Tenama"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN8_1" text="Dab Apin"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN8_2" text="Maurerton"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN9_1" text="Purdian Bossa"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EN9_2" text="Calance Seapool"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES1_1"  text="BeiLiu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES1_2"  text="YuanShou"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES2_1"  text="WangShan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES2_2"  text="BianLin"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES3_1"  text="HuaiRen"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES3_2"  text="JiGao"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES4_1"  text="ChengJi"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES4_2"  text="JinCui"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES5_1"  text="JinZhong"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES5_2"  text="HeZhou"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES6_1"  text="FengNan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES6_2"  text="AnXin"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES7_1"  text="TaiChong"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES7_2"  text="YiShui"/>
-    <string id="Settlements.Settlement.name.Acastle_village_ES8_1"  text="YanQiu"/>
-	<string id="Settlements.Settlement.name.Acastle_village_ES8_2" text="Tunan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW1_1" text="Bird's Eye"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW1_2" text="Naga"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW2_1" text="Yada"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW2_2" text="Saikifu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW3_1" text="Pinggu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW3_2" text="Narita"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW4_1" text="Redwood"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW4_2" text="Red Rock"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW5_1" text="Kimoto"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW5_2" text="Yamazaki"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW6_1" text="Wan He"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW6_2" text="Ishicho"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW7_1" text="Root"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW7_2" text="Shirakawa"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW8_1" text="Yokatsu"/>
-    <string id="Settlements.Settlement.name.Acastle_village_EW8_2" text="Tomino"/>
-	<string id="Settlements.Settlement.name.Acastle_village_K1_1" text="Altai"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K1_2" text="Dundetour"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K2_1" text="Zeller"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K2_2" text="Ulabayan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K3_1" text="Tunnelle"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K3_2" text="Sek Duran"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K4_1" text="Bayanga Golan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K4_2" text="Darkhan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K5_1" text="Tumensat"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K5_2" text="Dash Barba"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K6_1" text="Bogdo"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K6_2" text="Busagan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K7_1" text="Tehir"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K7_2" text="Huckabode"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K8_1" text="Sibayan Ulan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K8_2" text="Noyan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K9_1" text="Hulmen"/>
-    <string id="Settlements.Settlement.name.Acastle_village_K9_2" text="Kusugul"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S1_1" text="Lisbury"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S1_2" text="Village"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S2_1" text="Rudland"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S2_2" text="Aram"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S3_1" text="Ziva Olan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S3_2" text="Zettgen"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S4_1" text="Kepega"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S4_2" text="Bisseland"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S5_1" text="Derain"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S5_2" text="Panlunga"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S6_1" text="Ugren"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S6_2" text="Marodiga"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S7_1" text="Corinth"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S7_2" text="Ozebu Atlanta"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S8_1" text="Jortgen Forest"/>
-    <string id="Settlements.Settlement.name.Acastle_village_S8_2" text="Sihan"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V1_1" text="Messamo"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V2_1" text="Stone"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V2_2" text="Acastle_village"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V3_1" text="Miot"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V3_2" text="Saint Lal"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V4_1" text="Bulia"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V5_1" text="Mantesde"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V5_2" text="Yani"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V6_1" text="Semilania"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V6_2" text="Kamodo"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V7_1" text="Zeffenenberg"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V7_2" text="Barholdela"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V8_1" text="Malthus"/>
-    <string id="Settlements.Settlement.name.Acastle_village_V8_2" text="Farondo"/>
+	<string id="Settlements.Settlement.name.Acastle_village_A1_1" text="Шрокенштайн"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A1_2" text="Рассилан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A2_1" text="Баджиян"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A2_2" text="Тахасаида"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A3_1" text="Онваркала"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A3_2" text="Дунда"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A4_1" text="Майвэй"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A4_2" text="Беркушен"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A5_1" text="Кесур"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A5_2" text="Фихмара"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A6_1" text="Варсу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A6_2" text="Майтал"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A7_1" text="Шрейку"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A7_2" text="Тернана"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A8_1" text="Кардистан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A8_2" text="Анона"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A9_1" text="Банамар"/>
+    <string id="Settlements.Settlement.name.Acastle_village_A9_2" text="Кармет"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B1_1" text="Валериград"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B1_2" text="Сабрин"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B2_1" text="Цзинцзэфан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B2_2" text="Черск"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B3_1" text="Перф"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B3_2" text="Онох"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B4_1" text="Гнотков"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B4_2" text="Бергнер"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B5_1" text="Деско"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B5_2" text="Арловск"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B6_1" text="Люшетов"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B6_2" text="Корлаченко"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B7_1" text="Бекка"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B7_2" text="Чичиласк"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B8_1" text="Урал"/>
+    <string id="Settlements.Settlement.name.Acastle_village_B8_2" text="Рирепов"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN1_1" text="Люнбор"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN1_2" text="Ферим"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN2_1" text="Ламба"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN2_2" text="Небу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN3_1" text="Раджа Самая"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN3_2" text="Лугони"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN4_1" text="Снитнер"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN4_2" text="Нигабус"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN5_1" text="Лунд"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN5_2" text="Бицэнэ"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN6_1" text="Таннеринг"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN6_2" text="Рипошаня"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN7_1" text="Салопер"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN7_2" text="Тенама"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN8_1" text="Дабо Япин"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN8_2" text="Маядун"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN9_1" text="Пурдин-Поса"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EN9_2" text="Каланс"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES1_1"  text="Бэйлю"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES1_2"  text="Юаншоу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES2_1"  text="Ваншань"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES2_2"  text="Бянлин"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES3_1"  text="Хуайжэн"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES3_2"  text="Цзигао"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES4_1"  text="Чэнцзи"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES4_2"  text="Цзиньцуй"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES5_1"  text="Цзиньчжун"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES5_2"  text="Хэчжоу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES6_1"  text="Фэннань"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES6_2"  text="Аньсинь"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES7_1"  text="Тайчун"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES7_2"  text="Ишу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_ES8_1"  text="Яньцю"/>
+	<string id="Settlements.Settlement.name.Acastle_village_ES8_2" text="Тунан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW1_1" text="Хоуки"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW1_2" text="Нага"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW2_1" text="Яда"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW2_2" text="Цифу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW3_1" text="Пингу"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW3_2" text="Нарита"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW4_1" text="Рэдвуд"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW4_2" text="Рэдстоун"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW5_1" text="Цибэн"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW5_2" text="Ямасаки"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW6_1" text="Ваньин"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW6_2" text="Исихо"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW7_1" text="Гэнху"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW7_2" text="Сиракава"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW8_1" text="Хэнцзинь"/>
+    <string id="Settlements.Settlement.name.Acastle_village_EW8_2" text="Томино"/>
+	<string id="Settlements.Settlement.name.Acastle_village_K1_1" text="Алтай"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K1_2" text="Тур"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K2_1" text="Целлер"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K2_2" text="Улабаян"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K3_1" text="Тальне"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K3_2" text="Сек Дуран"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K4_1" text="Баян Голан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K4_2" text="Дархан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K5_1" text="Туменсат"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K5_2" text="Дашбарба"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K6_1" text="Богдо"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K6_2" text="Бусаген"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K7_1" text="Тахир"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K7_2" text="Борджабад"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K8_1" text="Сибаян Улан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K8_2" text="Ноен"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K9_1" text="Хурмэн"/>
+    <string id="Settlements.Settlement.name.Acastle_village_K9_2" text="Хувсгол"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S1_1" text="Лисбон"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S1_2" text="Вийен"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S2_1" text="Рудланд"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S2_2" text="Арам"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S3_1" text="Живолан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S3_2" text="Зельцат"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S4_1" text="Копеца"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S4_2" text="Биселан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S5_1" text="Делан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S5_2" text="Панлунцзя"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S6_1" text="Вуглен"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S6_2" text="Мародига"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S7_1" text="Коринф"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S7_2" text="Атланта"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S8_1" text="Хюртгенский Лес"/>
+    <string id="Settlements.Settlement.name.Acastle_village_S8_2" text="Сихан"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V1_1" text="Месамо"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V2_1" text="Сидун"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V2_2" text="Гезиг"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V3_1" text="Миот"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V3_2" text="Сент-Лар"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V4_1" text="Булья"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V5_1" text="Мантсди"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V5_2" text="Яни"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V6_1" text="Семилания"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V6_2" text="Камодо"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V7_1" text="Зефенибург"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V7_2" text="Бартольдра"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V8_1" text="Мальтус"/>
+    <string id="Settlements.Settlement.name.Acastle_village_V8_2" text="Фарондо"/>
 
    <!-- 藏身处 -->
-    <string id="Settlements.Settlement.name.Ahideout_desert_1" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_10" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_11" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_12" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_13" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_14" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_15" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_16" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_17" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_18" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_19" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_2" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_20" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_3" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_4" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_5" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_6" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_7" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_8" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_desert_9" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_1" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_10" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_11" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_12" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_13" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_14" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_15" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_16" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_17" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_18" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_19" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_2" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_3" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_4" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_5" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_6" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_7" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_8" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_forest_9" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_1" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_10" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_11" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_12" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_13" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_14" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_15" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_16" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_17" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_18" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_19" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_2" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_20" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_3" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_4" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_5" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_6" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_7" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_8" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_mountain_9" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_1" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_10" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_11" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_12" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_13" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_14" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_15" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_16" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_17" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_18" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_19" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_2" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_20" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_3" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_4" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_5" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_6" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_7" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_8" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_seaside_9" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_1" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_10" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_11" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_12" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_13" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_14" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_15" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_16" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_17" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_18" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_19" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_2" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_20" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_3" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_4" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_5" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_6" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_7" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_8" text="Hideout"/>
-    <string id="Settlements.Settlement.name.Ahideout_steppe_9" text="Hideout"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_1" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_10" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_11" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_12" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_13" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_14" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_15" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_16" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_17" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_18" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_19" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_2" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_20" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_3" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_4" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_5" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_6" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_7" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_8" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_desert_9" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_1" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_10" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_11" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_12" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_13" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_14" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_15" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_16" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_17" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_18" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_19" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_2" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_3" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_4" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_5" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_6" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_7" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_8" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_forest_9" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_1" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_10" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_11" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_12" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_13" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_14" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_15" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_16" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_17" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_18" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_19" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_2" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_20" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_3" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_4" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_5" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_6" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_7" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_8" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_mountain_9" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_1" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_10" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_11" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_12" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_13" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_14" text="Приморское убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_15" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_16" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_17" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_18" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_19" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_2" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_20" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_3" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_4" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_5" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_6" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_7" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_8" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_seaside_9" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_1" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_10" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_11" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_12" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_13" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_14" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_15" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_16" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_17" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_18" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_19" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_2" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_20" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_3" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_4" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_5" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_6" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_7" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_8" text="Убежище"/>
+    <string id="Settlements.Settlement.name.Ahideout_steppe_9" text="Убежище"/>
 
     <!-- 已修改 -->
    <!-- 城镇 -->
-    <string id="Settlements.Settlement.name.Atown_A1" text="Shurbyas"/>
-    <string id="Settlements.Settlement.name.Atown_A2" text="Hethshelis"/>
-    <string id="Settlements.Settlement.name.Atown_A3" text="Marahan"/>
-    <string id="Settlements.Settlement.name.Atown_A4" text="Lupsium"/>
-    <string id="Settlements.Settlement.name.Atown_A5" text="Kamtic"/>
-    <string id="Settlements.Settlement.name.Atown_A6" text="Naisia"/>
-    <string id="Settlements.Settlement.name.Atown_A7" text="Kibroha"/>
-    <string id="Settlements.Settlement.name.Atown_A8" text="Jekushen"/>
+    <string id="Settlements.Settlement.name.Atown_A1" text="Сурбуя"/>
+    <string id="Settlements.Settlement.name.Atown_A2" text="Херселес"/>
+    <string id="Settlements.Settlement.name.Atown_A3" text="Марахан"/>
+    <string id="Settlements.Settlement.name.Atown_A4" text="Люпсим"/>
+    <string id="Settlements.Settlement.name.Atown_A5" text="Камдик"/>
+    <string id="Settlements.Settlement.name.Atown_A6" text="Несия"/>
+    <string id="Settlements.Settlement.name.Atown_A7" text="Кироха"/>
+    <string id="Settlements.Settlement.name.Atown_A8" text="Джакушен"/>
 
-    <string id="Settlements.Settlement.name.Atown_B1" text="Mokebo"/>
-    <string id="Settlements.Settlement.name.Atown_B2" text="Vidrudny"/>
-    <string id="Settlements.Settlement.name.Atown_B3" text="Wislaver"/>
-    <string id="Settlements.Settlement.name.Atown_B4" text="Lskmos"/>
-    <string id="Settlements.Settlement.name.Atown_B5" text="Volgonoye"/>
+    <string id="Settlements.Settlement.name.Atown_B1" text="Меркел"/>
+    <string id="Settlements.Settlement.name.Atown_B2" text="Вирдруд"/>
+    <string id="Settlements.Settlement.name.Atown_B3" text="Виславер"/>
+    <string id="Settlements.Settlement.name.Atown_B4" text="Лингикшир"/>
+    <string id="Settlements.Settlement.name.Atown_B5" text="Вольное"/>
 
-    <string id="Settlements.Settlement.name.Atown_EN1" text="Rannajo"/>
-    <string id="Settlements.Settlement.name.Atown_EN2" text="Chiteno"/>
-    <string id="Settlements.Settlement.name.Atown_EN3" text="Kalti"/>
-    <string id="Settlements.Settlement.name.Atown_EN4" text="Zocuk"/>
-    <string id="Settlements.Settlement.name.Atown_EN5" text="Paclu"/>
-    <string id="Settlements.Settlement.name.Atown_EN6" text="Yalunha"/>
+    <string id="Settlements.Settlement.name.Atown_EN1" text="Наланье"/>
+    <string id="Settlements.Settlement.name.Atown_EN2" text="Читино"/>
+    <string id="Settlements.Settlement.name.Atown_EN3" text="Карти"/>
+    <string id="Settlements.Settlement.name.Atown_EN4" text="Зечук"/>
+    <string id="Settlements.Settlement.name.Atown_EN5" text="Паклун"/>
+    <string id="Settlements.Settlement.name.Atown_EN6" text="Яленья"/>
 
-    <string id="Settlements.Settlement.name.Atown_ES1" text="Tian Long"/>
-    <string id="Settlements.Settlement.name.Atown_ES2" text="Bei Yang"/>
-    <string id="Settlements.Settlement.name.Atown_ES3" text="Hai Quan"/>
-    <string id="Settlements.Settlement.name.Atown_ES4" text="Dong Zhou"/>
-    <string id="Settlements.Settlement.name.Atown_ES5" text="Xi Jiang"/>
-    <string id="Settlements.Settlement.name.Atown_ES6" text="Zhen Nan"/>
-    <string id="Settlements.Settlement.name.Atown_ES7" text="Luo An"/>
+    <string id="Settlements.Settlement.name.Atown_ES1" text="Тяньлун"/>
+    <string id="Settlements.Settlement.name.Atown_ES2" text="Бэйян"/>
+    <string id="Settlements.Settlement.name.Atown_ES3" text="Хэцюань"/>
+    <string id="Settlements.Settlement.name.Atown_ES4" text="Дунчжоу"/>
+    <string id="Settlements.Settlement.name.Atown_ES5" text="Сицзянь"/>
+    <string id="Settlements.Settlement.name.Atown_ES6" text="Чжэньань"/>
+    <string id="Settlements.Settlement.name.Atown_ES7" text="Луонань"/>
 
-    <string id="Settlements.Settlement.name.Atown_EW1" text="Koyamaha"/>
-    <string id="Settlements.Settlement.name.Atown_EW2" text="Edote"/>
-    <string id="Settlements.Settlement.name.Atown_EW3" text="Nakera"/>
-    <string id="Settlements.Settlement.name.Atown_EW4" text="Wasaki"/>
-    <string id="Settlements.Settlement.name.Atown_EW5" text="Sakasi"/>
-    <string id="Settlements.Settlement.name.Atown_EW6" text="Nayota"/>
+    <string id="Settlements.Settlement.name.Atown_EW1" text="Ялян"/>
+    <string id="Settlements.Settlement.name.Atown_EW2" text="Ижаньчэн"/>
+    <string id="Settlements.Settlement.name.Atown_EW3" text="Дунбин"/>
+    <string id="Settlements.Settlement.name.Atown_EW4" text="Варин"/>
+    <string id="Settlements.Settlement.name.Atown_EW5" text="Насака"/>
+    <string id="Settlements.Settlement.name.Atown_EW6" text="Гую"/>
 
-    <string id="Settlements.Settlement.name.Atown_K1" text="Bayancoulomb"/>
-    <string id="Settlements.Settlement.name.Atown_K2" text="Keshkirin"/>
-    <string id="Settlements.Settlement.name.Atown_K3" text="Iqbalhaot"/>
-    <string id="Settlements.Settlement.name.Atown_K4" text="Ulaanbari"/>
-    <string id="Settlements.Settlement.name.Atown_K5" text="Batelhada"/>
-    <string id="Settlements.Settlement.name.Atown_K6" text="Arubalin"/>
+    <string id="Settlements.Settlement.name.Atown_K1" text="Баянкулун"/>
+    <string id="Settlements.Settlement.name.Atown_K2" text="Кешкирин"/>
+    <string id="Settlements.Settlement.name.Atown_K3" text="Икбалхот"/>
+    <string id="Settlements.Settlement.name.Atown_K4" text="Уланбари"/>
+    <string id="Settlements.Settlement.name.Atown_K5" text="Бательхада"/>
+    <string id="Settlements.Settlement.name.Atown_K6" text="Арубалин"/>
     
-    <string id="Settlements.Settlement.name.Atown_S1" text="Aosslott"/>
-    <string id="Settlements.Settlement.name.Atown_S2" text="Goteskog"/>
-    <string id="Settlements.Settlement.name.Atown_S3" text="Pilstrand"/>
-    <string id="Settlements.Settlement.name.Atown_S4" text="Aarhjden"/>
-    <string id="Settlements.Settlement.name.Atown_S5" text="Kobenstad"/>
-    <string id="Settlements.Settlement.name.Atown_S6" text="Stockdalen"/>
-    <string id="Settlements.Settlement.name.Atown_S7" text="Helgen"/>
+    <string id="Settlements.Settlement.name.Atown_S1" text="Осло"/>
+    <string id="Settlements.Settlement.name.Atown_S2" text="Гетес"/>
+    <string id="Settlements.Settlement.name.Atown_S3" text="Пилсид"/>
+    <string id="Settlements.Settlement.name.Atown_S4" text="Ахус"/>
+    <string id="Settlements.Settlement.name.Atown_S5" text="Кобентадан"/>
+    <string id="Settlements.Settlement.name.Atown_S6" text="Стокдален"/>
+    <string id="Settlements.Settlement.name.Atown_S7" text="Хеленга"/>
 
-    <string id="Settlements.Settlement.name.Atown_V1" text="Separa"/>
-    <string id="Settlements.Settlement.name.Atown_V2" text="Ursalia"/>
-    <string id="Settlements.Settlement.name.Atown_V3" text="Jintal"/>
-    <string id="Settlements.Settlement.name.Atown_V5" text="Navia"/>
-    <string id="Settlements.Settlement.name.Atown_V6" text="Denuim"/>
-    <string id="Settlements.Settlement.name.Atown_V7" text="Remus"/>
-    <string id="Settlements.Settlement.name.Atown_V8" text="Siverpol"/>
-    <string id="Settlements.Settlement.name.Atown_V9" text="Terdas"/>
+    <string id="Settlements.Settlement.name.Atown_V1" text="Сипара"/>
+    <string id="Settlements.Settlement.name.Atown_V2" text="Усали"/>
+    <string id="Settlements.Settlement.name.Atown_V3" text="Зинтра"/>
+    <string id="Settlements.Settlement.name.Atown_V5" text="Навия"/>
+    <string id="Settlements.Settlement.name.Atown_V6" text="Динеум"/>
+    <string id="Settlements.Settlement.name.Atown_V7" text="Ремус"/>
+    <string id="Settlements.Settlement.name.Atown_V8" text="Свинпул"/>
+    <string id="Settlements.Settlement.name.Atown_V9" text="Телдас"/>
 
     <!-- 已修改 -->
    <!-- 下属村庄 -->
-	<string id="Settlements.Settlement.name.Avillage_A1_1" text="Hulia"/>
-    <string id="Settlements.Settlement.name.Avillage_A1_2" text="Ekayam"/>
-    <string id="Settlements.Settlement.name.Avillage_A1_4" text="Natoni"/>
-    <string id="Settlements.Settlement.name.Avillage_A2_2" text="Archim"/>
-    <string id="Settlements.Settlement.name.Avillage_A2_3" text="Reckstein"/>
-    <string id="Settlements.Settlement.name.Avillage_A3_1" text="Maipu Luo"/>
-    <string id="Settlements.Settlement.name.Avillage_A3_3" text="Galango"/>
-    <string id="Settlements.Settlement.name.Avillage_A4_1" text="Village"/>
-    <string id="Settlements.Settlement.name.Avillage_A4_2" text="Bircombe"/>
-    <string id="Settlements.Settlement.name.Avillage_A4_4" text="Sacupes"/>
-    <string id="Settlements.Settlement.name.Avillage_A5_1" text="Metalle"/>
-    <string id="Settlements.Settlement.name.Avillage_A5_2" text="Sapo"/>
-    <string id="Settlements.Settlement.name.Avillage_A5_3" text="Geshe Library"/>
-    <string id="Settlements.Settlement.name.Avillage_A6_1" text="Linumat"/>
-    <string id="Settlements.Settlement.name.Avillage_A6_2" text="Lacion"/>
-    <string id="Settlements.Settlement.name.Avillage_A6_3" text="Trakurgan"/>
-    <string id="Settlements.Settlement.name.Avillage_A6_4" text="Salekay"/>
-    <string id="Settlements.Settlement.name.Avillage_A7_2" text="Melah"/>
-    <string id="Settlements.Settlement.name.Avillage_A7_3" text="Deedla" />
-    <string id="Settlements.Settlement.name.Avillage_A7_4" text="Yasingu"/>
-    <string id="Settlements.Settlement.name.Avillage_A8_1" text="Avillage"/>
-    <string id="Settlements.Settlement.name.Avillage_A8_2" text="Byakek"/>
-	<string id="Settlements.Settlement.name.Avillage_B1_1" text="Anchar"/>
-    <string id="Settlements.Settlement.name.Avillage_B1_2" text="Patamirski"/>
-    <string id="Settlements.Settlement.name.Avillage_B1_3" text="Besso"/>
-    <string id="Settlements.Settlement.name.Avillage_B1_4" text="Pavlogro"/>
-    <string id="Settlements.Settlement.name.Avillage_B2_1" text="Tapamirsk"/>
-    <string id="Settlements.Settlement.name.Avillage_B2_2" text="Focorleurda"/>
-    <string id="Settlements.Settlement.name.Avillage_B2_3" text="Discjo"/>
-    <string id="Settlements.Settlement.name.Avillage_B3_1" text="Don't Willow"/>
-    <string id="Settlements.Settlement.name.Avillage_B3_2" text="Washerrog"/>
-    <string id="Settlements.Settlement.name.Avillage_B3_3" text="Andreyev"/>
-    <string id="Settlements.Settlement.name.Avillage_B4_1" text="Vitodsk"/>
-    <string id="Settlements.Settlement.name.Avillage_B4_2" text="Ilgin"/>
-    <string id="Settlements.Settlement.name.Avillage_B4_3" text="Balkatanev"/>
-    <string id="Settlements.Settlement.name.Avillage_B4_4" text="Naviski"/>
-    <string id="Settlements.Settlement.name.Avillage_B5_1" text="Hoplov Roka"/>
-    <string id="Settlements.Settlement.name.Avillage_B5_2" text="Langkasusk"/>
-    <string id="Settlements.Settlement.name.Avillage_B5_3" text="Kabuochovka"/>
-    <string id="Settlements.Settlement.name.Avillage_EN1_1" text="Aokexingu"/>
-    <string id="Settlements.Settlement.name.Avillage_EN1_2" text="Gonvoda"/>
-    <string id="Settlements.Settlement.name.Avillage_EN1_3" text="Lucidine"/>
-    <string id="Settlements.Settlement.name.Avillage_EN2_1" text="Herskan Chihi"/>
-    <string id="Settlements.Settlement.name.Avillage_EN2_2" text="Pulcatine"/>
-    <string id="Settlements.Settlement.name.Avillage_EN3_1" text="Pagler"/>
-    <string id="Settlements.Settlement.name.Avillage_EN3_3" text="Hakoro"/>
-    <string id="Settlements.Settlement.name.Avillage_EN4_2" text="Formakoma"/>
-    <string id="Settlements.Settlement.name.Avillage_EN4_4" text="Goxbil"/>
-    <string id="Settlements.Settlement.name.Avillage_EN5_1" text="Gukar"/>
-    <string id="Settlements.Settlement.name.Avillage_EN5_2" text="Tibumo Yavin"/>
-    <string id="Settlements.Settlement.name.Avillage_EN5_4" text="Imrippi"/>
-    <string id="Settlements.Settlement.name.Avillage_EN6_1" text="Vivillage"/>
-    <string id="Settlements.Settlement.name.Avillage_EN6_2" text="Yunsa"/>
-    <string id="Settlements.Settlement.name.Avillage_ES1_2" text="Nanze"/>
-    <string id="Settlements.Settlement.name.Avillage_ES1_3" text="Chaoping"/>
-    <string id="Settlements.Settlement.name.Avillage_ES1_4" text="Qingyun"/>
-    <string id="Settlements.Settlement.name.Avillage_ES2_2" text="Fengjiang"/>
-    <string id="Settlements.Settlement.name.Avillage_ES2_3" text="Shang Yong"/>
-    <string id="Settlements.Settlement.name.Avillage_ES2_4" text="Joaquin"/>
-    <string id="Settlements.Settlement.name.Avillage_ES3_1" text="Sea Head"/>
-    <string id="Settlements.Settlement.name.Avillage_ES3_2" text="Danhan"/>
-    <string id="Settlements.Settlement.name.Avillage_ES3_3" text="Poster"/>
-    <string id="Settlements.Settlement.name.Avillage_ES4_1" text="Shuoyu"/>
-    <string id="Settlements.Settlement.name.Avillage_ES4_3" text="San Yin"/>
-    <string id="Settlements.Settlement.name.Avillage_ES5_1" text="Waterfall"/>
-    <string id="Settlements.Settlement.name.Avillage_ES5_2" text="Hanbin"/>
-    <string id="Settlements.Settlement.name.Avillage_ES5_3" text="Dongyang"/>
-    <string id="Settlements.Settlement.name.Avillage_ES6_1" text="Climbing"/>
-    <string id="Settlements.Settlement.name.Avillage_ES6_2" text="Wind fork"/>
-    <string id="Settlements.Settlement.name.Avillage_ES7_1" text="Lening"/>
-    <string id="Settlements.Settlement.name.Avillage_ES7_2" text="Lichang"/>
-    <string id="Settlements.Settlement.name.Avillage_EW1_1" text="Chang He"/>
-    <string id="Settlements.Settlement.name.Avillage_EW1_2" text="Arai Pool"/>
-    <string id="Settlements.Settlement.name.Avillage_EW2_2" text="Okino Island"/>
-    <string id="Settlements.Settlement.name.Avillage_EW2_3" text="Avillage"/>
-    <string id="Settlements.Settlement.name.Avillage_EW2_4" text="Ishii"/>
-    <string id="Settlements.Settlement.name.Avillage_EW3_2" text="Sanye"/>
-    <string id="Settlements.Settlement.name.Avillage_EW3_3" text="Takakawa"/>
-    <string id="Settlements.Settlement.name.Avillage_EW4_1" text="Xixian"/>
-    <string id="Settlements.Settlement.name.Avillage_EW4_3" text="Statue"/>
-    <string id="Settlements.Settlement.name.Avillage_EW4_4" text="Hamado"/>
-    <string id="Settlements.Settlement.name.Avillage_EW5_1" text="Tian Li"/>
-    <string id="Settlements.Settlement.name.Avillage_EW5_2" text="Nine mouths"/>
-    <string id="Settlements.Settlement.name.Avillage_EW6_1" text="Fuzhige"/>
-    <string id="Settlements.Settlement.name.Avillage_EW6_3" text="Kataoka"/>
-    <string id="Settlements.Settlement.name.Avillage_EW6_4" text="Mito"/>
-	<string id="Settlements.Settlement.name.Avillage_K1_1" text="Ili Gol"/>
-    <string id="Settlements.Settlement.name.Avillage_K1_2" text="Ergen"/>
-    <string id="Settlements.Settlement.name.Avillage_K1_4" text="Avillage"/>
-    <string id="Settlements.Settlement.name.Avillage_K2_1" text="Shiwuguwei"/>
-    <string id="Settlements.Settlement.name.Avillage_K2_2" text="Jaggert"/>
-    <string id="Settlements.Settlement.name.Avillage_K3_1" text="Harlembol"/>
-    <string id="Settlements.Settlement.name.Avillage_K3_2" text="Sainsanda"/>
-    <string id="Settlements.Settlement.name.Avillage_K3_3" text="Hackgar"/>
-    <string id="Settlements.Settlement.name.Avillage_K4_2" text="Bayingacha"/>
-    <string id="Settlements.Settlement.name.Avillage_K4_3" text="Youtu"/>
-    <string id="Settlements.Settlement.name.Avillage_K4_4" text="Ikhur"/>
-    <string id="Settlements.Settlement.name.Avillage_K5_2" text="Bayannaoer"/>
-    <string id="Settlements.Settlement.name.Avillage_K5_3" text="Bortara"/>
-    <string id="Settlements.Settlement.name.Avillage_K5_4" text="Bayandong"/>
-    <string id="Settlements.Settlement.name.Avillage_K6_1" text="Bain Windur"/>
-    <string id="Settlements.Settlement.name.Avillage_K6_2" text="Idel"/>
-    <string id="Settlements.Settlement.name.Avillage_K6_3" text="Arda"/>
-    <string id="Settlements.Settlement.name.Avillage_S1_1" text="Offigen"/>
-    <string id="Settlements.Settlement.name.Avillage_S1_3" text="Tollage"/>
-    <string id="Settlements.Settlement.name.Avillage_S2_1" text="Rifaga"/>
-    <string id="Settlements.Settlement.name.Avillage_S2_2" text="Crivar"/>
-    <string id="Settlements.Settlement.name.Avillage_S3_1" text="Bidlansger"/>
-    <string id="Settlements.Settlement.name.Avillage_S3_2" text="Rocalland"/>
-    <string id="Settlements.Settlement.name.Avillage_S4_1" text="Beta"/>
-    <string id="Settlements.Settlement.name.Avillage_S4_3" text="Gleigaugan"/>
-    <string id="Settlements.Settlement.name.Avillage_S4_4" text="Creeden"/>
-    <string id="Settlements.Settlement.name.Avillage_S5_1" text="Yorva"/>
-    <string id="Settlements.Settlement.name.Avillage_S5_2" text="Talwa"/>
-    <string id="Settlements.Settlement.name.Avillage_S6_1" text="Honesia"/>
-    <string id="Settlements.Settlement.name.Avillage_S6_2" text="Narva"/>
-    <string id="Settlements.Settlement.name.Avillage_S6_3" text="Tekland"/>
-    <string id="Settlements.Settlement.name.Avillage_S7_1" text="Suitlan"/>
-    <string id="Settlements.Settlement.name.Avillage_S7_2" text="Falbergs"/>
-	<string id="Settlements.Settlement.name.Avillage_V1_1" text="Coyne"/>
-    <string id="Settlements.Settlement.name.Avillage_V1_2" text="With Crow"/>
-    <string id="Settlements.Settlement.name.Avillage_V2_1" text="Adalcia"/>
-    <string id="Settlements.Settlement.name.Avillage_V2_2" text="Nuffila"/>
-    <string id="Settlements.Settlement.name.Avillage_V2_3" text="Marov"/>
-    <string id="Settlements.Settlement.name.Avillage_V3_2" text="Zintleskin"/>
-    <string id="Settlements.Settlement.name.Avillage_V3_3" text="Sebas"/>
-    <string id="Settlements.Settlement.name.Avillage_V3_4" text="Lanfield Lapland"/>
-    <string id="Settlements.Settlement.name.Avillage_V5_1" text="East Si Anrol"/>
-    <string id="Settlements.Settlement.name.Avillage_V5_2" text="Ed Marberg"/>
-    <string id="Settlements.Settlement.name.Avillage_V5_3" text="Heckheim"/>
-    <string id="Settlements.Settlement.name.Avillage_V6_1" text="Lanstalia"/>
-    <string id="Settlements.Settlement.name.Avillage_V6_2" text="Frenia"/>
-    <string id="Settlements.Settlement.name.Avillage_V6_3" text="Lanolan"/>
-    <string id="Settlements.Settlement.name.Avillage_V6_4" text="Epicilia"/>
-    <string id="Settlements.Settlement.name.Avillage_V7_1" text="Ledrapolis"/>
-    <string id="Settlements.Settlement.name.Avillage_V7_2" text="Lira Day"/>
-    <string id="Settlements.Settlement.name.Avillage_V8_1" text="Morrowberg"/>
-    <string id="Settlements.Settlement.name.Avillage_V8_2" text="Jade Stade"/>
-    <string id="Settlements.Settlement.name.Avillage_V8_3" text="Mollyheim"/>
-    <string id="Settlements.Settlement.name.Avillage_V9_1" text="Gidans"/>
-    <string id="Settlements.Settlement.name.Avillage_V9_2" text="Area"/>
+	<string id="Settlements.Settlement.name.Avillage_A1_1" text="Хулия"/>
+    <string id="Settlements.Settlement.name.Avillage_A1_2" text="Экаям"/>
+    <string id="Settlements.Settlement.name.Avillage_A1_4" text="Наттони"/>
+    <string id="Settlements.Settlement.name.Avillage_A2_2" text="Ачим"/>
+    <string id="Settlements.Settlement.name.Avillage_A2_3" text="Рекштейн"/>
+    <string id="Settlements.Settlement.name.Avillage_A3_1" text="Майпу"/>
+    <string id="Settlements.Settlement.name.Avillage_A3_3" text="Галанго"/>
+    <string id="Settlements.Settlement.name.Avillage_A4_1" text="Валлод"/>
+    <string id="Settlements.Settlement.name.Avillage_A4_2" text="Билкум"/>
+    <string id="Settlements.Settlement.name.Avillage_A4_4" text="Сакупс"/>
+    <string id="Settlements.Settlement.name.Avillage_A5_1" text="Майталле"/>
+    <string id="Settlements.Settlement.name.Avillage_A5_2" text="Сапо"/>
+    <string id="Settlements.Settlement.name.Avillage_A5_3" text="Гешеку"/>
+    <string id="Settlements.Settlement.name.Avillage_A6_1" text="Линумат"/>
+    <string id="Settlements.Settlement.name.Avillage_A6_2" text="Ласион"/>
+    <string id="Settlements.Settlement.name.Avillage_A6_3" text="Тракурган"/>
+    <string id="Settlements.Settlement.name.Avillage_A6_4" text="Шалека"/>
+    <string id="Settlements.Settlement.name.Avillage_A7_2" text="Малах"/>
+    <string id="Settlements.Settlement.name.Avillage_A7_3" text="Дедел"/>
+    <string id="Settlements.Settlement.name.Avillage_A7_4" text="Ясингу"/>
+    <string id="Settlements.Settlement.name.Avillage_A8_1" text="Вульфо"/>
+    <string id="Settlements.Settlement.name.Avillage_A8_2" text="Биакек"/>
+	<string id="Settlements.Settlement.name.Avillage_B1_1" text="Анкар"/>
+    <string id="Settlements.Settlement.name.Avillage_B1_2" text="Патамирски"/>
+    <string id="Settlements.Settlement.name.Avillage_B1_3" text="Бессо"/>
+    <string id="Settlements.Settlement.name.Avillage_B1_4" text="Павлогро"/>
+    <string id="Settlements.Settlement.name.Avillage_B2_1" text="Тапамирск"/>
+    <string id="Settlements.Settlement.name.Avillage_B2_2" text="Фоколорда"/>
+    <string id="Settlements.Settlement.name.Avillage_B2_3" text="Диджо"/>
+    <string id="Settlements.Settlement.name.Avillage_B3_1" text="Белюген"/>
+    <string id="Settlements.Settlement.name.Avillage_B3_2" text="Вашеррог"/>
+    <string id="Settlements.Settlement.name.Avillage_B3_3" text="Андреев"/>
+    <string id="Settlements.Settlement.name.Avillage_B4_1" text="Витоцк"/>
+    <string id="Settlements.Settlement.name.Avillage_B4_2" text="Илькин"/>
+    <string id="Settlements.Settlement.name.Avillage_B4_3" text="Баркатаньев"/>
+    <string id="Settlements.Settlement.name.Avillage_B4_4" text="Насовский"/>
+    <string id="Settlements.Settlement.name.Avillage_B5_1" text="Хоплофрока"/>
+    <string id="Settlements.Settlement.name.Avillage_B5_2" text="Ланкасуск"/>
+    <string id="Settlements.Settlement.name.Avillage_B5_3" text="Кабуховка"/>
+    <string id="Settlements.Settlement.name.Avillage_EN1_1" text="Оксингу"/>
+    <string id="Settlements.Settlement.name.Avillage_EN1_2" text="Гунвода"/>
+    <string id="Settlements.Settlement.name.Avillage_EN1_3" text="Люцидин"/>
+    <string id="Settlements.Settlement.name.Avillage_EN2_1" text="Хесканчи"/>
+    <string id="Settlements.Settlement.name.Avillage_EN2_2" text="Пукатин"/>
+    <string id="Settlements.Settlement.name.Avillage_EN3_1" text="Паглер"/>
+    <string id="Settlements.Settlement.name.Avillage_EN3_3" text="Хакоро"/>
+    <string id="Settlements.Settlement.name.Avillage_EN4_2" text="Фумакома"/>
+    <string id="Settlements.Settlement.name.Avillage_EN4_4" text="Гокосбил"/>
+    <string id="Settlements.Settlement.name.Avillage_EN5_1" text="Гукар"/>
+    <string id="Settlements.Settlement.name.Avillage_EN5_2" text="Тимуявин"/>
+    <string id="Settlements.Settlement.name.Avillage_EN5_4" text="Имриппи"/>
+    <string id="Settlements.Settlement.name.Avillage_EN6_1" text="Вивоа"/>
+    <string id="Settlements.Settlement.name.Avillage_EN6_2" text="Юнса"/>
+    <string id="Settlements.Settlement.name.Avillage_ES1_2" text="Нанзе"/>
+    <string id="Settlements.Settlement.name.Avillage_ES1_3" text="Чаопин"/>
+    <string id="Settlements.Settlement.name.Avillage_ES1_4" text="Цинъюнь"/>
+    <string id="Settlements.Settlement.name.Avillage_ES2_2" text="Фэнцзян"/>
+    <string id="Settlements.Settlement.name.Avillage_ES2_3" text="Шаньюнь"/>
+    <string id="Settlements.Settlement.name.Avillage_ES2_4" text="Хоакин"/>
+    <string id="Settlements.Settlement.name.Avillage_ES3_1" text="Хайтоу"/>
+    <string id="Settlements.Settlement.name.Avillage_ES3_2" text="Денхэм"/>
+    <string id="Settlements.Settlement.name.Avillage_ES3_3" text="Гантай"/>
+    <string id="Settlements.Settlement.name.Avillage_ES4_1" text="Шуо Юй"/>
+    <string id="Settlements.Settlement.name.Avillage_ES4_3" text="Шаньинь"/>
+    <string id="Settlements.Settlement.name.Avillage_ES5_1" text="Шуй По"/>
+    <string id="Settlements.Settlement.name.Avillage_ES5_2" text="Ханьбин"/>
+    <string id="Settlements.Settlement.name.Avillage_ES5_3" text="Дунъян"/>
+    <string id="Settlements.Settlement.name.Avillage_ES6_1" text="Панму"/>
+    <string id="Settlements.Settlement.name.Avillage_ES6_2" text="Фэнчакоу"/>
+    <string id="Settlements.Settlement.name.Avillage_ES7_1" text="Ленинг"/>
+    <string id="Settlements.Settlement.name.Avillage_ES7_2" text="Личан"/>
+    <string id="Settlements.Settlement.name.Avillage_EW1_1" text="Чжанхэ"/>
+    <string id="Settlements.Settlement.name.Avillage_EW1_2" text="Пруд Арай"/>
+    <string id="Settlements.Settlement.name.Avillage_EW2_2" text="Окинава"/>
+    <string id="Settlements.Settlement.name.Avillage_EW2_3" text="Айзо"/>
+    <string id="Settlements.Settlement.name.Avillage_EW2_4" text="Шицзинь"/>
+    <string id="Settlements.Settlement.name.Avillage_EW3_2" text="Санно"/>
+    <string id="Settlements.Settlement.name.Avillage_EW3_3" text="Такагава"/>
+    <string id="Settlements.Settlement.name.Avillage_EW4_1" text="Сисянь"/>
+    <string id="Settlements.Settlement.name.Avillage_EW4_3" text="Цзинъен"/>
+    <string id="Settlements.Settlement.name.Avillage_EW4_4" text="Хамадо"/>
+    <string id="Settlements.Settlement.name.Avillage_EW5_1" text="Тяньли"/>
+    <string id="Settlements.Settlement.name.Avillage_EW5_2" text="Цзюкоу"/>
+    <string id="Settlements.Settlement.name.Avillage_EW6_1" text="Фужиге"/>
+    <string id="Settlements.Settlement.name.Avillage_EW6_3" text="Катаока"/>
+    <string id="Settlements.Settlement.name.Avillage_EW6_4" text="Мито"/>
+	<string id="Settlements.Settlement.name.Avillage_K1_1" text="Река Или"/>
+    <string id="Settlements.Settlement.name.Avillage_K1_2" text="Эрген"/>
+    <string id="Settlements.Settlement.name.Avillage_K1_4" text="Эрраг"/>
+    <string id="Settlements.Settlement.name.Avillage_K2_1" text="Шиугувэй"/>
+    <string id="Settlements.Settlement.name.Avillage_K2_2" text="Джаггерт"/>
+    <string id="Settlements.Settlement.name.Avillage_K3_1" text="Харрумбор"/>
+    <string id="Settlements.Settlement.name.Avillage_K3_2" text="Саиншанда"/>
+    <string id="Settlements.Settlement.name.Avillage_K3_3" text="Хакль"/>
+    <string id="Settlements.Settlement.name.Avillage_K4_2" text="Баингача"/>
+    <string id="Settlements.Settlement.name.Avillage_K4_3" text="Юту"/>
+    <string id="Settlements.Settlement.name.Avillage_K4_4" text="Ихур"/>
+    <string id="Settlements.Settlement.name.Avillage_K5_2" text="Баян-Нур"/>
+    <string id="Settlements.Settlement.name.Avillage_K5_3" text="Бортала"/>
+    <string id="Settlements.Settlement.name.Avillage_K5_4" text="Баяндун"/>
+    <string id="Settlements.Settlement.name.Avillage_K6_1" text="Баин Вендор"/>
+    <string id="Settlements.Settlement.name.Avillage_K6_2" text="Идер"/>
+    <string id="Settlements.Settlement.name.Avillage_K6_3" text="Арда"/>
+    <string id="Settlements.Settlement.name.Avillage_S1_1" text="Офиген"/>
+    <string id="Settlements.Settlement.name.Avillage_S1_3" text="Толеджен"/>
+    <string id="Settlements.Settlement.name.Avillage_S2_1" text="Лифага"/>
+    <string id="Settlements.Settlement.name.Avillage_S2_2" text="Кривар"/>
+    <string id="Settlements.Settlement.name.Avillage_S3_1" text="Бидерансир"/>
+    <string id="Settlements.Settlement.name.Avillage_S3_2" text="Рокаллан"/>
+    <string id="Settlements.Settlement.name.Avillage_S4_1" text="Бета"/>
+    <string id="Settlements.Settlement.name.Avillage_S4_3" text="Глеголган"/>
+    <string id="Settlements.Settlement.name.Avillage_S4_4" text="Кридон"/>
+    <string id="Settlements.Settlement.name.Avillage_S5_1" text="Йорва"/>
+    <string id="Settlements.Settlement.name.Avillage_S5_2" text="Талва"/>
+    <string id="Settlements.Settlement.name.Avillage_S6_1" text="Хенесс"/>
+    <string id="Settlements.Settlement.name.Avillage_S6_2" text="Нарва"/>
+    <string id="Settlements.Settlement.name.Avillage_S6_3" text="Теклан"/>
+    <string id="Settlements.Settlement.name.Avillage_S7_1" text="Сьютлен"/>
+    <string id="Settlements.Settlement.name.Avillage_S7_2" text="Фальберг"/>
+	<string id="Settlements.Settlement.name.Avillage_V1_1" text="Койн"/>
+    <string id="Settlements.Settlement.name.Avillage_V1_2" text="Ханькело"/>
+    <string id="Settlements.Settlement.name.Avillage_V2_1" text="Адалесия"/>
+    <string id="Settlements.Settlement.name.Avillage_V2_2" text="Нуфила"/>
+    <string id="Settlements.Settlement.name.Avillage_V2_3" text="Маров"/>
+    <string id="Settlements.Settlement.name.Avillage_V3_2" text="Зинтлескин"/>
+    <string id="Settlements.Settlement.name.Avillage_V3_3" text="Себас"/>
+    <string id="Settlements.Settlement.name.Avillage_V3_4" text="Лапланд"/>
+    <string id="Settlements.Settlement.name.Avillage_V5_1" text="Ист Анрол"/>
+    <string id="Settlements.Settlement.name.Avillage_V5_2" text="Эд Марберг"/>
+    <string id="Settlements.Settlement.name.Avillage_V5_3" text="Хекхайм"/>
+    <string id="Settlements.Settlement.name.Avillage_V6_1" text="Ланстария"/>
+    <string id="Settlements.Settlement.name.Avillage_V6_2" text="Фриния"/>
+    <string id="Settlements.Settlement.name.Avillage_V6_3" text="Ланолан"/>
+    <string id="Settlements.Settlement.name.Avillage_V6_4" text="Эпицилия"/>
+    <string id="Settlements.Settlement.name.Avillage_V7_1" text="Ледраполи"/>
+    <string id="Settlements.Settlement.name.Avillage_V7_2" text="Лирали"/>
+    <string id="Settlements.Settlement.name.Avillage_V8_1" text="Морроберг"/>
+    <string id="Settlements.Settlement.name.Avillage_V8_2" text="Ядерштадт"/>
+    <string id="Settlements.Settlement.name.Avillage_V8_3" text="Морихейм"/>
+    <string id="Settlements.Settlement.name.Avillage_V9_1" text="Гидденс"/>
+    <string id="Settlements.Settlement.name.Avillage_V9_2" text="Арея"/>
     <!-- 已修改 -->
     
     <!-- 新介绍开始 -->
-    <string id="CityIntroductionJDY06"  text="Zhen Nan Town County is located in the southeast of the Yan Dynasty and at the southern foot of the Qinling Mountains. It is the largest city in the south of the Yan Dynasty. Its terrain is high in the northwest, flat, with a lot of arable land, and low in the southeast, with low-lying terrain and many forests. The merchants of Yan who traveled south along the Qinling Mountains often stopped here, and at the same time promoted the local prosperity. When the black waves hit, this was the first city to be impacted. Later, it was named 'Zhennan' to commemorate the resistance to the black waves here. The Federation had to give up the idea of attacking the Yan Dynasty from the south."/>
-    <string id="CityIntroductionJDY07"  text="Luo'an City is located in the north of Tianlong City, echoing with Tianlong City. Luo'an City faces Luoshui in the north and Weiran Mountain in the east. It guards the grain route to the north of the empire. It is also the last line of defense in the north of Tianlong City. The Emperor of the Yan Dynasty once defeated the five-nation coalition forces that invaded by the Luoshui. According to legend, the god of Luoshui came to teach the ancestors of the Yan people to fish with nets, raise livestock, cultivate slash-and-burn, grow mulberry and weave, produce and live, and built the first Yan city, 'Luocheng'. The Luoshui flooded several times, the ancestors of the Yan tribe moved south, and most people migrated to Tianlong City. After the attack of the black waves, they rebuilt the northern city of the empire and named it 'Luoan', which means: 'Luoshui is safe, the world is safe' ."/>
-    <string id="CityIntroductionNKN04"  text="Aarhus City, which means the place of fishing and hunting, is located on the seaside in the mountains in the southern part of the Nakan Peninsula. The northern country has a severe cold climate and extremely low crop yields. Before the start of the pirate business, the people of the northern country mainly lived on fishing and hunting. With its superior geographical location, Sefrag developed from the original fishing port into an important fur and timber trade center."/>
-    <string id="CityIntroductionNKN07"  text="Helenger City, once the city of the legendary pirate Ragnar and the shield girl Lagatha, is located in the cliff valley on the southwestern border of the Nakan Peninsula, a natural harbor in the Northland with a very short freezing period. Ragnar built it into a fortified pirate fortress from the vast wealth he plundered, where bloodthirsty Northern warriors gathered to plunder everything in the known world by boat. But Ragnar was defeated by the Dragon Empire Yan Dynasty at the height of his pirate career, and his remains were eventually buried there."/>
-    <string id="CityIntroductionRBL03"  text="Mara Seoul, desert white lotus. A city of sea and land trade located deep on the south bank of the Mapo Sea, a desert oasis city with a dry climate, its white buildings are hidden in the shade of date palms, palms and olive trees, like a white lotus floating in the Mapo Sea."/>
-    <string id="CityIntroductionRBL07"  text="Kiroha, the white city. It is close to the south bank of the Marbo Sea and is influenced by the warm current of the Western Ocean. The climate is mild and the trees are evergreen. It is a pearl in the vast desert in the southern part of the mainland. The generosity of Allah to the Ebramon people, the Ebramon people are shrewd businessmen. With the good relationship with the Yan Dynasty on the north coast and the excellent geographical location, the development of sea trade and fishing has accumulated a lot for the city of Sias. Wealth, and made brilliant artistic and cultural achievements."/>
-    <string id="CityIntroductionPRU05"  text="Navia, a hilly land of wheat fields. Located on the hills in the middle of the continent. The trade center city-state of Pruoyoun, the hometown of the current King Pruoyoun, during the war with the Yan Dynasty, because the inland cities were on the front line of the war against the Yan Dynasty for a long time or were under siege, the powerful army of the city-state of Gasmachu made the The advantages of the mountains were fully exerted, and the financial and military power of the city-state was greatly enhanced during the war, which eventually dominated the entire Pruoyoun Federation."/>
-    <string id="CityIntroductionPRU08"  text="Swinpool, the city of the Holy Light. It is located in the west of Puruoyoun, backed by a vast plain, with evergreen seasons, pleasant climate and extremely developed agriculture. It is the first granary in the western part of the mainland. The Puryoung people believe that this is the place God has given them, the place where the sun shines last. The Gothic cathedral standing in the city represents the firm belief of the Pruoyoun people. In the long war between the Yan Dynasty and the Pruoyoun, the Dragon Empire has never conquered this city that represents the strength and courage of the Pruoyoun people."/>
-    <string id="CityIntroductionWLT01"  text="The city of Merkel, the military fortress of the Urasovi Legion in the forest swamp area, the Urasovi people are always on the way of continuous migration, the weak are eliminated, and only the strong warriors and the brave women who followed them survived. In this way, they developed into a strong and tenacious race, forming a legion system where all the people were soldiers. They don't care much about the beautiful and delicate things in life, and what they consider feminine in learning. So what you see in Siwumu City is an unbeautiful stone and wood barrier, which symbolizes the tyrannical military strength of the Legion."/>
-    <string id="CityIntroductionWLT04"  text="The holy site of Urassovi on the shores of Lake Luna, Linhix County. The Ulasovians live in the forests, mountains, swamps and other wilderness areas deep in the Xijue continent. They are savage and sturdy. They hate keeping their own feet by nature, and yearn for a free and pioneering way of life. They keep moving until they reach the shore of Luna Lake. Legend has it that the moon god came to the world and washed the manic hearts of the Urasovi people with the deep and tranquil lake water. They lived by the lake and created the first settlement in the history of Urasovii, the holy land-Linhix County."/>
-    <string id="CityIntroductionMGR01"  text="Bayankulun, meaning grassland river valley, rich water and grass, paradise for nomads. The Cossacks initially built a rammed-earth city here as a trading post with their suzerainty, the Yan Dynasty. But now standing in the city is the white flag of the Mongol Khan. The Mongolian people are ruthless and powerful conquerors. They believe that Changshengtian will bestow the world's wealth on the bravest warriors. Khan's iron cavalry conquered the grasslands. everything and turned the Cossacks into serfs in the corral."/>
-    <string id="CityIntroductionMGR02"  text="The Keshkxilin said by the Mongolians means 'The plateau of happiness and sacredness'. The ancestors of Mongolian lived by water and grass on the plateau. At that time, the capital was a mobile place, the location was not fixed, and they were nomadic on the grassland. Later, the merchants of the Yan Dynasty went west to open up trade routes, often resting here, and set up city defense and supply stations. Since then, this high-lying place in the central and northern part of the grassland has gradually become the largest city and commercial and religious center in the Mobei Plateau. After the Prairie King unified all the forces on the Prairie, he defeated the Yan Dynasty's garrison here and turned it into the capital."/>
-    <string id="CityIntroductionMGR04"  text="Ulaanbali, located on the west bank of Saijia Lake, is the most fertile land in Mongolia and the largest grazing area for Mongolians. The Urasovi Legion has been coveted for a long time, and sent a legion to occupy this grassland. In order to drive away the Urasovi Legion, the Prairie King launched a fierce battle here, dyeing the grassland and the city walls red, so it was called 'Red' From then on, the Mongolian people often said: 'The place where the king of the grasslands wields the whip is the place where the Mongolian people graze.'"/>
-    <string id="CityIntroductionMGR05"  text="Batel Hada, the oldest city in the steppe. It is located on the high platform on the right bank of Saiyijia Lake, at the intersection of three commercial roads in the grassland, and facing the Yan Dynasty across the lake. Now it belongs to Mungo Khan, who often looks at it from the pavilion and attic of the Batel Hada Palace. Behind the mountains in the distance is the rich territory of the Yan Dynasty, and he longs to be able to graze in that territory one day."/>
+    <string id="CityIntroductionJDY06"  text="Чжэньань расположен на юго-востоке династии Ян, у южного подножия гор Циньлин, и является крупнейшим городом на юге династии Ян. Рельеф местности высокий на северо-западе, плоский и пахотный, и низкий на юго-востоке, низменный и лесистый. Купцы из Ян часто останавливались здесь для торговли на юг вдоль гор Циньлин, способствуя процветанию региона. Это был первый город, пострадавший от Черной волны, и позже он был назван 'Чжэнь Нань' в честь Черной волны, с которой он боролся, а также служил сдерживающим фактором для конфедерации Фу на юге, чьи бесконечные леса заставили их отказаться от нападения на династию Ян с юга."/>
+    <string id="CityIntroductionJDY07"  text="Луоань расположен на севере города Тяньлун, перекликаясь с городом Тяньлун. Город Луоань сталкивается с Луошуй на севере и горой Вейрань на востоке. Он охраняет путь зерна на север империи. Это также последняя линия обороны на севере города Тяньлун. Когда-то император династии Ян нанесли поражение коалиционным силам пяти стран, вторгшимся Луошуй. Согласно легенде, бог Луошуй пришел, чтобы научить предков народа Ян ловить рыбу сетями, выращивать скот, возделывать подсечно-огневое хозяйство, выращивать шелковицу и ткать, производить и жить, и построил первый город, который назвали «Лочэн». Луошуй несколько раз затоплялся, предки племени Ян двинулись на юг, и большинство людей переселилось в город Тяньлун. После нападения черных волн они отстроили северный город империи и назвали его «Луоань», что означает: «Если Луошуй в безопасности, мир тоже в безопасности»."/>
+    <string id="CityIntroductionNKN04"  text="Город Ахус, что означает 'рыбалка и охота', расположен в южной части полуострова Накан на берегу моря в горах. Климат северной страны был суровым, а урожаи - крайне низкоурожайными. До появления пиратства жители севера жили в основном рыболовством и охотой, а Севераг благодаря своему расположению превратился из первоначального рыбацкого порта в важный центр торговли мехом и древесиной."/>
+    <string id="CityIntroductionNKN07"  text="Город Хеленга, когда-то город легендарного пирата Рагнара и девушки-щита Лагаты, расположен в долине утесов на юго-западной границе полуострова Накан, естественной гавани в Северных землях с очень коротким периодом замерзания. Рагнар превратил его в укрепленную пиратскую крепость из награбленных им огромных богатств, где собрались кровожадные северные воины, чтобы разграбить все в известном мире на лодках. Но Рагнар потерпел поражение от династии Ян из Империи Драконов на пике своей пиратской карьеры, и его останки в конце концов были захоронены там."/>
+    <string id="CityIntroductionRBL03"  text="Город Марахан, белый лотос пустыни. Город сухопутной и морской торговли в глубине южных берегов Мраморного моря, пустынный оазис с сухим климатом, чьи белые здания скрыты в зеленой тени финиковых пальм, пальм и оливковых деревьев, как белые цветы лотоса, плавающие в Мраморном море."/>
+    <string id="CityIntroductionRBL07"  text="Кироха, Белый город. Граничит с южным берегом Мраморного моря, находится под влиянием теплых западных течений, с умеренным климатом и вечнозелеными деревьями, жемчужина обширной пустыни на юге континента Сика. Раббламы были проницательными купцами и, благодаря хорошим отношениям с северной династией Ян и удачному расположению, развитию морской торговли и рыболовства накопили для города Сеасара огромное богатство, а также великолепные художественные и культурные достижения."/>
+    <string id="CityIntroductionPRU05"  text="Навия, холмистая земля пшеничных полей. Расположен на холмах посреди континента Сика. Торговый центр город-государство Пруэн, родной город нынешнего короля Пруэна, во время войны с династией Ян, потому что внутренние города долгое время находились на передовой войны против династии Ян или находились в осаде, мощная армия города-государства Гасмачу сделала все возможное. Преимущества гор были полностью задействованы, а финансовая и военная мощь города-государства значительно возросла во время войны, которая в конечном итоге доминировала над всей Федерацией Пруэн."/>
+    <string id="CityIntroductionPRU08"  text="Свинпул, город Святого Света. Он расположен на западе Пруэна, за обширной равниной, с вечнозелеными сезонами, приятным климатом и чрезвычайно развитым сельским хозяйством, и является первым зернохранилищем в западной части Сики. Люди Пруэна верят, что это место, которое дал им Бог, место, где солнце светит последним. Готический собор, стоящий в городе, олицетворяет твердую веру народа Пруэн. В долгой войне между династией Ян и Пруэном Империя Драконов так и не завоевала этот город, олицетворяющий силу и мужество народа Пруэн."/>
+    <string id="CityIntroductionWLT01"  text="Город Меркел, военная крепость Легиона Вультес в лесоболотной местности, народ Вультеса всегда в пути непрерывного переселения, слабые уничтожаются, а уцелели лишь сильные воины и отважные женщины, последовавшие за ними. Таким образом, они превратились в сильную и живучую расу, сформировав систему легионов, где все люди были солдатами. Они не обращают особого внимания на красивые и нежные вещи в жизни, а также на то, что они считают женственными. Итак, то, что вы видите в городе Сивуму, — это некрасивый барьер из камня и дерева, который символизирует тираническую военную мощь Легиона."/>
+    <string id="CityIntroductionWLT04"  text="Святое место вультцев на берегу озера Луна, графство Лингикшир. Вультессы живут в лесах, горах, болотах и ​​других диких местах в глубине континента Сика. Они дикие и крепкие. Они ненавидят стоять на ногах по своей природе и жаждут свободного и новаторского образа жизни. Они продолжают двигаться, пока не достигнут берега Луна. Легенда гласит, что Бог Луны пришел в мир и омыл безумные сердца народа Вультес глубокой и спокойной озерной водой, они жили у озера и создали первое поселение в истории Вультеса, святой земли - округа Линхикс."/>
+    <string id="CityIntroductionMGR01"  text="Баянкулун, что означает степная речная долина с обилием воды и травы, была раем для кочевников. Изначально казаки построили здесь глинобитный город в качестве торгового пункта со своим сюзереном - государством династии Ян. Но теперь город стоит под белым знаменем могрианского хана, холодного и властного завоевателя, который верил, что Вечное Небо одарит всеми богатствами мира самых храбрых воинов, чьи железные всадники покорили степь и превратили казаков в крепостных в загоне."/>
+    <string id="CityIntroductionMGR02"  text="Кешкирин, по словам могрианцев, означает «плато счастья и святости». Предки могрианцев жили водой и травой на плато, в то время столица была подвижным местом, местонахождение не было фиксированным, и они кочевали по пастбищам. Позже купцы династии Ян отправились на запад, чтобы открыть торговые пути, часто останавливаясь здесь, и устроили оборону города и станции снабжения. С тех пор это место в северо-центральной части степи, на возвышенности, постепенно стало крупнейшим городом, торговым и религиозным центром в высокогорном регионе северной пустыни. После того, как король степи объединил все силы, он разбил здесь гарнизон династии Ян и превратил его в столицу."/>
+    <string id="CityIntroductionMGR04"  text="Уланбали, расположенный на западном берегу «богатого моря» озера Сайджа, является самой плодородной землей в Могриании и крупнейшим пастбищем для могрианцев. Легион Вультес был желанным в течение долгого времени, и послал легион, чтобы занять эти луга.Чтобы отогнать легион Урасов, Король прерий начал здесь ожесточенную битву, окрасив луга и городские стены в красный цвет, так что это было называемый «Красный». С тех пор могрианский народ часто говорил: «Место, где король степи владеет кнутом, - это место, где пасутся могрианские люди»."/>
+    <string id="CityIntroductionMGR05"  text="Бательхада, древнейший город в степи. Он расположен на высокой платформе на правом берегу озера Сайджа, на пересечении трех торговых дорог в пастбищах, напротив династии Ян через озеро. Теперь он принадлежит Мунго Хану, который часто смотрит на него из павильона и чердака дворца Бательхада. За горами вдалеке находится богатая территория династии Ян, и он мечтает однажды пастись на этой территории."/>
     <!-- 新介绍结束 -->
 
    <!-- ↓Don't translate these things↓ -->
@@ -570,7 +570,7 @@
 	<string id="Settlements.Settlement.text.castle_village_EN1_1" text="Varagos sits on the banks of the Arris River, where small rivers from the highlands flow into the deep Lake Ophrtis. The soil is not very fertile, But enough to feed sheep."/>
     <string id="Settlements.Settlement.text.castle_village_EN2_1" text="Rocana is located on the eastern shore of Lake Laconis. This muddy, low-lying land is ideal for growing flax."/>
     <string id="Settlements.Settlement.text.castle_village_EN3_1" text="Lessos is located on a high plateau in the Delua Mountains. Highland cattle thrive on the highland pastures here."/>
-    <string id="Settlements.Settlement.text.castle_village_EN4_1" text="Gaos is located in the hills east of the empire, in the broad valley of Mizeyard. Nomads once occupied this place, and the village takes its name from their language The name for 'cow'."/>
+    <string id="Settlements.Settlement.text.castle_village_EN4_1" text="Gaos is located in the hills east of the empire, in the broad valley of Mizeyard. Nomads once occupied this place, and the village takes its name from their language The name for "cow"."/>
     <string id="Settlements.Settlement.text.castle_village_EN5_1" text="Atelion is located in the valley of Nevis, where a slow, icy current flows into Lake Laconis. This flat, moist land is suitable for growing flax. "/>
     <string id="Settlements.Settlement.text.castle_village_EN6_1" text="Ataconia sits on a plateau in front of the Delua Mountains. Locals are good at spotting silver deposits exposed by runoff from the mountains."/>
     <string id="Settlements.Settlement.text.castle_village_EN7_1" text="Ebinosa is located in the extreme north of the Empire, just on the southern bank of the Glacier Lake on the Iltam transport line, Lake Laconis and Lake Tanasis There is a steady stream of boats in between. The area is relatively sparsely populated, but there are large herds of cattle grazing in the lush meadows."/>

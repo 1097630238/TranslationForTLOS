@@ -149,21 +149,6 @@
 
   <!-- 文件CustomDefaultFeats.cs结束 -->
 
-  <!-- 文件HarmonyEntityHit.cs开始 -->
-   <!-- HarmonyEntityHit左下角信息开始 -->
-    <string id="strSikaInformationMessage010" text="3 bois"/>
-    <string id="strSikaInformationMessage011" text="2 bois"/>
-    <string id="strSikaInformationMessage012" text="1 bois"/>
-    <string id="strSikaInformationMessage013" text="3 pierres"/>
-    <string id="strSikaInformationMessage014" text="2 pierres"/>
-    <string id="strSikaInformationMessage015" text="1 pierre"/>
-    <string id="strSikaInformationMessage016" text="You acquire"/>
-    <string id="strSikaInformationMessage017" text="Vous ne pouvez pas acquérir des ressources à mains nues !"/>
-    <string id="strSikaInformationMessage018" text="Tu extrais toutes les pierres ! Tu obtiens 5 pierres !"/>
-    <string id="strSikaInformationMessage019" text="Vous abattez l'arbre, vous obtenez 5 bois !"/>
-   <!-- HarmonyEntityHit左下角信息结束 -->
-  <!-- 文件HarmonyEntityHit.cs结束 -->
-
   <!-- 文件FirstSceneNotificationData.cs开始 -->
    <!-- FirstSceneNotificationData过场动画文本开始 -->
     <string id="strSikaInformationScene1001" text="Tu as reçu la lettre de Vilken au chevalier Sika."/>

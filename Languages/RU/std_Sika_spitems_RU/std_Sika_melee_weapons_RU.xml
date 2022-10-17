@@ -7,249 +7,249 @@
  <!-- 近战武器的英文文本 -->
  <!-- 双手类武器 -->
   <!-- 炎朝双手 -->
-    <string id="THJDY01" text="Hoe" />
+    <string id="THJDY01" text="Мотыга" />
   <!-- 普若尤恩双手 -->
-    <string id="THPRU01" text="Honour Knight Two Handed Sword" />
-    <string id="THPRU02" text="Bandit Two Handed Sword" />
+    <string id="THPRU01" text="Двуручный меч прославленного рыцаря" />
+    <string id="THPRU02" text="Двуручный меч бандита" />
   <!-- 埃布拉蒙双手 -->
-    <string id="THRBL01" text="Mameluke Guard Axe" />
-    <string id="THRBL02" text="Mameluke Guard Two Handed Mace" />
-    <string id="THRBL03" text="Mameluke Heavy Calavy Mace" />
-    <string id="THRBL04" text="Mameluke Master Two Handed Mace" />
-    <string id="THRBL05" text="Mameluke Elite Guard Mace" />
-    <string id="THRBL06" text="Rabblam Noble Two Handed Scimitar" />
+    <string id="THRBL01" text="Топор мамлюка-стража" />
+    <string id="THRBL02" text="Двуручная булава мамлюка-стража" />
+    <string id="THRBL03" text="Булава тяжелого конного мамлюка" />
+    <string id="THRBL04" text="Двуручная булава главного мамлюка" />
+    <string id="THRBL05" text="Булава главного стража-мамлюка" />
+    <string id="THRBL06" text="Двуручный скимитар раббламской знати" />
   <!-- 纳堪维亚双手 -->
-    <string id="THNKN01" text="Nekenia Huntsman Two Handed Axe" />
-    <string id="THNKN02" text="Nekenia Noble Two Handed Axe" />
+    <string id="THNKN01" text="Двуручный топор охотника Некении" />
+    <string id="THNKN02" text="Двуручный топор некенской знати" />
   <!-- 乌拉索维双手 -->
-    <string id="THWLT01" text="Felling Axe" />
-    <string id="THWLT02" text="Wulltes Two Handed Axe" />
-    <string id="THWLT03" text="Wulltes Rider Axe" />
-    <string id="THWLT04" text="Wulltes Two Handed War Axe" />
-    <string id="THWLT05" text="Wulltes Shock Axe" />
-    <string id="THWLT06" text="Wulltes Two Handed Stick" />
-    <string id="THWLT07" text="Wulltes Warrior Bardiche" />
-    <string id="THWLT08" text="Wulltes Valiant Bardiche" />
-    <string id="THWLT09" text="Wulltes Great Bardiche" />
+    <string id="THWLT01" text="Двуручный топор" />
+    <string id="THWLT02" text="Вультесский двуручный топор" />
+    <string id="THWLT03" text="Вультесский топор всадника" />
+    <string id="THWLT04" text="Вультесский двуручный боевой топор" />
+    <string id="THWLT05" text="Топор ударного воина" />
+    <string id="THWLT06" text="Вультесский двуручный жезл" />
+    <string id="THWLT07" text="Бердыш вультесского воина" />
+    <string id="THWLT08" text="Бердыш вультесского героя" />
+    <string id="THWLT09" text="Вультесский большой бердыш" />
   <!-- 落月双手 -->
-    <string id="THLMC01" text="Lomoca Katana" />
-    <string id="THLMC02" text="Lomoca Samurai Katana" />
-    <string id="THLMC03" text="Lomoca Nodachi" />
+    <string id="THLMC01" text="Катана Ломока" />
+    <string id="THLMC02" text="Катана самурая" />
+    <string id="THLMC03" text="Нодати" />
   <!-- 雅瑞安双手 -->
-    <string id="THYRN01" text="Yarian Warrior Two Handed Mace" />
-    <string id="THYRN02" text="Yarian Warrior Great Mace" />
-    <string id="THYRN03" text="Vultur War Mace" />
+    <string id="THYRN01" text="Двуручная булава ярийского воина" />
+    <string id="THYRN02" text="Большая булава ярийского воина" />
+    <string id="THYRN03" text="Боевая булава стервятника" />
   <!-- 无文化特殊双手 -->
-    <string id="THSTY01" text="Dark Broadsword" />
-    <string id="THSTY02" text="Dreamland Greatsword" />
-    <string id="THSTY03" text="Leithanien Defects" />
+    <string id="THSTY01" text="Темный широкий меч" />
+    <string id="THSTY02" text="Большой меч мечты" />
+    <string id="THSTY03" text="Остатки Каприни" />
   <!-- 强盗双手 -->
-    <string id="THBDT01" text="Deserters Two Handed Sword" />
-    <string id="THBDT02" text="Wild Woods Two Handed Axe" />
-    <string id="THBDT03" text="Wild Woods Ranger Axe" />
-    <string id="THBDT04" text="Pirate Two Handed Axe" />
-    <string id="THBDT05" text="Fearless Warrior Two Handed Axe" />
+    <string id="THBDT01" text="Двуручный меч дезертира" />
+    <string id="THBDT02" text="Двуручный топор лесника" />
+    <string id="THBDT03" text="Двуручный топор лесного рейнджера" />
+    <string id="THBDT04" text="Двуручный топор пирата" />
+    <string id="THBDT05" text="Двуручный топор бесстрашного воина" />
   <!-- 特殊小家族双手 -->
-    <string id="THMNR01" text="Devour Demons Stick" />
+    <string id="THMNR01" text="Жезл демона-пожирателя" />
   <!-- 艾灵族双手 -->
-    <string id="THELN01" text="Elin Two Handed Sword" />
+    <string id="THELN01" text="Двуручный меч Элин" />
 
  <!-- 双手类武器结束 -->
 
  <!-- 单手类武器开始 -->
   <!-- 炎朝单手 -->
-    <string id="OHJDY01" text="Short Heng Sword" />
-    <string id="OHJDY02" text="Heng Sword" />
-    <string id="OHJDY03" text="Yanling Sword" />
-    <string id="OHJDY04" text="Tai Ji Sword" />
-    <string id="OHJDY05" text="Long Yanling Sword" />
-    <string id="OHJDY06" text="Yan Battle Axe" />
-    <string id="OHJDY07" text="Heavy Heng Sword" />
-    <string id="OHJDY08" text="Farm Sickle" />
-    <string id="OHJDY09" text="Border Infantry Sword" />
-    <string id="OHJDY10" text="Border Halberdier Sword" />
-    <string id="OHJDY11" text="Protectorate Halberdier Sword" />
-    <string id="OHJDY12" text="Jin Gua" />
+    <string id="OHJDY01" text="Короткий меч" />
+    <string id="OHJDY02" text="Меч" />
+    <string id="OHJDY03" text="Меч Яньлин" />
+    <string id="OHJDY04" text="Меч Тайцзы" />
+    <string id="OHJDY05" text="Длинный меч Яньлин" />
+    <string id="OHJDY06" text="Боевой топор Ян" />
+    <string id="OHJDY07" text="Тяжелый меч" />
+    <string id="OHJDY08" text="Серп фермера" />
+    <string id="OHJDY09" text="Меч пограничной пехоты" />
+    <string id="OHJDY10" text="Меч пограничного алебардиста" />
+    <string id="OHJDY11" text="Меч гвардии алебарды" />
+    <string id="OHJDY12" text="Цзиньгуа" />
   <!-- 普若尤恩单手 -->
-    <string id="OHPRU01" text="Pick" />
-    <string id="OHPRU02" text="Prouen Militia Sword" />
-    <string id="OHPRU03" text="Prouen Sword" />
-    <string id="OHPRU04" text="Prouen Infantry Sword" />
-    <string id="OHPRU05" text="Prouen Short Sword" />
-    <string id="OHPRU06" text="Prouen Cavalry Sword" />
-    <string id="OHPRU07" text="Prouen Arming Sword" />
-    <string id="OHPRU08" text="Prouen Long Sword" />
-    <string id="OHPRU09" text="Prouen Warsword" />
-    <string id="OHPRU10" text="Prouen Short Warsword" />
-    <string id="OHPRU11" text="Prouen Tear Sword" />
-    <string id="OHPRU12" text="Honour Knight Sword" />
-    <string id="OHPRU13" text="Outlaw Mace" />
-    <string id="OHPRU14" text="Bandit Mace" />
+    <string id="OHPRU01" text="Кирка" />
+    <string id="OHPRU02" text="Меч пруэнского ополчения" />
+    <string id="OHPRU03" text="Пруэнский меч" />
+    <string id="OHPRU04" text="Меч пруэнского пехотинца" />
+    <string id="OHPRU05" text="Пруэнский короткий меч" />
+    <string id="OHPRU06" text="Пруэнский кавалерийский меч" />
+    <string id="OHPRU07" text="Пруэнский тяжелый меч" />
+    <string id="OHPRU08" text="Пруэнский длинный меч" />
+    <string id="OHPRU09" text="Пруэнский боевой меч" />
+    <string id="OHPRU10" text="Пруэнский короткий боевой меч" />
+    <string id="OHPRU11" text="Пруэнский слезивый меч" />
+    <string id="OHPRU12" text="Меч благородного рыцаря" />
+    <string id="OHPRU13" text="Булава преступника" />
+    <string id="OHPRU14" text="Булава бандита" />
   <!-- 埃布拉蒙单手 -->
-    <string id="OHRBL01" text="Small Hammer" />
-    <string id="OHRBL02" text="Desert Dagger" />
-    <string id="OHRBL03" text="Mercenary Short Mace" />
-    <string id="OHRBL04" text="Mercenary Sabre" />
-    <string id="OHRBL05" text="Rabblam Sabre" />
-    <string id="OHRBL06" text="Rider Sabre" />
-    <string id="OHRBL07" text="Rabblam Spiralled Mace" />
-    <string id="OHRBL08" text="Rabblam Veteran Sabre" />
-    <string id="OHRBL09" text="Rabblam Short Mace" />
-    <string id="OHRBL10" text="Rabblam Long Sabre" />
-    <string id="OHRBL11" text="Rabblam Rider Mace" />
-    <string id="OHRBL12" text="Rabblam Fine Steel Mace" />
-    <string id="OHRBL13" text="Rabblam War Mace" />
-    <string id="OHRBL14" text="Heavy Sabre" />
-    <string id="OHRBL15" text="Elite Scimitar" />
-    <string id="OHRBL16" text="Mameluke Recruit Axe" />
-    <string id="OHRBL17" text="Mameluke Rider Axe" />
-    <string id="OHRBL18" text="Mameluke Master Mace" />
+    <string id="OHRBL01" text="Маленький молот" />
+    <string id="OHRBL02" text="Пустынный кинжал" />
+    <string id="OHRBL03" text="Короткая булава наемника" />
+    <string id="OHRBL04" text="Сабля наемника" />
+    <string id="OHRBL05" text="Раббламская сабля" />
+    <string id="OHRBL06" text="Сабля всадника" />
+    <string id="OHRBL07" text="Раббламская спиральная булава" />
+    <string id="OHRBL08" text="Сабля раббламского ветерана" />
+    <string id="OHRBL09" text="Раббламская короткая булава" />
+    <string id="OHRBL10" text="Раббламская длинная сабля" />
+    <string id="OHRBL11" text="Раббламская булава всадника" />
+    <string id="OHRBL12" text="Раббламская стальная булава" />
+    <string id="OHRBL13" text="Раббламская боевая булава" />
+    <string id="OHRBL14" text="Тяжелая сабля" />
+    <string id="OHRBL15" text="Элитный скимитар" />
+    <string id="OHRBL16" text="Топор мамлюка-новобранца" />
+    <string id="OHRBL17" text="Топор мамлюка-всадника" />
+    <string id="OHRBL18" text="Булава главного мамлюка" />
   <!-- 蒙戈黎安单手 -->
-    <string id="OHMGR01" text="Knobbed Club" />
-    <string id="OHMGR02" text="Nomad Falchion" />
-    <string id="OHMGR03" text="Nomad Sabre" />
-    <string id="OHMGR04" text="Broad Nomad Sabre" />
-    <string id="OHMGR05" text="Mogrian Sabre" />
-    <string id="OHMGR06" text="Nomad Cavalry Mace" />
-    <string id="OHMGR07" text="Iron Horseman Mace" />
+    <string id="OHMGR01" text="Дубина" />
+    <string id="OHMGR02" text="Фальшион кочевника" />
+    <string id="OHMGR03" text="Сабля кочевника" />
+    <string id="OHMGR04" text="Широкая сабля кочевника" />
+    <string id="OHMGR05" text="Могрианская сабля" />
+    <string id="OHMGR06" text="Булава кочевого всадника" />
+    <string id="OHMGR07" text="Булава железного всадника" />
   <!-- 纳堪维亚单手 -->
-    <string id="OHNKN01" text="Hunting Knife" />
-    <string id="OHNKN02" text="Hatchet" />
-    <string id="OHNKN03" text="Short Axe" />
-    <string id="OHNKN04" text="Nekenia Light Axe" />
-    <string id="OHNKN05" text="Nekenia Huntsman Axe" />
-    <string id="OHNKN06" text="Nakenia Warrior Axe" />
-    <string id="OHNKN07" text="Nakenia War Axe" />
-    <string id="OHNKN08" text="Nakenia Bearded War Axe" />
-    <string id="OHNKN09" text="Nakenia Short Sword" />
-    <string id="OHNKN10" text="Nakenia Short War Sword" />
-    <string id="OHNKN11" text="Nakenia Sword" />
-    <string id="OHNKN12" text="Nekenia Guard Axe" />
-    <string id="OHNKN13" text="Nekenia Huscarl Axe" />
+    <string id="OHNKN01" text="Охотничий нож" />
+    <string id="OHNKN02" text="Топорик" />
+    <string id="OHNKN03" text="Короткий топор" />
+    <string id="OHNKN04" text="Некенский легкий топор" />
+    <string id="OHNKN05" text="Топор охотника Некении" />
+    <string id="OHNKN06" text="Топор воина Некении" />
+    <string id="OHNKN07" text="Некенский боевой топор" />
+    <string id="OHNKN08" text="Некенский длинный боевой топор" />
+    <string id="OHNKN09" text="Некенский короткий меч" />
+    <string id="OHNKN10" text="Некенский короткий боевой меч" />
+    <string id="OHNKN11" text="Некенский меч" />
+    <string id="OHNKN12" text="Некенский топор стражи" />
+    <string id="OHNKN13" text="Топор хускарла Некении" />
   <!-- 乌拉索维单手 -->
-    <string id="OHWLT01" text="Spiked Club" />
-    <string id="OHWLT02" text="Wulltes Artisan Hammer" />
-    <string id="OHWLT03" text="Butchering Knife" />
-    <string id="OHWLT04" text="Wulltes Short Saber" />
-    <string id="OHWLT05" text="Wulltes Soldier Saber" />
-    <string id="OHWLT06" text="Wulltes Spiked Club" />
-    <string id="OHWLT07" text="Wulltes Nail Mace" />
-    <string id="OHWLT08" text="Wulltes One Handed Axe" />
-    <string id="OHWLT09" text="Wulltes Guard Saber" />
-    <string id="OHWLT10" text="Wulltes Military Nail Mace" />
+    <string id="OHWLT01" text="Шипастая дубина" />
+    <string id="OHWLT02" text="Молот вультесского партизана" />
+    <string id="OHWLT03" text="Мясницкий нож" />
+    <string id="OHWLT04" text="Вультесская короткая сабля" />
+    <string id="OHWLT05" text="Вультесская сабля солдата" />
+    <string id="OHWLT06" text="Вультесская шипастая дубина" />
+    <string id="OHWLT07" text="Вультесская булава" />
+    <string id="OHWLT08" text="Вультесский одноручный топор" />
+    <string id="OHWLT09" text="Вультесская сабля стражи" />
+    <string id="OHWLT10" text="Вультесская солдатская булава" />
   <!-- 落月单手 -->
-    <string id="OHLMC01" text="Lomoca Tantou" />
-    <string id="OHLMC02" text="Lomoca Wakizashi" />
-    <string id="OHLMC03" text="Lomoca Short Uchikatana" />
-    <string id="OHLMC04" text="Lomoca Uchikatana" />
+    <string id="OHLMC01" text="Танто" />
+    <string id="OHLMC02" text="Вакидзаси" />
+    <string id="OHLMC03" text="Короткая утигатана" />
+    <string id="OHLMC04" text="Утигатана" />
   <!-- 雅瑞安单手 -->
-    <string id="OHYRN01" text="Tribal Short Mace" />
-    <string id="OHYRN02" text="Tribal Mace" />
-    <string id="OHYRN03" text="Tribal Inlaid Bone Mace" />
-    <string id="OHYRN04" text="Tribal Inlaid Bone HardMace" />
-    <string id="OHYRN05" text="Tribal Inlaid Bone Long Mace" />
-    <string id="OHYRN06" text="Tribal Inlaid Bone War Mace" />
+    <string id="OHYRN01" text="Ярийская короткая булава" />
+    <string id="OHYRN02" text="Ярийская булава" />
+    <string id="OHYRN03" text="Ярийская костяная булава" />
+    <string id="OHYRN04" text="Ярийская тяжелая костяная булава" />
+    <string id="OHYRN05" text="Ярийская длинная костяная булава" />
+    <string id="OHYRN06" text="Ярийская боевая булава" />
   <!-- 采集工具 -->
-    <string id="OHSTY01" text="WoodenAxe" />
-    <string id="OHSTY02" text="WoodenPickaxe" />
+    <string id="OHSTY01" text="Деревянный топор" />
+    <string id="OHSTY02" text="Деревянная кирка" />
   <!-- 无文化特殊单手 -->
-    <string id="OHSTY03" text="Orsin's Hatchet" />
-    <string id="OHSTY04" text="Knights Judge Sword" />
-    <string id="OHSTY05" text="Silver Shield Knight Sword" />
+    <string id="OHSTY03" text="Топорик Орсина" />
+    <string id="OHSTY04" text="Рыцарский меч правосудия" />
+    <string id="OHSTY05" text="Меч рыцаря Серебряного щита" />
   <!-- 特殊小家族单手 -->
-    <string id="OHMNR01" text="Blood Lotus Mace" />
+    <string id="OHMNR01" text="Булава 'Кровавый Лотус'" />
   <!-- 艾灵族单手 -->
-    <string id="OHELN01" text="Elin Short Sword" />
-    <string id="OHELN02" text="Elin Sword" />
-    <string id="OHELN03" text="Elin Leader Sword" />
+    <string id="OHELN01" text="Короткий меч Элин" />
+    <string id="OHELN02" text="Меч Элин" />
+    <string id="OHELN03" text="Меч лидера Элин" />
  <!-- 单手类武器结束 -->
 
  <!-- 长杆类武器开始 -->
   <!-- 炎朝长杆 -->
-    <string id="POJDY01" text="Yan Short Spear" />
-    <string id="POJDY02" text="Yan Spear" />
-    <string id="POJDY03" text="Infantry Dagger-Axe" />
-    <string id="POJDY04" text="Triple-Pointed Blade" />
-    <string id="POJDY05" text="Shuo" />
-    <string id="POJDY06" text="Long Shuo" />
-    <string id="POJDY07" text="Po Blade" />
-    <string id="POJDY08" text="Mo Blade" />
-    <string id="POJDY09" text="Rake" />
-    <string id="POJDY10" text="Border Infantry Halberd" />
-    <string id="POJDY11" text="Protectorate Halberd" />
-    <string id="POJDY12" text="Wide Spear" />
-    <string id="POJDY13" text="Yan Militia Dagger-Axe" />
-    <string id="POJDY14" text="Ma Shuo" />
-    <string id="POJDY15" text="QingLoong Blade" />
-    <string id="POJDY16" text="FangTian Halberd" />
+    <string id="POJDY01" text="Короткое копье Ян" />
+    <string id="POJDY02" text="Копье Ян" />
+    <string id="POJDY03" text="Кинжал-топор пехотинца" />
+    <string id="POJDY04" text="Трехконусное лезвие" />
+    <string id="POJDY05" text="Копье Шуо" />
+    <string id="POJDY06" text="Длинное копье Шуо" />
+    <string id="POJDY07" text="Подао" />
+    <string id="POJDY08" text="Модао" />
+    <string id="POJDY09" text="Грабли" />
+    <string id="POJDY10" text="Алебарда пограничной пехоты" />
+    <string id="POJDY11" text="Алебарда границы" />
+    <string id="POJDY12" text="Широкое копье" />
+    <string id="POJDY13" text="Кинжал-топор ополчения Ян" />
+    <string id="POJDY14" text="Кавалерийское копье" />
+    <string id="POJDY15" text="Меч Цинлун" />
+    <string id="POJDY16" text="Алебарда Фэнтянь" />
   <!-- 普若尤恩长杆 -->
-    <string id="POPRU01" text="Scythe" />
-    <string id="POPRU02" text="Wood Shovel" />
-    <string id="POPRU03" text="Prouen Militia Spear" />
-    <string id="POPRU04" text="Prouen Short Spear" />
-    <string id="POPRU05" text="Prouen Spear" />
-    <string id="POPRU06" text="Prouen Light Lance" />
-    <string id="POPRU07" text="Prouen Pike" />
-    <string id="POPRU08" text="Prouen Great Pike" />
-    <string id="POPRU09" text="Prouen Heavy Lance" />
-    <string id="POPRU10" text="Prouen Lance" />
-    <string id="POPRU11" text="Honour Knight Lance" />
+    <string id="POPRU01" text="Коса" />
+    <string id="POPRU02" text="Деревянная лопата" />
+    <string id="POPRU03" text="Копье пруэнского ополчения" />
+    <string id="POPRU04" text="Пруэнское короткое копье" />
+    <string id="POPRU05" text="Пруэнское копье" />
+    <string id="POPRU06" text="Пруэнское легкое кавалерийское копье" />
+    <string id="POPRU07" text="Пруэнская пика" />
+    <string id="POPRU08" text="Пруэнская большая пика" />
+    <string id="POPRU09" text="Пруэнское тяжелое кавалерийское копье" />
+    <string id="POPRU10" text="Пруэнское кавалерийское копье" />
+    <string id="POPRU11" text="Кавалерийское копье рыцаря" />
   <!-- 埃布拉蒙长杆 -->
-    <string id="PORBL01" text="Wooden Long Fork" />
-    <string id="PORBL02" text="Rabblam Short Spear" />
-    <string id="PORBL03" text="Mameluke Recruit Bamboo Spear" />
-    <string id="PORBL04" text="Mameluke Rider Bamboo Spear" />
-    <string id="PORBL05" text="Mameluke Light Lance" />
-    <string id="PORBL06" text="Mameluke Lance" />
+    <string id="PORBL01" text="Деревянная вила" />
+    <string id="PORBL02" text="Раббламское короткое копье" />
+    <string id="PORBL03" text="Бамбуковое копье мамлюка-новобранца" />
+    <string id="PORBL04" text="Бамбуковое копье мамлюка-всадника" />
+    <string id="PORBL05" text="Легкое кавалерийское копье мамлюка" />
+    <string id="PORBL06" text="Кавалерийское копье мамлюка" />
   <!-- 蒙戈黎安长杆 -->
-    <string id="POMGR01" text="Rake" />
-    <string id="POMGR02" text="Short Bamboo Spear" />
-    <string id="POMGR03" text="Mogrian Simple Spear" />
-    <string id="POMGR04" text="Mogrian Spear" />
-    <string id="POMGR05" text="Mogrian Short Spear" />
-    <string id="POMGR06" text="Mogrian Heavy Short Spear" />
-    <string id="POMGR07" text="Mogrian Light Lance" />
-    <string id="POMGR08" text="Mogrian Lance" />
-    <string id="POMGR09" text="Mogrian Tribal Lance" />
-    <string id="POMGR10" text="Iron Horseman Lance" />
-    <string id="POMGR11" text="Wind Rider Glaive" />
-    <string id="POMGR12" text="Gale Rider Glaive" />
-    <string id="POMGR13" text="Mogrian Militia Short Spear" />
-    <string id="POMGR14" text="Mogrian Militia Spear" />
+    <string id="POMGR01" text="Грабли" />
+    <string id="POMGR02" text="Короткое бамбуковое копье" />
+    <string id="POMGR03" text="Могрианское простое копье" />
+    <string id="POMGR04" text="Могрианское копье" />
+    <string id="POMGR05" text="Могрианское короткое копье" />
+    <string id="POMGR06" text="Могрианское тяжелое короткое копье" />
+    <string id="POMGR07" text="Могрианское легкое кавалерийское копье" />
+    <string id="POMGR08" text="Могрианское кавалерийское копье" />
+    <string id="POMGR09" text="Могрианское тяжелое кавалерийское копье" />
+    <string id="POMGR10" text="Кавалерийское копье железного всадника" />
+    <string id="POMGR11" text="Глефа всадника ветра" />
+    <string id="POMGR12" text="Глефа всадника бури" />
+    <string id="POMGR13" text="Короткое копье могрианского ополчения" />
+    <string id="POMGR14" text="Копье могрианского ополчения" />
   <!-- 纳堪维亚长杆 -->
-    <string id="PONKN01" text="Pitch Fork" />
-    <string id="PONKN02" text="Nekenia Noble Spear" />
-    <string id="PONKN03" text="Nekenia Shieldguard Fork" />
+    <string id="PONKN01" text="Вила" />
+    <string id="PONKN02" text="Копье некенской знати" />
+    <string id="PONKN03" text="Вила щитового стража Некении" />
   <!-- 乌拉索维长杆 -->
-    <string id="POWLT01" text="Snowfield Noble Lance" />
+    <string id="POWLT01" text="Кавалерийское копье вультесской знати" />
   <!-- 落月长杆 -->
-    <string id="POLMC01" text="Lomoca Short Spear" />
-    <string id="POLMC02" text="Lomoca Ashigaru Spear" />
-    <string id="POLMC03" text="Lomoca Spear" />
-    <string id="POLMC04" text="Lomoca Naginata" />
-    <string id="POLMC05" text="Lomoca Pike" />
-    <string id="POLMC06" text="Lomoca Samurai Pike" />
-    <string id="POLMC07" text="Lomoca Cross Pike" />
+    <string id="POLMC01" text="Короткое копье Ломока" />
+    <string id="POLMC02" text="Копье асигару" />
+    <string id="POLMC03" text="Копье Ломока" />
+    <string id="POLMC04" text="Нагината" />
+    <string id="POLMC05" text="Пика Ломока" />
+    <string id="POLMC06" text="Самурайская пика" />
+    <string id="POLMC07" text="Крестная пика" />
   <!-- 雅瑞安长杆 -->
-    <string id="POYRN01" text="Tribal Short Spear" />
-    <string id="POYRN02" text="Tribal Spear" />
-    <string id="POYRN03" text="Tribal Wide Spear" />
+    <string id="POYRN01" text="Ярийское короткое копье" />
+    <string id="POYRN02" text="Ярийское копье" />
+    <string id="POYRN03" text="Ярийское широкое копье" />
   <!-- 强盗长杆 -->
-    <string id="POBDT02" text="Desert Bamboo Spear" />
-    <string id="POBDT03" text="Pagan Emissary Wide Spear" />
-    <string id="POBDT04" text="Pagan Guardian Wide Spear" />
-    <string id="POBDT05" text="Pagan Master Wide Spear" />
-    <string id="POBDT06" text="Pagan Emissary Long Staff" />
-    <string id="POBDT07" text="Pagan Guardian Long Staff" />
-    <string id="POBDT08" text="Pagan Master Long Staff" />
+    <string id="POBDT02" text="Пустынное бамбуковое копье" />
+    <string id="POBDT03" text="Широкое копье эмиссара язычников" />
+    <string id="POBDT04" text="Широкое копье гвардии язычников" />
+    <string id="POBDT05" text="Широкое копье главного язычника" />
+    <string id="POBDT06" text="Длинный посох эмиссара язычников" />
+    <string id="POBDT07" text="Длинный посох гвардии язычников" />
+    <string id="POBDT08" text="Длинный посох главного язычника" />
   <!-- 中立长杆 -->
-    <string id="POBDT01" text="Long Staff" />
+    <string id="POBDT01" text="Длинный посох" />
   <!-- 特殊小家族长杆 -->
-    <string id="POMNR01" text="White Frost Templar Spear" />
-    <string id="POMNR02" text="Evil Flame Lance" />
+    <string id="POMNR01" text="Копье Белого Мороза" />
+    <string id="POMNR02" text="Кавалерийское копье Пламени Скверны" />
   <!-- 无文化特殊长杆 -->
-    <string id="POSTY01" text="Copper-Striped Iron Spear" />
-    <string id="POSTY02" text="Sika Knight Lance" />
+    <string id="POSTY01" text="Железное копье с медными полосками" />
+    <string id="POSTY02" text="Кавалерийское копье рыцаря Сики" />
  <!-- 长杆类武器结束 -->
 
   </strings>

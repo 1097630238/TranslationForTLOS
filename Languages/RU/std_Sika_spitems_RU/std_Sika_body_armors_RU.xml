@@ -6,81 +6,81 @@
   <strings>
   <!-- 胸甲的英文文本 -->
   <!-- 炎朝 -->
-    <string id="BAJDY01" text="Yan Farmer Clothes" />
-    <string id="BAJDY02" text="Yan Recruit Clothes" />
-    <string id="BAJDY03" text="Yan Simple Leather Armor" />
-    <string id="BAJDY04" text="Yan Light Leather Armor" />
-    <string id="BAJDY05" text="Yan Simple Scute Armor" />
-    <string id="BAJDY06" text="Yan Light Waisted Infantry Armor" />
-    <string id="BAJDY07" text="Yan Black Scale Armor" />
-    <string id="BAJDY08" text="Yan Lamellar Armor" />
-    <string id="BAJDY09" text="Yan Two-Seamed Armor" />
-    <string id="BAJDY10" text="Yan Joint-Seam Infantry Armor" />
-    <string id="BAJDY11" text="Yan Joint-Seam Iron Armor" />
-    <string id="BAJDY12" text="Yan Heavy Full Lamellar Armor" />
-    <string id="BAJDY13" text="Yan Silver Scale Armor with Heart-Shield" />
-    <string id="BAJDY14" text="ShanWen Armor with Gold-Paint" />
-    <string id="BAJDY15" text="Heavy MingGuang Lamellar Armor" />
-    <string id="BAJDY16" text="MingGuang Cavalry Chainmail Armor" />
-    <string id="BAJDY17" text="MingGuang Plate" />
-    <string id="BAJDY18" text="Light MingGuang Scute Armor" />
-    <string id="BAJDY19" text="Crude ShanWen Armor" />
-    <string id="BAJDY20" text="Crude MingGuang Lamellar Armor" />
-    <string id="BAJDY21" text="Crude MingGuang Chainmail Armor" />
-    <string id="BAJDY22" text="Crude MingGuang Plate" />
-    <string id="BAJDY23" text="Crude MingGuang Scute Armor" />
+    <string id="BAJDY01" text="Одежда фермера Ян" />
+    <string id="BAJDY02" text="Одежда рекрута Ян" />
+    <string id="BAJDY03" text="Простая кожаная броня Ян" />
+    <string id="BAJDY04" text="Легкая кожаная броня Ян" />
+    <string id="BAJDY05" text="Простая чешуйчатая броня Ян" />
+    <string id="BAJDY06" text="Легкая пехотная броня Ян" />
+    <string id="BAJDY07" text="Черная чешуйчатая броня Ян" />
+    <string id="BAJDY08" text="Ламеллярная броня Ян" />
+    <string id="BAJDY09" text="Двухслойная броня Ян" />
+    <string id="BAJDY10" text="Двухслойная пехотная броня Ян" />
+    <string id="BAJDY11" text="Двухслойная железная броня Ян" />
+    <string id="BAJDY12" text="Полная ламеллярная броня Ян" />
+    <string id="BAJDY13" text="Серебрянная чешуйчатая броня Ян" />
+    <string id="BAJDY14" text="Окрашенная золотом броня" />
+    <string id="BAJDY15" text="Тяжелая ламеллярная броня Мингуан" />
+    <string id="BAJDY16" text="Кольчуга всадника Мингуан" />
+    <string id="BAJDY17" text="Латный доспех Мингуан" />
+    <string id="BAJDY18" text="Легкая броня Мингуан" />
+    <string id="BAJDY19" text="Грубая броня Шаньвэнь" />
+    <string id="BAJDY20" text="Грубый ламеллярный доспех Мингуан" />
+    <string id="BAJDY21" text="Грубая кольчуга Мингуан" />
+    <string id="BAJDY22" text="Грубый латный доспех Мингуан" />
+    <string id="BAJDY23" text="Грубая чешуйчатая броня Мингуан" />
 
   <!-- 普若尤恩 -->
-    <string id="BAPRU01" text="Prouen Light Cavalry Armor" />
-    <string id="BAPRU02" text="Prouen Lancer Mail Hauberk" />
-    <string id="BAPRU03" text="Prouen Infantry Armor" />
-    <string id="BAPRU04" text="Prouen Heavy Aketon" />
-    <string id="BAPRU05" text="Prouen Cured Studded Leather Armor" />
-    <string id="BAPRU06" text="Prouen Honour Knight Armor" />
-    <string id="BAPRU07" text="Prouen Militia Coat" />
-    <string id="BAPRU08" text="Prouen Tear Cavalry Armor" />
-    <string id="BAPRU09" text="Prouen Noble Plate Armor" />
+    <string id="BAPRU01" text="Доспех легкого всадника Пруэн" />
+    <string id="BAPRU02" text="Хауберк лансера Пруэн" />
+    <string id="BAPRU03" text="Легкая пехотная броня Пруэн" />
+    <string id="BAPRU04" text="Акетон лучника Пруэн" />
+    <string id="BAPRU05" text="Кожаный доспех Пруэн" />
+    <string id="BAPRU06" text="Доспех рыцаря Пруэн" />
+    <string id="BAPRU07" text="Куртка пруэнского ополченца" />
+    <string id="BAPRU08" text="Доспех всадника Пруэн" />
+    <string id="BAPRU09" text="Латный доспех пруэнского знати" />
   <!-- 埃布拉蒙 -->
-    <string id="BARBL01" text="Rabblam Rider Leather Armor" />
-    <string id="BARBL02" text="Rabblam Rider Mail Hauberk" />
-    <string id="BARBL03" text="Rabblam Mameluke Scale Mail" />
+    <string id="BARBL01" text="Кожаная броня раббламского всадника" />
+    <string id="BARBL02" text="Хауберк раббламского всадника" />
+    <string id="BARBL03" text="Чешуйчатая броня раббламского мамлюка" />
   <!-- 蒙戈黎安 -->
-    <string id="BAMGR01" text="Mogrian Light Leather Armor" />
-    <string id="BAMGR02" text="Mogrian Suede Armor" />
+    <string id="BAMGR01" text="Могрианская легкая кожаная броня" />
+    <string id="BAMGR02" text="Могрианская замшевая броня" />
   <!-- 纳堪维亚 -->
-    <string id="BANKN01" text="Leather Jerkin" />
-    <string id="BANKN02" text="Banded Armor" />
-    <string id="BANKN03" text="Nekenia Cuir Cuirass Mail Armor" />
-    <string id="BANKN04" text="Nekenia Lamellar Cuirass Mail Armor" />
+    <string id="BANKN01" text="Кожаная безрукавка" />
+    <string id="BANKN02" text="Полосатая броня" />
+    <string id="BANKN03" text="Некенская кираса" />
+    <string id="BANKN04" text="Некенская ламеллярная кираса" />
   <!-- 乌拉索维 -->
-    <string id="BAWLT01" text="Wulltes Mail Shirt" />
-    <string id="BAWLT02" text="Wulltes Hide Clothes" />
-    <string id="BAWLT03" text="Wulltes Woodland Garments" />
+    <string id="BAWLT01" text="Вультесская кольчужная рубаха" />
+    <string id="BAWLT02" text="Вультесская кожаная броня" />
+    <string id="BAWLT03" text="Вультесская одежда лесника" />
   <!-- 落月 -->
-    <string id="BALMC01" text="Lomoca Villager Clothes" />
-    <string id="BALMC02" text="Lomoca Ashigaru Clothes" />
-    <string id="BALMC03" text="Lomoca Haraate" />
-    <string id="BALMC04" text="Lomoca Doumaru" />
-    <string id="BALMC05" text="Lomoca Ashigaru Armor" />
-    <string id="BALMC06" text="Lomoca Chain Mail" />
-    <string id="BALMC07" text="Lomoca Samurai Armor" />
-    <string id="BALMC08" text="Lomoca Full Armor" />
+    <string id="BALMC01" text="Одежда горожанина Ломока" />
+    <string id="BALMC02" text="Одежда асигару Ломока" />
+    <string id="BALMC03" text="Хараатэ" />
+    <string id="BALMC04" text="Думару" />
+    <string id="BALMC05" text="Доспех асигару Ломока" />
+    <string id="BALMC06" text="Кольчуга Ломока" />
+    <string id="BALMC07" text="Самурайский доспех Ломока" />
+    <string id="BALMC08" text="Полная броня Ломока" />
   <!-- 雅瑞安 -->
-    <string id="BAYRN01" text="Clansman Clothes" />
-    <string id="BAYRN02" text="Yarian Tribal Clothes" />
-    <string id="BAYRN03" text="Yarian Tribal Armor" />
-    <string id="BAYRN04" text="Yarian Infantry Armor" />
-    <string id="BAYRN05" text="Yarian Warrior Armor" />
-    <string id="BAYRN06" text="Yarian Jungle War Clothes" />
-    <string id="BAYRN07" text="Yarian Vultur War Clothes" />
-    <string id="BAYRN08" text="Yarian Agama War Clothes" />
+    <string id="BAYRN01" text="Ярийская одежда" />
+    <string id="BAYRN02" text="Одежда ярийского племени" />
+    <string id="BAYRN03" text="Доспех ярийского племени" />
+    <string id="BAYRN04" text="Доспех ярийского пехотинца" />
+    <string id="BAYRN05" text="Доспех ярийского воина" />
+    <string id="BAYRN06" text="Одежда ярийского воина джунглей" />
+    <string id="BAYRN07" text="Одежда ярийского стервятника" />
+    <string id="BAYRN08" text="Одежда ярийского игуаны" />
   <!-- 其他 -->
-    <string id="BASTY01" text="Dark Plate Armor" />
-    <string id="BASTY02" text="Monster Body" />
-    <string id="BASTY03" text="Sika Knight Plate Armor" />
-    <string id="BASTY04" text="Thick Skin" />
-    <string id="BASTY05" text="Black Robe" />
+    <string id="BASTY01" text="Темный латный доспех" />
+    <string id="BASTY02" text="Тело монстра" />
+    <string id="BASTY03" text="Полная броня рыцаря Сики" />
+    <string id="BASTY04" text="Толстая кожа" />
+    <string id="BASTY05" text="Черная роба" />
   <!-- 特殊小家族 -->
-    <string id="BAMNR01" text="Obscure Soul Brigandine" />
+    <string id="BAMNR01" text="Призрачная броня" />
   </strings>
 </base>

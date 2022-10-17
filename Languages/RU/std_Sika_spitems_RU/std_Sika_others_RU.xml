@@ -9,174 +9,174 @@
  <!-- 马匹开始 -->
 
   <!-- 炎朝马 -->
-    <string id="HOJDY01" text="Yan Horse" />
-    <string id="HOJDY02" text="Yan War Horse" />
-    <string id="HOJDY03" text="Yan Lord Horse" />
-    <string id="HOJDY04" text="Yi Chen" />
+    <string id="HOJDY01" text="Лошадь Ян" />
+    <string id="HOJDY02" text="Боевая лошадь Ян" />
+    <string id="HOJDY03" text="Лошадь генерала Ян" />
+    <string id="HOJDY04" text="Йи Чен" />
   <!-- 普若尤恩马 -->
-    <string id="HOPRU01" text="Prouen Horse" />
-    <string id="HOPRU02" text="Prouen Hunter Horse" />
-    <string id="HOPRU03" text="Prouen Charger" />
-    <string id="HOPRU04" text="Prouen Knight Horse" />
-    <string id="HOPRU05" text="Prouen Noble Horse" />
-    <string id="HOPRU06" text="Prouen Royal Horse" />
+    <string id="HOPRU01" text="Пруэнская лошадь" />
+    <string id="HOPRU02" text="Пруэнский гунтер" />
+    <string id="HOPRU03" text="Пруэнский дестриер" />
+    <string id="HOPRU04" text="Лошадь пруэнского рыцаря" />
+    <string id="HOPRU05" text="Лошадь пруэнской знати" />
+    <string id="HOPRU06" text="Пруэнская королевская лошадь" />
   <!-- 埃布拉蒙马 -->
-    <string id="HORBL01" text="Rabblam Horse" />
-    <string id="HORBL02" text="Rabblam Desert Courser" />
-    <string id="HORBL03" text="Rabblam Charger" />
-    <string id="HORBL04" text="Rabblam War Horse" />
-    <string id="HORBL05" text="Rabblam Emir Horse" />
-    <string id="HORBL06" text="Rabblam Sultan Horse" />
+    <string id="HORBL01" text="Раббламская лошадь" />
+    <string id="HORBL02" text="Раббламский пустынный рысак" />
+    <string id="HORBL03" text="Раббламский дестриер" />
+    <string id="HORBL04" text="Раббламская боевая лошадь" />
+    <string id="HORBL05" text="Лошадь раббламского эмира" />
+    <string id="HORBL06" text="Лошадь раббламского султана" />
   <!-- 蒙戈黎安马 -->
-    <string id="HOMGR01" text="Mogrian Saddle Horse" />
-    <string id="HOMGR02" text="Mogrian Pony" />
-    <string id="HOMGR03" text="Mogrian Tough Horse" />
-    <string id="HOMGR04" text="Mogrian Horse" />
-    <string id="HOMGR05" text="Mogrian Courser" />
-    <string id="HOMGR06" text="Mogrian Steppe Horse" />
-    <string id="HOMGR07" text="Mogrian Agile Horse" />
-    <string id="HOMGR08" text="Mogrian War Horse" />
-    <string id="HOMGR09" text="Mogrian Hunter" />
-    <string id="HOMGR10" text="Mogrian Assault Horse" />
-    <string id="HOMGR11" text="Mogrian Gale Horse" />
-    <string id="HOMGR12" text="Mogrian Storm Horse" />
-    <string id="HOMGR13" text="Iqbalhaot Horse" />
-    <string id="HOMGR14" text="Khan Silver Horse" />
+    <string id="HOMGR01" text="Могрианская верховая лошадь" />
+    <string id="HOMGR02" text="Могрианский пони" />
+    <string id="HOMGR03" text="Могрианская крепкая лошадь" />
+    <string id="HOMGR04" text="Могрианская лошадь" />
+    <string id="HOMGR05" text="Могрианский рысак" />
+    <string id="HOMGR06" text="Могрианская степная лошадь" />
+    <string id="HOMGR07" text="Могрианская быстрая лошадь" />
+    <string id="HOMGR08" text="Могрианская боевая лошадь" />
+    <string id="HOMGR09" text="Могрианский гунтер" />
+    <string id="HOMGR10" text="Могрианская лошадь наступателя" />
+    <string id="HOMGR11" text="Могрианская лошадь наездника ветра" />
+    <string id="HOMGR12" text="Могрианская лошадь всадника бури" />
+    <string id="HOMGR13" text="Лошадь Нойона" />
+    <string id="HOMGR14" text="Серебряная конь хана" />
   <!-- 乌拉索维马 -->
-    <string id="HOWLT01" text="Wulltes Snowfield Horse" />
-    <string id="HOWLT02" text="Wulltes Heavy Horse" />
-    <string id="HOWLT03" text="Wulltes Giant Horse" />
-    <string id="HOWLT04" text="Midwood Horse" />
+    <string id="HOWLT01" text="Вультесская снежная лошадь" />
+    <string id="HOWLT02" text="Вультесская тяжелая лошадь" />
+    <string id="HOWLT03" text="Вультесская великая лошадь" />
+    <string id="HOWLT04" text="Лесная лошадь" />
   <!-- 落月马 -->
-    <string id="HOLMC01" text="Lomoca Pony" />
-    <string id="HOLMC02" text="Lomoca Horse" />
+    <string id="HOLMC01" text="Пони Ломока" />
+    <string id="HOLMC02" text="Лошадь Ломока" />
   <!-- 纳堪维亚马 -->
-    <string id="HONKN01" text="Northern Weald Horse" />
-    <string id="HONKN02" text="Peak Snow Horse" />
+    <string id="HONKN01" text="Лошадь северной пустоши" />
+    <string id="HONKN02" text="Некенская лошадь" />
   <!-- 无文化马 -->
-    <string id="HONET01" text="Saddle Horse" />
+    <string id="HONET01" text="Верховая лошадь" />
 
  <!-- 马匹结束 -->
 
  <!-- 盾牌开始 -->
 
   <!-- 炎朝盾 -->
-    <string id="SDJDY01" text="Yan Wood Shield" />
-    <string id="SDJDY02" text="Yan Infantry Shield" />
-    <string id="SDJDY03" text="Yan Heavy Shield" />
-    <string id="SDJDY04" text="Yan Five-Side Shield" />
-    <string id="SDJDY05" text="Yan Large Shield" />
+    <string id="SDJDY01" text="Деревянный щит Ян" />
+    <string id="SDJDY02" text="Щит пехотинца Ян" />
+    <string id="SDJDY03" text="Тяжелый щит Ян" />
+    <string id="SDJDY04" text="Пятисторонний щит Ян" />
+    <string id="SDJDY05" text="Большой щит Ян" />
   <!-- 普若尤恩盾 -->
-    <string id="SDPRU01" text="Small Heater Shield" />
-    <string id="SDPRU02" text="Flat Heater Shield" />
-    <string id="SDPRU03" text="Small Flat Heater Shield" />
-    <string id="SDPRU04" text="Heavy Heater Shield" />
-    <string id="SDPRU05" text="Bracketed Heater Shield" />
-    <string id="SDPRU06" text="Wide Heater Shield" />
-    <string id="SDPRU07" text="Prouen Knight Shield" />
+    <string id="SDPRU01" text="Маленький каленый щит" />
+    <string id="SDPRU02" text="Плоский каленый щит" />
+    <string id="SDPRU03" text="Маленький плоский каленый щит" />
+    <string id="SDPRU04" text="Тяжелый каленый щит" />
+    <string id="SDPRU05" text="Прочный каленый щит" />
+    <string id="SDPRU06" text="Широкий каленый щит" />
+    <string id="SDPRU07" text="Щит пруэнского рыцаря" />
   <!-- 埃布拉蒙盾 -->
-    <string id="SDRBL01" text="Worn Adarga" />
-    <string id="SDRBL02" text="Wooden Adarga" />
-    <string id="SDRBL03" text="Battle-Scarred Oval Shield" />
-    <string id="SDRBL04" text="Mercenary Adarga" />
-    <string id="SDRBL05" text="Mercenary Oval Shield" />
-    <string id="SDRBL06" text="Rider Adarga" />
-    <string id="SDRBL07" text="Heavy Oval Shield" />
-    <string id="SDRBL08" text="Edged Oval Shield" />
-    <string id="SDRBL09" text="Rabblam Master Shield" />
+    <string id="SDRBL01" text="Изношенная адарга" />
+    <string id="SDRBL02" text="Деревянная адарга" />
+    <string id="SDRBL03" text="Потрепанный овальный щит" />
+    <string id="SDRBL04" text="Адарга наемника" />
+    <string id="SDRBL05" text="Овальный щит наемника" />
+    <string id="SDRBL06" text="Адарга всадника" />
+    <string id="SDRBL07" text="Тяжелый овальный щит" />
+    <string id="SDRBL08" text="Обрезной овальный щит" />
+    <string id="SDRBL09" text="Щит раббламского главаря" />
   <!-- 蒙戈黎安盾 -->
-    <string id="SDMGR01" text="Mogrian Square Shield" />
-    <string id="SDMGR02" text="Mogrian Small Round Shield" />
-    <string id="SDMGR03" text="Mogrian Lancer Shield" />
-    <string id="SDMGR04" text="Mogrian Veteran Shield" />
-    <string id="SDMGR05" text="Mogrian Iron Shield" />
+    <string id="SDMGR01" text="Могрианский квадратный щит" />
+    <string id="SDMGR02" text="Могрианский малый круглый щит" />
+    <string id="SDMGR03" text="Щит могрианского улана" />
+    <string id="SDMGR04" text="Щит могрианского ветерана" />
+    <string id="SDMGR05" text="Могрианский железный щит" />
   <!-- 纳堪维亚盾 -->
-    <string id="SDNKN01" text="Worn Round Shield" />
-    <string id="SDNKN02" text="Nekenia Wooden Round Shield" />
-    <string id="SDNKN03" text="Nekenia Edged Wooden Round Shield" />
-    <string id="SDNKN04" text="Nekenia Large Wooden Shield" />
-    <string id="SDNKN05" text="Nekenia Iron Rimmed Round Shield" />
-    <string id="SDNKN06" text="Nekenia Leather Rimmed Round Shield" />
-    <string id="SDNKN07" text="Nekenia Huscarl Shield" />
+    <string id="SDNKN01" text="Изношенный круглый щит" />
+    <string id="SDNKN02" text="Некенский деревянный круглый щит" />
+    <string id="SDNKN03" text="Полосатый круглый щит Некении" />
+    <string id="SDNKN04" text="Большой деревянный щит Некении" />
+    <string id="SDNKN05" text="Некенский железный щит" />
+    <string id="SDNKN06" text="Некенский кожаный щит" />
+    <string id="SDNKN07" text="Щит хускарла Некении" />
   <!-- 乌拉索维盾 -->
-    <string id="SDWLT01" text="Worn Kite Shield" />
-    <string id="SDWLT02" text="Wulltes Kite Shield" />
-    <string id="SDWLT03" text="Wulltes Reinforced Kite Shield" />
+    <string id="SDWLT01" text="Изношенный каплевидный щит" />
+    <string id="SDWLT02" text="Вультесский каплевидный щит" />
+    <string id="SDWLT03" text="Вультесский усиленный каплевидный щит" />
   <!-- 落月盾牌 -->
-    <string id="SDLMC01" text="Lomoca Wood Shield" />
-    <string id="SDLMC02" text="Lomoca Ashigaru Shield" />
+    <string id="SDLMC01" text="Деревянный щит Ломока" />
+    <string id="SDLMC02" text="Щит асигару" />
   <!-- 雅瑞安盾牌 -->
-    <string id="SDYRN01" text="Yarian Tribal Simple Shield" />
-    <string id="SDYRN02" text="Yarian Tribal Shield" />
-    <string id="SDYRN03" text="Yarian Tribal Large Shield" />
-    <string id="SDYRN04" text="Yarian Jungle Warrior Shield" />
+    <string id="SDYRN01" text="Ярийский простой щит" />
+    <string id="SDYRN02" text="Ярийский щит" />
+    <string id="SDYRN03" text="Ярийский большой щит" />
+    <string id="SDYRN04" text="Щит ярийского воина джунглей" />
   <!-- 强盗盾牌 -->
-    <string id="SDBDT01" text="Deserters Small Kite Shield" />
-    <string id="SDBDT02" text="Deserters Kite Shield" />
-    <string id="SDBDT03" text="Deserters Long Kite Shield" />
+    <string id="SDBDT01" text="Малый каплевидный щит дезертира" />
+    <string id="SDBDT02" text="Каплевидный щит дезертира" />
+    <string id="SDBDT03" text="Большой каплевидный щит дезертира" />
   <!-- 其他盾牌 -->
-    <string id="SDSTY01" text="Knights Shield" />
+    <string id="SDSTY01" text="Щит рыцаря" />
   <!-- 艾灵族盾牌 -->
-    <string id="SDELN01" text="Elin Shield" />
+    <string id="SDELN01" text="Щит Элин" />
  <!-- 盾牌结束 -->
 
  <!-- 马甲开始 -->
 
   <!-- 炎朝马甲 -->
-    <string id="HHJDY01" text="Yan Horse Harness" />
-    <string id="HHJDY02" text="Yan Lamellar Horse Harness" />
-    <string id="HHJDY03" text="Yan Lord Horse Harness" />
+    <string id="HHJDY01" text="Конская упряжь Ян" />
+    <string id="HHJDY02" text="Ламеллярная конская упряжь Ян" />
+    <string id="HHJDY03" text="Конская упряжь генерала Ян" />
   <!-- 普若尤恩马甲 -->
-    <string id="HHPRU01" text="Prouen Half Mail Barding" />
-    <string id="HHPRU02" text="Prouen Chain Mail Horse Armor" />
-    <string id="HHPRU03" text="Prouen Reinforced Chainmail Barding" />
-    <string id="HHPRU04" text="Prouen Knight Barding" />
+    <string id="HHPRU01" text="Пруэнский полукольчужный бард" />
+    <string id="HHPRU02" text="Пруэнская конская кольчужная броня" />
+    <string id="HHPRU03" text="Пруэнский усиленный кольчужный бард" />
+    <string id="HHPRU04" text="Бард пруэнского рыцаря" />
   <!-- 埃布拉蒙马甲 -->
-    <string id="HHRBL01" text="Rabblam Light Barding" />
-    <string id="HHRBL02" text="Rabblam Half Barding" />
-    <string id="HHRBL03" text="Rabblam Half Lamellar Barding" />
-    <string id="HHRBL04" text="Rabblam Lamellar Barding" />
+    <string id="HHRBL01" text="Раббламский легкий бард" />
+    <string id="HHRBL02" text="Раббламский полубард" />
+    <string id="HHRBL03" text="Раббламский полуламеллярный бард" />
+    <string id="HHRBL04" text="Раббламский ламеллярный бард" />
   <!-- 蒙戈黎安马甲 -->
-    <string id="HHMGR01" text="Mogrian Light Harness" />
-    <string id="HHMGR02" text="Mogrian Harness" />
-    <string id="HHMGR03" text="Mogrian Rider Harness" />
-    <string id="HHMGR04" text="Mogrian Lancer Barding" />
-    <string id="HHMGR05" text="Mogrian Half Barding" />
-    <string id="HHMGR06" text="Mogrian Half Lamellar Barding" />
-    <string id="HHMGR07" text="Mogrian HorseArcher Barding" />
-    <string id="HHMGR08" text="Mogrian Lamellar Barding" />
-    <string id="HHMGR09" text="Khan Barding" />
-    <string id="HHMGR10" text="Mogrian Full Barding" />
+    <string id="HHMGR01" text="Могрианская легкая упряжь" />
+    <string id="HHMGR02" text="Могрианская упряжь" />
+    <string id="HHMGR03" text="Могрианская упряжь всадника" />
+    <string id="HHMGR04" text="Могрианский бард улана" />
+    <string id="HHMGR05" text="Могрианский полубард" />
+    <string id="HHMGR06" text="Могрианский полуламеллярный бард" />
+    <string id="HHMGR07" text="Могрианский бард конного лучника" />
+    <string id="HHMGR08" text="Могрианский ламеллярный бард" />
+    <string id="HHMGR09" text="Бард Хана" />
+    <string id="HHMGR10" text="Могрианский полный бард" />
   <!-- 乌拉索维马甲 -->
-    <string id="HHWLT01" text="Wulltes Ring Mail Barding" />
-    <string id="HHWLT02" text="Wulltes Light Saddle" />
+    <string id="HHWLT01" text="Вультесский кольцевой бард" />
+    <string id="HHWLT02" text="Вультесское легкое седло" />
   <!-- 落月马甲 -->
-    <string id="HHLMC01" text="Lomoca Harness" />
-    <string id="HHLMC02" text="Lomoca Samurai Harness" />
+    <string id="HHLMC01" text="Упряжь Ломока" />
+    <string id="HHLMC02" text="Упряжь самурая Ломока" />
     
  <!-- 马甲结束 -->
 
  <!-- 弹药开始 -->
-    <string id="ABJDY01" text="Yan Bolts" />
-    <string id="ABJDY02" text="Yan Repeating Bolts" />
-    <string id="ABJDY03" text="Yan Guards Bolts" />
-    <string id="ABPRU01" text="Prouen Arrows" />
-    <string id="ABWLT01" text="Wulltes Army Arrows" />
-    <string id="ABMGR01" text="Mogrian Arrows" />
-    <string id="ABNET01" text="Poor Arrows" />
-    <string id="ABLMC01" text="Lomoca Arrows" />
-    <string id="ABYRN01" text="Tribal Arrows" />
-    <string id="ABYRN02" text="Tribal Heavy Arrows" />
-    <string id="ABYRN03" text="Tribal Simple Arrows" />
-    <string id="ABBDT01" text="Wild Woods Arrows" />
-    <string id="ABELN01" text="Elin Arrows" />
+    <string id="ABJDY01" text="Болты Ян" />
+    <string id="ABJDY02" text="Многозарядные болты Ян" />
+    <string id="ABJDY03" text="Болты гвардии Ян" />
+    <string id="ABPRU01" text="Пруэнские стрелы" />
+    <string id="ABWLT01" text="Вультесские стрелы" />
+    <string id="ABMGR01" text="Могрианские стрелы" />
+    <string id="ABNET01" text="Некенские стрелы" />
+    <string id="ABLMC01" text="Стрелы Ломока" />
+    <string id="ABYRN01" text="Стрелы племени" />
+    <string id="ABYRN02" text="Тяжелые стрелы племени" />
+    <string id="ABYRN03" text="Простые стрелы племени" />
+    <string id="ABBDT01" text="Стрелы лесника" />
+    <string id="ABELN01" text="Элинские стрелы" />
  <!-- 弹药结束 -->
 
  <!-- 其他物品开始 -->
-    <string id="OI001" text="Mug" />
-    <string id="OI002" text="Vilken's Letter" />
-    <string id="OI003" text="Bracelet" />
-    <string id="OI004" text="Chest" />
+    <string id="OI001" text="Кружка" />
+    <string id="OI002" text="Письмо Велика" />
+    <string id="OI003" text="Браслет" />
+    <string id="OI004" text="Сундук" />
  <!-- 其他物品结束 -->
 
   </strings>
